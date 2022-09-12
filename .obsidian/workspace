@@ -7,12 +7,8 @@
         "id": "c667bb2c64c5a898",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IB overview.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IB overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0498c5d1af558e45",
+  "active": "c667bb2c64c5a898",
   "lastOpenFiles": [
-    "hl subjects.md",
     "IB overview.md",
-    "2022-09-12.md",
-    "guides/Latex guide.md",
-    "Excalidraw/Drawing 2022-09-12 13.34.35.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-12 13.34.30.excalidraw.md",
-    "thanks for the help.md",
-    "test latex.md",
-    "that.md",
-    "you are gay.md"
+    "EE.md",
+    "CAS.md",
+    "TOK.md",
+    "Economie.md",
+    "Physics.md",
+    "Math AA.md",
+    "Francais B.md",
+    "Anglais Literrature.md",
+    "Computer science.md"
   ]
 }
