@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a650e1670cf263a",
+        "id": "c667bb2c64c5a898",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a650e1670cf263a",
+  "active": "0498c5d1af558e45",
   "lastOpenFiles": [
-    "2022-09-12.md",
+    "hl subjects.md",
     "IB overview.md",
-    "Latex guide.md",
+    "2022-09-12.md",
+    "guides/Latex guide.md",
     "Excalidraw/Drawing 2022-09-12 13.34.35.excalidraw.md",
     "Excalidraw/Drawing 2022-09-12 13.34.30.excalidraw.md",
     "thanks for the help.md",
     "test latex.md",
     "that.md",
-    "you are gay.md",
-    "2022-09-02.md"
+    "you are gay.md"
   ]
 }
