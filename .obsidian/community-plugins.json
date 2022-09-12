@@ -2,5 +2,14 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-discordrpc",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-auto-link-title",
+  "obsidian-git",
+  "better-word-count",
+  "obsidian-codemirror-options",
+  "obsidian-custom-attachment-location",
+  "obsidian-excalidraw-plugin",
+  "obsidian-hover-editor",
+  "url-into-selection",
+  "sliding-panes-obsidian"
 ]

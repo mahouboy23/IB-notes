@@ -1,10 +1,10 @@
-[[thanks for the help]] 
-# random toughts
-yo mama is *beatiful*  
+
+# random thoughts
+yo mama is *beautiful*  
 why are you **fat and ugly** 
 
-### other random taughts
-resons why he is not stupid: 
+### other random taught
+reasons why he is not stupid: 
 - he likes trash and stuff
 - i he does not know how to tie he's lasses 
 - he is ugly
@@ -12,7 +12,7 @@ resons why he is not stupid:
 
 #### cool
 yo mama
-1. is cool
-2. is pretty
-3. is smart
-4. and most of all is caring
+-1. is cool 
+-2. is pretty  
+-3. is smart 
+-4. and most of all is caring 
