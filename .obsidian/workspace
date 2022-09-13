@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "yo.md",
-            "mode": "source",
+            "file": "common core/TOK.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "65ee1c0ce592bdb6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "systeme.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yo.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yo.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yo.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -155,15 +167,15 @@
   },
   "active": "dc666c2d93357743",
   "lastOpenFiles": [
-    "templates/-TOK.md",
-    "yo.md",
-    "common core/TOK.md",
-    "sl subjects/Francais B.md",
-    "IB overview.md",
     "common core/CAS.md",
-    "common core/EE.md",
-    "2022-09-13.md",
-    "knowers and knowing.md",
-    "sl subjects/Anglais Literrature.md"
+    "systeme.md",
+    "templates/-cs.md",
+    "common core/TOK.md",
+    "IB overview.md",
+    "hl subjects/Computer science.md",
+    "sl subjects/Economie.md",
+    "yo.md",
+    "templates/-TOK.md",
+    "sl subjects/Francais B.md"
   ]
 }
