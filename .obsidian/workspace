@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e472d44c5304b413",
+        "id": "dc666c2d93357743",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "common core/TOK.md",
+            "file": "yo.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "83a1746b9a641fa5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "common core/TOK.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "yo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "yo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "yo.md"
               }
             }
           },
@@ -148,6 +136,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "506871393085abe8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -157,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0498c5d1af558e45",
+  "active": "dc666c2d93357743",
   "lastOpenFiles": [
+    "templates/-TOK.md",
+    "yo.md",
+    "common core/TOK.md",
+    "sl subjects/Francais B.md",
+    "IB overview.md",
     "common core/CAS.md",
     "common core/EE.md",
-    "common core/TOK.md",
     "2022-09-13.md",
     "knowers and knowing.md",
-    "IB overview.md",
-    "sl subjects/Francais B.md",
-    "sl subjects/Anglais Literrature.md",
-    "sl subjects/Economie.md",
-    "hl subjects/Computer science.md"
+    "sl subjects/Anglais Literrature.md"
   ]
 }

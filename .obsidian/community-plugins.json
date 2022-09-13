@@ -11,5 +11,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-hover-editor",
   "url-into-selection",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-spaced-repetition",
+  "templater-obsidian",
+  "text-snippets-obsidian",
+  "dataview"
 ]
