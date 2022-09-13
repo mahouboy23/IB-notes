@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "c667bb2c64c5a898",
+        "id": "e472d44c5304b413",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "common core/TOK.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "83a1746b9a641fa5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "common core/TOK.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "common core/TOK.md"
+              }
             }
           },
           {
@@ -134,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c667bb2c64c5a898",
+  "active": "0498c5d1af558e45",
   "lastOpenFiles": [
+    "common core/CAS.md",
+    "common core/EE.md",
+    "common core/TOK.md",
+    "2022-09-13.md",
+    "knowers and knowing.md",
     "IB overview.md",
-    "EE.md",
-    "CAS.md",
-    "TOK.md",
-    "Economie.md",
-    "Physics.md",
-    "Math AA.md",
-    "Francais B.md",
-    "Anglais Literrature.md",
-    "Computer science.md"
+    "sl subjects/Francais B.md",
+    "sl subjects/Anglais Literrature.md",
+    "sl subjects/Economie.md",
+    "hl subjects/Computer science.md"
   ]
 }

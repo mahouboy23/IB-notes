@@ -1,3 +1,4 @@
+#guide 
 # Quick Latex for Obsidian
 
 **【Custom shorthands enhanced!! see below】**
