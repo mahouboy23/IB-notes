@@ -9,23 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB overview.md",
-            "mode": "preview",
+            "file": "hl subjects/Computer science.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "2309127a846c1307"
       },
       {
-        "id": "65ee1c0ce592bdb6",
+        "id": "f3a4e3fe67976ac5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "systeme.md",
+            "file": "hl subjects/Computer science.md",
             "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "2309127a846c1307"
       }
     ],
     "direction": "vertical"
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "tag:#mod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -165,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6021ba16fa9928c4",
+  "active": "f3a4e3fe67976ac5",
   "lastOpenFiles": [
-    "IB overview.md",
-    "systeme.md",
+    "templates/Untitled.md",
+    "hl subjects/Computer science.md",
     "common core/TOK.md",
     "common core/CAS.md",
+    "hl subjects/Math AA.md",
+    "hl subjects/Physics.md",
+    "common core/EE.md",
     "templates/-cs.md",
-    "hl subjects/Computer science.md",
-    "sl subjects/Economie.md",
-    "yo.md",
-    "templates/-TOK.md",
-    "sl subjects/Francais B.md"
+    "systeme.md",
+    "templates/-TOK.md"
   ]
 }

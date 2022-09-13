@@ -3,22 +3,22 @@
 ## - Course 
 ## **Part 1 :** 
  [[knowers and knowing]] $\rightarrow$ *core themes* 
-## **Part 2 :** Optional themes 
+## **Part 2 :** [[Optional themes]] 
 - knowledge and technology
 - knowledge and language
 - knowledge and religion
 - knowledge and politics
 - knowledge and indigenous culture
-## **Part 3 :** Areas of knowledge 
+## **Part 3 :** [[Areas of knowledge]] 
 - History 
 - Mathematics 
 - Natural sciences 
 - Human sciences
 - The arts 
-## **Part 4 :** Assessment
+## **Part 4 :** [[Assessment]]
 1. TOK Exhibition $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts
 2. TOK Essay $\rightarrow$ 1600 words, __6__ ***prescribed essay titles*** 
-## **Part 5 :** Framework 
+## **Part 5 :** [[Framework]] 
 1. Scope
 2. Perspective
 3. Tools and methods
