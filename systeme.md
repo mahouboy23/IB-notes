@@ -1,18 +1,13 @@
 ---
-tags: mod CS 
+tags : mod cs
 ---
-<br/>
-<br/>
 
-$$\Huge{system}$$
-
-<br/>
-
-## **Theme 1** : Notion fondamental sur les systeme
+# Systeme
+Un systeme informatique est une entite dynamique, utilisee pour *resoudre des problemes et interagir*
 
 
-
-### **lesson 1 :** conception et installation d'un systeme
-
->c'est quoi un systeme informatique ?
-
+>[! composant d'un systeme :]
+>- [[materiel]]
+>- [[logiciel]]
+>- [[donnees]]
+>- [[humaine]]

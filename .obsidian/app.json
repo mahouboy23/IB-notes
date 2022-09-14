@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/La demande",
-  "fileSortOrder": "byCreatedTime"
+  "attachmentFolderPath": "./assets/Notion de systeme",
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true
 }
