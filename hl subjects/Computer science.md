@@ -3,4 +3,4 @@
 
 # COMPUTER SCIENSE 
 
- $$[[systeme]]$$ 
+ [[systeme]]

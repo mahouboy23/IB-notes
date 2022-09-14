@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hl subjects/Computer science.md",
+            "file": "templates/-economie.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hl subjects/Computer science.md",
+            "file": "templates/-economie.md",
             "mode": "preview",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "templates/-economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "templates/-economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "templates/-economie.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a4e3fe67976ac5",
+  "active": "dc666c2d93357743",
   "lastOpenFiles": [
-    "templates/Untitled.md",
+    "templates/-TOK.md",
+    "templates/-economie.md",
+    "templates/-cs.md",
+    "sl subjects/Economie.md",
+    "systeme.md",
     "hl subjects/Computer science.md",
     "common core/TOK.md",
     "common core/CAS.md",
     "hl subjects/Math AA.md",
-    "hl subjects/Physics.md",
-    "common core/EE.md",
-    "templates/-cs.md",
-    "systeme.md",
-    "templates/-TOK.md"
+    "hl subjects/Physics.md"
   ]
 }
