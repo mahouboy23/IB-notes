@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/-economie.md",
+            "file": "IB overview.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/-economie.md",
+            "file": "IB overview.md",
             "mode": "preview",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/-economie.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/-economie.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/-economie.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc666c2d93357743",
+  "active": "f3a4e3fe67976ac5",
   "lastOpenFiles": [
-    "templates/-TOK.md",
-    "templates/-economie.md",
-    "templates/-cs.md",
-    "sl subjects/Economie.md",
-    "systeme.md",
-    "hl subjects/Computer science.md",
     "common core/TOK.md",
-    "common core/CAS.md",
-    "hl subjects/Math AA.md",
-    "hl subjects/Physics.md"
+    "IB overview.md",
+    "templates/-francais.md",
+    "sl subjects/Economie.md",
+    "templates/-Anglais.md",
+    "templates/-physique.md",
+    "templates/-math.md",
+    "templates/-economie.md",
+    "sl subjects/Francais B.md",
+    "templates/-TOK.md"
   ]
 }

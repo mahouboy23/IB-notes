@@ -1,4 +1,3 @@
 ---
 tags : mod economie
-title :
 ---
