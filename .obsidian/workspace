@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notion de systeme.md",
-            "mode": "source",
+            "file": "IB overview.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de systeme.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de systeme.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de systeme.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -156,14 +156,14 @@
   "active": "dc666c2d93357743",
   "lastOpenFiles": [
     "hl subjects/Computer science.md",
-    "Notion de systeme.md",
-    "systeme.md",
-    "humaine.md",
-    "donnees.md",
-    "logiciel.md",
-    "materiel.md",
-    "assets/test.md",
+    "IB overview.md",
+    "sl subjects/Physics.md",
     "templates/-cs.md",
-    "La demande.md"
+    "templates/-TOK.md",
+    "systeme.md",
+    "donnees.md",
+    "materiel.md",
+    "Notion de systeme.md",
+    "hl subjects/Math AA.md"
   ]
 }

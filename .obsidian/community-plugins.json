@@ -1,9 +1,7 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "obsidian-discordrpc",
   "quick-latex",
-  "obsidian-auto-link-title",
   "obsidian-git",
   "better-word-count",
   "obsidian-codemirror-options",
@@ -15,5 +13,6 @@
   "obsidian-spaced-repetition",
   "templater-obsidian",
   "text-snippets-obsidian",
-  "dataview"
+  "dataview",
+  "table-editor-obsidian"
 ]
