@@ -5,14 +5,13 @@ tags: mod CS
 <br/>
 
 $$\Huge{system}$$
-
 <br/>
 
-## **Chapitre 1** : Notion fondamental sur les systeme
+## **Chapitre 1:** : Systeme dans les organisation
 
-### **lesson 1 :** conception d'un systeme
-#### [[systeme]] 
+### **Lesson 1 :** [[systeme|Conception d'un systeme]] 
 >[! c'est quoi un systeme  informatique ?] 
 
-### **lesson 2 :**  installation d'un systeme
-
+<br/>
+ 
+### **Lesson 2 :** [[installation| Installation d'un systeme ]] 

@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/systeme",
-  "fileSortOrder": "byCreatedTime",
+  "attachmentFolderPath": "./assets/installation",
+  "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true
 }

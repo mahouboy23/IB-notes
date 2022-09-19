@@ -6,14 +6,73 @@
       {
         "id": "dc666c2d93357743",
         "type": "leaf",
+        "dimension": 67.45387453874538,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "systeme.md",
-            "mode": "preview",
+            "file": "installation.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "6a7c02876986d0d3"
+      },
+      {
+        "id": "a3fef026c1c2e07a",
+        "type": "split",
+        "dimension": 32.54612546125461,
+        "children": [
+          {
+            "id": "6a81cdae2cb94b98",
+            "type": "leaf",
+            "dimension": 46.73659673659674,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "installation.md"
+              }
+            },
+            "group": "6a7c02876986d0d3"
+          },
+          {
+            "id": "e4daa958d72c348c",
+            "type": "leaf",
+            "dimension": 53.26340326340326,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "installation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6696174244625789,
+                  "close": true
+                }
+              }
+            },
+            "group": "6a7c02876986d0d3"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systeme.md",
+                "file": "installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systeme.md",
+                "file": "installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systeme.md"
+                "file": "installation.md"
               }
             }
           },
@@ -158,12 +217,12 @@
     "Notion de systeme.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
-    "sl subjects/Physics.md",
     "templates/-cs.md",
-    "templates/-TOK.md",
+    "installation.md",
     "systeme.md",
-    "donnees.md",
-    "materiel.md",
-    "hl subjects/Math AA.md"
+    "templates/-TOK.md",
+    "templates/-economie.md",
+    "templates/-math.md",
+    "templates/-physique.md"
   ]
 }

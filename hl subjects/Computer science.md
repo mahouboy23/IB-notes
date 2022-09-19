@@ -1,6 +1,8 @@
-#cs #subject  
-
+---
+tags : mod subject cs
+---
 
 # COMPUTER SCIENSE 
+<br/>
 
-## **Theme 1** : [[Notion de systeme|Notion fondamental]] sur les systeme
+## **Theme 1** : [[Notion de systeme|Notion fondamental sur les systeme]] 

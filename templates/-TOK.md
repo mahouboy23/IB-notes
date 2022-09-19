@@ -1,5 +1,5 @@
 ---
-location:
-summary:
+tags : mod TOK
 ---
-
+# {{title}}
+Created: {{date}}

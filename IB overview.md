@@ -2,13 +2,13 @@
 # IB overview
 ## HL subjects
  - [[Math AA]]
- - [[Physics]]
+ - [[Francais B]]
  - [[Computer science]] 
 
 ## SL subjects
 - [[Economie]]
 - [[Anglais Literrature]] 
-- [[Francais B]]
+- [[Physics]]
 
 ## Common core
 - [[TOK]]
