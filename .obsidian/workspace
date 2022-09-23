@@ -4,75 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "dc666c2d93357743",
-        "type": "leaf",
-        "dimension": 67.45387453874538,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "installation.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "6a7c02876986d0d3"
-      },
-      {
-        "id": "a3fef026c1c2e07a",
+        "id": "778f6db08d8d8dbf",
         "type": "split",
-        "dimension": 32.54612546125461,
         "children": [
           {
-            "id": "6a81cdae2cb94b98",
+            "id": "07a39589c815d0cf",
             "type": "leaf",
-            "dimension": 46.73659673659674,
+            "dimension": 65.6573116691285,
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "installation.md"
+                "file": "ecriture mathematique.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "6a7c02876986d0d3"
+            }
           },
           {
-            "id": "e4daa958d72c348c",
-            "type": "leaf",
-            "dimension": 53.26340326340326,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "installation.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6696174244625789,
-                  "close": true
-                }
+            "id": "5fb7dfb3d9f677d4",
+            "type": "split",
+            "dimension": 34.34268833087149,
+            "children": [
+              {
+                "id": "2f19d1ca07873b88",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "sl subjects/Economie.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "46f896bc422dc8ea"
+              },
+              {
+                "id": "0d038f8e42cc4ef0",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "sl subjects/Economie.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "46f896bc422dc8ea"
               }
-            },
-            "group": "6a7c02876986d0d3"
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "installation.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "installation.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "installation.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -212,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc666c2d93357743",
+  "active": "2f19d1ca07873b88",
   "lastOpenFiles": [
-    "Notion de systeme.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
-    "templates/-cs.md",
+    "ecriture mathematique.md",
+    "la loi de l'offre.md",
+    "template/math-.md",
+    "template/cs-.md",
+    "template/economie-.md",
+    "template/physique-.md",
+    "l'offre.md",
     "installation.md",
-    "systeme.md",
-    "templates/-TOK.md",
-    "templates/-economie.md",
-    "templates/-math.md",
-    "templates/-physique.md"
+    "humaine.md",
+    "logiciel.md"
   ]
 }

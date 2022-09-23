@@ -12,6 +12,4 @@ $$\Huge{system}$$
 ### **Lesson 1 :** [[systeme|Conception d'un systeme]] 
 >[! c'est quoi un systeme  informatique ?] 
 
-<br/>
- 
-### **Lesson 2 :** [[installation| Installation d'un systeme ]] 
+###  **Lesson 2 :** [[installation| Installation d'un systeme ]] 
