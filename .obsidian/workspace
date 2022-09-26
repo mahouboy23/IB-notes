@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materiel.md",
+                "file": "installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materiel.md",
+                "file": "installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materiel.md",
+                "file": "installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materiel.md"
+                "file": "installation.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "07a39589c815d0cf",
   "lastOpenFiles": [
+    "l'offre.md",
+    "la loi de l'offre.md",
+    "installation.md",
+    "materiel.md",
     "systeme.md",
     "Notion de systeme.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "logiciel.md",
-    "ecriture mathematique.md",
-    "sl subjects/Economie.md",
-    "la loi de l'offre.md",
-    "template/math-.md",
-    "template/cs-.md"
+    "ecriture mathematique.md"
   ]
 }

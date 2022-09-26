@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/materiel",
+  "attachmentFolderPath": "./assets/installation",
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true
 }
