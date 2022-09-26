@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ecriture mathematique.md",
+                "file": "materiel.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "materiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "materiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "materiel.md"
               }
             }
           },
@@ -223,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f19d1ca07873b88",
+  "active": "07a39589c815d0cf",
   "lastOpenFiles": [
+    "systeme.md",
+    "Notion de systeme.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "logiciel.md",
     "ecriture mathematique.md",
+    "sl subjects/Economie.md",
     "la loi de l'offre.md",
     "template/math-.md",
-    "template/cs-.md",
-    "template/economie-.md",
-    "template/physique-.md",
-    "l'offre.md",
-    "installation.md",
-    "humaine.md",
-    "logiciel.md"
+    "template/cs-.md"
   ]
 }
