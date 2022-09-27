@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#economie",
+      "color": {
+        "a": 1,
+        "rgb": 22272
+      }
+    },
+    {
+      "query": "tag:#Math",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.17949977021561378,
+  "scale": 0.2738371031119114,
   "close": false
 }

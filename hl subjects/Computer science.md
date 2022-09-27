@@ -1,5 +1,5 @@
 ---
-tags : mod subject cs
+tags : subject cs
 ---
 
 # COMPUTER SCIENSE 

@@ -2,8 +2,8 @@
 tags : mod cs
 ---
 
-# Systeme
-Un systeme informatique est une entite dynamique, utilisee pour *resoudre des problemes et interagir*
+# Système
+Un systeme informatique est une entité dynamique, utilisée pour *résoudre des problèmes et interagir*
 
 
 >[! composant d'un systeme :]

@@ -1,7 +1,7 @@
 ---
-tags : mod cs
+tags : mod economie 
 ---
-# Mouvement et deplacement de l'offre
+# Mouvement et déplacement de l'offre
 Created: {{date}}
 
 1. [[determinant prix de l'offre]] 

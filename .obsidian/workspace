@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "56789fc1eeed1aba",
+        "id": "21cf4501a8022f65",
         "type": "split",
         "children": [
           {
-            "id": "be558ac5813970b9",
+            "id": "5ec048b270c39e4a",
             "type": "leaf",
-            "dimension": 67.2821270310192,
+            "dimension": 77.32644017725259,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les produits connexes.md",
+                "file": "materiel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6365463d490f53a6",
+            "id": "8e2e8a4ef3e8ae14",
             "type": "split",
-            "dimension": 32.7178729689808,
+            "dimension": 22.673559822747418,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Les produits connexes.md",
+                    "file": "materiel.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Les produits connexes.md",
+                    "file": "materiel.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les produits connexes.md",
+                "file": "materiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les produits connexes.md",
+                "file": "materiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les produits connexes.md"
+                "file": "materiel.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be558ac5813970b9",
+  "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
-    "determinant non prix de l'offre.md",
+    "systeme.md",
+    "Notion de systeme.md",
+    "installation.md",
+    "Le nombre d'entreprise sur le marche.md",
     "Le nombre d'entreprise sur marche.md",
-    "Les attentes futurs.md",
     "Les couts de productions.md",
     "Mouvement et deplacement de l'offre.md",
-    "determinant prix de l'offre.md",
-    "sl subjects/Economie.md",
-    "Les intervention gouvernemental.md",
-    "Les produits connexes.md",
-    "Le nombre d'entreprise sur le marche.md"
+    "manuel imprimes.md",
+    "Methodes de formation.md",
+    "Autoformation.md"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/Les produits connexes",
+  "attachmentFolderPath": "./assets/materiel",
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": [
