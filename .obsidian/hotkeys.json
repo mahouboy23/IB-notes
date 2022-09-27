@@ -15,5 +15,14 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:template/economie-.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

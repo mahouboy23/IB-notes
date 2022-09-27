@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de systeme.md",
+                "file": "Les intervention gouvernemental.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Notion de systeme.md",
+                    "file": "Les intervention gouvernemental.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Notion de systeme.md",
+                    "file": "Les intervention gouvernemental.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de systeme.md",
+                "file": "Les intervention gouvernemental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de systeme.md",
+                "file": "Les intervention gouvernemental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de systeme.md"
+                "file": "Les intervention gouvernemental.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "be558ac5813970b9",
   "lastOpenFiles": [
-    "Methodes de formation.md",
-    "Notion de systeme.md",
-    "Formation.md",
-    "Autoformation.md",
-    "la documentation des utilisateur.md",
-    "fichier d'aide.md",
-    "Les methodes de documentation.md",
-    "manuel imprimes.md",
-    "documentation en ligne.md",
+    "determinant non prix de l'offre.md",
+    "Les produits connexes.md",
+    "Le nombre d'entreprise sur le marche.md",
+    "Le nombre d'entreprise sur marche.md",
+    "Les attentes futurs.md",
+    "Les couts de productions.md",
+    "Mouvement et deplacement de l'offre.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
     "hl subjects/Computer science.md"
   ]
 }

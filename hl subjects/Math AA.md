@@ -1,5 +1,5 @@
 ---
-tags : mod Math
+tags : mod Math subject
 ---
 # Math AA
 ### **Chapitre 1:** [[Notion de fonction]] 
