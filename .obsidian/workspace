@@ -4,22 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "778f6db08d8d8dbf",
+        "id": "56789fc1eeed1aba",
         "type": "split",
         "children": [
           {
-            "id": "07a39589c815d0cf",
+            "id": "be558ac5813970b9",
             "type": "leaf",
-            "dimension": 65.6573116691285,
+            "dimension": 67.2821270310192,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion de systeme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "5fb7dfb3d9f677d4",
+            "id": "6365463d490f53a6",
             "type": "split",
-            "dimension": 34.34268833087149,
+            "dimension": 32.7178729689808,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -27,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "sl subjects/Economie.md",
+                    "file": "Notion de systeme.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -36,8 +40,7 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
-                },
-                "group": "46f896bc422dc8ea"
+                }
               },
               {
                 "id": "0d038f8e42cc4ef0",
@@ -45,9 +48,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sl subjects/Economie.md",
+                    "file": "Notion de systeme.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
@@ -68,12 +71,11 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.728498570420231,
                       "close": true
                     }
                   }
-                },
-                "group": "46f896bc422dc8ea"
+                }
               }
             ],
             "direction": "horizontal"
@@ -143,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion de systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion de systeme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion de systeme.md"
+              }
             }
           },
           {
@@ -215,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07a39589c815d0cf",
+  "active": "be558ac5813970b9",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
-    "les equation quadratique.md",
-    "hl subjects/Math AA.md",
-    "les equation quadractile.md",
-    "IB overview.md",
-    "template/Anglais-.md",
-    "template/francais-.md",
-    "template/physique-.md",
-    "template/economie-.md",
-    "template/cs-.md"
+    "Methodes de formation.md",
+    "Notion de systeme.md",
+    "Formation.md",
+    "Autoformation.md",
+    "la documentation des utilisateur.md",
+    "fichier d'aide.md",
+    "Les methodes de documentation.md",
+    "manuel imprimes.md",
+    "documentation en ligne.md",
+    "hl subjects/Computer science.md"
   ]
 }
