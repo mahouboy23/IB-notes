@@ -1,7 +1,11 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/Les intervention gouvernemental",
+  "attachmentFolderPath": "./assets/Les produits connexes",
   "fileSortOrder": "byCreatedTimeReverse",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "fr"
+  ]
 }

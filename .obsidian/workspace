@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les intervention gouvernemental.md",
+                "file": "Les produits connexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Les intervention gouvernemental.md",
+                    "file": "Les produits connexes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Les intervention gouvernemental.md",
+                    "file": "Les produits connexes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les intervention gouvernemental.md",
+                "file": "Les produits connexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les intervention gouvernemental.md",
+                "file": "Les produits connexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les intervention gouvernemental.md"
+                "file": "Les produits connexes.md"
               }
             }
           },
@@ -224,14 +224,14 @@
   "active": "be558ac5813970b9",
   "lastOpenFiles": [
     "determinant non prix de l'offre.md",
-    "Les produits connexes.md",
-    "Le nombre d'entreprise sur le marche.md",
     "Le nombre d'entreprise sur marche.md",
     "Les attentes futurs.md",
     "Les couts de productions.md",
     "Mouvement et deplacement de l'offre.md",
+    "determinant prix de l'offre.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "hl subjects/Computer science.md"
+    "Les intervention gouvernemental.md",
+    "Les produits connexes.md",
+    "Le nombre d'entreprise sur le marche.md"
   ]
 }
