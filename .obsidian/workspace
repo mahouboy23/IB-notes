@@ -12,12 +12,8 @@
             "type": "leaf",
             "dimension": 65.6573116691285,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "installation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -147,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "installation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,15 +217,15 @@
   },
   "active": "07a39589c815d0cf",
   "lastOpenFiles": [
-    "l'offre.md",
-    "la loi de l'offre.md",
-    "installation.md",
-    "materiel.md",
-    "systeme.md",
-    "Notion de systeme.md",
-    "hl subjects/Computer science.md",
+    "sl subjects/Physics.md",
+    "les equation quadratique.md",
+    "hl subjects/Math AA.md",
+    "les equation quadractile.md",
     "IB overview.md",
-    "logiciel.md",
-    "ecriture mathematique.md"
+    "template/Anglais-.md",
+    "template/francais-.md",
+    "template/physique-.md",
+    "template/economie-.md",
+    "template/cs-.md"
   ]
 }

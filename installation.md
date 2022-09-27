@@ -1,5 +1,5 @@
 ---
 tags : mod cs
 ---
-# {{title}}
+# Installation
 Created: {{date}}
