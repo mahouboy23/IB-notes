@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "hl subjects/Math AA.md",
+                    "file": "common core/EE.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "hl subjects/Math AA.md",
+                    "file": "common core/EE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
+    "template/TOK-.md",
+    "common core/EE.md",
+    "hl subjects/Math AA.md",
     "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "sl subjects/Economie.md",
     "common core/TOK.md",
     "knowers and knowing.md",
     "Framework.md",
-    "Assessment.md",
-    "Areas of knowledge.md",
-    "Optional themes.md",
-    "template/cs-.md"
+    "Assessment.md"
   ]
 }
