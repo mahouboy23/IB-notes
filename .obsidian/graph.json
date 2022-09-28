@@ -3,12 +3,12 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Ib",
+      "query": "tag:#ib",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#tok",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.26962081376897423,
+  "scale": 0.1603022600556598,
   "close": false
 }

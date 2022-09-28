@@ -69,5 +69,14 @@
       ],
       "key": "A"
     }
+  ],
+  "templater-obsidian:template/TOK-.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

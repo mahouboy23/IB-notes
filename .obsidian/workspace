@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Loi de la demande.md",
+                    "file": "hl subjects/Math AA.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loi de la demande.md",
+                    "file": "hl subjects/Math AA.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -71,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.728498570420231,
+                      "scale": 0.6120061021384873,
                       "close": true
                     }
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de la demande.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
-    "Loi d'utilité marginale décroissante.md",
-    "Loi de la demande.md",
-    "Effet de substitution.md",
-    "Effet de revenu.md",
+    "sl subjects/Physics.md",
+    "sl subjects/Anglais Literrature.md",
     "sl subjects/Economie.md",
-    "Marché.md",
-    "Conceptes de base economie.md",
-    "ecriture mathématique de la demande.md",
-    "Ecriture mathématique de la demande.md",
-    "Mouvement et deplacement de la demande.md"
+    "common core/TOK.md",
+    "knowers and knowing.md",
+    "Framework.md",
+    "Assessment.md",
+    "Areas of knowledge.md",
+    "Optional themes.md",
+    "template/cs-.md"
   ]
 }

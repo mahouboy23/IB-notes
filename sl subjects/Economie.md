@@ -11,7 +11,6 @@ tags : mod economie
  2. Le [[Marché]]
 3. La [[Loi de la demande]] 
 4. L'[[ecriture mathématique de la demande]] 
-5. Pourquoi la [[Loi de la demande|loi de la demande]] ?
 6. [[Mouvement et deplacement de la demande]] 
 ## Parte 2 : L'approvisionneument
 1. [[l'offre|definition]]  

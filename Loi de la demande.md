@@ -1,5 +1,5 @@
 ---
-tags : mod cs
+tags : mod economie
 ---
 # Loi de la demande
 Created: 2022-09-28

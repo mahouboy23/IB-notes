@@ -1,5 +1,5 @@
 ---
-tags : mod cs
+tags : mod economie
 ---
 # Ceteris Paribus
 Created: 2022-09-28

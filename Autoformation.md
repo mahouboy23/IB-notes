@@ -1,9 +1,10 @@
 ---
 tags : mod cs
 ---
-# {{title}}
+# Autoformation
 Created: {{date}}
 
+?
 L'auto-formation signifie que les utilisateurs apprennent a utiliser le systeme par eux memes. 
 
 - Cette methodes est particulierement efficace pour les systemes d'usage courant, utilises par de nombreuses personnes qui ne peuvent pas toutes etres formees personnellement a l'utilisation du systeme. 

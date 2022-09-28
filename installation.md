@@ -1,5 +1,5 @@
 ---
 tags : mod cs
 ---
-# Installation
-Created: {{date}}
+# installation
+Created: 2022-09-28
