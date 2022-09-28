@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 11752160
       }
+    },
+    {
+      "query": "tag:#Physique",
+      "color": {
+        "a": 1,
+        "rgb": 16771855
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.991289496157131,
+  "lineSizeMultiplier": 1.01563543203167,
+  "collapse-forces": true,
+  "centerStrength": 0.450197965996429,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1603022600556598,
+  "scale": 0.17223542162308753,
   "close": false
 }

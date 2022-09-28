@@ -12,12 +12,8 @@
             "type": "leaf",
             "dimension": 71.12259970457903,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "common core/TOK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +27,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "common core/TOK.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +43,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "common core/TOK.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -108,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mod",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "common core/TOK.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,17 +211,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d038f8e42cc4ef0",
+  "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
-    "Optional themes.md",
+    "hl subjects/Computer science.md",
+    "Scope.md",
     "common core/TOK.md",
-    "12concepts.md",
-    "knowers and knowing.md",
+    "Excalidraw/Drawing 2022-09-28 10.45.49.excalidraw.md",
     "Areas of knowledge.md",
-    "common core/EE.md",
-    "template/TOK-.md",
-    "hl subjects/Math AA.md",
-    "sl subjects/Physics.md",
-    "sl subjects/Anglais Literrature.md"
+    "Assessment.md",
+    "Framework.md",
+    "Optional themes.md",
+    "12concepts.md",
+    "knowers and knowing.md"
   ]
 }
