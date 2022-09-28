@@ -12,8 +12,12 @@
             "type": "leaf",
             "dimension": 71.12259970457903,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "knowers and knowing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,6 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "knowers and knowing.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -43,6 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "knowers and knowing.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -65,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.6888357887013556,
+                      "scale": 0.7546146977717697,
                       "close": true
                     }
                   }
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowers and knowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowers and knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "knowers and knowing.md"
+              }
             }
           },
           {
@@ -213,15 +223,15 @@
   },
   "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "knowers and knowing.md",
     "hl subjects/Computer science.md",
     "Scope.md",
-    "common core/TOK.md",
     "Excalidraw/Drawing 2022-09-28 10.45.49.excalidraw.md",
     "Areas of knowledge.md",
     "Assessment.md",
     "Framework.md",
     "Optional themes.md",
-    "12concepts.md",
-    "knowers and knowing.md"
+    "12concepts.md"
   ]
 }

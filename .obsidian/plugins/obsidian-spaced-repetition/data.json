@@ -10,8 +10,7 @@
       "#french",
       "#cs",
       "#englais",
-      "#tok",
-      ""
+      "#TOK"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -35,8 +34,7 @@
       "#french",
       "#cs",
       "#englais",
-      "#tok",
-      ""
+      "#TOK"
     ],
     "noteFoldersToIgnore": [
       "guides"
