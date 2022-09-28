@@ -10,11 +10,11 @@
           {
             "id": "5ec048b270c39e4a",
             "type": "leaf",
-            "dimension": 77.32644017725258,
+            "dimension": 77.32644017725259,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materiel.md",
+                "file": "systeme.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,7 +23,7 @@
           {
             "id": "8e2e8a4ef3e8ae14",
             "type": "split",
-            "dimension": 22.67355982274741,
+            "dimension": 22.673559822747414,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "materiel.md",
+                    "file": "systeme.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "materiel.md",
+                    "file": "systeme.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materiel.md",
+                "file": "systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materiel.md",
+                "file": "systeme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materiel.md"
+                "file": "systeme.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
-    "systeme.md",
     "Notion de systeme.md",
-    "installation.md",
-    "Le nombre d'entreprise sur le marche.md",
-    "Le nombre d'entreprise sur marche.md",
-    "Les couts de productions.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "Les intervention gouvernemental.md",
+    "systeme.md",
+    "materiel.md",
+    "determinant non prix de l'offre.md",
     "Mouvement et deplacement de l'offre.md",
-    "manuel imprimes.md",
-    "Methodes de formation.md",
-    "Autoformation.md"
+    "sl subjects/Economie.md",
+    "logiciel.md"
   ]
 }
