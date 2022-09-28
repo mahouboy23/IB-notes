@@ -10,11 +10,11 @@
           {
             "id": "5ec048b270c39e4a",
             "type": "leaf",
-            "dimension": 77.32644017725259,
+            "dimension": 71.12259970457903,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "common core/TOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,7 +23,7 @@
           {
             "id": "8e2e8a4ef3e8ae14",
             "type": "split",
-            "dimension": 22.673559822747414,
+            "dimension": 28.877400295420973,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "common core/TOK.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "common core/TOK.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -71,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.6120061021384873,
+                      "scale": 0.6888357887013556,
                       "close": true
                     }
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ec048b270c39e4a",
+  "active": "0d038f8e42cc4ef0",
   "lastOpenFiles": [
-    "template/TOK-.md",
+    "Optional themes.md",
+    "common core/TOK.md",
+    "12concepts.md",
+    "knowers and knowing.md",
+    "Areas of knowledge.md",
     "common core/EE.md",
+    "template/TOK-.md",
     "hl subjects/Math AA.md",
     "sl subjects/Physics.md",
-    "sl subjects/Anglais Literrature.md",
-    "sl subjects/Economie.md",
-    "common core/TOK.md",
-    "knowers and knowing.md",
-    "Framework.md",
-    "Assessment.md"
+    "sl subjects/Anglais Literrature.md"
   ]
 }
