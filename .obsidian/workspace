@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systeme.md",
+                "file": "Loi de la demande.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "systeme.md",
+                    "file": "Loi de la demande.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "systeme.md",
+                    "file": "Loi de la demande.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systeme.md",
+                "file": "Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systeme.md",
+                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systeme.md"
+                "file": "Loi de la demande.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "5ec048b270c39e4a",
   "lastOpenFiles": [
-    "Notion de systeme.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
-    "Les intervention gouvernemental.md",
-    "systeme.md",
-    "materiel.md",
-    "determinant non prix de l'offre.md",
-    "Mouvement et deplacement de l'offre.md",
+    "Loi d'utilité marginale décroissante.md",
+    "Loi de la demande.md",
+    "Effet de substitution.md",
+    "Effet de revenu.md",
     "sl subjects/Economie.md",
-    "logiciel.md"
+    "Marché.md",
+    "Conceptes de base economie.md",
+    "ecriture mathématique de la demande.md",
+    "Ecriture mathématique de la demande.md",
+    "Mouvement et deplacement de la demande.md"
   ]
 }

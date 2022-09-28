@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "tag:#subject",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "tag:#cs",
       "color": {
         "a": 1,
@@ -53,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2738371031119114,
+  "scale": 0.26962081376897423,
   "close": false
 }
