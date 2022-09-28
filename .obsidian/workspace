@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methode de prevention.md",
+                "file": "Marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,7 +23,7 @@
           {
             "id": "cf8cba609d0ded74",
             "type": "split",
-            "dimension": 28.877400295420973,
+            "dimension": 28.87740029542097,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Methode de prevention.md",
+                    "file": "Marketing.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Methode de prevention.md",
+                    "file": "Marketing.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methode de prevention.md",
+                "file": "Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methode de prevention.md",
+                "file": "Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methode de prevention.md"
+                "file": "Marketing.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
+    "Les méthodes de documentation.md",
+    "Documentation de l'utilisateur final.md",
+    "Architecture/Conception.md",
+    "Documentation technique.md",
+    "exigences/Prérequis.md",
     "Notion de systeme.md",
-    "Methode de prevention.md",
-    "Consequence des pertes de donnees.md",
-    "Cause des pertes de donnes.md",
-    "hl subjects/Computer science.md",
-    "Excalidraw/Drawing 2022-09-28 16.18.33.excalidraw.md",
-    "Les pertes de donnes.md",
-    "Methodes de formation.md",
-    "formation a distance.md",
-    "Autoformation.md"
+    "installation.md",
+    "Consequence des pertes de données.md",
+    "Méthode de prevention.md",
+    "sl subjects/Economie.md"
   ]
 }
