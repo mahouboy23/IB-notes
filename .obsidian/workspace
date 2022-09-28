@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21cf4501a8022f65",
+        "id": "93ca9db8f7290f5d",
         "type": "split",
         "children": [
           {
-            "id": "5ec048b270c39e4a",
+            "id": "754a6da4c69f7fe1",
             "type": "leaf",
             "dimension": 71.12259970457903,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowers and knowing.md",
+                "file": "Methode de prevention.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e2e8a4ef3e8ae14",
+            "id": "cf8cba609d0ded74",
             "type": "split",
             "dimension": 28.877400295420973,
             "children": [
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "knowers and knowing.md",
+                    "file": "Methode de prevention.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "knowers and knowing.md",
+                    "file": "Methode de prevention.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowers and knowing.md",
+                "file": "Methode de prevention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowers and knowing.md",
+                "file": "Methode de prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowers and knowing.md"
+                "file": "Methode de prevention.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ec048b270c39e4a",
+  "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
-    "common core/TOK.md",
-    "knowers and knowing.md",
+    "Notion de systeme.md",
+    "Methode de prevention.md",
+    "Consequence des pertes de donnees.md",
+    "Cause des pertes de donnes.md",
     "hl subjects/Computer science.md",
-    "Scope.md",
-    "Excalidraw/Drawing 2022-09-28 10.45.49.excalidraw.md",
-    "Areas of knowledge.md",
-    "Assessment.md",
-    "Framework.md",
-    "Optional themes.md",
-    "12concepts.md"
+    "Excalidraw/Drawing 2022-09-28 16.18.33.excalidraw.md",
+    "Les pertes de donnes.md",
+    "Methodes de formation.md",
+    "formation a distance.md",
+    "Autoformation.md"
   ]
 }
