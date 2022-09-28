@@ -3,6 +3,7 @@ tags : mod cs
 ---
 
 # Materiel
+?
 c'est un ensemble d'element physique qui constitue une machine et ces [[connexe]].
 
 ## **Exemple :**
