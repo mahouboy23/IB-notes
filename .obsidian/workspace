@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "sl subjects/Anglais Literrature.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "sl subjects/Anglais Literrature.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -224,14 +224,14 @@
   "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
     "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "common core/EE.md",
     "Notion de systeme.md",
     "Methodes de formation.md",
     "Autoformation.md",
     "Formation sur site.md",
     "formation a distance.md",
     "Les méthodes de documentation.md",
-    "la documentation des utilisateur.md",
-    "hl subjects/Computer science.md",
-    "Les intervention gouvernemental.md"
+    "la documentation des utilisateur.md"
   ]
 }
