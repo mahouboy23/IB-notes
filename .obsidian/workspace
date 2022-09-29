@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Loi de la demande.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "sl subjects/Anglais Literrature.md",
+                    "file": "Loi de la demande.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sl subjects/Anglais Literrature.md",
+                    "file": "Loi de la demande.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Loi de la demande.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d038f8e42cc4ef0",
+  "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
-    "IB overview.md",
+    "sl subjects/Economie.md",
+    "Conceptes de base economie.md",
     "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
     "common core/EE.md",
     "Notion de systeme.md",
     "Methodes de formation.md",
     "Autoformation.md",
     "Formation sur site.md",
-    "formation a distance.md",
-    "Les méthodes de documentation.md",
-    "la documentation des utilisateur.md"
+    "formation a distance.md"
   ]
 }
