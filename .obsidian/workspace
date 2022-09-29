@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "determinant non prix de l'offre.md",
+                    "file": "common core/EE.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "determinant non prix de l'offre.md",
+                    "file": "common core/EE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "determinant non prix de l'offre.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -223,9 +223,9 @@
   },
   "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
+    "determinant non prix de l'offre.md",
     "Mouvement et deplacement de l'offre.md",
     "sl subjects/Economie.md",
-    "determinant non prix de l'offre.md",
     "Les intervention gouvernemental.md",
     "common core/EE.md",
     "Loi de la demande.md",

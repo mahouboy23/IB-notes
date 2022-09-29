@@ -6,7 +6,7 @@ tags: EE
 
  **Subject:** Computer science
  
- **TOPIC:** Vulnerabilities in GPU or CPU architecture and how their patches can affect performance 
+ **TOPIC:** How does system memory impact two CPU architecture and their performance 
  
  >[!Research question:]
  > Unknown
