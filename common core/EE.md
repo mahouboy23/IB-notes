@@ -6,10 +6,10 @@ tags: EE
 
  **Subject:** Computer science
  
- **TOPIC:** How does system memory impact two CPU architecture and their performance 
+ **TOPIC:** Comparaison des architectures de mémoire à accès aléatoire et de leur effet sur la performance
  
  >[!Research question:]
- > Unknown
+ > Dans quelle mesure le NVDIMM affecte-t-il les performances par rapport au rdimm ?
  
  
  
