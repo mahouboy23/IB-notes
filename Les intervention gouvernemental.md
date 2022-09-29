@@ -1,13 +1,14 @@
 ---
 tags : mod economie
 ---
-# Les intervention gourvernemental
+# Les intervention gouvernemental
 Created: {{date}}
 
-?
 Les different intervention gouvernemental sont  
-- Les impots indirect
+
+?
+- Les impôts indirect
 - Les subvention
-- les reglementation 
+- les réglementation 
  
-<!--SR:!2022-09-29,1,230-->
+<!--SR:!2022-10-02,3,250-->

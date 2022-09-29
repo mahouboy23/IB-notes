@@ -5,7 +5,7 @@ tags : mod cs
 # Materiel
 ?
 c'est un ensemble d'element physique qui constitue une machine et ces [[connexe]].
-<!--SR:!2022-09-29,1,230-->
+<!--SR:!2022-09-30,1,210-->
 
 ## **Exemple :**
 - le boitier

@@ -14,3 +14,4 @@ Un systeme informatique est une entité dynamique, utilisée pour *résoudre des
 >- [[logiciel]]
 >- [[donnees]]
 >- [[humaine]]
+<!--SR:!2022-10-03,4,270-->

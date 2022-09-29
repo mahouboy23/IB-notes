@@ -1,7 +1,7 @@
 ---
 tags : mod cs
 ---
-# Les methodes de documentation
+# Les méthodes de documentation
 Created: 9/27/22
 
  La documentation utilisateur aide les utilisateurs de systèmes informatiques, qu'ils soient matériels ou logiciels.
@@ -11,6 +11,8 @@ Created: 9/27/22
 
 
 Les types de documentation comprennent :
+
+?
 - [[Prérequis]]   
 - [[Architecture/Conception]]  
 - [[Documentation technique]] 
