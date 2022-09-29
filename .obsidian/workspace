@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "determinant non prix de l'offre.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Loi de la demande.md",
+                    "file": "determinant non prix de l'offre.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loi de la demande.md",
+                    "file": "determinant non prix de l'offre.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -71,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.9681619554185541,
+                      "scale": 0.7446150691137734,
                       "close": true
                     }
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "determinant non prix de l'offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "determinant non prix de l'offre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de la demande.md"
+                "file": "determinant non prix de l'offre.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "754a6da4c69f7fe1",
   "lastOpenFiles": [
+    "Mouvement et deplacement de l'offre.md",
     "sl subjects/Economie.md",
+    "determinant non prix de l'offre.md",
+    "Les intervention gouvernemental.md",
+    "common core/EE.md",
+    "Loi de la demande.md",
     "Conceptes de base economie.md",
     "sl subjects/Anglais Literrature.md",
     "IB overview.md",
-    "common core/EE.md",
-    "Notion de systeme.md",
-    "Methodes de formation.md",
-    "Autoformation.md",
-    "Formation sur site.md",
-    "formation a distance.md"
+    "Notion de systeme.md"
   ]
 }
