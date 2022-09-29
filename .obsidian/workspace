@@ -71,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7546146977717697,
+                      "scale": 0.9681619554185541,
                       "close": true
                     }
                   }
@@ -221,7 +221,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "754a6da4c69f7fe1",
+  "active": "0d038f8e42cc4ef0",
   "lastOpenFiles": [
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
