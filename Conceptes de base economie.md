@@ -13,6 +13,8 @@ Created: 2022-09-28
 - Durabilité| Soutenabilité
 - Equité
 - Bien-etre
+- Excèdent = pléthore
+- Penuries = 
 
 >[!Info]
 >Les besoins des individus sont :: illimités

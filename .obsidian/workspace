@@ -4,26 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93ca9db8f7290f5d",
+        "id": "9a8027eac464d684",
         "type": "split",
         "children": [
           {
-            "id": "754a6da4c69f7fe1",
+            "id": "11f116b1c97623f9",
             "type": "leaf",
-            "dimension": 71.12259970457903,
+            "dimension": 61.37370753323486,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sl subjects/Economie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "cf8cba609d0ded74",
+            "id": "b260aa4e259a9cff",
             "type": "split",
-            "dimension": 28.87740029542097,
+            "dimension": 38.626292466765136,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +27,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "sl subjects/Economie.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +43,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sl subjects/Economie.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -66,13 +60,13 @@
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
+                      "collapse-forces": false,
                       "centerStrength": 0.518713248970312,
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.6587757232634617,
-                      "close": true
+                      "scale": 0.8228511554106679,
+                      "close": false
                     }
                   }
                 }
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sl subjects/Economie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,17 +211,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "754a6da4c69f7fe1",
+  "active": "11f116b1c97623f9",
   "lastOpenFiles": [
-    "Loi de la demande.md",
+    "assets/Excédant et penuries/Image310.gif",
+    "assets/Excédant et penuries/Pasted image 20220930091000.png",
+    "Excédant et penuries.md",
     "sl subjects/Economie.md",
-    "la loi de l'offre.md",
-    "Mouvement et deplacement de la demande.md",
-    "Mouvement et deplacement de l'offre.md",
-    "determinant prix de l'offre.md",
-    "determinant non prix de l'offre.md",
-    "ecriture mathematique.md",
-    "l'offre.md",
-    "La demande.md"
+    "assets/image/equilibr.png",
+    "définition.md",
+    "Excalidraw/Drawing 2022-09-30 08.48.18.excalidraw.md",
+    "Conceptes de base economie.md",
+    "La demande.md",
+    "Mouvement et deplacement de l'offre.md"
   ]
 }
