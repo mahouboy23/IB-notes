@@ -12,8 +12,12 @@
             "type": "leaf",
             "dimension": 61.37370753323486,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "common core/EE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,6 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "common core/EE.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -43,6 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "common core/EE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "common core/EE.md"
+              }
             }
           },
           {
@@ -213,15 +223,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "common core/CAS.md",
+    "exigences/Prérequis.md",
+    "sl subjects/Physics.md",
     "assets/Excédant et penuries/Image310.gif",
     "assets/Excédant et penuries/Pasted image 20220930091000.png",
     "Excédant et penuries.md",
     "sl subjects/Economie.md",
     "assets/image/equilibr.png",
     "définition.md",
-    "Excalidraw/Drawing 2022-09-30 08.48.18.excalidraw.md",
-    "Conceptes de base economie.md",
-    "La demande.md",
-    "Mouvement et deplacement de l'offre.md"
+    "Excalidraw/Drawing 2022-09-30 08.48.18.excalidraw.md"
   ]
 }
