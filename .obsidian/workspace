@@ -72,7 +72,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 0.8228511554106679,
-                      "close": false
+                      "close": true
                     }
                   }
                 }
@@ -221,7 +221,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11f116b1c97623f9",
+  "active": "0d038f8e42cc4ef0",
   "lastOpenFiles": [
     "common core/CAS.md",
     "exigences/Prérequis.md",
