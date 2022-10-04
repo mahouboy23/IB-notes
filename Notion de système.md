@@ -7,7 +7,7 @@ tags: mod CS
 $$\Huge{system}$$
 <br/>
 
-## **Chapitre 1:** : Systeme dans les organisation
+## **Chapitre 1:** : Système dans les organisation
 
 ### **Lesson 1 :** Conception et installation d'un système 
 >[! c'est quoi un systeme  informatique ?] 
@@ -24,3 +24,9 @@ $$\Huge{system}$$
 2. [[Cause des pertes de donnes]]  
 3. [[Consequence des pertes de données]] 
 4. [[Méthode de prevention]] 
+5. [[la redondance]] 
+6. [[les supports amovibles]] 
+7. [[les systèmes de basculement]] 
+
+###  **Lesson 4 :** Déploiement de logiciels 
+[[gestion des version et mise a jour]] 

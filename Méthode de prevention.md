@@ -4,7 +4,7 @@ tags : mod cs
 # Méthode de prevention
 Created: 2022-09-28 
 
-En cas de défaillance du système ou du disque...
+En cas de défaillance du système ou du disque…
 
 1. Sauvegarde régulière des fichiers a l'aide de disques durs ou de bandes magnétiques. 
 2. Installation de pare-feu
