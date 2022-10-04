@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Cause des pertes de donnes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "Cause des pertes de donnes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "Cause des pertes de donnes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Cause des pertes de donnes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Cause des pertes de donnes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "Cause des pertes de donnes.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d038f8e42cc4ef0",
+  "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "Notion de systeme.md",
+    "Les pertes de donnes.md",
+    "Méthode de prevention.md",
+    "hl subjects/Computer science.md",
+    "common core/EE.md",
     "common core/CAS.md",
     "exigences/Prérequis.md",
     "sl subjects/Physics.md",
     "assets/Excédant et penuries/Image310.gif",
-    "assets/Excédant et penuries/Pasted image 20220930091000.png",
-    "Excédant et penuries.md",
-    "sl subjects/Economie.md",
-    "assets/image/equilibr.png",
-    "définition.md",
-    "Excalidraw/Drawing 2022-09-30 08.48.18.excalidraw.md"
+    "assets/Excédant et penuries/Pasted image 20220930091000.png"
   ]
 }
