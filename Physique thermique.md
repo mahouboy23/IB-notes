@@ -1,5 +1,5 @@
 ---
-tags : mod cs
+tags : mod Physique
 ---
 # Physique thermique
 Created: 2022-10-04 
@@ -10,3 +10,4 @@ Created: 2022-10-04
 3. [[Equilibre thermique et principe de thermomètre]] 
 
 ### Part 4: **Chaleur massique, capacité calorifique** 
+1. [[Chaleur massique, capacité calorifique]] 

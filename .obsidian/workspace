@@ -12,12 +12,8 @@
             "type": "leaf",
             "dimension": 61.37370753323486,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique thermique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +27,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Physique thermique.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +43,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Physique thermique.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique thermique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique thermique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physique thermique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,15 +213,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
-    "Equilibre thermique et principe de thermomètre.md",
     "Physique thermique.md",
+    "Chaleur massique, capacité calorifique.md",
+    "Equilibre thermique et principe de thermomètre.md",
     "Chaleur et energie interne.md",
     "temperature et echelle de temperature.md",
     "sl subjects/Physics.md",
     "Cause des pertes de donnes.md",
     "Notion de systeme.md",
     "Les pertes de donnes.md",
-    "Méthode de prevention.md",
-    "hl subjects/Computer science.md"
+    "Méthode de prevention.md"
   ]
 }

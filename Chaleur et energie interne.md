@@ -1,5 +1,5 @@
 ---
-tags : mod cs
+tags : mod Physique
 ---
 # Chaleur et énergie interne
 Created: 2022-10-04
