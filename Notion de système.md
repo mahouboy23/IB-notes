@@ -7,13 +7,14 @@ tags: mod CS
 $$\Huge{system}$$
 <br/>
 
-## **Chapitre 1:** : Système dans les organisation
+## **Chapitre 1:** Système dans les organisation
 
 ### **Lesson 1 :** Conception et installation d'un système 
 >[! c'est quoi un systeme  informatique ?] 
 
 [[systeme|Conception d'un système]] | [[installation| Installation d'un système]]  
-
+ 1. [[Changements dans un environment]] 
+ 
 ###  **Lesson 2 :** User focus
 1. [[Les méthodes de documentation]] 
 2. [[la documentation des utilisateur]] 
@@ -30,3 +31,12 @@ $$\Huge{system}$$
 
 ###  **Lesson 4 :** Déploiement de logiciels 
 [[gestion des version et mise a jour]] 
+
+----
+
+## **Chapitre 2:** System design basics 
+
+### **Lesson 1 :** Composants d'un système informatique
+1. [[]]
+2. [[Rôles d'un ordinateur dans un réseau]] 
+3. [[]]
