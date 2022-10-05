@@ -1,7 +1,7 @@
 ---
 tags : mod TOK
 ---
-# Untitled
+# TOK WORK 1
 Created: 2022-10-05 
 
 QUOTATION:
@@ -18,4 +18,3 @@ ANSWERS:
 1. I agree to a certain extent because being different and having different aptitudes and qualities separate me from other people and defines who i am but there other aspects to what makes me who i am. 
 2. i agree
 3. I dont necessarily agree with this because some people dont know who there are or who they want to be but still find a way to learn and evolve and become better people 
-4. 

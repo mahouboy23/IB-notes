@@ -1,6 +1,6 @@
 #tok #subject
 # Theory of Knowledge 
-## - Course 
+## - COURSE
 ## **Part 1 :** 
  [[knowers and knowing]] $\rightarrow$ *core themes* 
  [[12concepts|12 TOK concepts]]   
@@ -25,4 +25,6 @@
 2. Perspective
 3. Tools and methods
 4. Ethics
- 
+
+## - LESSON
+### **Chapter 1 :** [[who is the knower]] 
