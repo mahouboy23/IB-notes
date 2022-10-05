@@ -12,8 +12,12 @@
             "type": "leaf",
             "dimension": 61.37370753323486,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "common core/TOK.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,6 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "common core/TOK.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -43,6 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "common core/TOK.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "common core/TOK.md"
+              }
             }
           },
           {
@@ -213,15 +223,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "12concepts.md",
+    "common core/TOK.md",
+    "Scope.md",
     "Mouvement et deplacement de l'offre.md",
     "determinant non prix de l'offre.md",
     "Les couts de productions.md",
     "sl subjects/Economie.md",
     "Notion de système.md",
     "les réglementation.md",
-    "Les intervention gouvernemental.md",
-    "Les subvention.md",
-    "Les impôts indirect.md",
-    "Les produits connexes.md"
+    "Les intervention gouvernemental.md"
   ]
 }
