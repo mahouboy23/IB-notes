@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système anciens (Legacy system).md",
+                "file": "Fusions d'entreprises.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Système anciens (Legacy system).md",
+                    "file": "Fusions d'entreprises.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Système anciens (Legacy system).md",
+                    "file": "Fusions d'entreprises.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système anciens (Legacy system).md",
+                "file": "Fusions d'entreprises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système anciens (Legacy system).md",
+                "file": "Fusions d'entreprises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système anciens (Legacy system).md"
+                "file": "Fusions d'entreprises.md"
               }
             }
           },
@@ -226,6 +226,7 @@
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
     "Changements dans un environment.md",
+    "Système anciens (Legacy system).md",
     "Problèmes de compatibilité.md",
     "Notion de système.md",
     "installation.md",
@@ -233,7 +234,6 @@
     "Rôles d'un ordinateur dans un réseau.md",
     "sl subjects/Economie.md",
     "assets/test.md",
-    "cs work.md",
-    "exigences/Prérequis.md"
+    "cs work.md"
   ]
 }
