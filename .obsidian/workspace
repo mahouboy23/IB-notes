@@ -12,12 +12,8 @@
             "type": "leaf",
             "dimension": 61.37370753323486,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les produits connexes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +27,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Les produits connexes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +43,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Les produits connexes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les produits connexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les produits connexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Les produits connexes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,15 +213,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
-    "determinant non prix de l'offre.md",
     "Mouvement et deplacement de l'offre.md",
-    "determinant prix de l'offre.md",
+    "determinant non prix de l'offre.md",
+    "Les couts de productions.md",
     "sl subjects/Economie.md",
-    "définition.md",
-    "ecriture mathematique.md",
     "Notion de système.md",
-    "l'offre.md",
-    "Mouvement et deplacement de la demande.md",
-    "ecriture mathématique de la demande.md"
+    "les réglementation.md",
+    "Les intervention gouvernemental.md",
+    "Les subvention.md",
+    "Les impôts indirect.md",
+    "Les produits connexes.md"
   ]
 }
