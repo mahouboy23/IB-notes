@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs work.md",
-                "mode": "source",
+                "file": "sl subjects/Anglais Literrature.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "cs work.md",
+                    "file": "sl subjects/Anglais Literrature.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cs work.md",
+                    "file": "sl subjects/Anglais Literrature.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -73,7 +73,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.8228511554106692,
+                      "scale": 0.6775544807389848,
                       "close": true
                     }
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs work.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs work.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs work.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
     "hl subjects/Math AA.md",
     "les equation quadratique.md",
     "Notion de fonction.md",
-    "hl subjects/Computer science.md",
-    "Fusions d'entreprises.md",
-    "Changements dans un environment.md",
-    "Système anciens (Legacy system).md",
-    "Problèmes de compatibilité.md",
-    "Notion de système.md",
-    "installation.md"
+    "sl subjects/Anglais Literrature.md",
+    "common core/TOK.md",
+    "who is the knower.md",
+    "771126374.md",
+    "common core/EE.md"
   ]
 }
