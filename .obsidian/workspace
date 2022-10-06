@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fusions d'entreprises.md",
+                "file": "cs work.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Fusions d'entreprises.md",
+                    "file": "cs work.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Fusions d'entreprises.md",
+                    "file": "cs work.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fusions d'entreprises.md",
+                "file": "cs work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fusions d'entreprises.md",
+                "file": "cs work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fusions d'entreprises.md"
+                "file": "cs work.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "les equation quadratique.md",
+    "Notion de fonction.md",
+    "hl subjects/Computer science.md",
+    "Fusions d'entreprises.md",
     "Changements dans un environment.md",
     "Système anciens (Legacy system).md",
     "Problèmes de compatibilité.md",
     "Notion de système.md",
-    "installation.md",
-    "hl subjects/Computer science.md",
-    "Rôles d'un ordinateur dans un réseau.md",
-    "sl subjects/Economie.md",
-    "assets/test.md",
-    "cs work.md"
+    "installation.md"
   ]
 }
