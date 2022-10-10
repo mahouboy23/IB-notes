@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "771126374.md",
+                "file": "template/TOK-.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "771126374.md",
+                    "file": "template/TOK-.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "771126374.md",
+                    "file": "template/TOK-.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "771126374.md",
+                "file": "template/TOK-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "771126374.md",
+                "file": "template/TOK-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "771126374.md"
+                "file": "template/TOK-.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "common core/CAS.md",
+    "Scope.md",
+    "common core/TOK.md",
+    "771126374.md",
     "sl subjects/Anglais Literrature.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "hl subjects/Math AA.md",
     "les equation quadratique.md",
-    "Notion de fonction.md",
-    "common core/TOK.md",
-    "who is the knower.md",
-    "771126374.md",
-    "common core/EE.md"
+    "Notion de fonction.md"
   ]
 }

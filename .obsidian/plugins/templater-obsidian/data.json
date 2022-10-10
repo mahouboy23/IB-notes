@@ -27,7 +27,8 @@
     "template/math-.md",
     "template/francais-.md",
     "template/Anglais-.md",
-    "template/TOK-.md"
+    "template/TOK-.md",
+    ""
   ],
   "startup_templates": [
     ""
