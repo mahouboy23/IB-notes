@@ -12,5 +12,5 @@
 
 ## Common core
 - [[TOK]]
-- [[CAS]]
+- [[common core/CAS]]
 - [[EE]]

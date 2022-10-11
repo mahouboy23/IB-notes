@@ -78,5 +78,14 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:template/CAS-.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

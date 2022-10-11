@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "cs work.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "cs work.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "common core/EE.md",
+                    "file": "cs work.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "cs work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "cs work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "cs work.md"
               }
             }
           },
@@ -225,14 +225,14 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "common core/EE.md",
-    "template/TOK-.md",
-    "common core/CAS.md",
-    "Scope.md",
-    "common core/TOK.md",
-    "771126374.md",
-    "sl subjects/Anglais Literrature.md",
+    "who is the knower.md",
+    "Changements dans un environment.md",
+    "Les problèmes liés au changement.md",
+    "Problèmes de compatibilité.md",
+    "Rôles d'un ordinateur dans un réseau.md",
+    "Système anciens (Legacy system).md",
+    "Fusions d'entreprises.md",
+    "Système informatique.md",
     "Notion de système.md",
     "hl subjects/Computer science.md"
   ]
