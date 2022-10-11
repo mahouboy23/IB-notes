@@ -10,7 +10,7 @@
           {
             "id": "11f116b1c97623f9",
             "type": "leaf",
-            "dimension": 30.576070901033976,
+            "dimension": 69.73012399708242,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,22 +21,9 @@
             }
           },
           {
-            "id": "896e190caf9f855e",
-            "type": "leaf",
-            "dimension": 30.576070901033976,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b260aa4e259a9cff",
             "type": "split",
-            "dimension": 38.847858197932055,
+            "dimension": 30.269876002917577,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -45,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "common core/EE.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -63,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "common core/EE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -236,8 +223,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "896e190caf9f855e",
+  "active": "11f116b1c97623f9",
   "lastOpenFiles": [
+    "Untitled.md",
     "common core/EE.md",
     "template/TOK-.md",
     "common core/CAS.md",
@@ -246,7 +234,6 @@
     "771126374.md",
     "sl subjects/Anglais Literrature.md",
     "Notion de système.md",
-    "hl subjects/Computer science.md",
-    "hl subjects/Math AA.md"
+    "hl subjects/Computer science.md"
   ]
 }
