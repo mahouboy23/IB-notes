@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs work.md",
+                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "cs work.md",
+                    "file": "Rôles d'un ordinateur dans un réseau.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cs work.md",
+                    "file": "Rôles d'un ordinateur dans un réseau.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs work.md",
+                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs work.md",
+                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs work.md"
+                "file": "Rôles d'un ordinateur dans un réseau.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "11f116b1c97623f9",
   "lastOpenFiles": [
-    "who is the knower.md",
-    "Changements dans un environment.md",
-    "Les problèmes liés au changement.md",
-    "Problèmes de compatibilité.md",
+    "routeur.md",
     "Rôles d'un ordinateur dans un réseau.md",
-    "Système anciens (Legacy system).md",
-    "Fusions d'entreprises.md",
-    "Système informatique.md",
+    "serveur dns.md",
+    "serveur web.md",
+    "client.md",
+    "serveur.md",
+    "serveur de courrier électronique.md",
     "Notion de système.md",
-    "hl subjects/Computer science.md"
+    "hl subjects/Computer science.md",
+    "cs work.md"
   ]
 }
