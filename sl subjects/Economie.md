@@ -21,4 +21,6 @@ tags : mod economie
 
 ## Parte 3 : L'Equilibre du marche 
 1. [[définition]] 
-2. [[Excédant et penuries]]
+2. [[Excédant et penuries]] 
+3. [[changement dans la demande]] 
+4. [[changement dans l'offre]]  
