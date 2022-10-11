@@ -10,11 +10,24 @@
           {
             "id": "11f116b1c97623f9",
             "type": "leaf",
-            "dimension": 61.15214180206795,
+            "dimension": 30.576070901033976,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "common core/EE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "896e190caf9f855e",
+            "type": "leaf",
+            "dimension": 30.576070901033976,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +45,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "template/TOK-.md",
+                    "file": "Untitled.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "template/TOK-.md",
+                    "file": "Untitled.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/TOK-.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -223,8 +236,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11f116b1c97623f9",
+  "active": "896e190caf9f855e",
   "lastOpenFiles": [
+    "common core/EE.md",
+    "template/TOK-.md",
     "common core/CAS.md",
     "Scope.md",
     "common core/TOK.md",
@@ -232,8 +247,6 @@
     "sl subjects/Anglais Literrature.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
-    "hl subjects/Math AA.md",
-    "les equation quadratique.md",
-    "Notion de fonction.md"
+    "hl subjects/Math AA.md"
   ]
 }
