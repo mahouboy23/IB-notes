@@ -8,5 +8,5 @@ Created: 2022-10-05
 2. [[serveur]] 
 3. [[serveur de courrier électronique]]  
 4. [[serveur web]] 
-5. [[serveur dns]] 
+5. [[serveur DNS]] 
 6. [[routeur]] 

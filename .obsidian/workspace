@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8027eac464d684",
+        "id": "9bdc8cc86d73a3b7",
         "type": "split",
         "children": [
           {
-            "id": "11f116b1c97623f9",
+            "id": "cc36779704221025",
             "type": "leaf",
-            "dimension": 69.73012399708242,
+            "dimension": 66.35036496350365,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
+                "file": "Notion de système.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b260aa4e259a9cff",
+            "id": "f1e8fb74890e3cf4",
             "type": "split",
-            "dimension": 30.269876002917577,
+            "dimension": 33.64963503649635,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
                 "type": "leaf",
-                "dimension": 50,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Rôles d'un ordinateur dans un réseau.md",
+                    "file": "Notion de système.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -46,11 +45,10 @@
               {
                 "id": "0d038f8e42cc4ef0",
                 "type": "leaf",
-                "dimension": 50,
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rôles d'un ordinateur dans un réseau.md",
+                    "file": "Notion de système.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
+                "file": "Notion de système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
+                "file": "Notion de système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md"
+                "file": "Notion de système.md"
               }
             }
           },
@@ -223,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11f116b1c97623f9",
+  "active": "cc36779704221025",
   "lastOpenFiles": [
-    "routeur.md",
+    "hl subjects/Computer science.md",
+    "Chaleur massique, capacité calorifique.md",
+    "Physique thermique.md",
+    "temperature et echelle de temperature.md",
+    "serveur DNS.md",
     "Rôles d'un ordinateur dans un réseau.md",
-    "serveur dns.md",
+    "routeur.md",
     "serveur web.md",
     "client.md",
-    "serveur.md",
-    "serveur de courrier électronique.md",
-    "Notion de système.md",
-    "hl subjects/Computer science.md",
-    "cs work.md"
+    "serveur.md"
   ]
 }
