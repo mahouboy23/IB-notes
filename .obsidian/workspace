@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de système.md",
+                "file": "who is the knower.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Notion de système.md",
+                    "file": "who is the knower.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Notion de système.md",
+                    "file": "who is the knower.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de système.md",
+                "file": "who is the knower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de système.md",
+                "file": "who is the knower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de système.md"
+                "file": "who is the knower.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "cc36779704221025",
   "lastOpenFiles": [
-    "gestion des version et mise a jour.md",
+    "common core/TOK.md",
+    "Scope.md",
+    "who is the knower.md",
     "Notion de système.md",
+    "gestion des version et mise a jour.md",
     "hl subjects/Computer science.md",
     "Rhetorical devices.md",
     "sl subjects/Anglais Literrature.md",
     "Appeal.md",
-    "Paralanguage.md",
-    "sl subjects/Economie.md",
-    "la redondance.md",
-    "Les pertes de donnes.md"
+    "Paralanguage.md"
   ]
 }

@@ -22,9 +22,9 @@
 2. TOK Essay $\rightarrow$ 1600 words, __6__ ***prescribed essay titles*** 
 ## **Part 5 :** Framework 
 1. [[Scope]]
-2. Perspective
-3. Tools and methods
-4. Ethics
+2. [[Perspective]]
+3. [[Tools and methods]]
+4. [[Ethics]]
 
 ## - LESSON
 ### **Chapter 1 :** [[who is the knower]] 
