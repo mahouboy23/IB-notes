@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "la redondance.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "changement dans l'offre.md",
+                    "file": "la redondance.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "changement dans l'offre.md",
+                    "file": "la redondance.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "la redondance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "la redondance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changement dans l'offre.md"
+                "file": "la redondance.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "cc36779704221025",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md",
+    "Notion de système.md",
+    "Les pertes de donnes.md",
+    "Les méthodes de documentation.md",
+    "Methodes de formation.md",
+    "Autoformation.md",
+    "hl subjects/Computer science.md",
     "changement dans l'offre.md",
+    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md",
     "sl subjects/Economie.md",
-    "assets/changement dans l'offre/Pasted image 20221011160445.jpg",
-    "assets/test.md",
-    "assets/image/equilibr.png",
-    "changement dans la demande.md",
-    "Mouvement et deplacement de la demande.md",
-    "Les produits connexes.md",
-    "determinant non prix de l'offre.md"
+    "assets/changement dans l'offre/Pasted image 20221011160445.jpg"
   ]
 }
