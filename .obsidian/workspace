@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "9bdc8cc86d73a3b7",
+        "id": "0e7ef08125454e32",
         "type": "split",
         "children": [
           {
-            "id": "cc36779704221025",
+            "id": "62c5ee6d53a7c0d6",
             "type": "leaf",
-            "dimension": 66.35036496350365,
+            "dimension": 64.10635155096011,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "who is the knower.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f1e8fb74890e3cf4",
+            "id": "03f0a1f1e66b2b43",
             "type": "split",
-            "dimension": 33.64963503649635,
+            "dimension": 35.89364844903989,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc36779704221025",
+  "active": "62c5ee6d53a7c0d6",
   "lastOpenFiles": [
     "common core/TOK.md",
+    "common core/EE.md",
     "common core/CAS.md",
-    "who is the knower.md",
-    "12concepts.md",
-    "Scope.md",
     "Notion de système.md",
-    "gestion des version et mise a jour.md",
-    "hl subjects/Computer science.md",
-    "Rhetorical devices.md",
-    "sl subjects/Anglais Literrature.md"
+    "Changements dans un environment.md",
+    "Solutions au changement.md",
+    "Les pertes de donnes.md",
+    "Les méthodes de documentation.md",
+    "Consequence des pertes de données.md",
+    "hl subjects/Computer science.md"
   ]
 }

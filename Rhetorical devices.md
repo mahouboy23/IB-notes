@@ -1,5 +1,5 @@
 ---
-tags : mod Anglais
+tags : mod englais
 ---
 # Rhetorical devices
 Created: 2022-10-12 
