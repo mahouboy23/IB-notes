@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Physique thermique.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Rhetorical devices.md",
+                    "file": "Physique thermique.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rhetorical devices.md",
+                    "file": "Physique thermique.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Physique thermique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Physique thermique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetorical devices.md"
+                "file": "Physique thermique.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "62c5ee6d53a7c0d6",
   "lastOpenFiles": [
-    "Appeal.md",
+    "Chaleur massique, capacité calorifique.md",
+    "Physique thermique.md",
+    "sl subjects/Physics.md",
+    "temperature et echelle de temperature.md",
+    "common core/EE.md",
     "Rhetorical devices.md",
+    "Appeal.md",
     "sl subjects/Anglais Literrature.md",
     "who is the knower.md",
-    "common core/TOK.md",
-    "common core/EE.md",
-    "common core/CAS.md",
-    "Notion de système.md",
-    "Changements dans un environment.md",
-    "Solutions au changement.md"
+    "common core/TOK.md"
   ]
 }
