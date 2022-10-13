@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "who is the knower.md",
-                "mode": "preview",
+                "file": "Rhetorical devices.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "who is the knower.md",
+                    "file": "Rhetorical devices.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "who is the knower.md",
+                    "file": "Rhetorical devices.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "who is the knower.md",
+                "file": "Rhetorical devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "who is the knower.md",
+                "file": "Rhetorical devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "who is the knower.md"
+                "file": "Rhetorical devices.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "62c5ee6d53a7c0d6",
   "lastOpenFiles": [
+    "Appeal.md",
+    "Rhetorical devices.md",
+    "sl subjects/Anglais Literrature.md",
+    "who is the knower.md",
     "common core/TOK.md",
     "common core/EE.md",
     "common core/CAS.md",
     "Notion de système.md",
     "Changements dans un environment.md",
-    "Solutions au changement.md",
-    "Les pertes de donnes.md",
-    "Les méthodes de documentation.md",
-    "Consequence des pertes de données.md",
-    "hl subjects/Computer science.md"
+    "Solutions au changement.md"
   ]
 }
