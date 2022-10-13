@@ -23,4 +23,4 @@ Created: 2022-10-12
 >[!CLASS WORK:]
 Try writing your own speech for 5 to 8 minutes about any topic 
 
- 
+ I have a dream, a dream where
