@@ -13,3 +13,5 @@ L'offre augmente:
 L'offre baisse: 
 
 ![[graph.png]]
+
+

@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7ef08125454e32",
+        "id": "ce31f8b9751d8dd5",
         "type": "split",
         "children": [
           {
-            "id": "62c5ee6d53a7c0d6",
+            "id": "ed79f53f4ba9411c",
             "type": "leaf",
-            "dimension": 64.10635155096011,
+            "dimension": 61.74298375184638,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03f0a1f1e66b2b43",
+            "id": "8a79d5a383f34db8",
             "type": "split",
-            "dimension": 35.89364844903989,
+            "dimension": 38.25701624815362,
             "children": [
               {
                 "id": "2f19d1ca07873b88",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Physique thermique.md",
+                    "file": "sl subjects/Economie.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Physique thermique.md",
+                    "file": "sl subjects/Economie.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique thermique.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62c5ee6d53a7c0d6",
+  "active": "ed79f53f4ba9411c",
   "lastOpenFiles": [
-    "Chaleur massique, capacité calorifique.md",
-    "Physique thermique.md",
     "sl subjects/Physics.md",
+    "common core/TOK.md",
+    "Excalidraw/Drawing 2022-10-14 08.53.32.excalidraw.md",
+    "changement dans l'offre.md",
+    "sl subjects/Economie.md",
+    "hl subjects/Computer science.md",
+    "Physique thermique.md",
+    "Chaleur massique, capacité calorifique.md",
     "temperature et echelle de temperature.md",
-    "common core/EE.md",
-    "Rhetorical devices.md",
-    "Appeal.md",
-    "sl subjects/Anglais Literrature.md",
-    "who is the knower.md",
-    "common core/TOK.md"
+    "common core/EE.md"
   ]
 }
