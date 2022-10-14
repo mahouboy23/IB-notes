@@ -13,6 +13,32 @@
             "dimension": 61.742983751846374,
             "children": [
               {
+                "id": "c6fc50c5222cda64",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IB overview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "97f652f0f53ef91d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "template/francais-.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "ed79f53f4ba9411c",
                 "type": "leaf",
                 "state": {
@@ -23,31 +49,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "97f652f0f53ef91d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rôles d'un ordinateur dans un réseau.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e53560834d4a3a9c",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.0.0"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "8a79d5a383f34db8",
@@ -64,7 +67,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Rôles d'un ordinateur dans un réseau.md",
+                        "file": "IB overview.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -87,7 +90,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Rôles d'un ordinateur dans un réseau.md",
+                        "file": "IB overview.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -188,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -267,17 +270,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2f19d1ca07873b88",
+  "active": "c6fc50c5222cda64",
   "lastOpenFiles": [
-    "serveur web.md",
-    "hl subjects/Francais B.md",
     "who is the knower.md",
-    "TOK WORK 1.md",
-    "cs work.md",
-    "template/TOK-.md",
-    "template/cs-.md",
-    "template/economie-.md",
+    "IB overview.md",
+    "template/francais-.md",
     "template/math-.md",
-    "template/physique-.md"
+    "template/TOK-.md",
+    "template/economie-.md",
+    "template/cs-.md",
+    "Untitled 1.md",
+    "Rôles d'un ordinateur dans un réseau.md",
+    "serveur web.md"
   ]
 }

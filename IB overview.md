@@ -1,5 +1,7 @@
-#ib          
-# IB overview
+---
+tags : ib
+---
+
 ## HL subjects
  - [[Math AA]]
  - [[Francais B]]
