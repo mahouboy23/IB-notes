@@ -30,8 +30,12 @@
                 "id": "97f652f0f53ef91d",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notion de système.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               },
               {
@@ -64,6 +68,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Notion de système.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -86,6 +91,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Notion de système.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -186,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion de système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion de système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion de système.md"
+              }
             }
           },
           {
@@ -263,10 +273,10 @@
   },
   "active": "97f652f0f53ef91d",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
     "IB overview.md",
     "hl subjects/Francais B.md",
     "sl subjects/Economie.md",
-    "hl subjects/Computer science.md",
     "template/francais-.md",
     "who is the knower.md",
     "template/math-.md",
