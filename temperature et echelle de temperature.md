@@ -4,7 +4,7 @@ tags : mod Physique
 # definition temperature
 Created: 2022-10-04 
 
-La temperature est une mesure de l'énergie cinétique moyenne des molecules. 
+La temperature est une mesure de l'énergie cinétique moyenneEDRC des molecules. 
 
 Conversion entre kelvin et celcius: 
 
