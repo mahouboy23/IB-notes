@@ -3,16 +3,16 @@ tags : ib
 ---
 
 ## HL subjects
- - [[Math AA]]
- - [[Francais B]]
- - [[Computer science]] 
+ - [[Math AA]] ➕
+ - [[Francais B]] 📚
+ - [[Computer science]] 💻
 
 ## SL subjects
-- [[Economie]]
-- [[Anglais Literrature]] 
-- [[Physics]]
+- [[Economie]] 💰
+- [[Anglais Literrature]] ✍
+- [[Physics]] 🔭
 
 ## Common core
-- [[TOK]]
+- [[TOK]] 
 - [[common core/CAS]]
 - [[EE]]

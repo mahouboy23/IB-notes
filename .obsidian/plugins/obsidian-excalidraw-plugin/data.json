@@ -60,7 +60,56 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://excalidraw.com",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "arrow",
+            "version": 56,
+            "versionNonce": 435464702,
+            "isDeleted": false,
+            "id": "K5A2bPdctv1SBNWxkre9n",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -113.58389282226562,
+            "y": 170.45130920410156,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 510.03924560546875,
+            "height": 1.75262451171875,
+            "seed": 2037711842,
+            "groupIds": [],
+            "strokeSharpness": "round",
+            "boundElements": [],
+            "updated": 1666110622594,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                510.03924560546875,
+                1.75262451171875
+              ]
+            ]
+          }
+        ],
+        "id": "GjKUaIUM0Unqed_Sk3Osk",
+        "created": 1666110632949
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

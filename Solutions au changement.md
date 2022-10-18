@@ -1,5 +1,4 @@
 ---
-tags : mod TOK
+tags : mod cs
 ---
-# Solutions au changement
-Created: 2022-10-12
+Created: 2022-10-12 
