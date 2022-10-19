@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "12concepts.md",
+                    "file": "who is the knower.md",
                     "mode": "source",
                     "source": false
                   }
@@ -80,7 +80,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "12concepts.md",
+                        "file": "who is the knower.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "12concepts.md",
+                        "file": "who is the knower.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12concepts.md",
+                "file": "who is the knower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12concepts.md",
+                "file": "who is the knower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12concepts.md"
+                "file": "who is the knower.md"
               }
             }
           },
@@ -286,6 +286,7 @@
   "active": "a247cb1f2ab7ca1b",
   "lastOpenFiles": [
     "common core/TOK.md",
+    "12concepts.md",
     "knowers and knowing.md",
     "Scope.md",
     "who is the knower.md",
@@ -293,7 +294,6 @@
     "Key features of stories.md",
     "Denouement.md",
     "falling action.md",
-    "Climax.md",
-    "Rising action.md"
+    "Climax.md"
   ]
 }

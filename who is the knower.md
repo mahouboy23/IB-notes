@@ -46,4 +46,9 @@ How might contribute to the array of knowledge that human kind has access to. We
 
 We live in an age in which self identity and self estime are regarded as crucial to our health and well being at the same time, we are invented to take part into self improvement programs, and the selfie is perhaps the fastest growing genre in photography
 
+## **PEEL :**
+- **P**oint
+- **E**vidence
+- **E**xplanation/**E**xample
+- **L**inks
 
