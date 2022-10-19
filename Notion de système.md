@@ -49,3 +49,14 @@ $$\Huge{system}$$
 5. [[Les normes et protocoles]] 
 6. [[Personnes et machines]] 
 7. [[La citoyenneté numérique]] 
+
+>[!important]
+>Un système informatique a des avantages et des inconvénients. Les tableaux suivants illustrent quelques exemples très simples.
+
+Positive:
+![[image-20221019165915512.png]]
+
+
+Negative:
+![[image-20221019170012263.png]]
+

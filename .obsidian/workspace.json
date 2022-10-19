@@ -63,7 +63,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "8a79d5a383f34db8",
@@ -80,7 +80,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "common core/EE.md",
+                        "file": "IB overview.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "common core/EE.md",
+                        "file": "IB overview.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -126,7 +126,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.6949441851147615,
+                          "scale": 0.3535611139913275,
                           "close": true
                         }
                       }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -283,17 +283,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b7525392c3112fb7",
+  "active": "0d038f8e42cc4ef0",
   "lastOpenFiles": [
-    "Notion de système.md",
     "La citoyenneté numérique.md",
-    "common core/EE.md",
-    "Personnes et machines.md",
-    "Les normes et protocoles.md",
+    "Notion de système.md",
     "Politiques informatiques.md",
     "Mondialisation et diversité culturelle.md",
-    "who is the knower.md",
     "La surveillance.md",
-    "hl subjects/Computer science.md"
+    "hl subjects/Computer science.md",
+    "Les normes et protocoles.md",
+    "Personnes et machines.md",
+    "common core/EE.md",
+    "who is the knower.md"
   ]
 }
