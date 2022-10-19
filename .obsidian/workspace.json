@@ -27,6 +27,26 @@
                 }
               },
               {
+                "id": "2e6393f860fbbd43",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "98d4bbeaa84ee616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Denouement.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "b7525392c3112fb7",
                 "type": "leaf",
                 "state": {
@@ -49,18 +69,6 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "98d4bbeaa84ee616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Key features of stories.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
               }
             ],
             "currentTab": 1
@@ -80,7 +88,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "common core/EE.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -103,7 +110,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "common core/EE.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -118,7 +124,7 @@
                           "colorGroups": [],
                           "collapse-display": false,
                           "showArrow": false,
-                          "textFadeMultiplier": 0,
+                          "textFadeMultiplier": -0.5,
                           "nodeSizeMultiplier": 1,
                           "lineSizeMultiplier": 1,
                           "collapse-forces": false,
@@ -126,7 +132,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.3535611139913275,
+                          "scale": 0.6209200328626796,
                           "close": true
                         }
                       }
@@ -204,7 +210,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +226,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,9 +247,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "common core/EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -283,17 +285,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b7525392c3112fb7",
+  "active": "2e6393f860fbbd43",
   "lastOpenFiles": [
-    "Notion de système.md",
+    "systeme.md",
     "IB overview.md",
-    "La citoyenneté numérique.md",
-    "Politiques informatiques.md",
-    "Mondialisation et diversité culturelle.md",
-    "La surveillance.md",
-    "hl subjects/Computer science.md",
-    "Les normes et protocoles.md",
-    "Personnes et machines.md",
-    "common core/EE.md"
+    "Key features of stories.md",
+    "sl subjects/Anglais Literrature.md",
+    "Denouement.md",
+    "falling action.md",
+    "Climax.md",
+    "Rising action.md",
+    "Characterisation.md",
+    "Narrative technique.md"
   ]
 }
