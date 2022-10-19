@@ -32,8 +32,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "who is the knower.md",
-                    "mode": "source",
+                    "file": "Perspective.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -80,7 +80,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "who is the knower.md",
+                        "file": "Perspective.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "who is the knower.md",
+                        "file": "Perspective.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "who is the knower.md",
+                "file": "Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "who is the knower.md",
+                "file": "Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "who is the knower.md"
+                "file": "Perspective.md"
               }
             }
           },
@@ -286,11 +286,11 @@
   "active": "a247cb1f2ab7ca1b",
   "lastOpenFiles": [
     "common core/TOK.md",
-    "12concepts.md",
-    "knowers and knowing.md",
     "Scope.md",
+    "knowers and knowing.md",
     "who is the knower.md",
     "IB overview.md",
+    "12concepts.md",
     "Key features of stories.md",
     "Denouement.md",
     "falling action.md",

@@ -8,9 +8,9 @@
 ## **Part 2 :** Optional themes
 - knowledge and technology
 - knowledge and language
-- knowledge and religion
+- knowledge and religion 
 - knowledge and politics
-- knowledge and indigenous societies 
+- knowledge and indigenous societies  
 ## **Part 3 :** Areas of knowledge
 - History 
 - Mathematics 
