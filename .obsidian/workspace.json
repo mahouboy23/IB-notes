@@ -27,6 +27,18 @@
                 }
               },
               {
+                "id": "a247cb1f2ab7ca1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "who is the knower.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "98d4bbeaa84ee616",
                 "type": "leaf",
                 "state": {
@@ -39,7 +51,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "8a79d5a383f34db8",
@@ -261,15 +273,15 @@
   },
   "active": "98d4bbeaa84ee616",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
+    "who is the knower.md",
+    "Changements de prix et boucles de rétroaction.md",
+    "common core/TOK.md",
+    "Scope.md",
     "IB overview.md",
+    "sl subjects/Economie.md",
+    "fonctions du mécanisme des prix.md",
     "Signaux aux consommateurs et aux producteurs.md",
     "Mouvement et déplacement de la demande.md",
-    "écriture mathématique de la demande.md",
-    "écriture mathématique.md",
-    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md",
-    "common core/TOK.md",
-    "Excalidraw/Drawing 2022-09-30 08.48.18.excalidraw.md",
-    "Excalidraw/Offre.md"
+    "écriture mathématique de la demande.md"
   ]
 }

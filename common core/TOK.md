@@ -21,6 +21,7 @@
 1. TOK Exhibition $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts
 2. TOK Essay $\rightarrow$ 1600 words, __6__ ***prescribed essay titles*** 
 ## **Part 5 :** Framework 
+?
 1. [[Scope]]
 2. [[Perspective]]
 3. [[Tools and methods]]
