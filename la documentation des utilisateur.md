@@ -10,6 +10,6 @@ La documentation destinee aux utilisateur peut inclure une aide en ligne, une se
 
 
 Les 3 different type de documentation sont :
-3. [[fichier d'aide]] 
+3. [[Fichier d'aide]] 
 4. [[documentation en ligne]] 
 5. [[manuel imprimes]] 

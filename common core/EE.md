@@ -11,10 +11,8 @@ tags: EE
  >[!Research question:]
  > Dans quelle mesure le NVDIMM affecte-t-il les performances par rapport au VDIMM dans un système ?
  
- [  
-Jump to navigation](https://en.wikipedia.org/wiki/NVDIMM#mw-head)[Jump to search](https://en.wikipedia.org/wiki/NVDIMM#searchInput)
-
-A **NVDIMM** (pronounced "en-vee-dimm") or **non-volatile DIMM** is a type of persistent [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory "Random-access memory") for computers using widely used [DIMM](https://en.wikipedia.org/wiki/DIMM "DIMM") form-factors. [Non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory "Non-volatile memory") is memory that retains its contents even when electrical power is removed, for example from an unexpected power loss, system crash, or normal shutdown. Properly used, NVDIMMs can improve application performance and system crash recovery time.They enhance [solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive "Solid-state drive") (SSD) endurance and reliability.
+ 
+A **NVDIMM** (pronounced "en-vee-dimm") or **non-volatile DIMM** is a type of persistent [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory "Random-access memory") for computers using widely used [DIMM](https://en.wikipedia.org/wiki/DIMM "DIMM") form-factors. [Non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory "Non-volatile memory") is memory that retains its contents even when electrical power is removed, for example from an unexpected power loss, system crash, or normal shutdown. Properly used, NVDIMMs can improve application performance and system crash recovery time. They enhance [solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive "Solid-state drive") (SSD) endurance and reliability.
 
 Many "non-volatile" products use volatile memory during normal operation and dump the contents into non-volatile memory if the power fails, using an on-board backup power source. Volatile memory is faster than non-volatile; it is byte-addressable; and it can be written to arbitrarily, without concerns about wear and device lifespan. However, including a second memory to achieve non-volatility (and the on-board backup power source) increases the product cost compared to volatile memory.
 

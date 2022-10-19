@@ -39,4 +39,13 @@ $$\Huge{system}$$
 ### **Lesson 1 :** Composants d'un système informatique
 1. [[]]
 2. [[Rôles d'un ordinateur dans un réseau]] 
-3. [[]]
+3. [[]] 
+
+### **Lesson 1 :** Sujets informatiques d'importance sociale et éthique 
+1. 
+2. [[La surveillance]] 
+3. [[Mondialisation et diversité culturelle]] 
+4. [[Politiques informatiques]] 
+5. [[Les normes et protocoles]] 
+6. [[Personnes et machines]] 
+7. [[La citoyenneté numérique]] 

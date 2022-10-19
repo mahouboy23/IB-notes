@@ -1,7 +1,6 @@
 ---
 tags : mod cs
 ---
-# Ficher d'aide
 Created: {{date}}
 
 Les fichiers d'aide sont faciles d'acces pour l'utilisateur peu couteux a creer. 
