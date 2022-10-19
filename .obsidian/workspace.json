@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Changements de prix et boucles de rétroaction.md",
+                    "file": "Rhetorical devices.md",
                     "mode": "source",
                     "source": false
                   }
@@ -68,7 +68,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Changements de prix et boucles de rétroaction.md",
+                        "file": "Rhetorical devices.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Changements de prix et boucles de rétroaction.md",
+                        "file": "Rhetorical devices.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changements de prix et boucles de rétroaction.md",
+                "file": "Rhetorical devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Changements de prix et boucles de rétroaction.md",
+                "file": "Rhetorical devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changements de prix et boucles de rétroaction.md"
+                "file": "Rhetorical devices.md"
               }
             }
           },
@@ -273,15 +273,15 @@
   },
   "active": "98d4bbeaa84ee616",
   "lastOpenFiles": [
-    "who is the knower.md",
+    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
     "Changements de prix et boucles de rétroaction.md",
+    "who is the knower.md",
     "common core/TOK.md",
     "Scope.md",
-    "IB overview.md",
     "sl subjects/Economie.md",
     "fonctions du mécanisme des prix.md",
     "Signaux aux consommateurs et aux producteurs.md",
-    "Mouvement et déplacement de la demande.md",
-    "écriture mathématique de la demande.md"
+    "Mouvement et déplacement de la demande.md"
   ]
 }
