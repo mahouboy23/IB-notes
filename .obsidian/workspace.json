@@ -44,8 +44,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rhetorical devices.md",
-                    "mode": "source",
+                    "file": "Key features of stories.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -68,7 +68,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Rhetorical devices.md",
+                        "file": "Key features of stories.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -91,11 +91,11 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Rhetorical devices.md",
+                        "file": "Key features of stories.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
-                          "localJumps": 1,
+                          "localJumps": 2,
                           "localBacklinks": true,
                           "localForelinks": true,
                           "localInterlinks": false,
@@ -114,7 +114,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.6775544807389848,
+                          "scale": 0.6949441851147615,
                           "close": true
                         }
                       }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Key features of stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Key features of stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetorical devices.md"
+                "file": "Key features of stories.md"
               }
             }
           },
@@ -273,15 +273,15 @@
   },
   "active": "98d4bbeaa84ee616",
   "lastOpenFiles": [
+    "Denouement.md",
+    "Key features of stories.md",
+    "falling action.md",
+    "Climax.md",
+    "Rising action.md",
+    "Characterisation.md",
+    "Narrative technique.md",
     "sl subjects/Anglais Literrature.md",
-    "IB overview.md",
-    "Changements de prix et boucles de rétroaction.md",
-    "who is the knower.md",
-    "common core/TOK.md",
-    "Scope.md",
-    "sl subjects/Economie.md",
-    "fonctions du mécanisme des prix.md",
-    "Signaux aux consommateurs et aux producteurs.md",
-    "Mouvement et déplacement de la demande.md"
+    "Exposition.md",
+    "Settings.md"
   ]
 }

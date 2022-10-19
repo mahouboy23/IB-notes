@@ -15,7 +15,6 @@ Answers:
 2. 
 3. 
 
-----
 
 The question '**who is the knower**' has occupied the minds of philosophers and great thinkers for thousands of years, and is perhaps no closer to a definitive answer than it has ever been. Yet if we cannot know who we are as knowers, how can we know anything. 
 

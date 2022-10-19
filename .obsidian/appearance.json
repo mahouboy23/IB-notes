@@ -1,6 +1,6 @@
 {
   "cssTheme": "Clair de Lune",
-  "baseFontSize": 23,
+  "baseFontSize": 15,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "#009de0"
 }
