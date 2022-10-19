@@ -32,6 +32,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "12concepts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b7525392c3112fb7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "who is the knower.md",
                     "mode": "source",
                     "source": false
@@ -51,7 +63,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "8a79d5a383f34db8",
@@ -68,7 +80,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Key features of stories.md",
+                        "file": "12concepts.md",
                         "collapseAll": false,
                         "extraContext": true,
                         "sortOrder": "alphabetical",
@@ -91,7 +103,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Key features of stories.md",
+                        "file": "12concepts.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "12concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "12concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key features of stories.md"
+                "file": "12concepts.md"
               }
             }
           },
@@ -271,17 +283,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "98d4bbeaa84ee616",
+  "active": "a247cb1f2ab7ca1b",
   "lastOpenFiles": [
-    "Denouement.md",
+    "common core/TOK.md",
+    "knowers and knowing.md",
+    "Scope.md",
+    "who is the knower.md",
+    "IB overview.md",
     "Key features of stories.md",
+    "Denouement.md",
     "falling action.md",
     "Climax.md",
-    "Rising action.md",
-    "Characterisation.md",
-    "Narrative technique.md",
-    "sl subjects/Anglais Literrature.md",
-    "Exposition.md",
-    "Settings.md"
+    "Rising action.md"
   ]
 }
