@@ -27,3 +27,8 @@ tags : mod economie
 5. [[fonctions du mécanisme des prix]]  
 6. [[Changements de prix et boucles de rétroaction]] 
 7. [[Signaux aux consommateurs et aux producteurs]] 
+
+## Parte 4 : Surplus social/communautaire
+1. [[Notion d'efficacite]] 
+2. [[Le surplus du consommateur]] 
+3. [[Surplus du producteur]] 

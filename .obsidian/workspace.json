@@ -4,129 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ce31f8b9751d8dd5",
-        "type": "split",
+        "id": "e5fd34432d94612b",
+        "type": "tabs",
         "children": [
           {
-            "id": "e5fd34432d94612b",
-            "type": "tabs",
-            "dimension": 61.742983751846374,
-            "children": [
-              {
-                "id": "c6fc50c5222cda64",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "IB overview.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
-                }
+            "id": "c6fc50c5222cda64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              {
-                "id": "2e6393f860fbbd43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "IB overview.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "98d4bbeaa84ee616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Théorie moléculaire des solides, des liquides et des gaz.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           },
           {
-            "id": "8a79d5a383f34db8",
-            "type": "split",
-            "dimension": 38.25701624815362,
-            "children": [
-              {
-                "id": "2cbeb3c648c0339a",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "2f19d1ca07873b88",
-                    "type": "leaf",
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "IB overview.md",
-                        "collapseAll": false,
-                        "extraContext": true,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "62979ccdac693a11",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "0d038f8e42cc4ef0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "IB overview.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": false,
-                          "textFadeMultiplier": -0.5,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": false,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.5579138434475596,
-                          "close": true
-                        }
-                      }
-                    }
-                  }
-                ]
+            "id": "81cfdcb824affbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surplus du producteur.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "horizontal"
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB overview.md",
+                "file": "Surplus du producteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB overview.md",
+                "file": "Surplus du producteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB overview.md"
+                "file": "Surplus du producteur.md"
               }
             }
           },
@@ -261,24 +171,64 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "d13a06cb4474056d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea2cb0a21f14309",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Surplus du producteur.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.5,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5923096255807587,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 433
   },
-  "active": "2e6393f860fbbd43",
+  "active": "81cfdcb824affbf4",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
-    "sl subjects/Anglais Literrature.md",
-    "Key features of stories.md",
-    "IB overview.md",
-    "Key features of poems.md",
-    "Caesura.md",
-    "hl subjects/Computer science.md",
-    "Volta.md",
-    "Stanza and rhyming scheme.md",
-    "Verse and metre.md"
+    "Le surplus du consommateur.md",
+    "Notion d'efficacite.md",
+    "Efficacité allocatif.md",
+    "Efficacité productive.md",
+    "Loi de la demande.md",
+    "template/TOK-.md",
+    "Efficacite productive.md",
+    "Signaux aux consommateurs et aux producteurs.md",
+    "Changements de prix et boucles de rétroaction.md"
   ]
 }
