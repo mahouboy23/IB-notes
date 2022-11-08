@@ -14,8 +14,8 @@ Les types de documentation comprennent :
 
 ?
 - [[Prérequis]]   
-- [[Architecture/Conception]]  
+- [[Conception]]  
 - [[Documentation technique]] 
 - [[Documentation de l'utilisateur final]] 
 - [[Marketing]] 
-<!--SR:!2022-10-19,1,230-->
+<!--SR:!2022-10-21,1,210-->

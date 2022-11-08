@@ -11,3 +11,5 @@ Created: 2022-10-04
 
 ### Part 4: **Chaleur massique, capacité calorifique** 
 1. [[Chaleur massique, capacité calorifique]]  
+2. [[]]
+3. [[Chaleur echanger lors d'un changement d'etat]]

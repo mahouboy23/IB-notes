@@ -12,4 +12,4 @@ Les inconvénients sont 3:
 - Coûts de maintenance.
 - Support technique indisponible
 - Vulnérabilité aux menaces de sécurité
-<!--SR:!2022-10-19,1,230-->
+<!--SR:!2022-10-23,3,230-->

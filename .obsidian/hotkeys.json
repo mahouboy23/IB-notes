@@ -43,15 +43,6 @@
       "key": "P"
     }
   ],
-  "templater-obsidian:template/math-.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "templater-obsidian:template/francais-.md": [
     {
       "modifiers": [
@@ -86,6 +77,15 @@
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "templater-obsidian:template/math-.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

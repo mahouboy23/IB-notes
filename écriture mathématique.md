@@ -1,11 +1,9 @@
 ---
 tags : mod economie
 ---
-# ecriture mathematique
 Created: 2022-09-27
 
-Fonction de l'offre : 
-
+**Fonction de l'offre :** 
 ?
 $$Qd= aP+B$$
 $$Qo= aP+B$$

@@ -5,7 +5,7 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#math",
-      "#physic",
+      "Physique",
       "#economie",
       "#french",
       "#cs",
@@ -29,7 +29,7 @@
     "tagsToReview": [
       "#review",
       "#math",
-      "#physic",
+      "Physique",
       "#economie",
       "#french",
       "#cs",
@@ -50,6 +50,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-10-03",
+  "buryDate": "2022-10-20",
   "buryList": []
 }

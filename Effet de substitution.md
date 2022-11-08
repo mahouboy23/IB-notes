@@ -1,5 +1,9 @@
 ---
 tags : mod economie
 ---
-# Effet de substitution
-Created: 2022-09-28
+Created: 2022-09-28 
+
+### Qu'est ce que l'effet de substitution 
+
+?
+Lorsque le prix d'un produit baisse et que le prix des substituts restent le meme, les consommateurs peuvent substituer ce produit aux autres produits.

@@ -6,7 +6,7 @@ Created: 9/27/22
 
 ?
 La documentation destinee aux utilisateur peut inclure une aide en ligne, une section FAQ sur le site web et des tutoriels video 
-<!--SR:!2022-10-19,1,230-->
+<!--SR:!2022-10-23,3,230-->
 
 
 Les 3 different type de documentation sont :

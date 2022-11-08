@@ -27,5 +27,20 @@ In this unit you will be introduced to the key features that engage readers of p
 
 I/ [[Key features of stories]] 
 
+II/ [[Peace act]]  
 
+**TOK**: What is the value of studying fiction? 
+Pablo Picasso once said: 'Art is the lie that enables us to realize the truth.' What do you think he meant by this? Do you agree? To what degree is reading fiction about finding the 'truth'?
 
+1/ The scarlett letter "Nathaniel hawthrone"
+2/ King lear "William Shakespeare" 
+3/ Songs of Sorrow "Kofi Awonoor"  
+
+a) It is very much not poetic because there is no deeper meaning
+b)
+
+## **UNIT 5:** Analyzing poems 
+*Learning objectives:*  
+1.  e
+
+I/ [[Key features of poems]]  
