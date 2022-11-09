@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "hl subjects/Francais B.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "hl subjects/Francais B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "hl subjects/Francais B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "hl subjects/Francais B.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "hl subjects/Francais B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,8 +219,8 @@
   },
   "active": "81cfdcb824affbf4",
   "lastOpenFiles": [
-    "Puissance-Exponentielles-Logarithm.md",
     "hl subjects/Math AA.md",
+    "Puissance-Exponentielles-Logarithm.md",
     "les equation quadratique.md",
     "Notion de fonction.md",
     "IB overview.md",
