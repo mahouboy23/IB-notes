@@ -26,8 +26,12 @@
             "id": "81cfdcb824affbf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hl subjects/Math AA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hl subjects/Math AA.md"
+              }
             }
           },
           {
@@ -174,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,15 +219,15 @@
   },
   "active": "81cfdcb824affbf4",
   "lastOpenFiles": [
+    "Puissance-Exponentielles-Logarithm.md",
+    "hl subjects/Math AA.md",
+    "les equation quadratique.md",
+    "Notion de fonction.md",
+    "IB overview.md",
     "Surplus du producteur.md",
     "sl subjects/Economie.md",
     "Le surplus du consommateur.md",
     "Notion d'efficacite.md",
-    "Efficacité allocatif.md",
-    "Efficacité productive.md",
-    "Loi de la demande.md",
-    "template/TOK-.md",
-    "Efficacite productive.md",
-    "Signaux aux consommateurs et aux producteurs.md"
+    "Efficacité allocatif.md"
   ]
 }
