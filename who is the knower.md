@@ -1,7 +1,6 @@
 ---
 tags : mod TOK
 ---
-# who is the knower
 Created: 2022-10-05
 
 ## INTRODUCTION: **Real life situation**
@@ -52,3 +51,9 @@ We live in an age in which self identity and self estime are regarded as crucial
 - **E**xplanation/**E**xample
 - **L**inks
 
+Write a page about yourself, what it is about you that makes who you are 
+
+I am Mahouna Djokpe, i am 16 and I'm from Benin. I define myself as a normal human being that likes playing games and reading manga who is currently studying at LCB and has been staying at Senegal for 10 years. I can be characterized by my out going and energetique personality and my perspective and view of my environment and the world and in general. 
+
+How much of what you have written will be always true of you? 
+How much might be different in one year ?

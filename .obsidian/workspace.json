@@ -23,12 +23,36 @@
             }
           },
           {
+            "id": "168cacbc777b6562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perspective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8ab3d13da94823f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "81cfdcb824affbf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "test correction.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Francais B.md"
+                "file": "Perspective.md"
               }
             }
           },
@@ -182,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Perspective.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,17 +241,17 @@
     "direction": "horizontal",
     "width": 433
   },
-  "active": "81cfdcb824affbf4",
+  "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
-    "Puissance-Exponentielles-Logarithm.md",
-    "les equation quadratique.md",
-    "Notion de fonction.md",
-    "IB overview.md",
-    "Surplus du producteur.md",
-    "sl subjects/Economie.md",
-    "Le surplus du consommateur.md",
-    "Notion d'efficacite.md",
-    "Efficacité allocatif.md"
+    "common core/TOK.md",
+    "Perspective.md",
+    "who is the knower.md",
+    "Identify.md",
+    "culture.md",
+    "perception.md",
+    "test correction.md",
+    "12concepts.md",
+    "knowers and knowing.md",
+    "IB overview.md"
   ]
 }
