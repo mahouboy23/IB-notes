@@ -26,12 +26,8 @@
             "id": "81cfdcb824affbf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surplus du producteur.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -81,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surplus du producteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surplus du producteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Surplus du producteur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Surplus du producteur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,6 +210,7 @@
   },
   "active": "81cfdcb824affbf4",
   "lastOpenFiles": [
+    "Surplus du producteur.md",
     "sl subjects/Economie.md",
     "Le surplus du consommateur.md",
     "Notion d'efficacite.md",
@@ -228,7 +219,6 @@
     "Loi de la demande.md",
     "template/TOK-.md",
     "Efficacite productive.md",
-    "Signaux aux consommateurs et aux producteurs.md",
-    "Changements de prix et boucles de rétroaction.md"
+    "Signaux aux consommateurs et aux producteurs.md"
   ]
 }
