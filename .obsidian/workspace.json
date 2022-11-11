@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "formule élasticites.md",
+                "file": "les parties prenantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "formule élasticites.md",
+                "file": "les parties prenantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "formule élasticites.md",
+                "file": "les parties prenantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "formule élasticites.md"
+                "file": "les parties prenantes.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "d13a06cb4474056d",
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "formule élasticites.md",
+                "file": "les parties prenantes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
     "sl subjects/Economie.md",
+    "sl subjects/Anglais Literrature.md",
+    "formule élasticites.md",
     "Definition Elasticite.md",
     "La demande.md",
     "introduction.md",
     "écriture mathématique.md",
-    "Surplus social, communautaire.md",
-    "Surplus social/communautaire.md",
-    "Surplus du producteur.md",
-    "IB overview.md",
-    "Changements de prix et boucles de rétroaction.md"
+    "Surplus social, communautaire.md"
   ]
 }

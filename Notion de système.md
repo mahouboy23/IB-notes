@@ -41,7 +41,7 @@ $$\Huge{system}$$
 2. [[Rôles d'un ordinateur dans un réseau]] 
 3. [[]] 
 
-### **Lesson 1 :** Sujets informatiques d'importance sociale et éthique 
+### **Lesson 2 :** Sujets informatiques d'importance sociale et éthique 
 1. 
 2. [[La surveillance]] 
 3. [[Mondialisation et diversité culturelle]] 
@@ -60,3 +60,6 @@ Positive:
 Negative:
 ![[image-20221019170012263.png]]
 
+
+### **Lesson 3 :** Conception et analyse de système
+1. [[les parties prenantes]] 
