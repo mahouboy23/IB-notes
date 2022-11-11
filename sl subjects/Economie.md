@@ -4,7 +4,7 @@ tags : mod economie
  $$\Huge{Microeconomie}$$
  <br/>
 ### Mot clés en économie
-[[Conceptes de base economie|Economics basic concepts]]
+[[Conceptes de base economie|Economics basic concepts]] 
 
 ##  Parte 1 :  La demande 
  1. [[La demande|definition]] 
@@ -16,7 +16,7 @@ tags : mod economie
 ## Parte 2 : L'approvisionneument
 1. [[l'offre|definition]]  
 2. [[la loi de l'offre]] 
-3. L'[[écriture mathématique|ecriture mathematique de l'offre]] 
+3. L'[[écriture mathématique|ecriture mathématique de l'offre]] 
 4. [[Mouvement et deplacement de l'offre]]  
 
 ## Parte 3 : L'Equilibre du marche 
@@ -27,8 +27,12 @@ tags : mod economie
 5. [[fonctions du mécanisme des prix]]  
 6. [[Changements de prix et boucles de rétroaction]] 
 7. [[Signaux aux consommateurs et aux producteurs]] 
+8. [[Notion d'efficacite]] 
+9. [[Le surplus du consommateur]] 
+10. [[Surplus du producteur]] 
+11. [[Surplus social, communautaire]] 
 
-## Parte 4 : Surplus social/communautaire
-1. [[Notion d'efficacite]] 
-2. [[Le surplus du consommateur]] 
-3. [[Surplus du producteur]] 
+## Parte 5 : Elasticités de la demande
+1. [[introduction]] 
+2. [[Definition Elasticite|definition]] 
+3. [[formule élasticites|formule]] 
