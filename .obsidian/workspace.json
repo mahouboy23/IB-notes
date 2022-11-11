@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "les parties prenantes.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,6 +243,8 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "IB overview.md",
+    "les parties prenantes.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "sl subjects/Economie.md",
@@ -250,8 +252,6 @@
     "formule élasticites.md",
     "Definition Elasticite.md",
     "La demande.md",
-    "introduction.md",
-    "écriture mathématique.md",
-    "Surplus social, communautaire.md"
+    "introduction.md"
   ]
 }
