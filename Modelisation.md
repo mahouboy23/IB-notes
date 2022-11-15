@@ -8,3 +8,4 @@ a) [[La mole]]
 b) [[La loi des gas parfaits]] 
 
 ### 2/  Compression isotherme
+a) [[equation des gas parfait]] 
