@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "equation des gas parfait.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "equation des gas parfait.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "equation des gas parfait.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "equation des gas parfait.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "equation des gas parfait.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "template/Anglais-.md",
+    "equation des gas parfait.md",
     "Modelisation.md",
     "La loi des gas parfaits.md",
-    "equation des gas parfait.md",
     "La mole.md",
     "Propriétés microscopiques.md",
     "Physique thermique.md",
     "sl subjects/Physics.md",
     "IB overview.md",
-    "common core/EE.md",
-    "les parties prenantes.md"
+    "common core/EE.md"
   ]
 }
