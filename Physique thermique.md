@@ -1,7 +1,6 @@
 ---
 tags : mod Physique
 ---
-# Physique thermique
 Created: 2022-10-04 
 
 ### Part 3: **grandeurs thermique** 
