@@ -18,7 +18,7 @@ $$\Huge{system}$$
 ###  **Lesson 2 :** User focus
 1. [[Les méthodes de documentation]] 
 2. [[la documentation des utilisateur]] 
-3. [[Methodes de formation]] 
+3. [[Méthode de formation]] 
 
 ###  **Lesson 3 :** Sauvegarde de système 
 1. [[Les pertes de donnes]] 
