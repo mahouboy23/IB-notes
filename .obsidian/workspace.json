@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "personal knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "personal knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "personal knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Francais B.md"
+                "file": "personal knowledge.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "personal knowledge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "Notion de système.md",
+    "personal knowledge.md",
+    "Evidence.md",
+    "common core/TOK.md",
+    "subjective knowledge.md",
+    "objective knowledge.md",
+    "Perspective.md",
+    "who is the knower.md",
     "IB overview.md",
-    "hl subjects/Francais B.md",
-    "sl subjects/Economie.md",
-    "formule élasticites.md",
-    "Definition Elasticite.md",
-    "introduction.md",
-    "sl subjects/Anglais Literrature.md",
-    "template/Anglais-.md",
-    "equation des gas parfait.md",
-    "Modelisation.md"
+    "hl subjects/Francais B.md"
   ]
 }
