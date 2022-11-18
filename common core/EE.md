@@ -14,3 +14,6 @@ tags: EE
 
 Dans quelle mesure la précision et la performance de l'algorithme de régression linéaire sont-elles meilleures que celles de la régression logistique dans la cartographie des données de deux data sets.
 
+----- 
+
+#### **The problem:**  

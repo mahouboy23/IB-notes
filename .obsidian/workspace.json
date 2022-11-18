@@ -229,7 +229,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5923096255807587,
+                  "scale": 0.9346552651840688,
                   "close": true
                 }
               }
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "Méthode de formation.md",
+    "Cycle de vie d'un système informatique.md",
+    "maintain.md",
+    "test cs.md",
+    "implement.md",
+    "design.md",
+    "feasibility.md",
+    "analysis.md",
     "Notion de système.md",
-    "les parties prenantes.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
-    "personal knowledge.md",
-    "Evidence.md",
-    "common core/TOK.md",
-    "subjective knowledge.md",
-    "objective knowledge.md"
+    "l'iteration dans le processus de conception.md",
+    "hl subjects/Computer science.md"
   ]
 }

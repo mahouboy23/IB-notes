@@ -9,3 +9,4 @@ b) [[La loi des gas parfaits]]
 
 ### 2/  Compression isotherme
 a) [[equation des gas parfait]] 
+b) [[loi d'avogrado ampere]] 
