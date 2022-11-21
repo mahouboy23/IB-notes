@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "hl subjects/Francais B.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "hl subjects/Francais B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "hl subjects/Francais B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetorical devices.md"
+                "file": "hl subjects/Francais B.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "hl subjects/Francais B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Rhetorical devices.md",
     "sl subjects/Anglais Literrature.md",
     "Présentation du document.md",
     "Analyse du document.md",
     "Key features of poems.md",
-    "IB overview.md",
     "sl subjects/Physics.md",
     "assets/assets/Economie/Pasted image 20221118091022.png",
     "sl subjects/Economie.md",
-    "common core/EE.md",
-    "Notion de système.md"
+    "common core/EE.md"
   ]
 }
