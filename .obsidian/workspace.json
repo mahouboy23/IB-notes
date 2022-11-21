@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Rhetorical devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Rhetorical devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Rhetorical devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Rhetorical devices.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Rhetorical devices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "assets/assets/Economie/Pasted image 20221118091022.png",
-    "sl subjects/Physics.md",
-    "sl subjects/Economie.md",
     "sl subjects/Anglais Literrature.md",
+    "Présentation du document.md",
+    "Analyse du document.md",
+    "Key features of poems.md",
     "IB overview.md",
+    "sl subjects/Physics.md",
+    "assets/assets/Economie/Pasted image 20221118091022.png",
+    "sl subjects/Economie.md",
     "common core/EE.md",
-    "Notion de système.md",
-    "Cycle de vie d'un système informatique.md",
-    "maintain.md",
-    "test cs.md"
+    "Notion de système.md"
   ]
 }
