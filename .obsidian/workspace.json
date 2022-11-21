@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "assets/assets/Economie/Pasted image 20221118091022.png",
+    "sl subjects/Physics.md",
+    "sl subjects/Economie.md",
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "common core/EE.md",
     "Notion de système.md",
     "Cycle de vie d'un système informatique.md",
     "maintain.md",
-    "test cs.md",
-    "implement.md",
-    "design.md",
-    "feasibility.md",
-    "analysis.md",
-    "l'iteration dans le processus de conception.md"
+    "test cs.md"
   ]
 }
