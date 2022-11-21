@@ -28,7 +28,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Paralanguage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a5842566cb5d983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhetorical devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Paralanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Paralanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Paralanguage.md"
               }
             }
           },
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Paralanguage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,12 +255,12 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "Analyse du document.md",
     "sl subjects/Anglais Literrature.md",
+    "Rhetorical devices.md",
+    "Analyse du document.md",
     "Présentation du document.md",
     "hl subjects/Francais B.md",
     "IB overview.md",
-    "Rhetorical devices.md",
     "Key features of poems.md",
     "sl subjects/Physics.md",
     "assets/assets/Economie/Pasted image 20221118091022.png",
