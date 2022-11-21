@@ -46,7 +46,7 @@ Pablo Picasso once said: 'Art is the lie that enables us to realize the truth.' 
 3/ Songs of Sorrow "Kofi Awonoor"  
 
 a) It is very much not poetic because there is no deeper meaning
-b)
+b)    
 
 ## **UNIT 5:** Analyzing poems 
 *Learning objectives:*  

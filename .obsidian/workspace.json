@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paralanguage.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paralanguage.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paralanguage.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paralanguage.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Paralanguage.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,6 +255,7 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "Paralanguage.md",
     "sl subjects/Anglais Literrature.md",
     "Rhetorical devices.md",
     "Analyse du document.md",
@@ -263,7 +264,6 @@
     "IB overview.md",
     "Key features of poems.md",
     "sl subjects/Physics.md",
-    "assets/assets/Economie/Pasted image 20221118091022.png",
-    "sl subjects/Economie.md"
+    "assets/assets/Economie/Pasted image 20221118091022.png"
   ]
 }
