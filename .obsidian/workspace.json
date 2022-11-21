@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Francais B.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "IB overview.md",
-    "Rhetorical devices.md",
+    "Analyse du document.md",
     "sl subjects/Anglais Literrature.md",
     "Présentation du document.md",
-    "Analyse du document.md",
+    "hl subjects/Francais B.md",
+    "IB overview.md",
+    "Rhetorical devices.md",
     "Key features of poems.md",
     "sl subjects/Physics.md",
     "assets/assets/Economie/Pasted image 20221118091022.png",
-    "sl subjects/Economie.md",
-    "common core/EE.md"
+    "sl subjects/Economie.md"
   ]
 }

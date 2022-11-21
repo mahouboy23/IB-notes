@@ -4,8 +4,8 @@ tags : mod englais
 Created: 2022-09-28
 
 ## **UNIT 1:** Images and Magazine covers 
-- Etape 1: [[Présentation du document]]
- -Etape 2: [[Analyse du document]]
+-Etape 1: [[Présentation du document]]
+-Etape 2: [[Analyse du document]]
 
 ## **UNIT 2:** Advertisements
 The advertisement text types are:
