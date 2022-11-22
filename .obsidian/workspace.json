@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "38e8d1c98dad502a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key features of stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a5842566cb5d983",
             "type": "leaf",
             "state": {
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rappels d'électrostatique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,17 +253,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "855bb643aa7dbae4",
+  "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "Key features of stories.md",
+    "sl subjects/Anglais Literrature.md",
+    "rappels d'électrostatique.md",
     "Electricite et magnétisme.md",
     "sl subjects/Physics.md",
     "Physique thermique.md",
     "Gas parfait.md",
     "Rhetorical devices.md",
     "test correction.md",
-    "12concepts.md",
-    "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
-    "Paralanguage.md"
+    "12concepts.md"
   ]
 }
