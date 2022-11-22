@@ -37,3 +37,4 @@ tags : mod economie
 2. [[Definition Elasticite|definition]] 
 3. [[formule élasticites|formule]] 
 4. [[Implication PED pour les politiques gouvernementales]] 
+5. [[Taxes]] 

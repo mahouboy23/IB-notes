@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implication PED pour les politiques gouvernementales.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implication PED pour les politiques gouvernementales.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implication PED pour les politiques gouvernementales.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implication PED pour les politiques gouvernementales.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Implication PED pour les politiques gouvernementales.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,6 +243,7 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "Implication PED pour les politiques gouvernementales.md",
     "sl subjects/Economie.md",
     "Definition Elasticite.md",
     "formule élasticites.md",
@@ -251,7 +252,6 @@
     "Alliteration.md",
     "Key features of poems.md",
     "sl subjects/Anglais Literrature.md",
-    "Key features of stories.md",
-    "Exposition.md"
+    "Key features of stories.md"
   ]
 }
