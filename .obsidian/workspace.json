@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Implication PED pour les politiques gouvernementales.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Implication PED pour les politiques gouvernementales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Implication PED pour les politiques gouvernementales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Implication PED pour les politiques gouvernementales.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Implication PED pour les politiques gouvernementales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,8 +243,8 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "Definition Elasticite.md",
     "sl subjects/Economie.md",
+    "Definition Elasticite.md",
     "formule élasticites.md",
     "introduction.md",
     "IB overview.md",
