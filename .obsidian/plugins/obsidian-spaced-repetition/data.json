@@ -5,7 +5,7 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#math",
-      "Physique",
+      "#Physique",
       "#economie",
       "#french",
       "#cs",
@@ -50,6 +50,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-10-20",
+  "buryDate": "2022-11-22",
   "buryList": []
 }

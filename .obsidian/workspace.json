@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alliteration.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alliteration.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alliteration.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alliteration.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alliteration.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "formule élasticites.md",
+    "sl subjects/Economie.md",
+    "introduction.md",
+    "Definition Elasticite.md",
+    "IB overview.md",
+    "Alliteration.md",
     "Key features of poems.md",
     "sl subjects/Anglais Literrature.md",
     "Key features of stories.md",
-    "Exposition.md",
-    "Peace act.md",
-    "point.md",
-    "rappels d'électrostatique.md",
-    "Narrative technique.md",
-    "Electricite et magnétisme.md",
-    "sl subjects/Physics.md"
+    "Exposition.md"
   ]
 }

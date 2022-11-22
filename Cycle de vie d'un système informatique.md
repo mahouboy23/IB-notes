@@ -13,3 +13,4 @@ les différents partie du cycle de vie d'un système informatique sont :
 4. [[implement]] 
 5. [[test cs|test]] 
 6. [[maintain]] 
+<!--SR:!2022-11-23,1,230-->

@@ -19,8 +19,11 @@ n nombre d'electrons perdues
 
 ### Conducteur et isolant électrique
 **Conducteur** :: un conducteur laisse passer le courant électrique 
+<!--SR:!2022-11-23,1,230-->
 **Isolant** :: un isolant ne laisse pas passer le courant
+<!--SR:!2022-11-23,1,230-->
 **Courant électrique** :: Le courant électrique  est le déplacement de charges.
+<!--SR:!2022-11-23,1,230-->
 
 *NB*: -Fil métallique > le courant est le déplacement d'electron libres ou de conduction
       -Une solution ionique ex NaCL, Na+  

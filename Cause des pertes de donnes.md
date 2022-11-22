@@ -7,7 +7,7 @@ Created: 2022-09-28
 ?
 1. Suppression accidentelle 
     **prevention** : Utilisation d'un logiciel de recuperation de fichiers
-<!--SR:!2022-10-21,3,210-->
+<!--SR:!2022-11-28,6,190-->
 
 2. Mauvais système d'organisation du stockage des données 
    **prevention** : Restructurer l'organisation des données  
