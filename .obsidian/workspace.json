@@ -40,19 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38e8d1c98dad502a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key features of stories.md",
+                "file": "Alliteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Alliteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Alliteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Alliteration.md"
               }
             }
           },
@@ -218,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Alliteration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "Key features of stories.md",
+    "Key features of poems.md",
     "sl subjects/Anglais Literrature.md",
+    "Key features of stories.md",
+    "Exposition.md",
+    "Peace act.md",
+    "point.md",
     "rappels d'électrostatique.md",
+    "Narrative technique.md",
     "Electricite et magnétisme.md",
-    "sl subjects/Physics.md",
-    "Physique thermique.md",
-    "Gas parfait.md",
-    "Rhetorical devices.md",
-    "test correction.md",
-    "12concepts.md"
+    "sl subjects/Physics.md"
   ]
 }
