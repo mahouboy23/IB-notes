@@ -37,4 +37,3 @@ tags : mod economie
 2. [[Definition Elasticite|definition]] 
 3. [[formule élasticites|formule]] 
 4. 
- ![[Pasted image 20221118091022.png]]
