@@ -40,19 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "personal knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a5842566cb5d983",
+            "id": "a4719be48392ab63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "Perspective.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "personal knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "personal knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "personal knowledge.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "personal knowledge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
-    "Implication PED pour les politiques gouvernementales.md",
-    "sl subjects/Economie.md",
-    "Definition Elasticite.md",
-    "formule élasticites.md",
-    "introduction.md",
+    "common core/TOK.md",
+    "12concepts.md",
+    "knowers and knowing.md",
+    "personal knowledge.md",
+    "who is the knower.md",
+    "Scope.md",
+    "Tools and methods.md",
+    "Perspective.md",
     "IB overview.md",
-    "Alliteration.md",
-    "Key features of poems.md",
-    "sl subjects/Anglais Literrature.md",
-    "Key features of stories.md"
+    "sl subjects/Economie.md"
   ]
 }
