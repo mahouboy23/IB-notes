@@ -16,7 +16,7 @@ The knowledge claim is justified with adequate evidence. Justification requires 
 The knowledge claim is true rather than false. It corresponds to the real world. It is a fact. It is "what is the case".
 4.  **Believed:** 
 The knowledge claim is matter of Conviction. We must own out Knowledge.
-<!--SR:!2022-10-23,3,170-->
+<!--SR:!2022-12-23,31,170-->
 
 question: 
 a) Do we have to believe what we know?

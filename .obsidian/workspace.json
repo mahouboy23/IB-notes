@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal knowledge.md",
+                "file": "common core/TOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal knowledge.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal knowledge.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal knowledge.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "personal knowledge.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "168cacbc777b6562",
   "lastOpenFiles": [
+    "personal knowledge.md",
+    "Excalidraw/Drawing 2022-11-22 21.21.27.excalidraw.md",
+    "Evidence.md",
     "common core/TOK.md",
     "12concepts.md",
     "knowers and knowing.md",
-    "personal knowledge.md",
     "who is the knower.md",
     "Scope.md",
     "Tools and methods.md",
-    "Perspective.md",
-    "IB overview.md",
-    "sl subjects/Economie.md"
+    "Perspective.md"
   ]
 }
