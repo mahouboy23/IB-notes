@@ -18,10 +18,10 @@ Personal knowledge is a knowledge we personally have. Almost all our personale k
 Some people would say we are born with an innate sense of God. 
 
 *Theorem* :: a principle or a statement that can be demonstrated or proved using logic, but is not self evident.
-<!--SR:!2022-11-23,1,230-->
+<!--SR:!2022-11-25,2,230-->
 
 *Truth* :: In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2022-11-23,1,230-->
+<!--SR:!2022-11-25,2,230-->
 
 Everything we perceive about the world is perceived trough our senses, so everything we know about the world is our brains interpretation of the sensory information it receives. 
 
