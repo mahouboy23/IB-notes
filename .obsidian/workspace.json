@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "who is the knower.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "who is the knower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "who is the knower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "who is the knower.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "who is the knower.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "855bb643aa7dbae4",
   "lastOpenFiles": [
-    "Perspective.md",
     "common core/TOK.md",
-    "IB overview.md",
-    "changement d'etat.md",
-    "Chaleur echanger lors d'un changement d'etat.md",
-    "Physique thermique.md",
-    "Chaleur massique, capacité calorifique.md",
-    "Equilibre thermique et principe de thermomètre.md",
-    "Chaleur et energie interne.md",
-    "temperature et echelle de temperature.md"
+    "personal knowledge.md",
+    "12concepts.md",
+    "who is the knower.md",
+    "perception.md",
+    "culture.md",
+    "Contingent.md",
+    "Perspective.md",
+    "Identify.md",
+    "knowers and knowing.md"
   ]
 }
