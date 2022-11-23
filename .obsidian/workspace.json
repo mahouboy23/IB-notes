@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "who is the knower.md",
+                "file": "personal knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "who is the knower.md",
+                "file": "personal knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "who is the knower.md",
+                "file": "personal knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "who is the knower.md"
+                "file": "personal knowledge.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "who is the knower.md",
+                "file": "personal knowledge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,14 +244,14 @@
   "active": "855bb643aa7dbae4",
   "lastOpenFiles": [
     "common core/TOK.md",
-    "personal knowledge.md",
-    "12concepts.md",
-    "who is the knower.md",
-    "perception.md",
-    "culture.md",
-    "Contingent.md",
     "Perspective.md",
-    "Identify.md",
-    "knowers and knowing.md"
+    "objective knowledge.md",
+    "who is the knower.md",
+    "template/TOK-.md",
+    "TOK WORK 1.md",
+    "perception.md",
+    "Scope.md",
+    "personal knowledge.md",
+    "culture.md"
   ]
 }

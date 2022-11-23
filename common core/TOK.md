@@ -1,4 +1,4 @@
-#tok #subject
+#TOK  #subject
 # Theory of Knowledge 
 ## - COURSE
 ## **Part 1 :** 
