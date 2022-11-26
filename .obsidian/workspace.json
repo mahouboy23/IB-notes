@@ -23,36 +23,12 @@
             }
           },
           {
-            "id": "22d153d6bc0d4134",
+            "id": "2ff0a1e841ca55ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cba10607d47fc05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rappels d'électrostatique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "855bb643aa7dbae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "equation des gas parfait.md",
+                "file": "les parties prenantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelisation.md",
+                "file": "les parties prenantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelisation.md",
+                "file": "les parties prenantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelisation.md"
+                "file": "les parties prenantes.md"
               }
             }
           },
@@ -206,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modelisation.md",
+                "file": "les parties prenantes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,17 +217,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "22d153d6bc0d4134",
+  "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
-    "La loi des gas parfaits.md",
-    "Modelisation.md",
-    "Physique thermique.md",
-    "sl subjects/Physics.md",
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
-    "La mole.md",
-    "equation des gas parfait.md",
-    "loi d'avogrado ampere.md",
-    "rappels d'électrostatique.md",
-    "common core/TOK.md"
+    "sl subjects/Economie.md",
+    "Implication PED pour les politiques gouvernementales.md",
+    "formule élasticites.md",
+    "Definition Elasticite.md",
+    "introduction.md",
+    "fonctions du mécanisme des prix.md",
+    "Modelisation.md"
   ]
 }
