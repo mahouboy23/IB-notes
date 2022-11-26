@@ -8,3 +8,5 @@ je
 
 #concept 
 $$\lim_{x \to 3}\frac{x-3}{x^{2}-9}$$
+1 $$\log{3}10=5x-y$$     
+  $$\log_310=\frac{\log10}{a}$$

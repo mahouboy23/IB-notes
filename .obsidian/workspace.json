@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "assets/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "assets/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "assets/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "les parties prenantes.md"
+                "file": "assets/test.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "les parties prenantes.md",
+                "file": "assets/test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +219,7 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "les parties prenantes.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -227,7 +228,6 @@
     "formule élasticites.md",
     "Definition Elasticite.md",
     "introduction.md",
-    "fonctions du mécanisme des prix.md",
-    "Modelisation.md"
+    "fonctions du mécanisme des prix.md"
   ]
 }
