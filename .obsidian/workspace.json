@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/test.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/test.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/test.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/test.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/test.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +219,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "assets/test.md",
     "les parties prenantes.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
-    "sl subjects/Economie.md",
     "Implication PED pour les politiques gouvernementales.md",
     "formule élasticites.md",
     "Definition Elasticite.md",
-    "introduction.md",
-    "fonctions du mécanisme des prix.md"
+    "introduction.md"
   ]
 }
