@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENG EXERCISE.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENG EXERCISE.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENG EXERCISE.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ENG EXERCISE.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,17 +229,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "cddf5bc0a0d623fb",
+  "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
-    "ENG EXERCISE.md",
-    "sl subjects/Anglais Literrature.md",
-    "Champ électrique.md",
-    "Notion de fonction.md",
-    "hl subjects/Math AA.md",
-    "les equation quadratique.md",
-    "Puissance-Exponentielles-Logarithm.md",
-    "rappels d'électrostatique.md",
-    "Excalidraw/Drawing 2022-11-29 09.18.38.excalidraw.md",
-    "sl subjects/Physics.md"
+    "Implication PED pour les politiques gouvernementales.md",
+    "sl subjects/Economie.md",
+    "formule élasticites.md",
+    "Definition Elasticite.md",
+    "introduction.md",
+    "IB overview.md",
+    "installation.md",
+    "logiciel.md",
+    "donnees.md",
+    "sl subjects/Anglais Literrature.md"
   ]
 }
