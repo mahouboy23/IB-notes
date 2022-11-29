@@ -28,14 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "sl subjects/Anglais Literrature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cddf5bc0a0d623fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENG EXERCISE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "ENG EXERCISE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "ENG EXERCISE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ électrique.md"
+                "file": "ENG EXERCISE.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "ENG EXERCISE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,17 +229,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "2ff0a1e841ca55ca",
+  "active": "cddf5bc0a0d623fb",
   "lastOpenFiles": [
+    "ENG EXERCISE.md",
+    "sl subjects/Anglais Literrature.md",
+    "Champ électrique.md",
     "Notion de fonction.md",
     "hl subjects/Math AA.md",
     "les equation quadratique.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "Champ électrique.md",
     "rappels d'électrostatique.md",
     "Excalidraw/Drawing 2022-11-29 09.18.38.excalidraw.md",
-    "sl subjects/Physics.md",
-    "Electricite et magnétisme.md",
-    "sl subjects/Anglais Literrature.md"
+    "sl subjects/Physics.md"
   ]
 }

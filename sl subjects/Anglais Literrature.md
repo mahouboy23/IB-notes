@@ -47,7 +47,7 @@ Pablo Picasso once said: 'Art is the lie that enables us to realize the truth.' 
 
 a) It is very much not poetic because there is no deeper meaning
 b)    
-
+...l,
 ## **UNIT 5:** Analyzing poems 
 *Learning objectives:*  
 1.  e
