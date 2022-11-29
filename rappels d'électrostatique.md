@@ -18,7 +18,7 @@ $$\large q = ne$$
 $$\large{e=1,6*10^{-19}C}(coulomb)$$
 n nombre d'electrons perdues
 
-### Conducteur et isolant électrique
+### [[Conducteur et isolant électrique]]
 **Conducteur** :: un conducteur laisse passer le courant électrique 
 <!--SR:!2022-11-26,3,250-->
 **Isolant** :: un isolant ne laisse pas passer le courant
@@ -34,7 +34,7 @@ les isolants ne conduisent pas l'electricite car les charges électriques y sont
 ### Loi de conservation de la charge électrique
 - la charge électrique d'un système isole est constant
 
-### Loi de Coulomb
+### [[Loi de Coulomb]]
 Deux charges électriques s'attire ou se repousse selon leur signe. Les forces s'exersant sur les deux charges sont opposes et leur intensité est donne par la loi de coulomb 
 
 **Loi de Coulomb** :: L'intensite de la force électrique qui s'exerce entre deux charges est proportionnelle au deux charges et est inversement proportionnel au carre de la distance séparément c'est deux charges. 
@@ -56,7 +56,5 @@ $$k=\frac{1}{4\pi \epsilon_{0}}$$
 $\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$ 
 <!--SR:!2022-11-24,1,224-->
 
-### Champ électrique
-On appelle champ électrique tout region de l'espace ou une charge est soumise a une force électrique. 
+### [[Champ électrique]]
 
-le champs électrique ne depends pas de la charge q (qui le subit) mais des charges qui le créent.

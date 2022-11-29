@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +219,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
-    "assets/test.md",
-    "les parties prenantes.md",
-    "Notion de système.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
-    "Implication PED pour les politiques gouvernementales.md",
-    "formule élasticites.md",
-    "Definition Elasticite.md",
-    "introduction.md"
+    "Notion de fonction.md",
+    "hl subjects/Math AA.md",
+    "les equation quadratique.md",
+    "Puissance-Exponentielles-Logarithm.md",
+    "Champ électrique.md",
+    "rappels d'électrostatique.md",
+    "Excalidraw/Drawing 2022-11-29 09.18.38.excalidraw.md",
+    "sl subjects/Physics.md",
+    "Electricite et magnétisme.md",
+    "sl subjects/Anglais Literrature.md"
   ]
 }
