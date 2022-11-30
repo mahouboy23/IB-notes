@@ -14,7 +14,7 @@
 - knowledge and indigenous societies  
 ## **Part 3 :** Areas of knowledge
 ?
-- History 
+- [[History]]
 - Mathematics 
 - Natural sciences 
 - Human sciences
@@ -33,3 +33,7 @@
 ## - LESSON
 ### **Lesson 1 :** [[who is the knower]] 
 ### **Lesson 2 :** [[personal knowledge]] 
+
+what is history : “History is **an area of knowledge that studies the recorded past**. It raises knowledge questions such as whether it is possible to talk meaningfully about a historical fact and what such a fact might be, or how far we can speak with certainty about anything in the past.
+
+History as an area of knowledge **deals with human actions in time whether by individuals or communities** so it is considered a “human science” for the most part, and the approach to the study of it is a “scientific” one.
