@@ -6,3 +6,5 @@ Created: 2022-09-28
 ?
 What is the nature of this particular theme? What is it about? What makes it intriguing? What are some of the intrinsic strengths and limitations? For Areas of Knowledge: what is being studied, and what kinds of problems can be solved? Where are the frontiers? What are some of the current open, unanswered, or contentious questions?
 <!--SR:!2022-11-26,4,250-->
+
+For the area of Knowledge history we could ask the following question : what is being studied, and what kind of problems can be solved ? What are the limitation ? What are some of the current open, unanswered or contentious question ? Are all ares of knowledge concerned with knowledge of the past to some extent ?

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "Scope.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "common core/TOK.md",
     "History.md",
     "template/TOK-.md",
-    "common core/TOK.md",
     "personal knowledge.md",
     "IB overview.md",
     "hl subjects/Francais B.md",
