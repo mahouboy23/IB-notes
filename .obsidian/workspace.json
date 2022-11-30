@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "hl subjects/Francais B.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "hl subjects/Francais B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "hl subjects/Francais B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "hl subjects/Francais B.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "hl subjects/Francais B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9346552651840688,
+                  "scale": 0.563981717298121,
                   "close": true
                 }
               }
@@ -231,8 +231,8 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
-    "Implication PED pour les politiques gouvernementales.md",
     "sl subjects/Economie.md",
+    "Implication PED pour les politiques gouvernementales.md",
     "formule élasticites.md",
     "Definition Elasticite.md",
     "introduction.md",
