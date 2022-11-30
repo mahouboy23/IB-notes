@@ -33,18 +33,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cddf5bc0a0d623fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENG EXERCISE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -217,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.563981717298121,
+                  "scale": 1.3125679420564609,
                   "close": true
                 }
               }
@@ -231,15 +219,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Scope.md",
+    "sl subjects/Anglais Literrature.md",
+    "ENG EXERCISE.md",
     "common core/TOK.md",
     "History.md",
     "template/TOK-.md",
     "personal knowledge.md",
-    "IB overview.md",
     "hl subjects/Francais B.md",
-    "sl subjects/Economie.md",
-    "Implication PED pour les politiques gouvernementales.md",
-    "formule élasticites.md",
-    "Definition Elasticite.md"
+    "sl subjects/Economie.md"
   ]
 }
