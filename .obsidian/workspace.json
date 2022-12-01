@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scope.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scope.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scope.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scope.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +219,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "rappels d'électrostatique.md",
+    "Electricite et magnétisme.md",
+    "sl subjects/Physics.md",
+    "common core/EE.md",
     "IB overview.md",
-    "Scope.md",
     "sl subjects/Anglais Literrature.md",
+    "sl subjects/Economie.md",
+    "Scope.md",
     "ENG EXERCISE.md",
-    "common core/TOK.md",
-    "History.md",
-    "template/TOK-.md",
-    "personal knowledge.md",
-    "hl subjects/Francais B.md",
-    "sl subjects/Economie.md"
+    "common core/TOK.md"
   ]
 }
