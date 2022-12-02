@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Taxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Taxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Taxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ électrique.md"
+                "file": "Taxes.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Taxes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3125679420564609,
+                  "scale": 0.6081105001973497,
                   "close": true
                 }
               }
@@ -219,15 +219,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "formule élasticites.md",
+    "introduction.md",
+    "Implication PED pour les politiques gouvernementales.md",
+    "Definition Elasticite.md",
+    "Champ électrique.md",
     "rappels d'électrostatique.md",
     "Electricite et magnétisme.md",
     "sl subjects/Physics.md",
-    "Champ électrique.md",
-    "common core/EE.md",
-    "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
-    "sl subjects/Economie.md",
-    "Scope.md",
-    "ENG EXERCISE.md"
+    "common core/EE.md"
   ]
 }
