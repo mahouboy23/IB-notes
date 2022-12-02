@@ -26,12 +26,8 @@
             "id": "2ff0a1e841ca55ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taxes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Taxes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Taxes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +210,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
+    "Taxes.md",
     "sl subjects/Economie.md",
     "formule élasticites.md",
     "introduction.md",
     "Implication PED pour les politiques gouvernementales.md",
     "Definition Elasticite.md",
     "Champ électrique.md",
-    "rappels d'électrostatique.md",
-    "Electricite et magnétisme.md",
-    "sl subjects/Physics.md",
-    "common core/EE.md"
+    "rappels d'électrostatique.md"
   ]
 }
