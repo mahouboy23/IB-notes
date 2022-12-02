@@ -26,8 +26,12 @@
             "id": "2ff0a1e841ca55ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion de système.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -43,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXO CS 3.md",
+                "file": "Notion de système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXO CS 3.md",
+                "file": "Notion de système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXO CS 3.md"
+                "file": "Notion de système.md"
               }
             }
           },
@@ -190,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EXO CS 3.md",
+                "file": "Notion de système.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,8 +229,9 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "933e9e6799df065d",
+  "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "EXO CS 3.md",
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "Taxes.md",
@@ -235,7 +240,6 @@
     "introduction.md",
     "Implication PED pour les politiques gouvernementales.md",
     "Definition Elasticite.md",
-    "Champ électrique.md",
-    "rappels d'électrostatique.md"
+    "Champ électrique.md"
   ]
 }
