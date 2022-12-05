@@ -16,7 +16,7 @@ $$F=|q|E$$
 - $|q|$ = Charge électrique en Coulomb
 ---
 
-- L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
+- L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 

@@ -56,5 +56,5 @@ $$k=\frac{1}{4\pi \epsilon_{0}}$$
 $\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$ 
 <!--SR:!2022-11-24,1,224-->
 
-### [[Champ électrique]]
+
 
