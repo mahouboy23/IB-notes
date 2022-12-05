@@ -1,6 +1,5 @@
 [
   "calendar",
-  "obsidian-discordrpc",
   "quick-latex",
   "obsidian-git",
   "better-word-count",
@@ -15,5 +14,6 @@
   "text-snippets-obsidian",
   "dataview",
   "table-editor-obsidian",
-  "python-lab-plugin"
+  "python-lab-plugin",
+  "obsidian-discordrpc"
 ]
