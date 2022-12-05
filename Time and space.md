@@ -24,3 +24,9 @@ Finally in the third person point of view the writer uses the pronouns he, she, 
 
 **Cultural context**: of text helps the reader understand what is happening and why. It is made up of several factors including setting or location, background, cultures, believes and community. Each of this components effects how a reader looks at and understand what is happening in that text. For exemple to understand the plot of the book "To kill a mauking bird" from Lee Harper the readers must think about where the story is taking place (setting or location) when the story is taking place (year or time) who is involved (characters) and what values and believes those characters have. The setting of the book is in the racially divided deep south of the united states
 during the great depression in the 1930. The main character Atticus Finch is a lawyer who is also a widowed father of two children. Mr Finch is called upon the defend an African American man who us accused of raping a white women. Knowing the culturel context of the book makes to understand better the plot and what Mr Finch is doing. In this way culturel context becomes just as important to understanding the plot of the novel as is knowing about the characters and the pont of views the story is being tolled. 
+
+
+This memo is written in the first point of view. The vise present of the companies is writing to the employes of Infotech you can see that this is the first person because\
+
+The memo is written to employees in a law firm that has a very professional dress code. Knowing this we can infer from the writers first and last sentences that the dress code has been misunderstood by some of the employees and 
+the writers tone appears firm and almost disciplinary which make affect the work place tone and that intern effect the cultural context of the memo and how the reader
