@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "Notion de système.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "Notion de système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "Notion de système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "Notion de système.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "History.md",
+                "file": "Notion de système.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "History.md",
     "common core/TOK.md",
     "key word.md",
     "Scope.md",
-    "History.md",
     "Perspective.md",
     "personal knowledge.md",
     "Tools and methods.md",
     "IB overview.md",
-    "Les effets thermique du courant electrique.md",
-    "Excalidraw/Drawing 2022-12-05 17.03.07.excalidraw.md"
+    "Les effets thermique du courant electrique.md"
   ]
 }
