@@ -4,7 +4,7 @@
 ## **Part 1 :** 
  [[knowers and knowing]] $\rightarrow$ *core themes* 
  [[12concepts|12 TOK concepts]]   
-
+  [[key word]] 
 ## **Part 2 :** Optional themes
 ?
 - knowledge and technology

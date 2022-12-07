@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "key word.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "key word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "key word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les effets thermique du courant electrique.md"
+                "file": "key word.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "key word.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,15 +243,15 @@
   },
   "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-12-05 17.03.07.excalidraw.md",
-    "Les effets thermique du courant electrique.md",
-    "Electricite et magnétisme.md",
-    "Champ électrique.md",
-    "rappels d'électrostatique.md",
-    "sl subjects/Physics.md",
+    "common core/TOK.md",
+    "key word.md",
+    "Scope.md",
+    "History.md",
+    "Perspective.md",
+    "personal knowledge.md",
+    "Tools and methods.md",
     "IB overview.md",
-    "Time and space.md",
-    "sl subjects/Anglais Literrature.md",
-    "Notion de système.md"
+    "Les effets thermique du courant electrique.md",
+    "Excalidraw/Drawing 2022-12-05 17.03.07.excalidraw.md"
   ]
 }
