@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de système.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de système.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de système.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notion de système.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,17 +241,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "2ff0a1e841ca55ca",
+  "active": "1923f170f99ae433",
   "lastOpenFiles": [
+    "IB overview.md",
+    "sl subjects/Economie.md",
+    "Champ électrique.md",
+    "Notion de système.md",
     "hl subjects/Computer science.md",
     "History.md",
     "common core/TOK.md",
     "key word.md",
     "Scope.md",
-    "Perspective.md",
-    "personal knowledge.md",
-    "Tools and methods.md",
-    "IB overview.md",
-    "Les effets thermique du courant electrique.md"
+    "Perspective.md"
   ]
 }
