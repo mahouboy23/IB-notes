@@ -20,7 +20,7 @@ Dans quelle mesure la précision et la performance de l'algorithme de régressio
 #### **The plan:** 
 1/ Introduction
 
-Introduce the problem and the topic
+Introduce the problem and the topic 
   
 2/ Partie théorique
 
@@ -30,9 +30,9 @@ Introduce the problem and the topic
  a) Linear regression
  b) Logistic Regression
 
-3/ Méthodologie & Experiment
+3/ Méthodologie & Experience
 
-4/ Analysis & Conclusion 
+4/ Analyses & Conclusion 
 
 5/ Appendix
 
