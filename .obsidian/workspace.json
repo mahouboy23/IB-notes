@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les effets thermique du courant electrique.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les effets thermique du courant electrique.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,15 +241,15 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "2ff0a1e841ca55ca",
+  "active": "1923f170f99ae433",
   "lastOpenFiles": [
+    "IB overview.md",
+    "common core/EE.md",
     "Les effets thermique du courant electrique.md",
     "Electricite et magnétisme.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "Notion de système.md",
-    "common core/EE.md",
     "sl subjects/Economie.md",
     "Champ électrique.md",
     "hl subjects/Computer science.md"
