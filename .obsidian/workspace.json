@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de système.md",
+                "file": "Les effets thermique du courant electrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Les effets thermique du courant electrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Les effets thermique du courant electrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "Les effets thermique du courant electrique.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Les effets thermique du courant electrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,17 +241,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "1923f170f99ae433",
+  "active": "2ff0a1e841ca55ca",
   "lastOpenFiles": [
+    "Les effets thermique du courant electrique.md",
+    "Electricite et magnétisme.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Notion de système.md",
+    "common core/EE.md",
     "sl subjects/Economie.md",
     "Champ électrique.md",
-    "Notion de système.md",
-    "hl subjects/Computer science.md",
-    "History.md",
-    "common core/TOK.md",
-    "key word.md",
-    "Scope.md",
-    "Perspective.md"
+    "hl subjects/Computer science.md"
   ]
 }
