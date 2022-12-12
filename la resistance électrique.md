@@ -21,3 +21,12 @@ $$R=\frac{\rho l}{A} \hspace{2mm} OU \hspace{2mm} \rho =\frac{RA}{l}$$ R = en oh
 $\rho$ = en ohm m
 A = en $m^2$ 
 
+
+
+La droite representant U en fonction de I est linéaire U et I sont proportionnelles  
+$U=aI$ 
+$U=RI$ 
+
+**Loi d'Ohm**: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
+
+**Un conducteur ohmique**: est un conducteur qui obéit a la loi d'Ohm
