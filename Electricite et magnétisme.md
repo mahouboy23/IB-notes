@@ -11,4 +11,8 @@ Les différentes méthodes d'électrisation:
 ### PARTE 1: **Champ électrique** 
 1) [[rappels d'électrostatique]] 
 2) [[Champ électrique]]
-3) [[Les effets thermique du courant electrique]]   
+
+### PARTE 1: **Les effets thermique du courant électrique** 
+1) [[L'intensité du courant électrique]] 
+2) [[La tension électrique ou difference de potentiel électrique]] 
+3) [[la resistance électrique]] 
