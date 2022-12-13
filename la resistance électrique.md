@@ -40,4 +40,17 @@ l'association en série de plusieurs resistors est equivalent a un resistor $R_{
 - $$\frac{1}{R}=G$$
 - R = en Ohm
 - G conductance = Siemens 
-- 
+
+### Dissipation d'énergie électrique dans un resistor : Effet joules
+Lorsque qu'un conducteur est parcourue par un courant électrique il y a un dégagement de chaleur: c'est l'effet joules
+Pour lutter contre l'effet joules on prévoit des dispositif d'aeration ou de ventilation dans certains appareils électrique (tele, ordinateur). L'effet joules est utiliser avantageusement dans certains dispositif comme les plaques chauffantes, chauffe eau..
+La puissance dissipe par effet joule est proportionnelle au carre
+$$P=RI^2$$
+$$U=RI \rightarrow I=\frac{U}{R}$$
+$$P=R*\frac{U^2}{R^2}=\frac{U^2}{R^2}$$ 
+### Utilisation des appareils de mesure 
+Un appareil de mesure modifie le circuit et a un effet sur la mesure 
+- **Utilisation d'un ampèremètre** :
+Un ampèremètre ideal a une resistance interne nul
+-  **Utilisation d'un voltmètre** :
+Un voltmètre ideal a une resistance interne infinie 
