@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "la resistance électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "la resistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "la resistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key features of stories.md"
+                "file": "la resistance électrique.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "la resistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,15 +230,15 @@
   },
   "active": "1923f170f99ae433",
   "lastOpenFiles": [
+    "Electricite et magnétisme.md",
+    "la resistance électrique.md",
+    "sl subjects/Physics.md",
+    "Key features of stories.md",
     "sl subjects/Anglais Literrature.md",
     "IB overview.md",
     "Notion de système.md",
-    "Electricite et magnétisme.md",
-    "la resistance électrique.md",
     "L'intensité du courant électrique.md",
     "EXO CS 3.md",
-    "La tension électrique ou difference de potentiel électrique.md",
-    "sl subjects/Physics.md",
-    "la documentation des utilisateur.md"
+    "La tension électrique ou difference de potentiel électrique.md"
   ]
 }

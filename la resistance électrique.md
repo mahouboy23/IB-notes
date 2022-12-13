@@ -8,9 +8,9 @@ Tout les matériaux ne conduisent pas le courant électrique de la meme manière
 On défini la resistance électrique comme : 
 ?
 $$R=\frac{\delta V}{I}$$ 
-r = en Ohm
-v = en volte 
-i = en ampere 
+R = en Ohm
+V = en volte 
+I = en ampere 
 
 La resistance d'un fil conducteur depend de :
 ?
@@ -29,4 +29,15 @@ $U=RI$
 
 **Loi d'Ohm**: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
 
-**Un conducteur ohmique**: est un conducteur qui obéit a la loi d'Ohm
+**Un conducteur ohmique**: est un conducteur qui obéit a la loi d'Ohm 
+
+## Association de resistors 
+
+- **Association en série** $R_{eq_{s}}=R_{1}+R_{2}+R_{3}...$ 
+l'association en série de plusieurs resistors est equivalent a un resistor $R_{eqs}$ dont la resistance est égale a la somme des resistances 
+
+- **Association en parallèle** $\frac{1}{R_{eq//}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$ 
+- $$\frac{1}{R}=G$$
+- R = en Ohm
+- G conductance = Siemens 
+- 
