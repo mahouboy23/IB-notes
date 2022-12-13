@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "Key features of stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "Key features of stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "Key features of stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la resistance électrique.md"
+                "file": "Key features of stories.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "Key features of stories.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,17 +228,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "34a574bcbcda84fc",
+  "active": "1923f170f99ae433",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "Notion de système.md",
     "Electricite et magnétisme.md",
     "la resistance électrique.md",
-    "IB overview.md",
     "L'intensité du courant électrique.md",
     "EXO CS 3.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "sl subjects/Physics.md",
-    "la documentation des utilisateur.md",
-    "hl subjects/Math AA.md",
-    "common core/EE.md"
+    "la documentation des utilisateur.md"
   ]
 }
