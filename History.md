@@ -11,4 +11,8 @@ There are many reason for pursuing historical knowledge. We can justify history 
 
 ## History gives
 History gives us a shared memory. You can know a person if you know something about his history, you can also know a country if you know something about its history and collective national memories. If you are to have informed opinions about current affairs, and your judgements about other countries are to go beyond mere prejudice, then a knowledge of history is indispensable. Education system will take a peculiar approach to the teaching of history. For example a school history textbook might shape a student's sense of identity, and a collective national memory. Textbooks written about the same historical person or event may take approaches. 
-The key issue is who interprets the collective national memory for today, and how it's represented, This issues have significant implications for knowledge and knowing.  
+The key issue is who interprets the collective national memory for today, and how it's represented, This issues have significant implications for knowledge and knowing. 
+
+## History enriches our understanding of human nature
+History enriches our understanding of human nature by showing us what human being has thought and done in a wide variety of circumstances. History might remind us that human behavior's can never be fully explained in terms of neat and tidy models. If that is the case, then we might agree with the historians of R.G Collingwood (1819-1943) who suggested that if you want to know yourself and other people better, you might want to pursue historical knowledge :
+my answer is that history is for human self knowledge... Knowing yourself means knowing what you can do; and since nobody knows what he can do until he try's, the only clue to what Man can do what Man has done. The value of history, then, is that it teaches us what Man has done and thus what Man is
