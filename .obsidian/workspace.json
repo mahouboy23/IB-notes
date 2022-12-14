@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "History.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,15 +218,15 @@
   },
   "active": "0b8b30736c810a43",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "Notion de système.md",
+    "Architecture des ordinateurs.md",
+    "History.md",
     "common core/TOK.md",
     "Scope.md",
-    "History.md",
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "sl subjects/Economie.md",
-    "hl subjects/Math AA.md",
-    "Notion de système.md",
-    "key word.md",
-    "Tools and methods.md"
+    "hl subjects/Math AA.md"
   ]
 }
