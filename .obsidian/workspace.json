@@ -23,24 +23,12 @@
             }
           },
           {
-            "id": "1923f170f99ae433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la resistance électrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b8b30736c810a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la resistance électrique.md"
+                "file": "History.md"
               }
             }
           },
@@ -193,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "History.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,17 +216,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "1923f170f99ae433",
+  "active": "0b8b30736c810a43",
   "lastOpenFiles": [
-    "L'intensité du courant électrique.md",
-    "la resistance électrique.md",
-    "Electricite et magnétisme.md",
-    "sl subjects/Physics.md",
-    "Key features of stories.md",
-    "sl subjects/Anglais Literrature.md",
+    "common core/TOK.md",
+    "Scope.md",
+    "History.md",
     "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "sl subjects/Economie.md",
+    "hl subjects/Math AA.md",
     "Notion de système.md",
-    "EXO CS 3.md",
-    "La tension électrique ou difference de potentiel électrique.md"
+    "key word.md",
+    "Tools and methods.md"
   ]
 }
