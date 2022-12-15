@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "la resistance électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "la resistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "la resistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "la resistance électrique.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "la resistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,15 +218,15 @@
   },
   "active": "0b8b30736c810a43",
   "lastOpenFiles": [
+    "Electricite et magnétisme.md",
+    "La tension électrique ou difference de potentiel électrique.md",
+    "L'intensité du courant électrique.md",
+    "sl subjects/Physics.md",
+    "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Notion de système.md",
-    "Architecture des ordinateurs.md",
     "History.md",
     "common core/TOK.md",
-    "Scope.md",
-    "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
-    "sl subjects/Economie.md",
-    "hl subjects/Math AA.md"
+    "Scope.md"
   ]
 }

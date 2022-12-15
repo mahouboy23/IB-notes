@@ -1,4 +1,4 @@
----
+   ---
 tags : mod Physique
 ---
 Created: 2022-12-12
@@ -47,7 +47,7 @@ Pour lutter contre l'effet joules on prévoit des dispositif d'aeration ou de ve
 La puissance dissipe par effet joule est proportionnelle au carre
 $$P=RI^2$$
 $$U=RI \rightarrow I=\frac{U}{R}$$
-$$P=R*\frac{U^2}{R^2}=\frac{U^2}{R^2}$$ 
+$$P=R*\frac{U^2}{R^2}=\frac{U^2}{R}$$ 
 ### Utilisation des appareils de mesure 
 Un appareil de mesure modifie le circuit et a un effet sur la mesure 
 - **Utilisation d'un ampèremètre** :
