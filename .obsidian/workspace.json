@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9c4157b2d5dfc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hl subjects/Computer science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'intensité du courant électrique.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -181,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,17 +228,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "0b8b30736c810a43",
+  "active": "c9c4157b2d5dfc7a",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Les normes et protocoles.md",
+    "L'intensité du courant électrique.md",
     "Electricite et magnétisme.md",
     "la resistance électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
-    "L'intensité du courant électrique.md",
     "sl subjects/Physics.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
-    "Notion de système.md",
-    "History.md",
-    "common core/TOK.md"
+    "Notion de système.md"
   ]
 }
