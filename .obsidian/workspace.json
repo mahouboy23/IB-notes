@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "L'intensité du courant électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "L'intensité du courant électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "L'intensité du courant électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la resistance électrique.md"
+                "file": "L'intensité du courant électrique.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "L'intensité du courant électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +219,7 @@
   "active": "0b8b30736c810a43",
   "lastOpenFiles": [
     "Electricite et magnétisme.md",
+    "la resistance électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "L'intensité du courant électrique.md",
     "sl subjects/Physics.md",
@@ -226,7 +227,6 @@
     "hl subjects/Computer science.md",
     "Notion de système.md",
     "History.md",
-    "common core/TOK.md",
-    "Scope.md"
+    "common core/TOK.md"
   ]
 }
