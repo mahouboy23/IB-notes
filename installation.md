@@ -8,7 +8,7 @@ Un nouveau système :: peut être considéré comme similaire a l'installation d
 <!--SR:!2022-11-26,4,190-->
 
 
-Il est impossible de garder a l'esprit l'etendue et les limites des nouveaux systèmes lorsqu'ils sont introduits. 4 contraintes a prendre en charge lors de l'installation d'un nouveau [[systeme|système]] sont:
+Il est impossible de garder a l'esprit l'etendue et les limites des nouveaux systèmes lorsqu'ils sont introduits. 4 contraintes a prendre en charge lors de l'installation d'un nouveau [[système|système]] sont:
 ?
 - Coûts élevés
 - Temps de mise en place

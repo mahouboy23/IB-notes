@@ -1,14 +1,13 @@
 ---
 tags : mod cs
 ---
-# Changements dans un environment
 Created: 2022-10-05
 
-La loi de Moore décrit la progression naturelle de la technologie, ce qui indique essentiellement qu'il existe un développement naturel de nouveaux [[systeme|système]].  
+La loi de Moore décrit la progression naturelle de la technologie, ce qui indique essentiellement qu'il existe un développement naturel de nouveaux [[système|système]].  
 
-Ces nouveaux [[systeme|système]] seront développés en réponse à un problème ou pour remplacer un ancien [[systeme|système]].
+Ces nouveaux [[système|système]] seront développés en réponse à un problème ou pour remplacer un ancien [[système|système]].
 
-Dans ce dernier cas, ces nouveaux [[systeme|système]] exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
+Dans ce dernier cas, ces nouveaux [[système|système]] exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
 
 ## Liens
 1. [[Les problèmes liés au changement]] 

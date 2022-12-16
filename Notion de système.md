@@ -12,7 +12,7 @@ $$\Huge{system}$$
 ### **Lesson 1 :** Conception et installation d'un système 
 >[! c'est quoi un systeme  informatique ?] 
 
-[[systeme|Conception d'un système]] | [[installation| Installation d'un système]]  
+[[système|Conception d'un système]] | [[installation| Installation d'un système]]  
  1. [[Changements dans un environment]] 
  
 ###  **Lesson 2 :** User focus
@@ -39,7 +39,7 @@ $$\Huge{system}$$
 ### **Lesson 1 :** Composants d'un système informatique
 1. [[]]
 2. [[Rôles d'un ordinateur dans un réseau]] 
-3. [[]] 
+3. [[Sécurité de l'information]] 
 
 ### **Lesson 2 :** Sujets informatiques d'importance sociale et éthique 
 1. 

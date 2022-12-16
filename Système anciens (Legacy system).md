@@ -4,7 +4,7 @@ tags : mod cs
 # Système anciens (Legacy system)
 Created: 2022-10-05 
 
-Les [[systeme|système]] anciens ou hérités désignent des systèmes informatiques obsoletes qui ont été remplacés par des technologies plus récentes.
+Les [[système|système]] anciens ou hérités désignent des systèmes informatiques obsoletes qui ont été remplacés par des technologies plus récentes.
 
 Les inconvénients sont 3:
 
