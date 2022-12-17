@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Intégrité.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Intégrité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Intégrité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md"
+                "file": "Intégrité.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Intégrité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,9 +230,9 @@
   },
   "active": "0b8b30736c810a43",
   "lastOpenFiles": [
+    "Sujets informatiques d'importance sociale et éthique.md",
     "Intégrité.md",
     "template/cs-.md",
-    "Sujets informatiques d'importance sociale et éthique.md",
     "Fiabilité.md",
     "hl subjects/Computer science.md",
     "Mondialisation et diversité culturelle.md",
