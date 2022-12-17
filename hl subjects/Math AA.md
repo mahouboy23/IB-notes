@@ -9,6 +9,4 @@ tags : mod Math subject
 
 ### **Chapitre 4:** [[Puissance-Exponentielles-Logarithm]] 
 
-
-identifiant: sanou1234@gmail.com 
-mot de passe: @Sanou20212021
+### **Chapitre 5:** [[Fonctions et Transformation]]  
