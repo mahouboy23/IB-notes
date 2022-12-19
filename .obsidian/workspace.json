@@ -40,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
-                "mode": "preview",
+                "file": "common core/EE.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,12 +242,12 @@
   },
   "active": "c9c4157b2d5dfc7a",
   "lastOpenFiles": [
-    "Fonctions et Transformation.md",
+    "IB overview.md",
     "La tension électrique ou difference de potentiel électrique.md",
+    "Fonctions et Transformation.md",
     "Intégrité.md",
     "template/math-.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Sujets informatiques d'importance sociale et éthique.md",
     "template/cs-.md",
     "Fiabilité.md",
