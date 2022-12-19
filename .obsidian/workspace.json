@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,6 +243,7 @@
   "active": "c9c4157b2d5dfc7a",
   "lastOpenFiles": [
     "IB overview.md",
+    "common core/EE.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "Fonctions et Transformation.md",
     "Intégrité.md",
@@ -250,7 +251,6 @@
     "hl subjects/Math AA.md",
     "Sujets informatiques d'importance sociale et éthique.md",
     "template/cs-.md",
-    "Fiabilité.md",
-    "hl subjects/Computer science.md"
+    "Fiabilité.md"
   ]
 }
