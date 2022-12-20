@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "la resistance électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "la resistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "la resistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "la resistance électrique.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "la resistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,17 +240,17 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "2d757b4676aa7f1f",
+  "active": "c9c4157b2d5dfc7a",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
-    "common core/EE.md",
-    "IB overview.md",
-    "Fonctions et Transformation.md",
+    "Electricite et magnétisme.md",
+    "la resistance électrique.md",
+    "Piles électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
-    "Intégrité.md",
-    "template/math-.md",
-    "hl subjects/Math AA.md",
-    "Sujets informatiques d'importance sociale et éthique.md",
-    "template/cs-.md"
+    "Fem.md",
+    "sl subjects/Physics.md",
+    "Mesure d'incertitude.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "common core/EE.md"
   ]
 }

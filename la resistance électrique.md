@@ -1,4 +1,4 @@
-   ---
+---
 tags : mod Physique
 ---
 Created: 2022-12-12
@@ -54,3 +54,13 @@ Un appareil de mesure modifie le circuit et a un effet sur la mesure
 Un ampèremètre ideal a une resistance interne nul
 -  **Utilisation d'un voltmètre** :
 Un voltmètre ideal a une resistance interne infinie 
+
+### Diviseur de tension et montage potentiométrique
+- **Diviseur de tension**
+Par exemple si on a un générateur de 12V et que l'on veuille alimenter un appareil de 4V par ex on peut utiliser le montage diviseur de tension.
+*image* 
+$$U_{ab}=(R_{ac}+R_{cb})I$$
+$$U_{ac}=R_{ac}I$$
+$$\frac{U_{ac}}{U_{ab}}=\frac{R_{ac}\cancel{I}}{(R_{ac}+R_{cb})\cancel{I}}$$
+$$U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}$$
+Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
