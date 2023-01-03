@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Piles électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,15 +242,15 @@
   },
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
+    "Electricite et magnétisme.md",
+    "la resistance électrique.md",
+    "Piles électrique.md",
+    "sl subjects/Physics.md",
+    "sl subjects/Anglais Literrature.md",
     "common core/CAS.md",
     "Etapes d'une expérience et projet CAS.md",
     "Attributs du profil de l'apprenant.md",
     "7 objectifs d'apprentissage CAS.md",
-    "Expériences et projets CAS.md",
-    "Composantes CAS.md",
-    "hl subjects/Math AA.md",
-    "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
-    "common core/EE.md"
+    "Expériences et projets CAS.md"
   ]
 }
