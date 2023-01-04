@@ -37,7 +37,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Eléctricite et magnétisme.canvas",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
                   "x": 320.5850841349986,
                   "y": -78.28262931256047,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md"
+                "file": "Eléctricite et magnétisme fiche revision.canvas"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,7 +286,7 @@
   "lastOpenFiles": [
     "Architecture des ordinateurs.md",
     "La tension électrique ou difference de potentiel électrique.md",
-    "Eléctricite et magnétisme.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "Fonctions et Transformation.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
