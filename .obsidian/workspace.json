@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6fc50c5222cda64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB overview.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "2d757b4676aa7f1f",
             "type": "leaf",
             "state": {
@@ -47,12 +32,18 @@
             }
           },
           {
-            "id": "931a01130930ccf4",
+            "id": "e7181fb906e54b46",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 308.5089612519392,
+                  "y": 28.171838803474515,
+                  "zoom": -0.7982148875203589,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -69,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +81,21 @@
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
               }
+            }
+          },
+          {
+            "id": "c6fc50c5222cda64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -135,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -215,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Untitled.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594
+    "width": 492
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,8 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "931a01130930ccf4",
+  "active": "e7181fb906e54b46",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "la resistance électrique.md",
@@ -272,8 +280,6 @@
     "Electricite et magnétisme.md",
     "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
-    "common core/CAS.md",
-    "Etapes d'une expérience et projet CAS.md",
-    "Attributs du profil de l'apprenant.md"
+    "common core/CAS.md"
   ]
 }

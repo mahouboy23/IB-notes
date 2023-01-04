@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0a7e14e75e11e8eb","x":-231,"y":-361,"width":400,"height":400,"type":"file","file":"la resistance électrique.md"},
+		{"id":"52029cb814472ee2","x":499,"y":-561,"width":400,"height":400,"type":"file","file":"Piles électrique.md"}
+	],
+	"edges":[
+		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right"}
+	]
+}
