@@ -40,9 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la resistance électrique.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "931a01130930ccf4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
               }
             }
           },
@@ -59,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -205,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,17 +250,30 @@
     "direction": "horizontal",
     "width": 594
   },
-  "active": "2d757b4676aa7f1f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "931a01130930ccf4",
   "lastOpenFiles": [
-    "Electricite et magnétisme.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "la resistance électrique.md",
     "Piles électrique.md",
+    "Electricite et magnétisme.md",
     "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "common core/CAS.md",
     "Etapes d'une expérience et projet CAS.md",
-    "Attributs du profil de l'apprenant.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "Expériences et projets CAS.md"
+    "Attributs du profil de l'apprenant.md"
   ]
 }
