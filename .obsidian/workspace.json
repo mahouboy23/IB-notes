@@ -11,11 +11,9 @@
             "id": "2d757b4676aa7f1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/La tension électrique ou difference de potentiel électrique/Pasted image 20221216092027.png"
               }
             }
           },
@@ -39,23 +37,11 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 401.87740951458545,
-                  "y": 43.655858756820265,
-                  "zoom": -0.8798890224503333,
+                  "x": 131.6199598880532,
+                  "y": 884.7327798847296,
+                  "zoom": -1.1221537223956002,
                   "snapToGrid": false
                 }
-              }
-            }
-          },
-          {
-            "id": "0b8b30736c810a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intégrité.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -285,13 +271,13 @@
   "lastOpenFiles": [
     "La tension électrique ou difference de potentiel électrique.md",
     "Eléctricite et magnétisme fiche revision.canvas",
+    "Architecture des ordinateurs.md",
+    "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png",
+    "assets/La tension électrique ou difference de potentiel électrique/Pasted image 20221216092027.png",
     "assets/image/equilibr.png",
     "Intégrité.md",
-    "Architecture des ordinateurs.md",
     "Fonctions et Transformation.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
-    "Eléctricite et magnétisme.md",
-    "sl subjects/Physics.md"
+    "IB overview.md"
   ]
 }
