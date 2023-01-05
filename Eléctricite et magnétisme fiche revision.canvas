@@ -5,7 +5,8 @@
 		{"id":"8b89442f7065cd02","x":169,"y":865,"width":819,"height":227,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png"},
 		{"id":"10dd104267dcd8d3","x":-508,"y":781,"width":477,"height":311,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"},
 		{"id":"52029cb814472ee2","x":857,"y":-596,"width":621,"height":526,"color":"5","type":"file","file":"Piles électrique.md"},
-		{"id":"c08650431a968c3a","x":-988,"y":-952,"width":410,"height":261,"color":"1","type":"text","text":"\n$$\\huge{R=\\frac{\\delta V}{I}}$$\n# R = en Ohm\n# V = en volte \n# I = en ampere "}
+		{"id":"275412a42d23b339","x":-988,"y":-987,"width":484,"height":296,"color":"1","type":"file","file":"La resistance d'un fil conducteu.md"},
+		{"id":"faec2c0bd3eee601","x":-321,"y":-987,"width":490,"height":296,"color":"1","type":"file","file":"La resistance d'un fil conducteu.md"}
 	],
 	"edges":[
 		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right","color":"6","label":"linked"},
@@ -13,6 +14,7 @@
 		{"id":"9c1436ddb3247a9b","fromNode":"8564d9330064fbe1","fromSide":"right","toNode":"52029cb814472ee2","toSide":"bottom","color":"6","label":"linked"},
 		{"id":"26f8ba55e720aeb5","fromNode":"8b89442f7065cd02","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"},
 		{"id":"e08d91f2f5dbc05d","fromNode":"10dd104267dcd8d3","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"},
-		{"id":"cac92d7637151b61","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"c08650431a968c3a","toSide":"bottom","color":"#ff7d00","label":"Formule"}
+		{"id":"cac92d7637151b61","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"275412a42d23b339","toSide":"bottom","color":"#ff7d00","label":"Formule"},
+		{"id":"c8a1e02f29e61506","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"faec2c0bd3eee601","toSide":"bottom","color":"#ff7d00","label":"Formule"}
 	]
 }
