@@ -39,8 +39,8 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 320.5850841349986,
-                  "y": -78.28262931256047,
+                  "x": 252.12838907850391,
+                  "y": 539.9668979164054,
                   "zoom": -0.8798890224503333,
                   "snapToGrid": false
                 }
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "La tension électrique ou difference de potentiel électrique.md"
               }
             }
           },
@@ -234,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,17 +280,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7181fb906e54b46",
+  "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
-    "Architecture des ordinateurs.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "La tension électrique ou difference de potentiel électrique.md",
+    "assets/image/equilibr.png",
+    "Intégrité.md",
+    "Architecture des ordinateurs.md",
     "Fonctions et Transformation.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Eléctricite et magnétisme.md",
-    "sl subjects/Physics.md",
-    "Piles électrique.md",
-    "Untitled 2.md"
+    "sl subjects/Physics.md"
   ]
 }
