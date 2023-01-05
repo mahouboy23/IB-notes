@@ -38,7 +38,7 @@
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
                   "x": -331.81009926510416,
-                  "y": -406.5348326093801,
+                  "y": -421.8607503057704,
                   "zoom": -1.1357083411857247,
                   "snapToGrid": false
                 }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "la résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "la résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "la résistance électrique.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "la résistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,10 +279,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7181fb906e54b46",
+  "active": "90f66308cc69cc52",
   "lastOpenFiles": [
-    "la résistance électrique.md",
     "Eléctricite et magnétisme fiche revision.canvas",
+    "la résistance électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "Architecture des ordinateurs.md",
     "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png",
