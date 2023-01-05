@@ -7,7 +7,8 @@
 		{"id":"52029cb814472ee2","x":857,"y":-596,"width":621,"height":526,"color":"5","type":"file","file":"Piles électrique.md"},
 		{"id":"275412a42d23b339","x":-988,"y":-1014,"width":484,"height":323,"color":"1","type":"file","file":"la resistance électrique.md"},
 		{"id":"346a1df94ba3da82","x":-303,"y":-1014,"width":542,"height":323,"color":"1","type":"file","file":"La resistance d'un fil conducteur.md"},
-		{"id":"356f4a397e5c15e7","x":-51,"y":-1014,"width":250,"height":60,"type":"text","text":""}
+		{"id":"a2534496106f6f6b","x":-1281,"y":-55,"width":413,"height":189,"color":"1","type":"file","file":"Association en parallèle.md"},
+		{"id":"7714d0c8d2443063","x":-1281,"y":-628,"width":429,"height":177,"color":"1","type":"file","file":"Association en série.md"}
 	],
 	"edges":[
 		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right","color":"6","label":"linked"},
@@ -16,6 +17,8 @@
 		{"id":"26f8ba55e720aeb5","fromNode":"8b89442f7065cd02","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"},
 		{"id":"e08d91f2f5dbc05d","fromNode":"10dd104267dcd8d3","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"},
 		{"id":"cac92d7637151b61","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"275412a42d23b339","toSide":"bottom","color":"#ff7d00","label":"Formule"},
-		{"id":"bfe4409b1d22ab14","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"346a1df94ba3da82","toSide":"bottom","color":"2","label":"Formule"}
+		{"id":"bfe4409b1d22ab14","fromNode":"0a7e14e75e11e8eb","fromSide":"top","toNode":"346a1df94ba3da82","toSide":"bottom","color":"2","label":"Formule"},
+		{"id":"3fc8911a9c640831","fromNode":"7714d0c8d2443063","fromSide":"right","toNode":"0a7e14e75e11e8eb","toSide":"left"},
+		{"id":"fec933e5d9669da8","fromNode":"a2534496106f6f6b","fromSide":"right","toNode":"0a7e14e75e11e8eb","toSide":"left"}
 	]
 }
