@@ -15,6 +15,6 @@ Les différentes méthodes d'électrisation:
 ### PARTE 2: **Les effets thermique du courant électrique** 
 1) [[L'intensité du courant électrique]] 
 2) [[La tension électrique ou difference de potentiel électrique]] 
-3) [[la resistance électrique]] 
+3) [[la résistance électrique]] 
 5) [[Piles électrique]] 
 
