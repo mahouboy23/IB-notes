@@ -6,7 +6,7 @@
 		{"id":"10dd104267dcd8d3","x":-508,"y":781,"width":477,"height":311,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"},
 		{"id":"52029cb814472ee2","x":857,"y":-596,"width":621,"height":526,"color":"5","type":"file","file":"Piles électrique.md"},
 		{"id":"275412a42d23b339","x":-988,"y":-987,"width":484,"height":296,"color":"1","type":"file","file":"La resistance d'un fil conducteu.md"},
-		{"id":"faec2c0bd3eee601","x":-321,"y":-987,"width":490,"height":296,"color":"1","type":"file","file":"La resistance d'un fil conducteu.md"}
+		{"id":"faec2c0bd3eee601","x":-244,"y":-691,"width":490,"height":296,"color":"1","type":"file","file":"La resistance d'un fil conducteu.md"}
 	],
 	"edges":[
 		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right","color":"6","label":"linked"},
