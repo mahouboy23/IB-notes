@@ -1,16 +1,15 @@
 {
 	"nodes":[
-		{"id":"0a7e14e75e11e8eb","x":-231,"y":-361,"width":400,"height":400,"color":"1","type":"file","file":"la resistance électrique.md"},
-		{"id":"52029cb814472ee2","x":430,"y":-561,"width":469,"height":400,"color":"5","type":"file","file":"Piles électrique.md"},
-		{"id":"8564d9330064fbe1","x":-231,"y":206,"width":400,"height":400,"color":"3","type":"file","file":"La tension électrique ou difference de potentiel électrique.md"},
-		{"id":"8b89442f7065cd02","x":169,"y":865,"width":639,"height":177,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Pasted image 20221216092027.png"},
-		{"id":"10dd104267dcd8d3","x":-431,"y":781,"width":400,"height":261,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"}
+		{"id":"0a7e14e75e11e8eb","x":-402,"y":-451,"width":571,"height":490,"color":"1","type":"file","file":"la resistance électrique.md"},
+		{"id":"8564d9330064fbe1","x":-402,"y":167,"width":571,"height":439,"color":"3","type":"file","file":"La tension électrique ou difference de potentiel électrique.md"},
+		{"id":"8b89442f7065cd02","x":169,"y":865,"width":819,"height":227,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png"},
+		{"id":"10dd104267dcd8d3","x":-508,"y":781,"width":477,"height":311,"color":"3","type":"file","file":"assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"},
+		{"id":"52029cb814472ee2","x":857,"y":-596,"width":621,"height":526,"color":"5","type":"file","file":"Piles électrique.md"}
 	],
 	"edges":[
-		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right"},
-		{"id":"41c5dacb968c0871","fromNode":"0a7e14e75e11e8eb","fromSide":"right","toNode":"52029cb814472ee2","toSide":"left"},
-		{"id":"3a01026489a3515d","fromNode":"8564d9330064fbe1","fromSide":"top","toNode":"0a7e14e75e11e8eb","toSide":"bottom"},
-		{"id":"9c1436ddb3247a9b","fromNode":"8564d9330064fbe1","fromSide":"right","toNode":"52029cb814472ee2","toSide":"bottom"},
+		{"id":"c7e4b93631887303","fromNode":"52029cb814472ee2","fromSide":"left","toNode":"0a7e14e75e11e8eb","toSide":"right","color":"6","label":"linked"},
+		{"id":"3a01026489a3515d","fromNode":"8564d9330064fbe1","fromSide":"top","toNode":"0a7e14e75e11e8eb","toSide":"bottom","color":"6","label":"linked"},
+		{"id":"9c1436ddb3247a9b","fromNode":"8564d9330064fbe1","fromSide":"right","toNode":"52029cb814472ee2","toSide":"bottom","color":"6","label":"linked"},
 		{"id":"26f8ba55e720aeb5","fromNode":"8b89442f7065cd02","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"},
 		{"id":"e08d91f2f5dbc05d","fromNode":"10dd104267dcd8d3","fromSide":"top","toNode":"8564d9330064fbe1","toSide":"bottom","color":"4","label":"Representation"}
 	]

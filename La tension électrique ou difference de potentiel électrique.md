@@ -10,7 +10,7 @@ La tension électrique s'exprime en volt et on l'a mesure a l'aide d'un voltmèt
 
 Le potentiel électrique en un point est :: égale a l'énergie potentiel électrique par unité de charge. ([[Champ électrique]])
 
-![[Pasted image 20221216092027.png]]
+![[Le potentiel électrique en un point.png]]
 
 ## Les lois de la tension
 - **Unicité de la tension**:: pour les dipoles en parallèles
