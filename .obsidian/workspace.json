@@ -37,9 +37,9 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": -331.81009926510416,
-                  "y": -848.4321261886371,
-                  "zoom": -1.1357083411857247,
+                  "x": 229.26924053281724,
+                  "y": 104.20172023471113,
+                  "zoom": -1.6680261808581078,
                   "snapToGrid": false
                 }
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La resistance d'un fil conducteu.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La resistance d'un fil conducteu.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La resistance d'un fil conducteu.md"
+                "file": "Eléctricite et magnétisme fiche revision.canvas"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La resistance d'un fil conducteu.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
