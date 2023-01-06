@@ -5,7 +5,7 @@
 		{"id":"7488c6a18b9a424a","x":-89,"y":-1028,"width":380,"height":231,"color":"1","type":"text","text":"# Sujet \n## Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de maladie."},
 		{"id":"245fad9a8be9c2b2","x":82,"y":-171,"width":400,"height":400,"color":"4","type":"file","file":"intro 1 1.md"},
 		{"id":"8ab70e14cf1163f9","x":-599,"y":29,"width":400,"height":400,"color":"3","type":"file","file":"background 1.md"},
-		{"id":"99d86fa0ee06820f","x":482,"y":-606,"width":643,"height":435,"color":"4","type":"file","file":"Benefit.md"}
+		{"id":"99d86fa0ee06820f","x":734,"y":-471,"width":643,"height":435,"color":"4","type":"file","file":"Benefit.md"}
 	],
 	"edges":[
 		{"id":"4831b38c98fb2a83","fromNode":"e068bf714cee4b3c","fromSide":"right","toNode":"245fad9a8be9c2b2","toSide":"top","color":"4","label":"Introduction"},
