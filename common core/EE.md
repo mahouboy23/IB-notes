@@ -71,5 +71,5 @@ Introduce the problem and the topic
 -   Summarize the main findings of the study and restate the research question.
 -   Discuss the extent to which the Linear Regression algorithm is more precise and performs better than Logistic Regression in the recognition of medical data
 
-### *NB* : Other good algorithms to test :
+### *NB* : Other potential algorithms to test :
 decision trees, random forests, and support vector machines.

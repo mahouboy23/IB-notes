@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Le CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,9 +39,9 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 707.053217981889,
-                  "y": -86.42006468305286,
-                  "zoom": -1.5834686408508047,
+                  "x": -66.45940008559212,
+                  "y": 176.04478209971663,
+                  "zoom": -1.692244909766388,
                   "snapToGrid": false
                 }
               }
@@ -63,12 +63,16 @@
             "id": "90f66308cc69cc52",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "common core/EE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -229,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,17 +282,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9c4157b2d5dfc7a",
+  "active": "90f66308cc69cc52",
   "lastOpenFiles": [
+    "IB overview.md",
     "Le CPU.md",
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Piles électrique.md",
     "Architecture des ordinateurs.md",
     "Le modèle de traitement des ordinateurs.md",
     "template/cs-.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
-    "Prix maximum.md",
-    "Il promeut la création de marchés (noirs) parallèles.md",
-    "Cela génère un problème de rationnement.md"
+    "Prix maximum.md"
   ]
 }
