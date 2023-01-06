@@ -15,3 +15,10 @@ Le prix du marché pour un bien ou un service est parfois inabordable. Ceci est
 -   logements abordables pour les familles à faible revenu.
 
 ![[Pasted image 20230106093307.png]]
+
+### Un prix plafond peut avoir plusieurs conséquences. Examinons certains de ses résultats et effets possibles :
+-   Cela produit des pénuries.
+-   Cela génère un problème de rationnement.
+-   Il promeut la création de marchés (noirs) parallèles.
+-   Elle élimine l'efficacité allocative et génère une perte de bien-être.
+-   Il y a des conséquences pour les acteurs du marché.
