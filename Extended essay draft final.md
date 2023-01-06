@@ -9,23 +9,24 @@ Created: 2023-01-06
 -   2
 -   3
 
-2.  Background:
+2.  Contexte:
 
 -   1
 -   2
 -   3
 
-3.  Methodology:
+3.  Méthodologie:
 
 -   1
 -   2
 -   3
-4.  Results:
+
+4.  Résultats:
 
 -   1
 -   2
 
-5.  Discussion:
+5.  Analyse:
 
 -   1
 -   2
