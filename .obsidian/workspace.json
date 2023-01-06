@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,15 +279,15 @@
   },
   "active": "c9c4157b2d5dfc7a",
   "lastOpenFiles": [
-    "IB overview.md",
+    "Le CPU.md",
     "Architecture des ordinateurs.md",
+    "Le modèle de traitement des ordinateurs.md",
+    "template/cs-.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
     "Prix maximum.md",
     "Il promeut la création de marchés (noirs) parallèles.md",
-    "Cela génère un problème de rationnement.md",
-    "Cela produit des pénuries.md",
-    "sl subjects/Economie.md",
-    "Conceptes de base economie.md",
-    "Introduction gouvernement.md"
+    "Cela génère un problème de rationnement.md"
   ]
 }
