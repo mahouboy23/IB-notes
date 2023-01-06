@@ -7,7 +7,7 @@ tags: EE
 
 **Subject:** Computer science
  
- **TOPIC:** Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de maladie.
+ **TOPIC:** Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de condition medical.
  
  >[!Research question:]
  >To what extent is the Linear Regression algorithm precision and performance better than Logistic Regression in the recognition of medical 
