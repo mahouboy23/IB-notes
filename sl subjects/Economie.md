@@ -43,4 +43,4 @@ tags : mod economie
 
 
 ## Parte 7 : Rôle du gouvernement dans la microéconomie
-
+1. [[Introduction gouvernement|introduction]]

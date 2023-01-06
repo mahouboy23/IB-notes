@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Introduction gouvernement.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Introduction gouvernement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Introduction gouvernement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Introduction gouvernement.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Introduction gouvernement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,15 +279,15 @@
   },
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "introduction.md",
     "la résistance électrique.md",
     "Architecture des ordinateurs.md",
-    "sl subjects/Economie.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Mouvement et déplacement de l'offre.md",
     "IB overview.md",
     "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png",
     "La tension électrique ou difference de potentiel électrique.md",
-    "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png",
-    "assets/image/equilibr.png"
+    "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"
   ]
 }
