@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "intro 1 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "common core/EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,7 +230,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,15 +279,15 @@
   },
   "active": "90f66308cc69cc52",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "intro 1 1.md",
+    "Untitled.canvas",
+    "common core/EE.md",
     "intro 1.md",
     "Piles électrique.md",
-    "common core/EE.md",
     "IB overview.md",
     "Le CPU.md",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "Architecture des ordinateurs.md",
-    "Le modèle de traitement des ordinateurs.md",
-    "template/cs-.md",
-    "hl subjects/Computer science.md"
+    "Architecture des ordinateurs.md"
   ]
 }
