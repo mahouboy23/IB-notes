@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Prix maximum.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,8 +279,8 @@
   },
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
-    "Conceptes de base economie.md",
     "sl subjects/Economie.md",
+    "Conceptes de base economie.md",
     "Introduction gouvernement.md",
     "Pour corriger les défaillances du marché.md",
     "Promouvoir l'équité.md",
