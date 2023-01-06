@@ -32,18 +32,30 @@
             }
           },
           {
-            "id": "e7181fb906e54b46",
+            "id": "4d12486bf3ef080c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 454.60167338991675,
-                  "y": 25.62965692550077,
-                  "zoom": -1.6884849731363456,
+                  "x": -146.5,
+                  "y": 39,
+                  "zoom": -1.5834686408508047,
                   "snapToGrid": false
                 }
+              }
+            }
+          },
+          {
+            "id": "1f0af32edb4deb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piles électrique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -54,20 +66,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "be79bcf90a1809af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fonctions et Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction gouvernement.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,17 +277,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d757b4676aa7f1f",
+  "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
-    "Introduction gouvernement.md",
     "Eléctricite et magnétisme fiche revision.canvas",
+    "Piles électrique.md",
+    "Architecture des ordinateurs.md",
+    "assets/Piles électrique/Pasted image 20221220082900.jpg",
+    "Fonctions et Transformation.md",
+    "Introduction gouvernement.md",
+    "sl subjects/Economie.md",
     "introduction.md",
     "la résistance électrique.md",
-    "Architecture des ordinateurs.md",
-    "Mouvement et déplacement de l'offre.md",
-    "IB overview.md",
-    "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png",
-    "La tension électrique ou difference de potentiel électrique.md"
+    "Mouvement et déplacement de l'offre.md"
   ]
 }
