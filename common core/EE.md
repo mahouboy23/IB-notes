@@ -40,7 +40,7 @@ Introduce the problem and the topic
 
 1.  [[Introduction draft]] :
 
--   Briefly introduce the topic of medical data recognition and the importance of using machine learning algorithms for this task. [[intro 1/]] 
+-   Briefly introduce the topic of medical data recognition and the importance of using machine learning algorithms for this task. [[intro 1 1]] 
 -   Explain the purpose of the study and the research question.
 -   Outline the structure of the essay.
 
