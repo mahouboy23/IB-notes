@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,8 @@
               "state": {
                 "file": "Extended Essay.canvas",
                 "viewState": {
-                  "x": 5.185942550848672,
-                  "y": 178.96985616239306,
+                  "x": 514.7216720840777,
+                  "y": 403.74610745659845,
                   "zoom": -1.0101525886853564,
                   "snapToGrid": false
                 }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extended Essay.canvas",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extended Essay.canvas",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extended Essay.canvas"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extended Essay.canvas",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,15 +286,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90f66308cc69cc52",
+  "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "intro 1 1.md",
+    "IB overview.md",
+    "Piles électrique.md",
     "Extended Essay.canvas",
+    "intro 1 1.md",
     "Untitled.canvas",
     "common core/EE.md",
-    "intro 1.md",
-    "Piles électrique.md",
-    "IB overview.md",
+    "Benefit.md",
     "Le CPU.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Architecture des ordinateurs.md"
