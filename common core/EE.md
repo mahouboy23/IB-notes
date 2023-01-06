@@ -38,7 +38,7 @@ Introduce the problem and the topic
 
 #### **The plan 2:** 
 
-1.  Introduction:
+1.  [[Introduction draft]] :
 
 -   Briefly introduce the topic of medical data recognition and the importance of using machine learning algorithms for this task. [[intro 1/]] 
 -   Explain the purpose of the study and the research question.
@@ -74,4 +74,4 @@ Introduce the problem and the topic
 ### *NB* : Other potential algorithms to test :
 decision trees, random forests, and support vector machines.
 
-[[Extended essay final draft]] 
+[[Extended essay draft final]] 

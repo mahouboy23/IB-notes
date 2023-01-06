@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extended essay final draft.md",
+                "file": "Extended essay draft final.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extended essay final draft.md",
+                "file": "Extended essay draft final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extended essay final draft.md",
+                "file": "Extended essay draft final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extended essay final draft.md"
+                "file": "Extended essay draft final.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extended essay final draft.md",
+                "file": "Extended essay draft final.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "Extended Essay.canvas",
-    "Extended essay final draft.md",
     "common core/EE.md",
+    "Introduction draft.md",
+    "Piles électrique.md",
+    "introduction.md",
+    "Extended essay draft final.md",
+    "Extended Essay.canvas",
     "background 1.md",
     "IB overview.md",
-    "Piles électrique.md",
     "intro 1 1.md",
-    "Untitled.canvas",
-    "Benefit.md",
-    "Le CPU.md"
+    "Untitled.canvas"
   ]
 }
