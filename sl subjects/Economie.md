@@ -17,7 +17,7 @@ tags : mod economie
 1. [[l'offre|definition]]  
 2. [[la loi de l'offre]] 
 3. L'[[écriture mathématique|ecriture mathématique de l'offre]] 
-4. [[Mouvement et deplacement de l'offre]]  
+4. [[Mouvement et déplacement de l'offre]]  
 
 ## Parte 3 : L'Equilibre du marche 
 1. [[définition]] 
@@ -38,3 +38,5 @@ tags : mod economie
 3. [[formule élasticites|formule]] 
 4. [[Implication PED pour les politiques gouvernementales]] 
 5. [[Taxes]] 
+
+## Parte 6 : 

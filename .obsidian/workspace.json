@@ -11,9 +11,11 @@
             "id": "2d757b4676aa7f1f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png"
+                "file": "sl subjects/Economie.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,9 +39,9 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": -100.01979041521611,
-                  "y": -67.48115873424618,
-                  "zoom": -1.6000481157597886,
+                  "x": -163.64463228414863,
+                  "y": 688.8393302849528,
+                  "zoom": -0.616949156347673,
                   "snapToGrid": false
                 }
               }
@@ -69,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -231,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,17 +281,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7181fb906e54b46",
+  "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
-    "la résistance électrique.md",
+    "Mouvement et déplacement de l'offre.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png",
     "Eléctricite et magnétisme fiche revision.canvas",
+    "la résistance électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "Architecture des ordinateurs.md",
     "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png",
-    "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png",
-    "assets/image/equilibr.png",
-    "Intégrité.md",
-    "Fonctions et Transformation.md",
-    "hl subjects/Math AA.md"
+    "assets/image/equilibr.png"
   ]
 }
