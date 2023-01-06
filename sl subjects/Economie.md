@@ -39,4 +39,8 @@ tags : mod economie
 4. [[Implication PED pour les politiques gouvernementales]] 
 5. [[Taxes]] 
 
-## Parte 6 : Rôle du gouvernement dans la microéconomie
+## Parte 6 : Elasticités de l'offre
+
+
+## Parte 7 : Rôle du gouvernement dans la microéconomie
+
