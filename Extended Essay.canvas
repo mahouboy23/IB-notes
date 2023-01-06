@@ -4,12 +4,14 @@
 		{"id":"73981d5e39f3a4cd","x":-574,"y":-1007,"width":405,"height":189,"color":"1","type":"text","text":"#  Research question\n ## To what extent is the Linear Regression algorithm precision and performance better than Logistic Regression in the recognition of medical "},
 		{"id":"7488c6a18b9a424a","x":-89,"y":-1028,"width":380,"height":231,"color":"1","type":"text","text":"# Sujet \n## Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de maladie."},
 		{"id":"245fad9a8be9c2b2","x":82,"y":-171,"width":400,"height":400,"color":"4","type":"file","file":"intro 1 1.md"},
-		{"id":"99d86fa0ee06820f","x":740,"y":-324,"width":643,"height":435,"color":"4","type":"file","file":"Benefit.md"}
+		{"id":"99d86fa0ee06820f","x":740,"y":-324,"width":643,"height":435,"color":"4","type":"file","file":"Benefit.md"},
+		{"id":"8ab70e14cf1163f9","x":-468,"y":-3,"width":400,"height":400,"color":"3","type":"file","file":"background 1.md"}
 	],
 	"edges":[
 		{"id":"4831b38c98fb2a83","fromNode":"e068bf714cee4b3c","fromSide":"right","toNode":"245fad9a8be9c2b2","toSide":"top","color":"4","label":"Introduction"},
 		{"id":"d67926d7948ca195","fromNode":"e068bf714cee4b3c","fromSide":"top","toNode":"73981d5e39f3a4cd","toSide":"bottom","color":"1"},
 		{"id":"58b430eb9a50e172","fromNode":"e068bf714cee4b3c","fromSide":"top","toNode":"7488c6a18b9a424a","toSide":"bottom","color":"1"},
-		{"id":"e9d35ff9e3ef23a8","fromNode":"245fad9a8be9c2b2","fromSide":"right","toNode":"99d86fa0ee06820f","toSide":"left"}
+		{"id":"e9d35ff9e3ef23a8","fromNode":"245fad9a8be9c2b2","fromSide":"right","toNode":"99d86fa0ee06820f","toSide":"left"},
+		{"id":"bf04a6a8a27b53f0","fromNode":"8ab70e14cf1163f9","fromSide":"top","toNode":"e068bf714cee4b3c","toSide":"bottom","color":"3","label":"Background"}
 	]
 }

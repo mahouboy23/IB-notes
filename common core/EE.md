@@ -73,3 +73,5 @@ Introduce the problem and the topic
 
 ### *NB* : Other potential algorithms to test :
 decision trees, random forests, and support vector machines.
+
+[[Extended essay final draft]] 
