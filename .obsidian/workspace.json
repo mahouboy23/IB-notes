@@ -63,11 +63,15 @@
             "id": "90f66308cc69cc52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "intro 1 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Extended Essay.canvas",
+                "viewState": {
+                  "x": 5.185942550848672,
+                  "y": 178.96985616239306,
+                  "zoom": -1.0101525886853564,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -154,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Extended Essay.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Extended Essay.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Extended Essay.canvas"
+              }
             }
           },
           {
@@ -230,6 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Extended Essay.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,8 +288,8 @@
   },
   "active": "90f66308cc69cc52",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "intro 1 1.md",
+    "Extended Essay.canvas",
     "Untitled.canvas",
     "common core/EE.md",
     "intro 1.md",
