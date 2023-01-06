@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Introduction draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,16 +67,28 @@
               "state": {
                 "file": "Extended Essay.canvas",
                 "viewState": {
-                  "x": 443.087283938409,
-                  "y": -369.4892370854404,
+                  "x": 281.3353232924814,
+                  "y": -15.656823172473832,
                   "zoom": -1.1204086732340535,
                   "snapToGrid": false
                 }
               }
             }
+          },
+          {
+            "id": "103cc2cc258e5e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro 1 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Extended Essay.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Extended Essay.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "Extended Essay.canvas"
               }
             }
           },
@@ -238,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Extended Essay.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,16 +298,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f0af32edb4deb25",
+  "active": "90f66308cc69cc52",
   "lastOpenFiles": [
-    "Extended essay draft final.md",
-    "common core/EE.md",
-    "background 1.md",
-    "intro 1 1.md",
-    "intro 1.md",
-    "Extended Essay.canvas",
-    "Piles électrique.md",
     "Introduction draft.md",
+    "common core/EE.md",
+    "Extended Essay.canvas",
+    "intro 1 1.md",
+    "Extended essay draft final.md",
+    "background 1.md",
+    "intro 1.md",
+    "Piles électrique.md",
     "introduction.md",
     "IB overview.md"
   ]
