@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "les ménages à faibles revenus.md",
+                "file": "Influencer le niveau de production.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "les ménages à faibles revenus.md",
+                "file": "Influencer le niveau de production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "les ménages à faibles revenus.md",
+                "file": "Influencer le niveau de production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "les ménages à faibles revenus.md"
+                "file": "Influencer le niveau de production.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "les ménages à faibles revenus.md",
+                "file": "Influencer le niveau de production.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,6 +280,7 @@
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
     "Introduction gouvernement.md",
+    "les ménages à faibles revenus.md",
     "accompagner les entreprises.md",
     "IB overview.md",
     "des revenus du gouvernement.md",
@@ -287,7 +288,6 @@
     "Piles électrique.md",
     "Architecture des ordinateurs.md",
     "assets/Piles électrique/Pasted image 20221220082900.jpg",
-    "Fonctions et Transformation.md",
-    "sl subjects/Economie.md"
+    "Fonctions et Transformation.md"
   ]
 }
