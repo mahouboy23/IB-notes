@@ -9,5 +9,5 @@ Created: 2023-01-06
 -   Soutenir [[les ménages à faibles revenus]] 
 -   [[Influencer le niveau de production]] 
 -   [[Influencer le niveau de consommation]] 
--   Pour corriger les défaillances du marché
--   Promouvoir l'équité
+-   [[Pour corriger les défaillances du marché]]
+-   [[Promouvoir l'équité]] 

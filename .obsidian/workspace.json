@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Influencer le niveau de consommation.md",
+                "file": "Introduction gouvernement.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influencer le niveau de consommation.md",
+                "file": "Introduction gouvernement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Influencer le niveau de consommation.md",
+                "file": "Introduction gouvernement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Influencer le niveau de consommation.md"
+                "file": "Introduction gouvernement.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Influencer le niveau de consommation.md",
+                "file": "Introduction gouvernement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,15 +279,15 @@
   },
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
+    "Promouvoir l'équité.md",
     "Introduction gouvernement.md",
+    "Influencer le niveau de consommation.md",
     "Influencer le niveau de production.md",
     "les ménages à faibles revenus.md",
     "accompagner les entreprises.md",
     "IB overview.md",
     "des revenus du gouvernement.md",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "Piles électrique.md",
-    "Architecture des ordinateurs.md",
-    "assets/Piles électrique/Pasted image 20221220082900.jpg"
+    "Piles électrique.md"
   ]
 }
