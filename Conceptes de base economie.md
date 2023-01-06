@@ -14,7 +14,7 @@ Created: 2022-09-28
 - Bien-etre
 - Excèdent = pléthore
 - Penuries = 
-- - **Valeur Ajoutée (VA)** : CA - CI = VA 
+-  **Valeur Ajoutée (VA)** : CA - CI = VA 
   - **Chiffre d'affaire (CA)** : L'argent reçu de tous les produits reçu de tous les achats 
   - **Profit** : VA - Autres charges 
   - **Consommation intermédiaire (CI)** : toutes les dépenses effectués pour produire un bien
