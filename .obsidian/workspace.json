@@ -39,8 +39,8 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 1556.204181681888,
-                  "y": -19.33371075988589,
+                  "x": 454.60167338991675,
+                  "y": 25.62965692550077,
                   "zoom": -1.6884849731363456,
                   "snapToGrid": false
                 }
@@ -280,14 +280,14 @@
   "active": "2d757b4676aa7f1f",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
+    "Introduction gouvernement.md",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "introduction.md",
     "la résistance électrique.md",
     "Architecture des ordinateurs.md",
-    "Eléctricite et magnétisme fiche revision.canvas",
     "Mouvement et déplacement de l'offre.md",
     "IB overview.md",
     "assets/La tension électrique ou difference de potentiel électrique/Le potentiel électrique en un point.png",
-    "La tension électrique ou difference de potentiel électrique.md",
-    "assets/La tension électrique ou difference de potentiel électrique/Unicité de la tension, en parallèles.png"
+    "La tension électrique ou difference de potentiel électrique.md"
   ]
 }
