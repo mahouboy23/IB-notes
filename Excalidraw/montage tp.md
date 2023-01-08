@@ -1262,38 +1262,12 @@ e ^FA29xwi5
 			"endArrowhead": null
 		},
 		{
-			"id": "luNsNc17L1pRRsqB9nMnZ",
-			"type": "rectangle",
-			"x": 288.363592336697,
-			"y": -400.4685794712797,
-			"width": 188.41656494140625,
-			"height": 188.41656494140625,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 966455419,
-			"version": 103,
-			"versionNonce": 921376661,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1673208342327,
-			"link": null,
-			"locked": false
-		},
-		{
 			"id": "EGrOPsx3KN8kxJu6Uglcp",
 			"type": "arrow",
-			"x": 511.7465269070095,
-			"y": -283.5666934849516,
-			"width": 117.4317626953125,
-			"height": 2.62908935546875,
+			"x": 498.1217187816012,
+			"y": -283.04757411658073,
+			"width": 131.11123093740912,
+			"height": 2.510237775155531,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1305,11 +1279,11 @@ e ^FA29xwi5
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 296461621,
-			"version": 105,
-			"versionNonce": 193700821,
+			"version": 158,
+			"versionNonce": 1385856891,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1673208342931,
+			"updated": 1673209070742,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1318,50 +1292,23 @@ e ^FA29xwi5
 					0
 				],
 				[
-					117.4317626953125,
-					2.62908935546875
+					131.11123093740912,
+					2.510237775155531
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "7xxA4L7pSlz-6OzMAWiUH",
+				"focus": 0.21058470264625373,
+				"gap": 3.706936299827504
+			},
 			"endBinding": {
-				"elementId": "GLdpMl1zsOXqZ-j-BfkHQ",
-				"focus": -0.1362441758930395,
-				"gap": 13.9814453125
+				"elementId": "LdiTGFQwYx6lxAqPRTqVW",
+				"focus": -0.1625079772178483,
+				"gap": 2.4535282300606696
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
-		},
-		{
-			"id": "GLdpMl1zsOXqZ-j-BfkHQ",
-			"type": "rectangle",
-			"x": 643.159734914822,
-			"y": -405.38018530624066,
-			"width": 227.8525390625,
-			"height": 223.47080993652344,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 810476379,
-			"version": 133,
-			"versionNonce": 2136010747,
-			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "EGrOPsx3KN8kxJu6Uglcp",
-					"type": "arrow"
-				}
-			],
-			"updated": 1673208342931,
-			"link": null,
-			"locked": false
 		},
 		{
 			"type": "line",
@@ -1693,6 +1640,125 @@ e ^FA29xwi5
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "e"
+		},
+		{
+			"id": "7xxA4L7pSlz-6OzMAWiUH",
+			"type": "ellipse",
+			"x": 273.4023381917131,
+			"y": -413.50182507450796,
+			"width": 223.86552360026036,
+			"height": 212.38533259586129,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1050828917,
+			"version": 138,
+			"versionNonce": 300840789,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "EGrOPsx3KN8kxJu6Uglcp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1673209093091,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "LdiTGFQwYx6lxAqPRTqVW",
+			"type": "ellipse",
+			"x": 630.43914885607,
+			"y": -424.98205605700656,
+			"width": 244.5301232680155,
+			"height": 252.56628095795475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 20802043,
+			"version": 75,
+			"versionNonce": 1402237595,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "EGrOPsx3KN8kxJu6Uglcp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1673209086243,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "luNsNc17L1pRRsqB9nMnZ",
+			"type": "rectangle",
+			"x": 288.363592336697,
+			"y": -400.4685794712797,
+			"width": 188.41656494140625,
+			"height": 188.41656494140625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 966455419,
+			"version": 104,
+			"versionNonce": 1454703867,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1673209024842,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "GLdpMl1zsOXqZ-j-BfkHQ",
+			"type": "rectangle",
+			"x": 643.159734914822,
+			"y": -405.38018530624066,
+			"width": 227.8525390625,
+			"height": 223.47080993652344,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 810476379,
+			"version": 134,
+			"versionNonce": 1835052443,
+			"isDeleted": true,
+			"boundElements": [
+				{
+					"id": "EGrOPsx3KN8kxJu6Uglcp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1673209029281,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1702,8 +1768,8 @@ e ^FA29xwi5
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "dashed",
-		"currentItemRoughness": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,

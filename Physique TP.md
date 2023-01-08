@@ -20,4 +20,7 @@ _A/_ **Mesure de f.e.m et résistance interne d'une pile**
 2) A partir de logiciel de simulation, créer les valeurs de U et de I 
 3) A partir d'une étude graphique - trouver e et r - définir e, r
 
-1/ 
+1/  Voice le montage
+![[montage tp]]
+
+2/ 
