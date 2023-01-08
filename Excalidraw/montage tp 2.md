@@ -55,10 +55,10 @@ e319d56dd1f0f7118f1ae7b55acfe4c0b0e06f11: [[Excalidraw/assets/montage tp 2/Paste
 		{
 			"id": "E8Mje0BODtfJPjtaVReH1",
 			"type": "line",
-			"x": -156.26522827148438,
-			"y": 46.37158966064453,
-			"width": 264.65948486328125,
-			"height": 24.5379638671875,
+			"x": -151.00711059570312,
+			"y": 285.61682891845703,
+			"width": 259.4013671875,
+			"height": 263.783203125,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -70,11 +70,11 @@ e319d56dd1f0f7118f1ae7b55acfe4c0b0e06f11: [[Excalidraw/assets/montage tp 2/Paste
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 916998491,
-			"version": 174,
-			"versionNonce": 469831771,
-			"isDeleted": false,
+			"version": 283,
+			"versionNonce": 889178741,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1673214613731,
+			"updated": 1673214839370,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83,8 +83,8 @@ e319d56dd1f0f7118f1ae7b55acfe4c0b0e06f11: [[Excalidraw/assets/montage tp 2/Paste
 					0
 				],
 				[
-					264.65948486328125,
-					-24.5379638671875
+					259.4013671875,
+					-263.783203125
 				]
 			],
 			"lastCommittedPoint": null,
