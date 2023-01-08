@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surplus social, communautaire.md",
+                "file": "Piles électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surplus social, communautaire.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surplus social, communautaire.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surplus social, communautaire.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Surplus social, communautaire.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,14 +298,14 @@
   "active": "7acbaebee0d7dd47",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
-    "Surplus du producteur.md",
-    "Signaux aux consommateurs et aux producteurs.md",
-    "changement dans la demande.md",
-    "Excédant et penuries.md",
-    "introduction.md",
-    "Definition Elasticite.md",
-    "formule élasticites.md",
-    "IB overview.md",
-    "Piles électrique.md"
+    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-14 08.53.32.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-18 16.29.42.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-18 09.09.24.excalidraw.md",
+    "écriture mathématique de la demande.md",
+    "Déterminants hors-prix de la demande.md",
+    "Mouvement et déplacement de la demande.md",
+    "Mouvement et déplacement de l'offre.md",
+    "determinant prix de l'offre.md"
   ]
 }
