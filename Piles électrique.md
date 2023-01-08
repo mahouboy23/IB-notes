@@ -15,6 +15,8 @@ $$e\cancel{I}=\cancel{I}(U+rI)$$
 La tension aux bornes d'une pile est : $U_{pn}=e-rI$ 
 
 -Caractéristique intensité - tension d'une pile
+
+
 ![[forum_189021_1.gif]]
 
 On peut trouver la formule $U_{pn}=e-rI$  en effectuant le montage suivant 
