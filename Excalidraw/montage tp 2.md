@@ -277,6 +277,47 @@ e319d56dd1f0f7118f1ae7b55acfe4c0b0e06f11: [[Excalidraw/assets/montage tp 2/Paste
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "97mmSr_1Yu7JBtjss6EHP",
+			"type": "line",
+			"x": -314.0505065917969,
+			"y": -8.838859558105469,
+			"width": 386.4730224609375,
+			"height": 174.39483642578125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1705819003,
+			"version": 405,
+			"versionNonce": 2107483579,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1673215830982,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					386.4730224609375,
+					174.39483642578125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
