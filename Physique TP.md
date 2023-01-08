@@ -13,3 +13,4 @@ Les **thermistances**, dérivées de l'expression résistance Thermiquement sen
 
 ## Photoresistance
 
+Une photorésistance (également connue sous le nom de cellule photoélectrique, de résistance dépendant de la lumière, de LDR ou de cellule photoconductrice) est un composant passif dont la résistance diminue en fonction de la luminosité reçue (lumière) sur la surface sensible du composant.
