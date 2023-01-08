@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+6589bb4a1f42bd70fcd7c3a19ffa50285643d60f: [[Excalidraw/assets/montage tp 2/Pasted Image 20230108220426_354.png]]
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "P857Fop_SK4lIqgj05wh6",
+			"type": "image",
+			"x": -289.57429523366386,
+			"y": -269.3182907104492,
+			"width": 747.6056482779196,
+			"height": 556.01318359375,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 931547733,
+			"version": 37,
+			"versionNonce": 2022802549,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1673215470014,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "6589bb4a1f42bd70fcd7c3a19ffa50285643d60f",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "sjScWw_bqZWdrZZ4gbDED",
 			"type": "image",
