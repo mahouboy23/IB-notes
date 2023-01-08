@@ -10,3 +10,6 @@ variation (plus importante) de la résistance d'autres matières (oxydes métall
 Les **thermistances**, dérivées de l'expression résistance Thermiquement sensibles, sont des capteurs de mesure de la température très précis et économiques. Les **thermistances** existent en 2 types, CTN (coefficient de température négative) et CTP (coefficient de température positive).
 
 ![[Pasted image 20230108172629.png]]
+
+## Photoresistance
+
