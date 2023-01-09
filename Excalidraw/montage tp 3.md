@@ -41,7 +41,10 @@ On trouve la formule ^JWGWO09T
 La tension aux bornes d'une pile est ^qTgkA6z4
 
 cette equation est l'equation de 
-la droite 
+la droite qui représente l'intensité par
+rapport a la tension d'une pile. On peut 
+donc retrouver e et r car e est l'ordonnes
+a l'origine et r est
  ^NH1eIhFq
 
 
@@ -14154,8 +14157,8 @@ la droite
 			"type": "text",
 			"x": -204.93386840820312,
 			"y": 976.309211730957,
-			"width": 605,
-			"height": 134,
+			"width": 764,
+			"height": 268,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -14167,22 +14170,22 @@ la droite
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1841154478,
-			"version": 173,
-			"versionNonce": 1505403694,
+			"version": 281,
+			"versionNonce": 1023041266,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1673242861439,
+			"updated": 1673242995271,
 			"link": null,
 			"locked": false,
-			"text": "cette equation est l'equation de \nla droite \n",
-			"rawText": "cette equation est l'equation de \nla droite \n",
+			"text": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n",
+			"rawText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n",
 			"fontSize": 36,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 121,
+			"baseline": 255,
 			"containerId": null,
-			"originalText": "cette equation est l'equation de \nla droite \n"
+			"originalText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n"
 		},
 		{
 			"type": "freedraw",
