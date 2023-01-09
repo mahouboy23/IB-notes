@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "Piles électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rappels d'électrostatique.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rappels d'électrostatique.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,14 +297,14 @@
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
     "Eléctricite et magnétisme.md",
-    "Champ électrique.md",
-    "Piles électrique.md",
+    "Extended Essay.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Physique TP.md",
     "Excalidraw/montage tp 3.md",
     "Excalidraw/montage tp.md",
-    "Excalidraw/montage tp 2.md",
-    "Extended Essay.canvas",
-    "Physique TP.md",
-    "sl subjects/Physics.md",
-    "IB overview.md"
+    "La tension électrique ou difference de potentiel électrique.md",
+    "L'intensité du courant électrique.md",
+    "rappels d'électrostatique.md",
+    "Champ électrique.md"
   ]
 }
