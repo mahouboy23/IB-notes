@@ -28,4 +28,4 @@ _A/_ **Mesure de f.e.m et résistance interne d'une pile**
 3/
 Le graph de intensité par rapport a la tension d'une pile 
 ![[montage tp 2]]
-
+![[montage tp 3]]
