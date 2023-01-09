@@ -44,8 +44,10 @@ cette equation est l'equation de
 la droite qui représente l'intensité par
 rapport a la tension d'une pile. On peut 
 donc retrouver e et r car e est l'ordonnes
-a l'origine et r est
+a l'origine et r est le coefficient directeur.
  ^NH1eIhFq
+
+e = 9 pour r = o ^2i5STq7w
 
 
 # Embedded files
@@ -14157,7 +14159,7 @@ a l'origine et r est
 			"type": "text",
 			"x": -204.93386840820312,
 			"y": 976.309211730957,
-			"width": 764,
+			"width": 769,
 			"height": 268,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -14170,22 +14172,57 @@ a l'origine et r est
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1841154478,
-			"version": 281,
-			"versionNonce": 1023041266,
+			"version": 316,
+			"versionNonce": 1087680942,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1673242995271,
+			"updated": 1673243069135,
 			"link": null,
 			"locked": false,
-			"text": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n",
-			"rawText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n",
+			"text": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est le coefficient directeur.\n",
+			"rawText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est le coefficient directeur.\n",
 			"fontSize": 36,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 255,
 			"containerId": null,
-			"originalText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est\n"
+			"originalText": "cette equation est l'equation de \nla droite qui représente l'intensité par\nrapport a la tension d'une pile. On peut \ndonc retrouver e et r car e est l'ordonnes\na l'origine et r est le coefficient directeur.\n"
+		},
+		{
+			"id": "2i5STq7w",
+			"type": "text",
+			"x": -199.64163208007812,
+			"y": 1242.3080825805664,
+			"width": 304,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1794001902,
+			"version": 24,
+			"versionNonce": 75271474,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1673243101159,
+			"link": null,
+			"locked": false,
+			"text": "e = 9 pour r = o",
+			"rawText": "e = 9 pour r = o",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "e = 9 pour r = o"
 		},
 		{
 			"type": "freedraw",
