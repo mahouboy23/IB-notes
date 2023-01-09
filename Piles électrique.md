@@ -44,4 +44,6 @@ $$e=(r+R)I$$
 - Tension aux bornes d'un récepteur. 
 Un récepteur :: (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet Joule 
 Le récepteur est caractérise par un fceme force contre électromotrice r resistance interne. 
-$$U_{recept}=é+rI$$
+$$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
+
+- Une pile branchée en opposition se comporte comme un récepteur.
