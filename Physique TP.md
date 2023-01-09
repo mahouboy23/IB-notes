@@ -31,4 +31,4 @@ Le graph de intensité par rapport a la tension d'une pile
 ![[montage tp 3]]
 
 - On peut alors déduire que e est la tension aux bornes de la pile quand elle ne fournit pas de courant (I = 0) ou quand la pile est ideal (r = 0). 
-- On peut alors déduire que r
+- On peut alors déduire que r (la resistance interne d'une pile) est le coefficient qui varie I a U
