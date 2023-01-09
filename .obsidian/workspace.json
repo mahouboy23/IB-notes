@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Piles électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique TP.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique TP.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique TP.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -245,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physique TP.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,17 +294,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d50344fad15e1cdd",
+  "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
+    "Physique TP.md",
     "Excalidraw/montage tp.md",
     "Excalidraw/montage tp 2.md",
-    "Physique TP.md",
     "Piles électrique.md",
+    "Eléctricite et magnétisme.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Introduction draft.md",
     "sl subjects/Economie.md",
-    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-14 08.53.32.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-18 16.29.42.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-18 09.09.24.excalidraw.md",
-    "écriture mathématique de la demande.md"
+    "Excalidraw/Drawing 2022-10-11 16.26.38.excalidraw.md"
   ]
 }

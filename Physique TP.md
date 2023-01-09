@@ -25,4 +25,6 @@ _A/_ **Mesure de f.e.m et résistance interne d'une pile**
 
 2/ ![[tp 12.png]]
 
-3/ ![[montage tp 2]]
+3/
+Le graph de 
+![[montage tp 2]]
