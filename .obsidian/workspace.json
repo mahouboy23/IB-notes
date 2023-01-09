@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eléctricite et magnétisme.md",
+                "file": "Piles électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme.md",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme.md",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme.md"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme.md",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,12 +297,12 @@
   },
   "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
+    "Eléctricite et magnétisme.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "Piles électrique.md",
     "Excalidraw/circuit recepteur.png",
     "Excalidraw/circuit recepteur.md",
     "Excalidraw/montage tp.md",
-    "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "hl subjects/Francais B.md",

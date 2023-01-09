@@ -50,3 +50,5 @@ $$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
 ![[circuit recepteur]] 
 
 ## Circuit avec des nœuds comportant un générateur
+
+- 
