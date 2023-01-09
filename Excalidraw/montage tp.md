@@ -14,7 +14,7 @@ i ^gKFC6Qoa
 
 r ^SOFjacP4
 
-r ^L8g2uxXP
+R ^L8g2uxXP
 
 I ^2jD1vtth
 
@@ -501,8 +501,8 @@ e ^FA29xwi5
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 205774869,
+			"version": 10,
+			"versionNonce": 1646299182,
 			"isDeleted": false,
 			"id": "L8g2uxXP",
 			"fillStyle": "hachure",
@@ -515,24 +515,24 @@ e ^FA29xwi5
 			"y": 69.79676055908203,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 10,
+			"width": 15,
 			"height": 25,
 			"seed": 669484853,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1673208215983,
+			"updated": 1673251179717,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "r",
-			"rawText": "r",
+			"text": "R",
+			"rawText": "R",
 			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "r"
+			"originalText": "R"
 		},
 		{
 			"type": "line",
