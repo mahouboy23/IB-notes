@@ -51,4 +51,6 @@ $$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
 
 ## Circuit avec des nœuds comportant un générateur
 
-- 
+
+ ![[image-20230109170126492.png]]
+
