@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+d'apres la loi d'ohm ^rvDvpiM0
+
 %%
 # Drawing
 ```json
@@ -1359,6 +1361,41 @@ tags: [excalidraw]
 				32.4251708984375,
 				0
 			]
+		},
+		{
+			"id": "rvDvpiM0",
+			"type": "text",
+			"x": -165.90512084960938,
+			"y": -334.21044158935547,
+			"width": 331.60276611328175,
+			"height": 43.40350341796877,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 761938738,
+			"version": 122,
+			"versionNonce": 627938414,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1673241319960,
+			"link": null,
+			"locked": false,
+			"text": "d'apres la loi d'ohm",
+			"rawText": "d'apres la loi d'ohm",
+			"fontSize": 34.722802734375044,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 30.40350341796877,
+			"containerId": null,
+			"originalText": "d'apres la loi d'ohm"
 		},
 		{
 			"id": "eF4DezD1hHZax2dbZHQ0Q",
