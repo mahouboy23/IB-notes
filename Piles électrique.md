@@ -30,9 +30,9 @@ On peut trouver la formule $U_{pn}=e-rI$  en effectuant le montage suivant
 *image*
 la pile réelle peut être remplacée par un pile idéale e branchée en série avec un resistor r
 
-# Circuit avec des piles
+# Circuit avec des pile
 
-## Circuit simple pile, récepteurs et resistors
+## Circuit simple pile-resistor 
 -Circuit simple pile-resistor
 *image*
 $$U_{pn}=U_R$$$$e-rI=RI$$
