@@ -32,7 +32,7 @@ la pile réelle peut être remplacée par un pile idéale e branchée en série 
 
 # Circuit avec des piles
 
-## Circuit simple pile-resistor 
+## Circuit simple pile, récepteurs et resistors
 -Circuit simple pile-resistor
 *image*
 $$U_{pn}=U_R$$$$e-rI=RI$$
