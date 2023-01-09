@@ -47,4 +47,5 @@ Le récepteur est caractérise par un fceme force contre électromotrice r resis
 $$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
 
 - Une pile branchée en opposition se comporte comme un récepteur. 
-![[circuit recepteur]]
+![[circuit recepteur]] 
+

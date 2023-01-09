@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/circuit recepteur.png",
+                "file": "Piles électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/circuit recepteur.png",
+                "file": "Piles électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/circuit recepteur.png"
+                "file": "Piles électrique.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/circuit recepteur.png",
+                "file": "Piles électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,17 +295,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "418276a594abed7b",
+  "active": "7acbaebee0d7dd47",
   "lastOpenFiles": [
+    "La tension électrique ou difference de potentiel électrique.md",
+    "Excalidraw/circuit recepteur.png",
     "Excalidraw/circuit recepteur.md",
     "Piles électrique.md",
-    "La tension électrique ou difference de potentiel électrique.md",
     "Excalidraw/montage tp.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "hl subjects/Francais B.md",
-    "Physique TP.md",
-    "Eléctricite et magnétisme fiche revision.canvas"
+    "Physique TP.md"
   ]
 }
