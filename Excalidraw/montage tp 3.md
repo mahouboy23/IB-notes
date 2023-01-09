@@ -40,6 +40,10 @@ On trouve la formule ^JWGWO09T
 
 La tension aux bornes d'une pile est ^qTgkA6z4
 
+cette equation est l'equation de 
+la droite 
+ ^NH1eIhFq
+
 
 # Embedded files
 69e9b91dff5f4f15f8ac7a5225d59f27de696811: [[Excalidraw/assets/montage tp 3/Pasted Image 20230109052332_206.png]]
@@ -14144,6 +14148,41 @@ La tension aux bornes d'une pile est ^qTgkA6z4
 				39.43603515625,
 				6.134521484375
 			]
+		},
+		{
+			"id": "NH1eIhFq",
+			"type": "text",
+			"x": -204.93386840820312,
+			"y": 976.309211730957,
+			"width": 605,
+			"height": 134,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1841154478,
+			"version": 173,
+			"versionNonce": 1505403694,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1673242861439,
+			"link": null,
+			"locked": false,
+			"text": "cette equation est l'equation de \nla droite \n",
+			"rawText": "cette equation est l'equation de \nla droite \n",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 121,
+			"containerId": null,
+			"originalText": "cette equation est l'equation de \nla droite \n"
 		},
 		{
 			"type": "freedraw",
