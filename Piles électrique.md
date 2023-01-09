@@ -34,7 +34,14 @@ la pile réelle peut être remplacée par un pile idéale e branchée en série 
 
 ## Circuit simple pile-resistor 
 -Circuit simple pile-resistor
-*image*
+![[assets/Piles électrique/download.svg]]
 $$U_{pn}=U_R$$$$e-rI=RI$$
 $$e=rI+RI$$
 $$e=(r+R)I$$
+
+## Circuit simple comportant piles, récepteurs et resistors
+
+- Tension aux bornes d'un récepteur. 
+Un récepteur :: (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet Joule 
+Le récepteur est caractérise par un fceme force contre électromotrice r resistance interne. 
+$$$$
