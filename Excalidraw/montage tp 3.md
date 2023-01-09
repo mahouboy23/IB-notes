@@ -17,48 +17,6 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "F7AjMLP6gBdoKp_s3Ravh",
-			"type": "freedraw",
-			"x": 230.20773315429688,
-			"y": 27.96808624267578,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 747528882,
-			"version": 3,
-			"versionNonce": 567491698,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1673240788305,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
 			"id": "eF4DezD1hHZax2dbZHQ0Q",
 			"type": "freedraw",
 			"x": 345.0104064941406,
@@ -81,6 +39,48 @@ tags: [excalidraw]
 			"isDeleted": true,
 			"boundElements": null,
 			"updated": 1673240727570,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "F7AjMLP6gBdoKp_s3Ravh",
+			"type": "freedraw",
+			"x": 230.20773315429688,
+			"y": 27.96808624267578,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 747528882,
+			"version": 4,
+			"versionNonce": 90340270,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1673240790447,
 			"link": null,
 			"locked": false,
 			"points": [
