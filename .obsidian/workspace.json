@@ -55,9 +55,9 @@
             "id": "418276a594abed7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/montage tp.md"
+                "file": "Excalidraw/circuit recepteur.png"
               }
             }
           },
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Excalidraw/circuit recepteur.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Excalidraw/circuit recepteur.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "Excalidraw/circuit recepteur.png"
               }
             }
           },
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Excalidraw/circuit recepteur.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,17 +295,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea2cb0a21f14309",
+  "active": "418276a594abed7b",
   "lastOpenFiles": [
+    "Excalidraw/circuit recepteur.md",
+    "Piles électrique.md",
     "La tension électrique ou difference de potentiel électrique.md",
+    "Excalidraw/montage tp.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "hl subjects/Francais B.md",
-    "Piles électrique.md",
     "Physique TP.md",
-    "Eléctricite et magnétisme fiche revision.canvas",
-    "Extended Essay.canvas",
-    "Excalidraw/montage tp 3.md"
+    "Eléctricite et magnétisme fiche revision.canvas"
   ]
 }
