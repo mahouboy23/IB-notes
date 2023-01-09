@@ -49,3 +49,4 @@ $$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
 - Une pile branchée en opposition se comporte comme un récepteur. 
 ![[circuit recepteur]] 
 
+## Circuit avec des nœuds comportant un générateur

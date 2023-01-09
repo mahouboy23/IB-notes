@@ -79,14 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "Eléctricite et magnétisme.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,12 +295,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7acbaebee0d7dd47",
+  "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
     "La tension électrique ou difference de potentiel électrique.md",
+    "Piles électrique.md",
     "Excalidraw/circuit recepteur.png",
     "Excalidraw/circuit recepteur.md",
-    "Piles électrique.md",
     "Excalidraw/montage tp.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
