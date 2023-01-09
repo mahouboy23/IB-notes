@@ -10,6 +10,10 @@ tags: [excalidraw]
 # Text Elements
 d'apres la loi d'ohm ^rvDvpiM0
 
+S'achant qu'une pile de fem e 
+et resistance interne r fournit
+une tension U ^d9EcqqNm
+
 %%
 # Drawing
 ```json
@@ -1398,6 +1402,41 @@ d'apres la loi d'ohm ^rvDvpiM0
 			"originalText": "d'apres la loi d'ohm"
 		},
 		{
+			"id": "d9EcqqNm",
+			"type": "text",
+			"x": -168.534210205078,
+			"y": -111.09972381591797,
+			"width": 543,
+			"height": 134,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1630974322,
+			"version": 347,
+			"versionNonce": 1939662830,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1673241518875,
+			"link": null,
+			"locked": false,
+			"text": "S'achant qu'une pile de fem e \net resistance interne r fournit\nune tension U",
+			"rawText": "S'achant qu'une pile de fem e \net resistance interne r fournit\nune tension U",
+			"fontSize": 35.99999999999998,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 121,
+			"containerId": null,
+			"originalText": "S'achant qu'une pile de fem e \net resistance interne r fournit\nune tension U"
+		},
+		{
 			"id": "eF4DezD1hHZax2dbZHQ0Q",
 			"type": "freedraw",
 			"x": 345.0104064941406,
@@ -1535,7 +1574,7 @@ d'apres la loi d'ohm ^rvDvpiM0
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
