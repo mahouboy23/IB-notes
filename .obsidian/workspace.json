@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "1f0af32edb4deb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piles électrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90f66308cc69cc52",
             "type": "leaf",
             "state": {
@@ -48,6 +36,18 @@
                   "zoom": -1.3608088759057402,
                   "snapToGrid": false
                 }
+              }
+            }
+          },
+          {
+            "id": "1f0af32edb4deb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piles électrique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Extended Essay.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Extended Essay.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "Extended Essay.canvas"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Extended Essay.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,12 +294,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f0af32edb4deb25",
+  "active": "90f66308cc69cc52",
   "lastOpenFiles": [
     "Physique TP.md",
+    "Piles électrique.md",
     "Excalidraw/montage tp.md",
     "Excalidraw/montage tp 2.md",
-    "Piles électrique.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",

@@ -26,5 +26,5 @@ _A/_ **Mesure de f.e.m et résistance interne d'une pile**
 2/ ![[tp 12.png]]
 
 3/
-Le graph de 
+Le graph de intensité par rapport a la tension d'une pile
 ![[montage tp 2]]
