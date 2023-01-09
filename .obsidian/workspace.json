@@ -271,7 +271,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8561690065095505,
+                  "scale": 0.6990590665113374,
                   "close": true
                 }
               }
@@ -296,7 +296,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7acbaebee0d7dd47",
+  "active": "1ea2cb0a21f14309",
   "lastOpenFiles": [
     "La tension électrique ou difference de potentiel électrique.md",
     "Eléctricite et magnétisme.md",
