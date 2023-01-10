@@ -67,3 +67,5 @@ $$e_{s}=\sum\limits e \hspace10mm r_{s}=\sum\limits r_{s}$$
 - en parallèle de piles identiques
 ![[association de pile]]
 
+$$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
+$$e_{//}=e,\;r_{//}=\frac{r}{n}$$
