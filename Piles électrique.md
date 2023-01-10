@@ -65,3 +65,5 @@ $$U_{pn}=U_{pa}+U_{ab}+U_{bn}$$
 $$U_{pn}=e_{1}+e_{2}+e_{3}-(r_{1}+r_{2}+r_{3})I$$
 $$e_{s}=\sum\limits e \hspace10mm r_{s}=\sum\limits r_{s}$$
 - en parallèle de piles identiques
+![[association de pile]]
+
