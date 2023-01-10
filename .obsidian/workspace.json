@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "L'unité de contrôle.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "L'unité de contrôle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "L'unité de contrôle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prix maximum.md"
+                "file": "L'unité de contrôle.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "L'unité de contrôle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,17 +284,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdf621b0c2953ccb",
+  "active": "64c7eb55824c3ab5",
   "lastOpenFiles": [
+    "Architecture des ordinateurs.md",
+    "L'unité de contrôle.md",
     "sl subjects/Economie.md",
     "Prix maximum.md",
+    "Il promeut la création de marchés (noirs) parallèles.md",
     "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
     "IB overview.md",
     "Time and space.md",
-    "Architecture des ordinateurs.md",
-    "L'unité de contrôle.md",
     "Le CPU.md",
-    "Le modèle de traitement des ordinateurs.md",
-    "hl subjects/Computer science.md"
+    "Le modèle de traitement des ordinateurs.md"
   ]
 }
