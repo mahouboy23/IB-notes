@@ -8,6 +8,9 @@ Areas of knowledge :
 2/ Readers, writers and texts
 3/ Intertextuality
 
+7 Concept: 
+**communication, creativity, perspective, representation, identity, culture and transformation**.
+
 ## **UNIT 1:** Images and Magazine covers 
 -Etape 1: [[Présentation du document]]
 -Etape 2: [[Analyse du document]]

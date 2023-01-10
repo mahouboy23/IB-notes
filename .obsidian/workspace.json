@@ -15,8 +15,8 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 98.83651302031322,
-                  "y": -4.278032197634573,
+                  "x": 46.24235885025262,
+                  "y": 236.15238686550077,
                   "zoom": -1.692244909766388,
                   "snapToGrid": false
                 }
@@ -274,15 +274,15 @@
   },
   "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
-    "Time and space.md",
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Extended Essay.canvas",
+    "Excalidraw/montage tp.md",
     "sl subjects/Anglais Literrature.md",
+    "Time and space.md",
     "IB overview.md",
     "Piles électrique.md",
     "Excalidraw/association de piles.md",
     "Excalidraw/association de pile.md",
-    "Excalidraw/circuit recepteur.png",
-    "Excalidraw/circuit recepteur.md",
-    "Excalidraw/montage tp.md",
-    "Physique TP.md"
+    "Excalidraw/circuit recepteur.png"
   ]
 }
