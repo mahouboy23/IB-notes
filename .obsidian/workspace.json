@@ -60,16 +60,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ff2e627d804df1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/association de pile.md"
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -283,13 +273,13 @@
   },
   "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
-    "Excalidraw/association de pile.md",
     "Excalidraw/association de piles.md",
-    "Piles électrique.md",
+    "Excalidraw/association de pile.md",
+    "Excalidraw/circuit recepteur.png",
     "Excalidraw/circuit recepteur.md",
+    "Piles électrique.md",
     "Excalidraw/montage tp.md",
     "Physique TP.md",
-    "Excalidraw/circuit recepteur.png",
     "Eléctricite et magnétisme.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "sl subjects/Physics.md"
