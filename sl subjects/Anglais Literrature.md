@@ -16,7 +16,7 @@ Areas of knowledge :
 -Etape 2: [[Analyse du document]]
 
 ## **UNIT 2:** Advertisements
-The advertisement text types are:2
+The advertisement text types are:
 ?
 1. **Visual narrative:** advertisement usually include a photograph or image which tells a story.
 2. **Copy:** this is the term used to describe the text or words in the advertisement.
