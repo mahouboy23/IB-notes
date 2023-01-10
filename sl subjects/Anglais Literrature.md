@@ -51,11 +51,10 @@ Pablo Picasso once said: 'Art is the lie that enables us to realize the truth.' 
 3/ Songs of Sorrow "Kofi Awonoor"  
 4/ Tartuffe "Moliere" 
 5/ Strength to love "Martin Luther King"
-6/ Houseboy
+6/ Houseboy "Ferdinand Oyono"
 
 a) It is very much not poetic because there is no deeper meaning
 b)    
-...l,
 ## **UNIT 5:** Analyzing poems 
 *Learning objectives:*  
 1.  e
