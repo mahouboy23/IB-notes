@@ -55,16 +55,6 @@
             "id": "1f0af32edb4deb25",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/montage tp.md"
-              }
-            }
-          },
-          {
-            "id": "cdf621b0c2953ccb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "sl subjects/Economie.md",
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'unité de contrôle.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -236,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,13 +274,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c7eb55824c3ab5",
+  "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "Extended Essay.canvas",
-    "sl subjects/Economie.md",
     "Excalidraw/montage tp.md",
-    "Eléctricite et magnétisme fiche revision.canvas",
     "L'unité de contrôle.md",
+    "sl subjects/Economie.md",
+    "Extended Essay.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "Architecture des ordinateurs.md",
     "Prix maximum.md",
     "Il promeut la création de marchés (noirs) parallèles.md",
