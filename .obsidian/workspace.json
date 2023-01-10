@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'unité de contrôle.md"
+                "file": "Eléctricite et magnétisme fiche revision.canvas"
               }
             }
           },
@@ -236,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,10 +283,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c7eb55824c3ab5",
+  "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
-    "Architecture des ordinateurs.md",
     "L'unité de contrôle.md",
+    "Architecture des ordinateurs.md",
     "sl subjects/Economie.md",
     "Prix maximum.md",
     "Il promeut la création de marchés (noirs) parallèles.md",
