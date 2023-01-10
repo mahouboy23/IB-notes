@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -223,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +274,15 @@
   },
   "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Piles électrique.md",
     "Excalidraw/association de piles.md",
     "Excalidraw/association de pile.md",
     "Excalidraw/circuit recepteur.png",
     "Excalidraw/circuit recepteur.md",
-    "Piles électrique.md",
     "Excalidraw/montage tp.md",
     "Physique TP.md",
     "Eléctricite et magnétisme.md",
-    "La tension électrique ou difference de potentiel électrique.md",
-    "sl subjects/Physics.md"
+    "La tension électrique ou difference de potentiel électrique.md"
   ]
 }

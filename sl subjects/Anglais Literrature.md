@@ -3,6 +3,11 @@ tags : mod englais
 ---
 Created: 2022-09-28
 
+Areas of knowledge :
+1/ Time and space
+2/ Readers, writers and texts
+3/ Intertextuality
+
 ## **UNIT 1:** Images and Magazine covers 
 -Etape 1: [[Présentation du document]]
 -Etape 2: [[Analyse du document]]
