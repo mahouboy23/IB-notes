@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time and space.md",
+                "file": "Prix maximum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prix maximum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prix maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "Prix maximum.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prix maximum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,17 +284,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c7eb55824c3ab5",
+  "active": "cdf621b0c2953ccb",
   "lastOpenFiles": [
-    "Extended Essay.canvas",
-    "Time and space.md",
-    "sl subjects/Anglais Literrature.md",
-    "Eléctricite et magnétisme fiche revision.canvas",
-    "Excalidraw/montage tp.md",
+    "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
+    "Prix maximum.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
-    "Piles électrique.md",
-    "Excalidraw/association de piles.md",
-    "Excalidraw/association de pile.md",
-    "Excalidraw/circuit recepteur.png"
+    "Time and space.md",
+    "Architecture des ordinateurs.md",
+    "L'unité de contrôle.md",
+    "Le CPU.md",
+    "Le modèle de traitement des ordinateurs.md",
+    "hl subjects/Computer science.md"
   ]
 }

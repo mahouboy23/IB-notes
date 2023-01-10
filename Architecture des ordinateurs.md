@@ -12,7 +12,7 @@ $$\Huge{Architecture}$$
 ## **Chapitre 1:** Le CPU et ses éléments
 
 1. [[Le modèle de traitement des ordinateurs]] 
-2. [[Le CPU]]
-3. 
+2. [[Le CPU]] 
+3. [[L'unité de contrôle]] 
 
 ## **Chapitre 2:**  
