@@ -17,3 +17,5 @@ ainsi que la séquence de leur exécution.
 décodage de ces commandes.
 
 ### L'unité arithmétique et logique
+![[image-20230110135428562.png]]
+
