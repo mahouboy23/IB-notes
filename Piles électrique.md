@@ -27,7 +27,9 @@ On peut trouver la formule $U_{pn}=e-rI$  en effectuant le montage suivant
 - Une pile idéale est une pile qui n'a pas de resistance interne r = 0 et U = e
 
 -Circuit equivalent d'une pile reel  
-*image*
+
+![[download 1.svg]]
+
 la pile réelle peut être remplacée par un pile idéale e branchée en série avec un resistor r
 
 # Circuit avec des pile
@@ -53,4 +55,3 @@ $$U_{recept}=é+rI$$![[Pasted image 20230109161706.png]]
 
 
  ![[image-20230109170126492.png]]
-

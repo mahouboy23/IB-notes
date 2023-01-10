@@ -62,18 +62,6 @@
             }
           },
           {
-            "id": "7acbaebee0d7dd47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piles électrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cdf621b0c2953ccb",
             "type": "leaf",
             "state": {
@@ -86,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
