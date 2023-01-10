@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "L'unité de contrôle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "L'unité de contrôle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "L'unité de contrôle.md"
               }
             }
           },
@@ -235,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "L'unité de contrôle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,17 +284,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d12486bf3ef080c",
+  "active": "64c7eb55824c3ab5",
   "lastOpenFiles": [
+    "Extended Essay.canvas",
+    "sl subjects/Economie.md",
+    "Excalidraw/montage tp.md",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "L'unité de contrôle.md",
     "Architecture des ordinateurs.md",
-    "sl subjects/Economie.md",
     "Prix maximum.md",
     "Il promeut la création de marchés (noirs) parallèles.md",
     "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
-    "IB overview.md",
-    "Time and space.md",
-    "Le CPU.md",
-    "Le modèle de traitement des ordinateurs.md"
+    "IB overview.md"
   ]
 }

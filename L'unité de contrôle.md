@@ -3,7 +3,7 @@ tags : mod cs
 ---
 Created: 2023-01-10
 
-## L'unite de contrôle 
+## L'unité de contrôle 
 
 ?
 L'unité de contrôle (UC) est responsable du fonctionnement du CPU.
