@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Extraction de l'instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Extraction de l'instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Extraction de l'instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "Extraction de l'instruction.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Extraction de l'instruction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,11 +288,11 @@
   },
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "La mémoire ROM.md",
+    "Le cycle Fetch-Execute.md",
     "Architecture des ordinateurs.md",
+    "La mémoire ROM.md",
     "hl subjects/Computer science.md",
     "La mémoire RAM.md",
-    "Le cycle Fetch-Execute.md",
     "Exécuter de l'instruction.md",
     "le jeu d'instructions.md",
     "Stocker le résultat de l'exécution.md",
