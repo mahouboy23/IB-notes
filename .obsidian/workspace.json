@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "Scope.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Scope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,11 +310,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "811c703ba37b2de8",
+  "active": "969ac52bbaec4ad9",
   "lastOpenFiles": [
+    "common core/TOK.md",
     "Scope.md",
     "History.md",
-    "common core/TOK.md",
     "personal knowledge.md",
     "who is the knower.md",
     "Perception.md",
