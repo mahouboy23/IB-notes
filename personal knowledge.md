@@ -10,7 +10,7 @@ Knowledge is
 *innate* ::   you are born with
 <!--SR:!2023-01-16,5,250-->
 *a priori* :: purely by reason 
-<!--SR:!2022-11-25,3,270-->
+<!--SR:!2023-01-20,9,250-->
 
 To what extent can we know | 
 
@@ -18,7 +18,7 @@ Personal knowledge is a knowledge we personally have. Almost all our personale k
 Some people would say we are born with an innate sense of God. 
 
 *Theorem* :: a principle or a statement that can be demonstrated or proved using logic, but is not self evident.
-<!--SR:!2022-11-25,2,230-->
+<!--SR:!2023-03-11,59,230-->
 
 *Truth* :: In accord with fact or reality, or faithfulness to a standard
 <!--SR:!2023-01-17,6,210-->

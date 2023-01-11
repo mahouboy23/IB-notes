@@ -65,6 +65,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "2287aef0a75649ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "969ac52bbaec4ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "Scope.md"
               }
             }
           },
@@ -226,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,8 +292,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f0af32edb4deb25",
+  "active": "969ac52bbaec4ad9",
   "lastOpenFiles": [
+    "History.md",
     "common core/TOK.md",
     "personal knowledge.md",
     "who is the knower.md",
@@ -283,7 +302,6 @@
     "culture.md",
     "Contingent.md",
     "Identify.md",
-    "History.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
