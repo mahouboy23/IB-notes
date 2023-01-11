@@ -40,12 +40,13 @@ How might contribute to the array of knowledge that human kind has access to. We
 >1. [[Identify]] 
 >2. [[Contingent]] 
 >3. [[culture]] 
->4. [[perception]] 
+>4. [[Perception]] 
 <!--SR:!2022-11-28,6,190-->
 
 We live in an age in which self identity and self estime are regarded as crucial to our health and well being at the same time, we are invented to take part into self improvement programs, and the selfie is perhaps the fastest growing genre in photography
 
 ## **PEEL :** 
+?
 - **P**oint
 - **E**vidence
 - **E**xplanation/**E**xample
