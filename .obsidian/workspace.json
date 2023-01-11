@@ -83,6 +83,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "3e80c7e331f0f499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811c703ba37b2de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common core/TOK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scope.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scope.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -244,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scope.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +310,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "969ac52bbaec4ad9",
+  "active": "811c703ba37b2de8",
   "lastOpenFiles": [
+    "Scope.md",
     "History.md",
     "common core/TOK.md",
     "personal knowledge.md",
@@ -302,7 +321,6 @@
     "culture.md",
     "Contingent.md",
     "Identify.md",
-    "Eléctricite et magnétisme fiche revision.canvas",
-    "Extended Essay.canvas"
+    "Eléctricite et magnétisme fiche revision.canvas"
   ]
 }
