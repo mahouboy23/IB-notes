@@ -8,7 +8,7 @@ Knowledge is
 *experiential* :: based on experience  
 <!--SR:!2023-01-19,8,250-->
 *innate* ::   you are born with
-<!--SR:!2022-11-25,3,270-->
+<!--SR:!2023-01-16,5,250-->
 *a priori* :: purely by reason 
 <!--SR:!2022-11-25,3,270-->
 
