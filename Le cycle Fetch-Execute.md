@@ -24,3 +24,4 @@ Les fonctions suivantes sont exécutées par l'unité centrale afin d'exécuter 
 1/ [[Extraction de l'instruction]] 
 2/ [[Décoder l'instruction]] 
 3/ [[Exécuter de l'instruction]] 
+4/ [[Stocker le résultat de l'exécution]] 

@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exécuter de l'instruction.md",
+                "file": "Stocker le résultat de l'exécution.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exécuter de l'instruction.md",
+                "file": "Stocker le résultat de l'exécution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exécuter de l'instruction.md",
+                "file": "Stocker le résultat de l'exécution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exécuter de l'instruction.md"
+                "file": "Stocker le résultat de l'exécution.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exécuter de l'instruction.md",
+                "file": "Stocker le résultat de l'exécution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,6 +289,7 @@
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
     "Le cycle Fetch-Execute.md",
+    "Exécuter de l'instruction.md",
     "Décoder l'instruction.md",
     "Extraction de l'instruction.md",
     "Architecture des ordinateurs.md",
@@ -296,7 +297,6 @@
     "IB overview.md",
     "History.md",
     "Introduction draft.md",
-    "Untitled 2.md",
-    "common core/EE.md"
+    "Untitled 2.md"
   ]
 }

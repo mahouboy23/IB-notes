@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/Exécuter de l'instruction",
+  "attachmentFolderPath": "./assets/Stocker le résultat de l'exécution",
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": [
