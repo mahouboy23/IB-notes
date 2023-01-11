@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "Le cycle Fetch-Execute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le cycle Fetch-Execute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le cycle Fetch-Execute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction draft.md"
+                "file": "Le cycle Fetch-Execute.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le cycle Fetch-Execute.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,17 +286,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "832168a18ab2f7f5",
+  "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Architecture des ordinateurs.md",
+    "Le cycle Fetch-Execute.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "History.md",
     "Introduction draft.md",
+    "Untitled 2.md",
     "common core/EE.md",
     "intro 1 1.md",
-    "Extended Essay.canvas",
-    "L'unité de contrôle.md",
-    "History.md",
-    "common core/TOK.md",
-    "IB overview.md",
-    "test correction.md"
+    "Extended Essay.canvas"
   ]
 }

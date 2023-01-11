@@ -16,3 +16,7 @@ $$\Huge{Architecture}$$
 3. [[L'unité de contrôle]] 
 
 ## **Chapitre 2:**  
+
+
+## **Chapitre 3:** Le cycle d'instruction de la machine  
+1. [[Le cycle Fetch-Execute]]
