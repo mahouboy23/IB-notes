@@ -48,7 +48,7 @@ $$F=k\frac{q_{1}q_{2}}{r^{2}}$$
 - $q_{1}$ = charge 1 en Coulomb (C)
 - $q_{2}$ = charge 2 en Coulomb (C)
 - $r$ = distance entre les charges en mètre (m)
-<!--SR:!2022-11-24,1,224-->
+<!--SR:!2023-01-18,7,204-->
 
 Formule de la constante de Coulomb:
 ?
