@@ -10,12 +10,13 @@ $$\Huge{Architecture}$$
 <br/>
 
 ## **Chapitre 1:** Le CPU et ses éléments
-
 1. [[Le modèle de traitement des ordinateurs]] 
 2. [[Le CPU]] 
 3. [[L'unité de contrôle]] 
 
-## **Chapitre 2:**  
+## **Chapitre 2:**  La mémoire primaire
+1. [[La mémoire RAM]] 
+2. [[La mémoire ROM]] 
 
 
 ## **Chapitre 3:** Le cycle d'instruction de la machine  
