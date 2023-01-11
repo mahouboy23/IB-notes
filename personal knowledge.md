@@ -6,7 +6,7 @@ Created: 2022-11-16
 Knowledge is 
 ?
 *experiential* :: based on experience  
-<!--SR:!2022-11-25,3,270-->
+<!--SR:!2023-01-19,8,250-->
 *innate* ::   you are born with
 <!--SR:!2022-11-25,3,270-->
 *a priori* :: purely by reason 
@@ -21,7 +21,7 @@ Some people would say we are born with an innate sense of God.
 <!--SR:!2022-11-25,2,230-->
 
 *Truth* :: In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2022-11-25,2,230-->
+<!--SR:!2023-01-17,6,210-->
 
 Everything we perceive about the world is perceived trough our senses, so everything we know about the world is our brains interpretation of the sensory information it receives. 
 
