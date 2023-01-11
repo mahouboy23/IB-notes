@@ -5,6 +5,7 @@
  [[knowers and knowing]] $\rightarrow$ *core themes* 
  [[12concepts|12 TOK concepts]]   
   [[key word]] 
+  
 ## **Part 2 :** Optional themes
 ?
 - knowledge and technology
@@ -12,6 +13,7 @@
 - knowledge and religion 
 - knowledge and politics
 - knowledge and indigenous societies  
+
 ## **Part 3 :** Areas of knowledge
 ?
 - [[History]]
