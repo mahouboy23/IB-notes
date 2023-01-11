@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "History.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "History.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +276,15 @@
   },
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
-    "Excalidraw/montage tp.md",
-    "L'unité de contrôle.md",
-    "sl subjects/Economie.md",
-    "Extended Essay.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "Architecture des ordinateurs.md",
-    "Prix maximum.md",
-    "Il promeut la création de marchés (noirs) parallèles.md",
-    "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
-    "IB overview.md"
+    "Extended Essay.canvas",
+    "History.md",
+    "common core/TOK.md",
+    "Ethics.md",
+    "Tools and methods.md",
+    "Perspective.md",
+    "Scope.md",
+    "IB overview.md",
+    "personal knowledge.md"
   ]
 }
