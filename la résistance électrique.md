@@ -11,6 +11,7 @@ $$R=\frac{\delta V}{I}$$
 R = en Ohm
 V = en volte 
 I = en ampere 
+<!--SR:!2023-01-15,3,250-->
 
 La resistance d'un fil conducteur depend de :
 ?

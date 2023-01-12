@@ -6,7 +6,7 @@ Created: 2022-11-22
 **what is électrisation**
 ?
 L'electrisation est un transfert d'electrons d'un corps a l'autre. 
-<!--SR:!2022-11-24,1,224-->
+<!--SR:!2023-03-09,56,224-->
 
 -Un corps charge - gagne des electrons 
 $$\large q = -ne$$
