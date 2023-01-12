@@ -288,6 +288,8 @@
   },
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
+    "L'unité de contrôle.md",
+    "Extraction de l'instruction.md",
     "Le cycle Fetch-Execute.md",
     "Architecture des ordinateurs.md",
     "La mémoire ROM.md",
@@ -295,8 +297,6 @@
     "La mémoire RAM.md",
     "Exécuter de l'instruction.md",
     "le jeu d'instructions.md",
-    "Stocker le résultat de l'exécution.md",
-    "Décoder l'instruction.md",
-    "Extraction de l'instruction.md"
+    "Stocker le résultat de l'exécution.md"
   ]
 }
