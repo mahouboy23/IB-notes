@@ -13,6 +13,7 @@
 - knowledge and religion 
 - knowledge and politics
 - knowledge and indigenous societies  
+<!--SR:!2023-01-15,3,270-->
 
 ## **Part 3 :** Areas of knowledge
 ?
@@ -30,6 +31,7 @@
 2. [[Perspective]]
 3. [[Tools and methods]]
 4. [[Ethics]]
+<!--SR:!2023-01-15,3,270-->
 
 [[test correction]] 
 
