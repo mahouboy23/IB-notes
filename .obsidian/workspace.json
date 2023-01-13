@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interface utilisateur.md",
+                "file": "Les fonctions.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interface utilisateur.md",
+                "file": "Les fonctions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interface utilisateur.md",
+                "file": "Les fonctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interface utilisateur.md"
+                "file": "Les fonctions.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interface utilisateur.md",
+                "file": "Les fonctions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
+    "Mise en réseau.md",
     "Les fonctions.md",
+    "Interface utilisateur.md",
     "Contrôle des ressources et multitâche.md",
     "Communication avec les périphériques.md",
     "Gestion de la mémoire.md",
-    "Interface utilisateur.md",
     "Architecture des ordinateurs.md",
     "definition systèmes d'exploitation.md",
     "Le besoin de stockage persistent.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md"
+    "hl subjects/Computer science.md"
   ]
 }
