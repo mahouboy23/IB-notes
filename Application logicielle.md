@@ -13,6 +13,6 @@ Les principales applications logicielles qui peuvent être installées sur ces s
 - [[Feuilles de calcul]]  
 - [[Systèmes de gestion de bases de données (SGBD)]]  
 - [[Clients de messagerie]]  
-- Navigateurs web Conception assistée par ordinateur (CAO) 
-- Logiciels de traitement graphique
+- [[Navigateurs web Conception assistée par ordinateur (CAO)]] 
+- [[Logiciels de traitement graphique]] 
 

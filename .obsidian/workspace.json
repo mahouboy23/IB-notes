@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traitements de texte.md",
+                "file": "Logiciels de traitement graphique.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traitements de texte.md",
+                "file": "Logiciels de traitement graphique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traitements de texte.md",
+                "file": "Logiciels de traitement graphique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traitements de texte.md"
+                "file": "Logiciels de traitement graphique.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Traitements de texte.md",
+                "file": "Logiciels de traitement graphique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,14 +289,14 @@
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
     "Application logicielle.md",
+    "Navigateurs web Conception assistée par ordinateur (CAO).md",
+    "Clients de messagerie.md",
+    "Traitements de texte.md",
     "Feuilles de calcul.md",
     "Systèmes de gestion de bases de données (SGBD).md",
-    "Traitements de texte.md",
     "Architecture des ordinateurs.md",
     "Les fonctions.md",
     "Sécurité.md",
-    "Contrôle des ressources et multitâche.md",
-    "Accès aux disques et gestion des données.md",
-    "Mise en réseau.md"
+    "Contrôle des ressources et multitâche.md"
   ]
 }
