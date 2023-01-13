@@ -12,6 +12,6 @@ Les principaux services fournis par un système d'exploitation sont énumérés 
 - [[Gestion de la mémoire]]  
 - [[Contrôle des ressources et multitâche]]  
 - [[Mise en réseau]]  
-- Accès aux disques et gestion des données 
+- [[Accès aux disques et gestion des données]]  
 - Sécurité
 
