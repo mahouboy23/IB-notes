@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le besoin de stockage persistent.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le besoin de stockage persistent.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le besoin de stockage persistent.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le besoin de stockage persistent.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le besoin de stockage persistent.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,6 +288,7 @@
   },
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
+    "Le besoin de stockage persistent.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -296,7 +297,6 @@
     "L'unité de contrôle.md",
     "Extraction de l'instruction.md",
     "Champ électrique.md",
-    "Le cycle Fetch-Execute.md",
-    "La mémoire ROM.md"
+    "Le cycle Fetch-Execute.md"
   ]
 }
