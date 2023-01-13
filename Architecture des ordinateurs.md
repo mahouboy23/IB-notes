@@ -26,4 +26,5 @@ $$\Huge{Architecture}$$
 1. [[Le besoin de stockage persistent]] 
 
 ## **Chapitre 5:** Systèmes d'exploitation
-1. [[definition systemes d'exploitation]]
+1. [[definition systèmes d'exploitation]] 
+2. [[Les fonctions]] 

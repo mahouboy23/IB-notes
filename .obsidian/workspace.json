@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Interface utilisateur.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Interface utilisateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Interface utilisateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "Interface utilisateur.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Interface utilisateur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
-    "Le besoin de stockage persistent.md",
+    "Les fonctions.md",
     "Architecture des ordinateurs.md",
+    "definition systèmes d'exploitation.md",
+    "Le besoin de stockage persistent.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "sl subjects/Economie.md",
     "Introduction draft.md",
     "L'unité de contrôle.md",
-    "Extraction de l'instruction.md",
-    "Champ électrique.md",
-    "Le cycle Fetch-Execute.md"
+    "Extraction de l'instruction.md"
   ]
 }
