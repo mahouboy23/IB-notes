@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sécurité.md",
+                "file": "Traitements de texte.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sécurité.md",
+                "file": "Traitements de texte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sécurité.md",
+                "file": "Traitements de texte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sécurité.md"
+                "file": "Traitements de texte.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sécurité.md",
+                "file": "Traitements de texte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
+    "Application logicielle.md",
+    "Feuilles de calcul.md",
+    "Systèmes de gestion de bases de données (SGBD).md",
+    "Traitements de texte.md",
+    "Architecture des ordinateurs.md",
     "Les fonctions.md",
+    "Sécurité.md",
     "Contrôle des ressources et multitâche.md",
     "Accès aux disques et gestion des données.md",
-    "Mise en réseau.md",
-    "Interface utilisateur.md",
-    "Communication avec les périphériques.md",
-    "Gestion de la mémoire.md",
-    "Architecture des ordinateurs.md",
-    "definition systèmes d'exploitation.md",
-    "Le besoin de stockage persistent.md"
+    "Mise en réseau.md"
   ]
 }
