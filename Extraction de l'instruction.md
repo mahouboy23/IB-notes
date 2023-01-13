@@ -4,6 +4,8 @@ tags : mod cs
 Created: 2023-01-11
 
 ## L'extraction de l'instruction
+?
+
 L'unité centrale est chargée de savoir quelle instruction elle doit prendre dans la
 mémoire primaire pour pouvoir fonctionner correctement.
 
