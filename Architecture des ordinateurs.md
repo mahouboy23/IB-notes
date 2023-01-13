@@ -20,4 +20,7 @@ $$\Huge{Architecture}$$
 
 
 ## **Chapitre 3:** Le cycle d'instruction de la machine  
-1. [[Le cycle Fetch-Execute]]
+1. [[Le cycle Fetch-Execute]] 
+
+## **Chapitre 4:** Le stockage persistant
+1. [[Le besoin de stockage persistent]] 
