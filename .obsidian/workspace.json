@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application logicielle.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application logicielle.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application logicielle.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application logicielle.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application logicielle.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "832168a18ab2f7f5",
   "lastOpenFiles": [
-    "Logiciels de traitement graphique.md",
+    "IB overview.md",
     "Application logicielle.md",
+    "Architecture des ordinateurs.md",
+    "Logiciels de traitement graphique.md",
     "Navigateurs web Conception assistée par ordinateur (CAO).md",
     "Navigateurs web.md",
     "Clients de messagerie.md",
     "Traitements de texte.md",
     "Feuilles de calcul.md",
-    "Systèmes de gestion de bases de données (SGBD).md",
-    "Architecture des ordinateurs.md",
-    "Les fonctions.md"
+    "Systèmes de gestion de bases de données (SGBD).md"
   ]
 }
