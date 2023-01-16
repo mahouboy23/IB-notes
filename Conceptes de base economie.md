@@ -21,4 +21,4 @@ Created: 2022-09-28
 
 >[!Info]
 >Les besoins des individus sont :: illimités
-<!--SR:!2022-11-22,56,310-->
+<!--SR:!2023-04-26,100,310-->
