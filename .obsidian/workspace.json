@@ -15,9 +15,9 @@
               "state": {
                 "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "viewState": {
-                  "x": 46.24235885025262,
-                  "y": 236.15238686550077,
-                  "zoom": -1.692244909766388,
+                  "x": -155.6818996657072,
+                  "y": 108.85491393597832,
+                  "zoom": -1.7777779134114589,
                   "snapToGrid": false
                 }
               }
@@ -32,7 +32,7 @@
                 "file": "Extended Essay.canvas",
                 "viewState": {
                   "x": 361.002048067584,
-                  "y": -285.7255919876413,
+                  "y": -285.7255919876412,
                   "zoom": -1.3608088759057402,
                   "snapToGrid": false
                 }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'unité de contrôle.md",
+                "file": "King Lear Correction.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "King Lear Correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "King Lear Correction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "King Lear Correction.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "King Lear Correction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,17 +286,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "832168a18ab2f7f5",
+  "active": "64c7eb55824c3ab5",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "L'unité de contrôle.md",
+    "common core/EE.md",
+    "Extraction de l'instruction.md",
+    "Extended Essay.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "Application logicielle.md",
     "Architecture des ordinateurs.md",
-    "Logiciels de traitement graphique.md",
-    "Navigateurs web Conception assistée par ordinateur (CAO).md",
-    "Navigateurs web.md",
-    "Clients de messagerie.md",
-    "Traitements de texte.md",
-    "Feuilles de calcul.md",
-    "Systèmes de gestion de bases de données (SGBD).md"
+    "Logiciels de traitement graphique.md"
   ]
 }
