@@ -79,6 +79,9 @@ Le rheostat est un potentiomètre branche avec les bornes A et C ou B et C. Le m
 ![[Le rheostat]]
 
 *Caractéristique* :
+
+image
+
 $$U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace2mm U_{ac}$$
 -si C est en A $R_{ac}=R_{aa}=o$     $U_{ac}=0$
 -si C est en B $R_{ac}=R_{ab}$  $U_{ac}=\frac{\cancel{R}_{ab}}{\cancel{R}_{ab}}=U_{e}=U_{e}$ 
