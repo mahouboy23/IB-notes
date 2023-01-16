@@ -76,4 +76,4 @@ Un potentiomètre est un conducteur ohmique ayant trois bornes de borne fixe A e
 - **le rheostat**
 ?
 Le rheostat est un potentiomètre branche avec les bornes A et C ou B et C. Le montage rheostat serre a faire varier l'intensite dans un circuit car la resistance varie selon la position du curseur.
-![[]]
+![[Le rheostat]]
