@@ -70,12 +70,12 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 
 - **Montage potentiométrique**
 ?
-Un potentiomètre est un conducteur ohmique ayant trois bornes deux borne fixe A et B et une borne mobile C appeler curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B se dernier se comporte comme un resistance fixe. 
+un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe.
 ![[POTENTIOMETRE]]
 
 - **le rheostat**
 ?
-Le rheostat est un potentiomètre branche avec les bornes A et C ou B et C. Le montage rheostat serre a faire varier l'intensite dans un circuit car la resistance varie selon la position du curseur.
+Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
 
 *Caractéristique* :
