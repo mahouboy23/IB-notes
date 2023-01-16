@@ -60,7 +60,7 @@ Un voltmètre ideal a une resistance interne infinie
 - **Diviseur de tension**
 Par exemple si on a un générateur de 12V et que l'on veuille alimenter un appareil de 4V par ex on peut utiliser le montage diviseur de tension.
 
-
+![[DIVISEUR DE TENSION]]
 
 $$U_{ab}=(R_{ac}+R_{cb})I$$
 $$U_{ac}=R_{ac}I$$
@@ -71,6 +71,7 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 - **Montage potentiométrique**
 ?
 Un potentiomètre est un conducteur ohmique ayant trois bornes de borne fixe A et B et une borne mobile C appeler curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B se dernier se comporte comme un resistance fixe. 
+![[]]
 
 - **le rheostat**
 ?

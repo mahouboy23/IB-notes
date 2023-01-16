@@ -57,7 +57,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-16 15.20.56.excalidraw.md"
+                "file": "Excalidraw/POTENTIOMETRE.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Excalidraw/POTENTIOMETRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Excalidraw/POTENTIOMETRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la résistance électrique.md"
+                "file": "Excalidraw/POTENTIOMETRE.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Excalidraw/POTENTIOMETRE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +259,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6990590665113374,
+                  "scale": 0.46603937767422504,
                   "close": true
                 }
               }
@@ -284,9 +284,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f0af32edb4deb25",
+  "active": "64c7eb55824c3ab5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-16 15.20.56.excalidraw.md",
+    "Excalidraw/DIVISEUR DE TENSION.md",
     "la résistance électrique.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
