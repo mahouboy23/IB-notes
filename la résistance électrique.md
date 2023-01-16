@@ -70,7 +70,7 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 
 - **Montage potentiométrique**
 ?
-Un potentiomètre est un conducteur ohmique ayant trois bornes de borne fixe A et B et une borne mobile C appeler curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B se dernier se comporte comme un resistance fixe. 
+Un potentiomètre est un conducteur ohmique ayant trois bornes deux borne fixe A et B et une borne mobile C appeler curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B se dernier se comporte comme un resistance fixe. 
 ![[POTENTIOMETRE]]
 
 - **le rheostat**
