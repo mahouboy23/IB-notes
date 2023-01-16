@@ -21,4 +21,4 @@ Le prix du marché pour un bien ou un service est parfois inabordable. Ceci est
 -   [[Cela génère un problème de rationnement]] 
 -  [[Il promeut la création de marchés (noirs) parallèles]]
 -  [[Elle élimine l'efficacité allocative et génère une perte de bien-être]] 
--  Il y a des conséquences pour les acteurs du marché.
+-  [[Il y a des conséquences pour les acteurs du marché.]] 
