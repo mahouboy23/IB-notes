@@ -19,7 +19,7 @@ La resistance d'un fil conducteur depend de :
 - longueur l
 - la nature du matériau p résistivité 
 $$R=\frac{\rho l}{A} \hspace{2mm} OU \hspace{2mm} \rho =\frac{RA}{l}$$ R = en ohm 
-$\rho$ = en ohm m
+$\rho$ = en ohm m 
 A = en $m^2$ 
 
 
