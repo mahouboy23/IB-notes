@@ -78,11 +78,10 @@ un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mo
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
 
-*Caractéristique* :
-
-image
-
-$$U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace2mm U_{ac}$$
--si C est en A $R_{ac}=R_{aa}=o$     $U_{ac}=0$
--si C est en B $R_{ac}=R_{ab}$  $U_{ac}=\frac{\cancel{R}_{ab}}{\cancel{R}_{ab}}=U_{e}=U_{e}$ 
+*Caractéristique d'un *Montage potentiométrique* :
+?
+![[Pasted image 20230116174041.png]]
+$$\large{U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace2mm U_{ab}}$$
+-si C est en A $R_{ac}=R_{aa}=0$ /  $U_{ac}=0$
+-si C est en B $R_{ac}=R_{ab}$  /  $U_{ac}=\frac{\cancel{R}_{ab}}{\cancel{R}_{ab}}=U_{e}=U_{e}$ 
 -si C est entre A et B; $0<=U_s<=U_e$ 
