@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la résistance électrique.md"
+                "file": "Eléctricite et magnétisme.md"
               }
             }
           },
@@ -233,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Eléctricite et magnétisme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,15 +283,15 @@
   },
   "active": "1f0af32edb4deb25",
   "lastOpenFiles": [
+    "Piles électrique.md",
+    "Physique TP.md",
+    "Eléctricite et magnétisme.md",
+    "la résistance électrique.md",
     "Excalidraw/Le rheostat.md",
     "Excalidraw/DIVISEUR DE TENSION.md",
     "Excalidraw/POTENTIOMETRE.md",
     "common core/EE.md",
-    "la résistance électrique.md",
-    "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
-    "Extraction de l'instruction.md",
-    "Piles électrique.md"
+    "IB overview.md"
   ]
 }
