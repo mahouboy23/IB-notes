@@ -28,9 +28,9 @@ La droite representant U en fonction de I est linéaire U et I sont proportionne
 $U=aI$ 
 $U=RI$ 
 
-**Loi d'Ohm**: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
+**Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
 
-**Un conducteur ohmique**: est un conducteur qui obéit a la loi d'Ohm 
+**Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
 
 ## Association de resistors 
 
@@ -38,7 +38,7 @@ $U=RI$
 l'association en série de plusieurs resistors est equivalent a un resistor $R_{eqs}$ dont la resistance est égale a la somme des resistances 
 
 - **Association en parallèle** $\frac{1}{R_{eq//}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$ 
-- $$\frac{1}{R}=G$$
+ $$\frac{1}{R}=G$$
 - R = en Ohm
 - G conductance = Siemens 
 
