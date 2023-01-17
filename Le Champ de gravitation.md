@@ -11,6 +11,9 @@ Un corps de masse _M_ est placé en un point _O_ et est considérée comme i
 La force $\vec{F}$  subie et le champ $\vec{g}$  sont reliés par la relation :  $\vec{F}=m*\vec{g}$.
 Comme une force s’exprime en Newton et une masse en kilogramme, on en déduit que le **champ de gravitation est en** $Nkg^2$ . 
 
+![[image-20230117092543010.png]]
+
+
 Un champ de gravitation :: est une région de l'espace ou une masse est soumise a une force de gravitation
 
 Formule de champ de gravitation vectorielle et scalaire:
@@ -18,3 +21,5 @@ Formule de champ de gravitation vectorielle et scalaire:
 $$\vec{g}=\frac{\vec{F}_{g}}{m}$$
 - $\vec{g}$ = champ de gravitation
 - $\vec{F}_{g}$ = 
+- $m$ = masse ponctuelle
+- 
