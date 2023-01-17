@@ -16,3 +16,4 @@ La loi  de gravitation universelle s'applique aux masse ponctuelle et aux masses
  ![[image-20230117083658888.png]]
 est la constante de gravitation, et $\vec{u}$  est un vecteur unitaire (norme égale à 1) utilisée pour donner la direction et le sens des forces. La force de gravitation est toujours **attractive**.
 
+- **Force de gravitation exercée par plusieurs masses ponctuelles** 
