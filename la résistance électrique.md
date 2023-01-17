@@ -75,10 +75,10 @@ un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mo
 
 - **le rheostat**
 ?
-Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
+Le rhéostat est un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
 
-*Caractéristique d'un *Montage potentiométrique* :
+*Caractéristique d'un Montage potentiométrique* :
 ?
 ![[Pasted image 20230116174041.png]]
 $$\large{U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace2mm U_{ab}}$$
