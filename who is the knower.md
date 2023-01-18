@@ -51,7 +51,7 @@ We live in an age in which self identity and self estime are regarded as crucial
 - **E**vidence
 - **E**xplanation/**E**xample
 - **L**inks
-<!--SR:!2023-01-14,2,217-->
+<!--SR:!2023-01-27,9,217-->
 
 Write a page about yourself, what it is about you that makes who you are 
 
