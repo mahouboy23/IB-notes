@@ -15,3 +15,5 @@ The natural sciences explore and try's to understand the natura world around us 
 
 #### Activity: Real life situation 
 Think about the general steps involved when you do an experiment in sciences. To what extent might those steps change depending on the experiment you are conducting?
+
+## The scientific methode
