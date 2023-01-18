@@ -19,6 +19,7 @@ $$F=|q|E$$
 ---
 
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
+<!--SR:!2023-01-19,1,223-->
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2023-01-19,1,210-->
@@ -41,6 +42,7 @@ $$E = \frac{K\hspace1mm |q|}{r^2}$$
 ?
 C'est la somme vectorielle de chacun des champs (Resultant)
 $$E = E_{1} \hspace2mm + E_{2} \hspace2mm + E_3$$
+<!--SR:!2023-01-21,3,263-->
 
 
 ### Lignes de champ (ligne de force) 

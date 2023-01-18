@@ -105,6 +105,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "f01dbb72b4d8a282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a12e62fd95ce72d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +332,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "623faad2f806ffc9",
+  "active": "a12e62fd95ce72d7",
   "lastOpenFiles": [
     "Le Champ de gravitation.md",
     "Champ électrique.md",

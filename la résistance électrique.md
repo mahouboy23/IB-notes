@@ -29,6 +29,7 @@ $U=aI$
 $U=RI$ 
 
 **Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
+<!--SR:!2023-01-19,1,228-->
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
 <!--SR:!2023-01-21,3,250-->
@@ -73,6 +74,7 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 ?
 un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe.
 ![[POTENTIOMETRE]]
+<!--SR:!2023-01-19,1,228-->
 
 - **le rheostat**
 ?

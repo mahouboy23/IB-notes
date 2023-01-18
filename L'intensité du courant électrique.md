@@ -34,4 +34,5 @@ $$I=nqAv$$
 
 
 - Un nœud est :: le point de rencontre de plus de deux fils de connexion
+<!--SR:!2023-01-21,3,250-->
 
