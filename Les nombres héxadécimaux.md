@@ -14,5 +14,6 @@ C'est pourquoi on l'appelle souvent la numérotation **BASE-16**. Le hexadécima
 Un nombre écrit en hexadécimal se décompose à l’aide des puissances de 16.
 $$B2_{16} = B*16^1 + 2*16^0 = *178_{10}$$
 
-## Conversion entre base héxadécimale et base décimale
-**Héxadécimale => Décimale**
+## Conversion entre base hexadécimale et base décimale
+**Hexadécimale => Décimale** 
+Les nombres écrits en hexadécimal suivent le même principe que ceux écrits en décimal mais avec les puissances de 16.
