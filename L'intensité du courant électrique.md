@@ -25,6 +25,7 @@ $$I=nqAv$$
 - $I$ = intensité du courant en $A$
 - $q$ = charge des porteurs de charges en $c$
 - $n$ = nombre de porteurs de charge par unité de volume en $m^{-3}$
+<!--SR:!2023-01-19,1,230-->
 
 
 ## Les lois de l'intensité

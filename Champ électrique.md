@@ -6,6 +6,7 @@ Created: 2022-11-29
 ## Qu'est ce qu'un champ electrique
 ?
 On appelle champ électrique tout region de l'espace ou une charge est soumise a une force électrique. 
+<!--SR:!2023-01-20,2,243-->
 
 le champs électrique ne depends pas de la charge q (qui le subit) mais des charges qui le créent.
 
@@ -17,6 +18,7 @@ $$F=|q|E$$
 - $F$ = Force en Newton 
 - $|q|$ = Charge électrique en Coulomb
 ---
+<!--SR:!2023-01-19,1,223-->
 
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 <!--SR:!2023-01-19,1,223-->
@@ -29,6 +31,7 @@ Champ électrique crée par une charge ponctuelle  $q$ > 0 :
 ![[champ-e (2).png]]
 Champ électrique en M distant de r de q 
 $$\ E = \frac{Kq}{r^2}$$ **E est radial** (Droite passant par le centre) et centrifuge 
+<!--SR:!2023-01-21,3,263-->
 
 
 Champ électrique crée par une charge ponctuelle  $q$ < 0 :
