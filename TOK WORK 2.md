@@ -15,7 +15,7 @@ Created: 2023-01-18
    Historian's can influence by their personal biais and how they view the piece of knowledge. Their interpretation of that piece of knowledge can be skewed by multiple factors like how they feel about race, culture, language or can influenced by money, fame, power.
    
 4. **Are all the events of the past the subject matter of history?**  
-   yes
+   yes all the events of the past the are a subject matter of history because history is comprised of past events as well as the memory, discovery, collection, organization, presentation, and interpretation of these events. Historians seek knowledge of the past using historical sources such as written documents, oral accounts, art and material artifacts, and ecological markers.
    
 6. **Is historical knowledge predominantly objective or more like a narrative which is agreed on?** 
    I believe that historical knowledge is more like a narrative which is agreed on because historical knowledge is fundamentally different from other types of knowledge like knowledge and mathematics because it can be proven with a formula or tested with an experiment historical knowledge is based on the knowledge historians provide and has recorded which prove threw written evidence, word of math … 
