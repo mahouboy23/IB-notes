@@ -19,7 +19,7 @@ $$F=|q|E$$
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
-<!--SR:!2023-01-13,1,230-->
+<!--SR:!2023-01-19,1,210-->
 
 Champ électrique crée par une charge ponctuelle  $q$ > 0 ::
 
