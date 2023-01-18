@@ -12,7 +12,13 @@ Created: 2023-01-18
    The role of empathy is to put the Historians the on that hold the history knowledge in the position of individuals or groups from another time period with an aim of understanding their thoughts and feelings, and explaining motives that guided their actions within a specific historical context.
    
 3. **To what extent does the historian’s context affect their production of knowledge?** 
+   Historian's can influence by their personal biais and how they view the piece of knowledge. Their interpretation of that piece of knowledge can be skewed by multiple factors like how they feel about race, culture, language or can influenced by money, fame, power.
    
-4. **Are all the events of the past the subject matter of history?** 
-5. **Is historical knowledge predominantly objective or more like a narrative which is agreed on?** 
-6. **Can problems of the present be solved by better understanding the past?**
+4. **Are all the events of the past the subject matter of history?**  
+   yes
+   
+6. **Is historical knowledge predominantly objective or more like a narrative which is agreed on?** 
+   I believe that historical knowledge is more like a narrative which is agreed on because historical knowledge is fundamentally different from other types of knowledge like knowledge and mathematics because it can be proven with a formula or tested with an experiment historical knowledge is based on the knowledge historians provide and has recorded which prove threw written evidence, word of math … 
+   
+7. **Can problems of the present be solved by better understanding the past?**
+   
