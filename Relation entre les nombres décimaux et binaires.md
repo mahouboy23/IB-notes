@@ -22,6 +22,4 @@ Le nombre 527 a été construit de la manière suivante :
 ## Conversion entre base binaire et base décimale
 Décimale => Binaire
 ?
-Cette méthode de conversion est fondée sur l’algorithme d’Euclide et les restes successifs de la division euclidienne par 2 du nombre entier que l’on veut convertir. On obtient une succession de reste (0 ou 1) . Il suffit de les écrire du dernier obtenu, qui doit être 1, au premier. 
-
-0101
+Cette méthode de conversion est fondée sur l’algorithme d’Euclide et les restes successifs de la division euclidienne par 2 du nombre entier que l’on veut convertir. On obtient une succession de reste (0 ou 1) . Il suffit de les écrire du dernier obtenu, qui doit être 1, au premier.
