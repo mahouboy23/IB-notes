@@ -19,7 +19,7 @@
 ?
 - [[History]]
 - Mathematics 
-- Natural sciences 
+- [[Natural sciences]]
 - Human sciences
 - The arts 
 ## **Part 4 :** Assessment
