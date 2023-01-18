@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le bit et l'octet.md",
+                "file": "Le système binaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le bit et l'octet.md",
+                "file": "Le système binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le bit et l'octet.md",
+                "file": "Le système binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le bit et l'octet.md"
+                "file": "Le système binaire.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le bit et l'octet.md",
+                "file": "Le système binaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,8 @@
   "active": "12a9993f151ecbc7",
   "lastOpenFiles": [
     "Architecture des ordinateurs.md",
-    "Le système binaire.md",
     "Le bit et l'octet.md",
+    "Le système binaire.md",
     "Application logicielle.md",
     "Boites de dialogue.md",
     "Menu.md",

@@ -18,3 +18,6 @@ Un groupe de 8 bits est appelé un octet.
 ## Multiples de l'octet (byte)
 ![[image-20230118161428793.png]]
 
+## Capacités de stockage des octets courants
+![[image-20230118161812562.png]]
+
