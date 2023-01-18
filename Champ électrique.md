@@ -21,22 +21,22 @@ $$F=|q|E$$
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2023-01-19,1,210-->
 
-Champ électrique crée par une charge ponctuelle  $q$ > 0 ::
-
+Champ électrique crée par une charge ponctuelle  $q$ > 0 :
+?
 ![[champ-e (2).png]]
 Champ électrique en M distant de r de q 
 $$\ E = \frac{Kq}{r^2}$$ **E est radial** (Droite passant par le centre) et centrifuge 
 
 
-Champ électrique crée par une charge ponctuelle  $q$ < 0 ::
+Champ électrique crée par une charge ponctuelle  $q$ < 0 :
+?
 ![[champ-e (3).png]]
-
 $$E = \frac{K\hspace1mm |q|}{r^2}$$
 **E est radial** et centripète (diriges vers le centre)
 
--**Champ crée par** plusieurs charges: 
+-**Champ crée par** plusieurs charges :
+?
 C'est la somme vectorielle de chacun des champs (Resultant)
-
 $$E = E_{1} \hspace2mm + E_{2} \hspace2mm + E_3$$
 
 
