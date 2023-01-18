@@ -24,3 +24,5 @@ Les nombres écrits en hexadécimal suivent le même principe que ceux écrits e
 **Binaire => Hexadécimale** 
 ?
 Il suffit de faire correspondre un mot de quatre bits (quartet) à chaque chiffre hexadécimal.
+![[image-20230118170940121.png]]
+
