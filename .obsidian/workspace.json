@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "TOK WORK 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "TOK WORK 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "TOK WORK 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "TOK WORK 2.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "TOK WORK 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,17 +296,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a68781bf129089",
+  "active": "12a9993f151ecbc7",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "TOK WORK 1.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Piles électrique.md",
     "Eléctricite et magnétisme.md",
     "la résistance électrique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Le Champ de gravitation.md",
-    "Effet de revenu.md",
-    "La tension électrique ou difference de potentiel électrique.md",
-    "Champ électrique.md",
-    "sl subjects/Anglais Literrature.md",
-    "Mouvement circulaire uniforme et gravitation.md"
+    "Effet de revenu.md"
   ]
 }
