@@ -24,4 +24,5 @@ Scientifique knowledge is based on observation and experimentation, along with t
 - **Empirical** :: based on and verified by observation and experience
 - **Polymath** :: a person with expertise in several field of knowledge
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
-- **Scientific methods** :: a méthode of procedure for the way scientifique investigation's are conducted
+- **Scientific methods** :: a method of procedure for the way scientifique investigation's are conducted 
+We often refer to the scientific method as if were a single way of correctly doing sciences 
