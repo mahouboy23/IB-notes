@@ -13,6 +13,7 @@ t = temps en seconde
 ?
 Dans les métaux le courant électrique est dut a un déplacement d'électrons libres qui se déplacent du pole moins vers le pole plus. Le sens conventionnel a l'exterieur du générateur est de plus vers le moins.
 Dans les liquides qui conduisent l'eletricité, le courant électrique est dut a un déplacement des ions positifs (cations) et des ions négatifs (anions).
+<!--SR:!2023-01-21,3,250-->
 
 
 ## Vitesse de dérive des porteurs de charges
