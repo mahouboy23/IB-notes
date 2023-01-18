@@ -44,7 +44,6 @@ $$E = E_{1} \hspace2mm + E_{2} \hspace2mm + E_3$$
 
 ### Lignes de champ (ligne de force) 
 ?
-
 Ce sont des courbes tangentes au vecteur champs électrique en chacun des points. 
 -Elles sont dirigées dans le sens du champ.
 
