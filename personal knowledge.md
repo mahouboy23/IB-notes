@@ -21,7 +21,7 @@ Some people would say we are born with an innate sense of God.
 <!--SR:!2023-03-11,59,230-->
 
 *Truth* :: In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2023-01-17,6,210-->
+<!--SR:!2023-02-04,17,230-->
 
 Everything we perceive about the world is perceived trough our senses, so everything we know about the world is our brains interpretation of the sensory information it receives. 
 
