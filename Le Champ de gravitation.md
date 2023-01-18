@@ -24,6 +24,7 @@ $$g=\frac{F_{g}}{m}=\frac{GM}{r^{2}}$$
 - $G$ = constante gravitationnelle
 - $M$ = masse qui exerce le champ
 - $r$ = distance
+<!--SR:!2023-01-19,1,228-->
 
 -Champ de gravitation crée par une masse ponctuelle M en un point distant de r
 ![[image-20230117092543010.png]]
