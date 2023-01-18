@@ -11,3 +11,4 @@ Created: 2023-01-18
 ##  Introduction
 
 *What is science* :: Science is both a body of knowledge and process of discovery. It explores the natural world from subatomic particules through the galaxies that make our universe, and everything that falls in-between.
+The natural sciences explore and try's to understand the natura world around us 
