@@ -8,4 +8,5 @@ Created: 2023-01-18
 1. What do we mean by "natural world?" 
 2. What might fall outside the scope of "natural world"
 
-1. 
+## Introduction 
+**What is science**
