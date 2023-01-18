@@ -87,6 +87,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "393ac6a5aa6876e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "623faad2f806ffc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Champ de gravitation.md"
+                "file": "La tension électrique ou difference de potentiel électrique.md"
               }
             }
           },
@@ -248,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,12 +314,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a68781bf129089",
+  "active": "623faad2f806ffc9",
   "lastOpenFiles": [
+    "Le Champ de gravitation.md",
     "Champ électrique.md",
     "sl subjects/Anglais Literrature.md",
     "IB overview.md",
-    "Le Champ de gravitation.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "La loi de gravitation universelle de Newton.md",
     "Eléctricite et magnétisme.md",
