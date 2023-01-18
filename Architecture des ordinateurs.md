@@ -33,3 +33,4 @@ $$\Huge{Architecture}$$
 ## **Chapitre 6:** Representation binaire
 1. [[Le bit et l'octet]] 
 2. [[Le système binaire]] 
+3. [[Relation entre les nombres décimaux et binaires]]  
