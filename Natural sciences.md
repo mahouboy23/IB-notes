@@ -19,3 +19,9 @@ Think about the general steps involved when you do an experiment in sciences. To
 ## The scientific method
 
 Scientifique knowledge is based on observation and experimentation, along with the formulation of **hypotheses**. This has led to remarquable progress in our understanding of the world, because it involves analyzing evidence and drawing conclusions. Sometimes, these conclusion helped to from the basis of new theories that may even go against main stream believes and doctrines of the time. Sometimes scientist, however, will devise new theories before they have clear evidence for them and then design experiments to test the theories
+
+#### Key words
+- **Empirical** :: based on and verified by observation and experience
+- **Polymath** :: a person with expertise in several field of knowledge
+- **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
+- **Scientific methods** :: a méthode of procedure for the way scientifique investigation's are conducted
