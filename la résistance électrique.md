@@ -11,7 +11,7 @@ $$R=\frac{\delta V}{I}$$
 R = en Ohm
 V = en volte 
 I = en ampere 
-<!--SR:!2023-01-15,3,250-->
+<!--SR:!2023-01-31,13,250-->
 
 La resistance d'un fil conducteur depend de :
 ?
@@ -31,6 +31,7 @@ $U=RI$
 **Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
+<!--SR:!2023-01-21,3,250-->
 
 ## Association de resistors 
 
