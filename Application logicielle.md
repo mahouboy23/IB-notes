@@ -17,3 +17,11 @@ Les principales applications logicielles qui peuvent être installées sur ces s
 - [[Navigateurs web Conception assistée par ordinateur (CAO)]] 
 - [[Logiciels de traitement graphique]] 
 
+## Caractéristiques communes des applications
+Les caractéristiques communes à la plupart des programmes sont :
+?
+- [[Barres d'outils]]
+- [[Menu]] 
+- [[Boites de dialogue]] 
+![[image-20230118152602754.png]]
+
