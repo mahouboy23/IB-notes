@@ -25,4 +25,15 @@ Scientifique knowledge is based on observation and experimentation, along with t
 - **Polymath** :: a person with expertise in several field of knowledge
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
 - **Scientific methods** :: a method of procedure for the way scientifique investigation's are conducted 
-We often refer to the scientific method as if were a single way of correctly doing sciences 
+
+We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including : 
+?
+- asking question or defining problems
+- planning and cutting out investigation 
+- designing and creating models
+- and analyzing and interpreting data 
+- looking for patterns 
+- building possible explanation 
+- making generalization
+- assessing results and theories 
+- communicating results
