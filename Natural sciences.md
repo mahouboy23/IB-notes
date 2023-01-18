@@ -16,4 +16,6 @@ The natural sciences explore and try's to understand the natura world around us 
 #### Activity: Real life situation 
 Think about the general steps involved when you do an experiment in sciences. To what extent might those steps change depending on the experiment you are conducting?
 
-## The scientific methode
+## The scientific method
+
+Scientifique knowledge is based on observation and experimentation, along with the formulation of **hypotheses**. This has led to remarquable progress in our understanding of the world, because it involves analyzing evidence and drawing conclusions. Sometimes, these conclusion helped to from the basis of new theories that may even go against main stream believes and doctrines of the time.
