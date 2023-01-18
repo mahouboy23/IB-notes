@@ -25,3 +25,7 @@ Les caractéristiques communes à la plupart des programmes sont :
 - [[Boites de dialogue]] 
 ![[image-20230118152602754.png]]
 
+#### Composants de l'interface graphique
+?
+![[image-20230118153554124.png]]
+
