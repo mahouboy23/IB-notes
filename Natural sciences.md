@@ -14,4 +14,4 @@ Created: 2023-01-18
 The natural sciences explore and try's to understand the natura world around us in essence, this is the physical world and the forces acting upon it. Under the umbrella of the natural sciences come the life sciences, which are the branches of biology, and the physical sciences, which include disciplines such as chemistry, physics and the earth sciences.
 
 #### Activity
-Think about the general steps involved when you do an experiment in sciences. To what extent might those steps change depending on the experiment you are conducting
+Think about the general steps involved when you do an experiment in sciences. To what extent might those steps change depending on the experiment you are conducting?
