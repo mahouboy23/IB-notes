@@ -29,3 +29,7 @@ $$\Huge{Architecture}$$
 1. [[definition systèmes d'exploitation]] 
 2. [[Les fonctions]] 
 3. [[Application logicielle]] 
+
+## **Chapitre 6:** Representation binaire
+1. [[Le bit et l'octet]] 
+2. [[Le système binaire]] 
