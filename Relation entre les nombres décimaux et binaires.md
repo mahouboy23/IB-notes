@@ -30,4 +30,7 @@ Cette méthode de conversion est fondée sur l’algorithme d’Euclide et les r
 Les nombres écrits en binaire suivent le même principe que ceux écrits en
 décimal mais avec les puissances de deux. ![[image-20230118165206387.png]]
 
+![[image-20230118165648699.png]]
+
+
 

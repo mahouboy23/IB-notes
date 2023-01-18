@@ -34,3 +34,4 @@ $$\Huge{Architecture}$$
 1. [[Le bit et l'octet]] 
 2. [[Le système binaire]] 
 3. [[Relation entre les nombres décimaux et binaires]]  
+4. [[Les nombres héxadécimaux]] 
