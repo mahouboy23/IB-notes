@@ -17,9 +17,13 @@ Un champ de gravitation :: est une région de l'espace ou une masse est soumise 
 Formule de champ de gravitation vectorielle et scalaire:
 ?
 $$\vec{g}=\frac{\vec{F}_{g}}{m}$$
-- $\vec{g}$ = champ de gravitation
-- $\vec{F}_{g}$ = 
-- $m$ = masse ponctuelle
+$$g=\frac{F_{g}}{m}=\frac{GM}{r^{2}}$$
+- $\vec{g}$ = champ de gravitation en $Nkg^{-1}$
+- $\vec{F}_{g}$ = Force de gravitation en $N$
+- $m$ = masse ponctuelle qui subit le champ en $kg$
+- $G$ = constante gravitationnelle
+- $M$ = masse qui exerce le champ
+- $r$ = distance
 
 -Champ de gravitation crée par une masse ponctuelle M en un point distant de r
 ![[image-20230117092543010.png]]

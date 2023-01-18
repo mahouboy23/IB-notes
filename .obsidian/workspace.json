@@ -74,25 +74,6 @@
             }
           },
           {
-            "id": "3024abe9358718e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Champ électrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "94553111aa9c4d49",
-        "type": "tabs",
-        "children": [
-          {
             "id": "25a68781bf129089",
             "type": "leaf",
             "state": {
@@ -104,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
