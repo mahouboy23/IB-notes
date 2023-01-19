@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La tension électrique ou difference de potentiel électrique.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,10 +312,10 @@
   },
   "active": "c8584c03d1c19e95",
   "lastOpenFiles": [
+    "La tension électrique ou difference de potentiel électrique.md",
     "Piles électrique.md",
     "Eléctricite et magnétisme.md",
     "la résistance électrique.md",
-    "La tension électrique ou difference de potentiel électrique.md",
     "Champ électrique.md",
     "L'intensité du courant électrique.md",
     "rappels d'électrostatique.md",
