@@ -18,13 +18,13 @@ $$F=|q|E$$
 - $F$ = Force en Newton 
 - $|q|$ = Charge électrique en Coulomb
 ---
-<!--SR:!2023-01-19,1,223-->
+<!--SR:!2023-01-20,1,203-->
 
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
-<!--SR:!2023-01-19,1,223-->
+<!--SR:!2023-01-21,2,223-->
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
-<!--SR:!2023-01-19,1,210-->
+<!--SR:!2023-01-20,1,190-->
 
 Champ électrique crée par une charge ponctuelle  $q$ > 0 :
 ?
@@ -52,6 +52,6 @@ $$E = E_{1} \hspace2mm + E_{2} \hspace2mm + E_3$$
 ?
 Ce sont des courbes tangentes au vecteur champs électrique en chacun des points. 
 -Elles sont dirigées dans le sens du champ.
-<!--SR:!2023-01-19,1,226-->
+<!--SR:!2023-01-21,2,226-->
 
 ### Lignes de champ électriques de 2 plaques conductrices portees a iddp ($ \ $)

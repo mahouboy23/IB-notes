@@ -6,7 +6,7 @@ Created: 2022-10-04
 
 ?
 La temperature est une mesure de l'énergie cinétique moyenne EDRC des molecules. 
-<!--SR:!2023-01-19,8,230-->
+<!--SR:!2023-01-23,4,210-->
 
 Conversion entre kelvin et Celsius: 
 

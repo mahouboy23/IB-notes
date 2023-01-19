@@ -25,7 +25,7 @@ $$I=nqAv$$
 - $I$ = intensité du courant en $A$
 - $q$ = charge des porteurs de charges en $c$
 - $n$ = nombre de porteurs de charge par unité de volume en $m^{-3}$
-<!--SR:!2023-01-19,1,230-->
+<!--SR:!2023-01-21,2,230-->
 
 
 ## Les lois de l'intensité
@@ -33,7 +33,7 @@ $$I=nqAv$$
 <!--SR:!2023-01-21,3,250-->
 
 - **Loi des nœuds ou de Kirchhoff pour l'intensité** :: Dans un noeuds la somme des courants entrants est égale a la somme des courants sortants.
-<!--SR:!2023-01-19,1,230-->
+<!--SR:!2023-01-22,3,250-->
 
 - Un nœud est :: le point de rencontre de plus de deux fils de connexion
 <!--SR:!2023-01-21,3,250-->

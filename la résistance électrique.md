@@ -30,7 +30,7 @@ $U=aI$
 $U=RI$ 
 
 **Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
-<!--SR:!2023-01-19,1,228-->
+<!--SR:!2023-01-22,3,248-->
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
 <!--SR:!2023-01-21,3,250-->
@@ -75,13 +75,13 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 ?
 un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe.
 ![[POTENTIOMETRE]]
-<!--SR:!2023-01-19,1,228-->
+<!--SR:!2023-01-22,3,248-->
 
 - **le rheostat**
 ?
 Le rhéostat est un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
-<!--SR:!2023-01-19,1,228-->
+<!--SR:!2023-01-22,3,248-->
 
 *Caractéristique d'un Montage potentiométrique* :
 ?
@@ -90,4 +90,4 @@ $$\large{U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace
 -si C est en A $R_{ac}=R_{aa}=0$ /  $U_{ac}=0$
 -si C est en B $R_{ac}=R_{ab}$  /  $U_{ac}=\frac{\cancel{R}_{ab}}{\cancel{R}_{ab}}=U_{e}=U_{e}$ 
 -si C est entre A et B; $0<=U_s<=U_e$ 
-<!--SR:!2023-01-19,1,230-->
+<!--SR:!2023-01-21,2,230-->
