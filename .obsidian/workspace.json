@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'intensité du courant électrique.md"
+                "file": "La tension électrique ou difference de potentiel électrique.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'intensité du courant électrique.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,14 +289,14 @@
   "active": "64c7eb55824c3ab5",
   "lastOpenFiles": [
     "Eléctricite et magnétisme.md",
+    "L'intensité du courant électrique.md",
+    "La tension électrique ou difference de potentiel électrique.md",
     "rappels d'électrostatique.md",
     "Extended Essay.canvas",
     "Excalidraw/DIVISEUR DE TENSION.md",
     "Les nombres héxadécimaux.md",
     "Architecture des ordinateurs.md",
     "Relation entre les nombres décimaux et binaires.md",
-    "Piles électrique.md",
-    "Le système binaire.md",
-    "Le bit et l'octet.md"
+    "Piles électrique.md"
   ]
 }
