@@ -21,7 +21,7 @@ La resistance d'un fil conducteur depend de :
 $$R=\frac{\rho l}{A} \hspace{2mm} OU \hspace{2mm} \rho =\frac{RA}{l}$$ R = en ohm 
 $\rho$ = en ohm m 
 A = en $m^2$ 
-<!--SR:!2023-01-19,1,228-->
+<!--SR:!2023-01-22,3,248-->
 
 
 
