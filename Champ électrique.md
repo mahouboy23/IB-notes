@@ -3,7 +3,7 @@ tags : mod Physique
 ---
 Created: 2022-11-29
 
-## Qu'est ce qu'un champ électrique
+## Qu'est ce qu'un champ électrique-
 ?
 On appelle champ électrique tout region de l'espace ou une charge est soumise a une force électrique. 
 <!--SR:!2023-01-20,2,243-->
