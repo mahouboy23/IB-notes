@@ -4,7 +4,7 @@ tags : mod Physique
 ---
 Created: 2022-12-05
 
-C'est une grande électrique qui mesure la quantité d'electrisite qui traverse une section d'un circuit par unite de temps ont la mesure a l'aide d'un ampèremètre brancher en série avec le dipole dont on veut connaitre l'intensite. 
+C'est une grandeur électrique qui mesure la quantité d'electrisite qui traverse une section d'un circuit par unite de temps ont la mesure a l'aide d'un ampèremètre brancher en série avec le dipole dont on veut connaitre l'intensite. 
 $$I = \large {\frac{q}{t}}$$I = en ampere
 q = en coulomb
 t = temps en seconde
