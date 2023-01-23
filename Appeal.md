@@ -13,4 +13,4 @@ The ancient Greeks who also study's the art of rhetoric spoke of three kinds of 
 <!--SR:!2023-01-27,11,190-->
  
 3. Logos :: is an appeal to logic. How does the speaker present a convincing, logic argument ? How does the speaker reasons with there audience
-<!--SR:!2022-10-21,2,230-->
+<!--SR:!2023-05-03,100,230-->

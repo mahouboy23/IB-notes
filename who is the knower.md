@@ -26,7 +26,7 @@ How might contribute to the array of knowledge that human kind has access to. We
 - Favoritism
 - Unfairness 
 - Partiality 
-<!--SR:!2023-01-19,8,170-->
+<!--SR:!2023-01-28,5,150-->
 
 ---- 
 
@@ -41,7 +41,7 @@ How might contribute to the array of knowledge that human kind has access to. We
 >2. [[Contingent]] 
 >3. [[culture]] 
 >4. [[Perception]] 
-<!--SR:!2023-01-21,10,170-->
+<!--SR:!2023-01-28,5,150-->
 
 We live in an age in which self identity and self estime are regarded as crucial to our health and well being at the same time, we are invented to take part into self improvement programs, and the selfie is perhaps the fastest growing genre in photography
 

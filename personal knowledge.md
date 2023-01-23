@@ -6,11 +6,11 @@ Created: 2022-11-16
 Knowledge is 
 ?
 *experiential* :: based on experience  
-<!--SR:!2023-01-19,8,250-->
+<!--SR:!2023-02-17,25,250-->
 *innate* ::   you are born with
 <!--SR:!2023-02-08,21,270-->
 *a priori* :: purely by reason 
-<!--SR:!2023-01-20,9,250-->
+<!--SR:!2023-01-29,6,230-->
 
 To what extent can we know | 
 
