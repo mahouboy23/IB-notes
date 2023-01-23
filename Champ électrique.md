@@ -6,7 +6,7 @@ Created: 2022-11-29
 ## Qu'est ce qu'un champ électrique-
 ?
 On appelle champ électrique tout region de l'espace ou une charge est soumise a une force électrique. 
-<!--SR:!2023-01-20,2,243-->
+<!--SR:!2023-01-24,1,223-->
 
 le champs électrique ne depends pas de la charge q (qui le subit) mais des charges qui le créent.
 
@@ -31,7 +31,7 @@ Champ électrique crée par une charge ponctuelle  $q$ > 0 :
 ![[champ-e (2).png]]
 Champ électrique en M distant de r de q 
 $$\ E = \frac{Kq}{r^2}$$ **E est radial** (Droite passant par le centre) et centrifuge 
-<!--SR:!2023-01-21,3,263-->
+<!--SR:!2023-02-05,13,263-->
 
 
 Champ électrique crée par une charge ponctuelle  $q$ < 0 :
@@ -45,7 +45,7 @@ $$E = \frac{K\hspace1mm |q|}{r^2}$$
 ?
 C'est la somme vectorielle de chacun des champs (Resultant)
 $$E = E_{1} \hspace2mm + E_{2} \hspace2mm + E_3$$
-<!--SR:!2023-01-21,3,263-->
+<!--SR:!2023-02-05,13,263-->
 
 
 ### Lignes de champ (ligne de force) 

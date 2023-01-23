@@ -21,7 +21,7 @@ La resistance d'un fil conducteur depend de :
 $$R=\frac{\rho l}{A} \hspace{2mm} OU \hspace{2mm} \rho =\frac{RA}{l}$$ R = en ohm 
 $\rho$ = en ohm m 
 A = en $m^2$ 
-<!--SR:!2023-01-22,3,248-->
+<!--SR:!2023-02-03,11,248-->
 
 
 
@@ -33,7 +33,7 @@ $U=RI$
 <!--SR:!2023-02-01,9,248-->
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
-<!--SR:!2023-01-21,3,250-->
+<!--SR:!2023-02-07,15,270-->
 
 ## Association de resistors 
 
@@ -75,13 +75,13 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 ?
 un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe.
 ![[POTENTIOMETRE]]
-<!--SR:!2023-01-22,3,248-->
+<!--SR:!2023-01-25,2,228-->
 
 - **le rheostat**
 ?
 Le rhéostat est un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
-<!--SR:!2023-01-22,3,248-->
+<!--SR:!2023-01-25,2,228-->
 
 *Caractéristique d'un Montage potentiométrique* :
 ?

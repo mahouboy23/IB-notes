@@ -25,7 +25,7 @@ $$I=nqAv$$
 - $I$ = intensité du courant en $A$
 - $q$ = charge des porteurs de charges en $c$
 - $n$ = nombre de porteurs de charge par unité de volume en $m^{-3}$
-<!--SR:!2023-01-21,2,230-->
+<!--SR:!2023-01-24,1,210-->
 
 
 ## Les lois de l'intensité
@@ -36,5 +36,5 @@ $$I=nqAv$$
 <!--SR:!2023-02-03,11,250-->
 
 - Un nœud est :: le point de rencontre de plus de deux fils de connexion
-<!--SR:!2023-01-21,3,250-->
+<!--SR:!2023-02-04,12,250-->
 
