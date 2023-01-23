@@ -35,4 +35,5 @@ When writhing a comparative essay in the style of paper 2 you should to answer t
 
 - You will need to start organizing your ideas using a mind map
 - Write a good thesis statement which make a claim about the author's purpose in writing
-- Find evidence from both text to support the claims that you make in your thesis statement.
+- Find evidence from both text to support the claims that you make in your thesis statement
+- Write paragraph that follows the PEACE act structure which stand's for
