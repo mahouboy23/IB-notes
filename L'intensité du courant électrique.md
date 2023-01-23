@@ -13,7 +13,7 @@ t = temps en seconde
 ?
 Dans les métaux le courant électrique est dut a un déplacement d'électrons libres qui se déplacent du pole moins vers le pole plus. Le sens conventionnel a l'exterieur du générateur est de plus vers le moins.
 Dans les liquides qui conduisent l'eletricité, le courant électrique est dut a un déplacement des ions positifs (cations) et des ions négatifs (anions).
-<!--SR:!2023-01-21,3,250-->
+<!--SR:!2023-02-04,12,250-->
 
 
 ## Vitesse de dérive des porteurs de charges
@@ -30,10 +30,10 @@ $$I=nqAv$$
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité** :: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité
-<!--SR:!2023-01-21,3,250-->
+<!--SR:!2023-02-04,12,250-->
 
 - **Loi des nœuds ou de Kirchhoff pour l'intensité** :: Dans un noeuds la somme des courants entrants est égale a la somme des courants sortants.
-<!--SR:!2023-01-22,3,250-->
+<!--SR:!2023-02-03,11,250-->
 
 - Un nœud est :: le point de rencontre de plus de deux fils de connexion
 <!--SR:!2023-01-21,3,250-->

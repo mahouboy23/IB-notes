@@ -22,7 +22,7 @@ n nombre d'electrons perdues
 **Conducteur** :: un conducteur laisse passer le courant électrique 
 <!--SR:!2023-02-06,19,250-->
 **Isolant** :: un isolant ne laisse pas passer le courant
-<!--SR:!2023-01-21,9,210-->
+<!--SR:!2023-02-20,28,230-->
 **Courant électrique** :: Le courant électrique  est le déplacement de charges.
 <!--SR:!2023-03-07,54,210-->
 

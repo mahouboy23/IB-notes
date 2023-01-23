@@ -9,7 +9,7 @@ L c'est la quantite de chaleur necessaire pour changer d'etat l'unite de masse d
 ![[image-20221020140041615.png]]
 
 **Chaleur latente spécifique de fusion** :: La quantité de chaleur nécessaire pour transformer 1 kg d'une substance solide en liquide sans aucun changement de température.
-<!--SR:!2023-01-20,9,230-->
+<!--SR:!2023-02-25,33,250-->
 
 
 **Chaleur latente spécifique de vaporisation** :: La quantité de chaleur nécessaire pour transformer 1 kg d'une substance liquide en gaz sans aucun changement de température. 

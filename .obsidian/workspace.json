@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "la résistance électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "la résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "la résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Champ de gravitation.md"
+                "file": "la résistance électrique.md"
               }
             }
           },
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "la résistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,17 +298,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8584c03d1c19e95",
+  "active": "25a68781bf129089",
   "lastOpenFiles": [
+    "Eléctricite et magnétisme.md",
     "Piles électrique.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Comparative essay.md",
     "Le Champ de gravitation.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "La loi de gravitation universelle de Newton.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
     "common core/EE.md",
-    "hl subjects/Francais B.md",
-    "sl subjects/Economie.md",
-    "Comparative essay.md"
+    "hl subjects/Francais B.md"
   ]
 }
