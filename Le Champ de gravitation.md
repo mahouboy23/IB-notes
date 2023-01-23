@@ -33,4 +33,4 @@ $$F_{G}=mg=\frac{GMm}{r^2}=m*\frac{GM}{r^2}$$
 $$g=\frac{GM}{r^2}$$
 Une masse M distant de r d'un point exerce un champ de gravitation $\vec{g}$  **radial** et **centripète** dont l'intensite est $g=\frac{GM}{r^2}$. 
 
--Champs de gravitation exerce par plusieurs masse
+### -Champs de gravitation exerce par plusieurs masse
