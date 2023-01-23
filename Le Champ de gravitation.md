@@ -12,7 +12,7 @@ La force $\vec{F}$  subie et le champ $\vec{g}$  sont reliés par la relation
 Comme une force s’exprime en Newton et une masse en kilogramme, on en déduit que le **champ de gravitation est en** $Nkg^2$ . 
 
 Un champ de gravitation :: est une région de l'espace ou une masse est soumise a une force de gravitation
-<!--SR:!2023-01-21,2,230-->
+<!--SR:!2023-01-30,7,230-->
 
 Formule de champ de gravitation vectorielle et scalaire:
 ?
