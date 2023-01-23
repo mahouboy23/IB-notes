@@ -48,13 +48,13 @@ $$F=k\frac{q_{1}q_{2}}{r^{2}}$$
 - $q_{1}$ = charge 1 en Coulomb (C)
 - $q_{2}$ = charge 2 en Coulomb (C)
 - $r$ = distance entre les charges en mètre (m)
-<!--SR:!2023-01-22,4,184-->
+<!--SR:!2023-01-25,2,164-->
 
 Formule de la constante de Coulomb:
 ?
 $$k=\frac{1}{4\pi \epsilon_{0}}$$
 $\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$ 
-<!--SR:!2023-01-20,8,204-->
+<!--SR:!2023-01-27,4,184-->
 
 
 

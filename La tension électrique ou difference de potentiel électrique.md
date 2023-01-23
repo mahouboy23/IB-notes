@@ -9,7 +9,7 @@ La tension électrique s'exprime en volt et on l'a mesure a l'aide d'un voltmèt
 <!--SR:!2023-01-27,9,170-->
 
 Le potentiel électrique en un point est :: égale a l'énergie potentiel électrique par unité de charge. ([[Champ électrique]])
-<!--SR:!2023-01-20,1,202-->
+<!--SR:!2023-01-24,1,182-->
 
 ![[Le potentiel électrique en un point.png]]
 
@@ -26,7 +26,7 @@ Le potentiel électrique en un point est :: égale a l'énergie potentiel élect
 $$V_{AD}=V_{A}-V_{D}=V_{AB}+V_{BC}+V_{CD}$$
 ![[download.svg]]
  $$V_{AB}+V_{BC}+V_{CD}+V_{DA}=0$$$$\Sigma V=0$$
-<!--SR:!2023-01-21,2,236-->
+<!--SR:!2023-01-29,6,236-->
 
 - La tension aux bornes de dipoles en série est égale a la somme des tensions au niveau de chaque dipole
 
