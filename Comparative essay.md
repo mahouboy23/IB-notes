@@ -44,4 +44,7 @@ When writhing a comparative essay in the style of paper 2 you should to answer t
 The introduction should provide the background information on the texts or concepts, being compared and state the main thesis or argument of the essay.
 
 ### 2/ The body paragraph
-In the body paragraph we should organise the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparaison or contrast and provide evidence and analyses to support a thesis
+In the body paragraph we should organise the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparaison or contrast and provide evidence and analyses to support a thesis. 
+
+### 3/ The conclusion
+The conclusion should summaries the main points of the essay and reiterate the thesis or recall back the thesis. It should provide a final evaluation of the signifiants of the comparaison and contrast and offer a final insight or opinion on the text's or concepts being compared. 

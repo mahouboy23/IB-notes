@@ -69,18 +69,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8895ef99a7fea17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Comparative essay.md",
                 "mode": "source",
                 "source": false
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -310,11 +298,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8895ef99a7fea17f",
+  "active": "25a68781bf129089",
   "lastOpenFiles": [
-    "Peace act.md",
-    "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
+    "Comparative essay.md",
+    "Peace act.md",
     "IB overview.md",
     "système.md",
     "Notion de système.md",
