@@ -23,6 +23,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 *Voyage and Return* :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
 
 *Comedy* :: The protagonist experiences a series of lighthearted or confusing events, before the story resolves into a happy ending. 
+<!--SR:!2023-01-26,3,250-->
 
 *Tragedy* :: The protagonist has a central trait or flaw or makes a mistake, which results in catastrophe. 
 
