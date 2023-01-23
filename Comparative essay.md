@@ -18,17 +18,22 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-01-24,1,230-->
 
 *Rags to Riches* :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
+<!--SR:!2023-01-24,1,230-->
 
 *The Quest* :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way. 
+<!--SR:!2023-01-26,3,250-->
 
 *Voyage and Return* :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
+<!--SR:!2023-01-26,3,250-->
 
 *Comedy* :: The protagonist experiences a series of lighthearted or confusing events, before the story resolves into a happy ending. 
 <!--SR:!2023-01-26,3,250-->
 
 *Tragedy* :: The protagonist has a central trait or flaw or makes a mistake, which results in catastrophe. 
+<!--SR:!2023-01-26,3,250-->
 
 *Rebirth* :: The protagonist undergoes a transformation, and often ends up a better person as a result
+<!--SR:!2023-01-26,3,250-->
 
 ## Comparative essay Tips and Tricks
 When writhing a comparative essay in the style of paper 2 you should to answer the following question :
@@ -54,7 +59,7 @@ The conclusion should summaries the main points of the essay and reiterate the t
 **Example : Pablo Picasso once said : "==Art== is the ==lie== that enables us ==to realize the truth=="** 
 1) What do think he meant by this ? Do you agree ? 
 2) To what degree is reading fiction about finding the "truth" ?
-<!--SR:!2023-01-26,3,270-->
+<!--SR:!2023-01-26,3,270!2023-01-26,3,270!2023-01-26,3,270-->
 
  Key words : Art / lie / truth / enable
 1.  Pablo Picasso is suggesting that art has the ability to reveal truths about the world and about humanity that cannot be seen through literal representations. He argues that art is not a literal representation of reality, but rather a means of interpreting and understanding it. 
