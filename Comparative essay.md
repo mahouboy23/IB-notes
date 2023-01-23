@@ -37,3 +37,11 @@ When writhing a comparative essay in the style of paper 2 you should to answer t
 - Write a good thesis statement which make a claim about the author's purpose in writing
 - Find evidence from both text to support the claims that you make in your thesis statement
 - Write paragraph that follows the PEACE act structure which stand's for [[Peace act]] 
+- A comparative essay typically requires students to compare and contrast two or more texts, ideas or concepts. The essay should analyse the similarities and the differences between the chosen texts or concepts and evaluate there signifiants. 
+- The structure of a comparative essay may vary depending on the specific requirements of the assignment but it should include an introduction a body paragraph and a conclusions. 
+
+### 1/ Introduction
+The introduction should provide the background information on the texts or concepts, being compared and state the main thesis or argument of the essay.
+
+### 2/ The body paragraph
+In the body paragraph we should organise the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparaison or contrast and provide evidence and analyses to support a thesis
