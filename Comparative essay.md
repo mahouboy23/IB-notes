@@ -15,6 +15,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 
 #### Simpler definition
 *Overcoming the Monster* :: The protagonist must defeat an antagonist (usually an individual, force, or entity) that threatens them and the wider world. 
+<!--SR:!2023-01-24,1,230-->
 
 *Rags to Riches* :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
 
@@ -53,6 +54,7 @@ The conclusion should summaries the main points of the essay and reiterate the t
 **Example : Pablo Picasso once said : "==Art== is the ==lie== that enables us ==to realize the truth=="** 
 1) What do think he meant by this ? Do you agree ? 
 2) To what degree is reading fiction about finding the "truth" ?
+<!--SR:!2023-01-26,3,270-->
 
  Key words : Art / lie / truth / enable
 1.  Pablo Picasso is suggesting that art has the ability to reveal truths about the world and about humanity that cannot be seen through literal representations. He argues that art is not a literal representation of reality, but rather a means of interpreting and understanding it. 
