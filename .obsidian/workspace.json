@@ -93,14 +93,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "La tension électrique ou difference de potentiel électrique.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "La tension électrique ou difference de potentiel électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,17 +310,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8584c03d1c19e95",
+  "active": "8895ef99a7fea17f",
   "lastOpenFiles": [
-    "common core/CAS.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "Attributs du profil de l'apprenant.md",
+    "common core/CAS.md",
+    "7 objectifs d'apprentissage CAS.md",
     "Piles électrique.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "La tension électrique ou difference de potentiel électrique.md",
-    "Champ électrique.md",
-    "la résistance électrique.md",
-    "L'intensité du courant électrique.md",
-    "rappels d'électrostatique.md"
+    "Champ électrique.md"
   ]
 }
