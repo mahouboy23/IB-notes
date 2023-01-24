@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "25a68781bf129089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subvention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9eb4ea509e090c49",
             "type": "leaf",
             "state": {
@@ -76,17 +64,15 @@
             }
           },
           {
-            "id": "ca2683660a3ac068",
+            "id": "494a7c07b9fcf0c1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/champ.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subvention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subvention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subvention.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,7 +230,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subvention.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,17 +277,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a68781bf129089",
+  "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
+    "IB overview.md",
+    "hl subjects/Computer science.md",
+    "hl subjects/Francais B.md",
+    "hl subjects/Math AA.md",
+    "Subvention.md",
     "Impôts indirects.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix planchers.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "L'imposition d'un prix plafond.md",
-    "Prix maximum.md",
-    "Cela produit des pénuries.md",
-    "Introduction gouvernement.md",
-    "Déterminants de l'élasticité-prix de l'offre.md"
+    "Solutions aux conséquences du contrôle des prix plafonds.md"
   ]
 }
