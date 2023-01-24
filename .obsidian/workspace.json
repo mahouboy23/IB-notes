@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Prix maximum.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Prix maximum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,15 +298,15 @@
   },
   "active": "25a68781bf129089",
   "lastOpenFiles": [
+    "Cela produit des pénuries.md",
+    "Prix maximum.md",
+    "sl subjects/Economie.md",
+    "Introduction gouvernement.md",
     "Déterminants de l'élasticité-prix de l'offre.md",
     "Possibilité de stocker des stocks.md",
-    "sl subjects/Economie.md",
     "Définition élasticités offre.md",
     "Capacité inutilisée.md",
     "Mobilité (flexibilité) et coût des facteurs de production.md",
-    "Période considérée (offre).md",
-    "Introduction gouvernement.md",
-    "des revenus du gouvernement.md",
-    "IB overview.md"
+    "Période considérée (offre).md"
   ]
 }

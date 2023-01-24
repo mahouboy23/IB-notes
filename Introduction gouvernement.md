@@ -12,3 +12,5 @@ Created: 2023-01-06
 -   [[Influencer le niveau de consommation]] 
 -   [[Pour corriger les défaillances du marché]]
 -   [[Promouvoir l'équité]] 
+
+**bien nuisible** :: bien demerit/bien d'inaptitude
