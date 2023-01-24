@@ -3,7 +3,7 @@ tags : mod economie
 ---
 Created: 2023-01-24
 
-# Subventions
+# Definition
 ?
 Les subventions sont des paiements unitaires qui sont utilisés pour réduire les coûts de production et augmenter la production du marché.
 
