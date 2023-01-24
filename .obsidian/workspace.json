@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "Subvention.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "Subvention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "Subvention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prix maximum.md"
+                "file": "Subvention.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "Subvention.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,15 +298,15 @@
   },
   "active": "25a68781bf129089",
   "lastOpenFiles": [
-    "Cela produit des pénuries.md",
-    "Prix maximum.md",
     "sl subjects/Economie.md",
+    "Impôts indirects.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Contrôles des prix planchers.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "L'imposition d'un prix plafond.md",
+    "Prix maximum.md",
+    "Cela produit des pénuries.md",
     "Introduction gouvernement.md",
-    "Déterminants de l'élasticité-prix de l'offre.md",
-    "Possibilité de stocker des stocks.md",
-    "Définition élasticités offre.md",
-    "Capacité inutilisée.md",
-    "Mobilité (flexibilité) et coût des facteurs de production.md",
-    "Période considérée (offre).md"
+    "Déterminants de l'élasticité-prix de l'offre.md"
   ]
 }

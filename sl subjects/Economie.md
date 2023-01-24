@@ -47,3 +47,9 @@ tags : mod economie
 ## Parte 7 : Rôle du gouvernement dans la microéconomie
 1. [[Introduction gouvernement|introduction]]
 2. [[Prix maximum]] 
+3. [[L'imposition d'un prix plafond]] 
+4. [[Solutions aux conséquences du contrôle des prix plafonds]] 
+5. [[Contrôles des prix planchers]] 
+6. [[Conséquences possibles de l'imposition d'un prix plancher]] 
+7. [[Impôts indirects]] 
+8. [[Subvention]] 
