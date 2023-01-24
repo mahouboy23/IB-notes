@@ -40,4 +40,8 @@ $$g=g_1+g_2+g_{3}...$$
 $$g=\frac{gm_1}{r_{1}^2}$$
 *VOIR EXO*
 
--
+### -Variation du champ de gravitation d'une planète avec l'altitude
+$g_o$ cham a la surface de la planète.
+Si on utilise l'appoximation sphérique la planète une masse ponctuelle placée en O
+![[]]
+Pour une point a l'altitude h le champ sera $g_h$
