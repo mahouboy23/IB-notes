@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Champ de gravitation.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,13 +296,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8584c03d1c19e95",
+  "active": "25a68781bf129089",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
-    "Comparative essay.md",
-    "Piles électrique.md",
     "IB overview.md",
+    "Comparative essay.md",
     "Le Champ de gravitation.md",
+    "sl subjects/Anglais Literrature.md",
+    "Piles électrique.md",
     "Excalidraw/champ.md",
     "Excalidraw/Caracteristique d'une pile.md",
     "Eléctricite et magnétisme.md",
