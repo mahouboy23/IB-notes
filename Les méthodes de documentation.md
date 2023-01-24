@@ -18,4 +18,4 @@ Les types de documentation comprennent :
 - [[Documentation technique]] 
 - [[Documentation de l'utilisateur final]] 
 - [[Marketing]] 
-<!--SR:!2023-01-18,8,170-->
+<!--SR:!2023-01-29,5,150-->
