@@ -89,24 +89,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "7829aa10f96ebef1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4837666ddceff7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alliteration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alliteration.md",
+                "file": "la résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alliteration.md",
+                "file": "la résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alliteration.md"
+                "file": "la résistance électrique.md"
               }
             }
           },
@@ -268,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alliteration.md",
+                "file": "la résistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,17 +298,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4837666ddceff7ab",
+  "active": "25a68781bf129089",
   "lastOpenFiles": [
+    "Nature et comportement humain.md",
+    "Effet de revenu.md",
+    "Alliteration.md",
     "Peace act.md",
     "Volta.md",
     "la résistance électrique.md",
     "Key features of poems.md",
     "Caesura.md",
     "Eléctricite et magnétisme.md",
-    "Piles électrique.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
-    "Comparative essay.md"
+    "Piles électrique.md"
   ]
 }

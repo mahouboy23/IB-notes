@@ -5,7 +5,7 @@ Created: 2022-10-18
 
 Dans une économie de marché libre, les changements de prix, ou le mécanisme de prix, détermine comment les ressources rares sont allouées. 
 **Le mécanisme des prix** :: est la manière dont les changements de prix affectent la quantité demandée et la quantité offerte.  
-<!--SR:!2023-01-23,7,170-->
+<!--SR:!2023-02-04,12,170-->
 
 Les changements de prix constituent une force puissante qui oriente les décisions sur quoi, comment et pour qui produire. 
 
