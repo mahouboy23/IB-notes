@@ -34,3 +34,10 @@ $$g=\frac{GM}{r^2}$$
 Une masse M distant de r d'un point exerce un champ de gravitation $\vec{g}$  **radial** et **centripète** dont l'intensite est $g=\frac{GM}{r^2}$. 
 
 ### -Champs de gravitation exerce par plusieurs masse
+?
+Le champ de gravitation créer par plusieurs masse est égale a la somme du champs créer par chaque masse.
+$$g=g_1+g_2+g_{3}...$$
+$$g=\frac{gm_1}{r_{1}^2}$$
+*VOIR EXO*
+
+-
