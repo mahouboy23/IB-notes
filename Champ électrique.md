@@ -18,7 +18,7 @@ $$F=|q|E$$
 - $F$ = Force en Newton 
 - $|q|$ = Charge électrique en Coulomb
 ---
-<!--SR:!2023-01-24,1,183-->
+<!--SR:!2023-01-25,1,163-->
 
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 <!--SR:!2023-01-24,1,203-->
