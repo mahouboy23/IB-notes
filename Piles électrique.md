@@ -19,7 +19,14 @@ La tension aux bornes d'une pile est : $U_{pn}=e-rI$
 
 ![[forum_189021_1.gif]]
 
-[[!]]
+![[Caracteristique d'une pile]]
+
+$I_c$ Intensité de court-circuit
+$$U=0=e-rI_c$$
+$$rI_c=e$$
+$$I_c=\frac{e}{r}$$
+$I_c=\frac{e}{r}$ Abscisse a l'origine
+ **!Attention: C'est dangereux de court-circuite un generateur cela le deteriore et cela peut produire des incendies**
 
 On peut trouver la formule $U_{pn}=e-rI$  en effectuant le montage suivant 
 	![[Pasted image 20221220084137.png]]
