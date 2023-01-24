@@ -10,6 +10,4 @@ Created: 2023-01-24
 ## Formule 
 ?
 $$\text{PES}=\frac{\Delta Q_{s}}{\Delta P}$$
-
-En utilisant des symboles, la formule s'écrit généralement comme suit :
-PSE =% △Qs% △ P
+Le signe du **PES** est :: toujours **positif**
