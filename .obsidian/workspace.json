@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "Comparative essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,9 +62,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca2683660a3ac068",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Caracteristique d'une pile.md"
+              }
+            }
+          },
+          {
+            "id": "9eb4ea509e090c49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "la résistance électrique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,7 +240,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la résistance électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a68781bf129089",
+  "active": "9eb4ea509e090c49",
   "lastOpenFiles": [
-    "Eléctricite et magnétisme fiche revision.canvas",
     "Le Champ de gravitation.md",
-    "Extended Essay.canvas",
-    "Les nombres héxadécimaux.md",
+    "Excalidraw/Caracteristique d'une pile.md",
+    "Piles électrique.md",
+    "Eléctricite et magnétisme.md",
+    "Comparative essay.md",
+    "IB overview.md",
+    "sl subjects/Physics.md",
+    "sl subjects/Anglais Literrature.md",
     "la résistance électrique.md",
-    "Nature et comportement humain.md",
-    "Effet de revenu.md",
-    "Alliteration.md",
-    "Peace act.md",
-    "Volta.md"
+    "Eléctricite et magnétisme fiche revision.canvas"
   ]
 }
