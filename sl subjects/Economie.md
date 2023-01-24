@@ -40,7 +40,7 @@ tags : mod economie
 5. [[Taxes]] 
 
 ## Parte 6 : Elasticités de l'offre
-
+1. [[]]
 
 ## Parte 7 : Rôle du gouvernement dans la microéconomie
 1. [[Introduction gouvernement|introduction]]
