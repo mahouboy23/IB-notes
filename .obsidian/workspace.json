@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/champ.md",
+                "file": "Le Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/champ.md",
+                "file": "Le Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/champ.md"
+                "file": "Le Champ de gravitation.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/champ.md",
+                "file": "Le Champ de gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,17 +296,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2683660a3ac068",
+  "active": "c8584c03d1c19e95",
   "lastOpenFiles": [
-    "Excalidraw/Caracteristique d'une pile.md",
-    "Le Champ de gravitation.md",
+    "Excalidraw/champ.md",
     "Piles électrique.md",
+    "Le Champ de gravitation.md",
+    "Excalidraw/Caracteristique d'une pile.md",
     "Comparative essay.md",
     "Eléctricite et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
-    "la résistance électrique.md",
-    "Eléctricite et magnétisme fiche revision.canvas"
+    "la résistance électrique.md"
   ]
 }

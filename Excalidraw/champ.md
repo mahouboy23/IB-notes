@@ -16,6 +16,8 @@ h ^dtoToBbb
 
 r ^gkXr35SC
 
+R ^cymPwO9g
+
 %%
 # Drawing
 ```json
@@ -642,6 +644,41 @@ r ^gkXr35SC
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "cymPwO9g",
+			"type": "text",
+			"x": 111.89968872070312,
+			"y": 4.985481262207031,
+			"width": 15,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 343391491,
+			"version": 6,
+			"versionNonce": 2012103021,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674553246203,
+			"link": null,
+			"locked": false,
+			"text": "R",
+			"rawText": "R",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "R"
 		}
 	],
 	"appState": {
@@ -655,7 +692,7 @@ r ^gkXr35SC
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
