@@ -10,4 +10,4 @@ Created: 2023-01-24
 ## Formule 
 ?
 $$\text{PES}=\frac{\Delta Q_{s}}{\Delta P}$$
-Le signe du **PES** est :: toujours **positif**
+Le signe du **PES** est :: toujours **positif** car le prix et la quantité offerte évoluent toujours dans le même sens.
