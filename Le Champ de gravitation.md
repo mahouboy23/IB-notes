@@ -44,4 +44,4 @@ $$g=\frac{gm_1}{r_{1}^2}$$
 $g_o$ cham a la surface de la planète.
 Si on utilise l'appoximation sphérique la planète une masse ponctuelle placée en O
 ![[champ]]
-Pour une point a l'altitude h le champ sera $g_h$
+Pour un point a l'altitude h le champ sera $g_h$
