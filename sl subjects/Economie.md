@@ -41,6 +41,8 @@ tags : mod economie
 
 ## Parte 6 : Elasticités de l'offre
 1. [[Définition élasticités offre]] 
+2. [[Déterminants de l'élasticité-prix de l'offre]]
+
 
 ## Parte 7 : Rôle du gouvernement dans la microéconomie
 1. [[Introduction gouvernement|introduction]]
