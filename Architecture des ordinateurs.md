@@ -37,3 +37,7 @@ $$\Huge{Architecture}$$
 4. [[Les nombres héxadécimaux]] 
 
 
+1010
+10111
+100000
+
