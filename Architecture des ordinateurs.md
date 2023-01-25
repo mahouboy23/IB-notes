@@ -35,3 +35,5 @@ $$\Huge{Architecture}$$
 2. [[Le système binaire]] 
 3. [[Relation entre les nombres décimaux et binaires]]  
 4. [[Les nombres héxadécimaux]] 
+
+
