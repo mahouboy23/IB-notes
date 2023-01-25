@@ -30,4 +30,4 @@ Created: 2022-10-14
 1. Quel est le role de l'individu dans la communauté ? 
 2. A quoi servent les règles et les règlements dans la formation d'une société ? 
 3. Quel role joue la langue dans la société ?
-4. Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ?
+4. Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ? 
