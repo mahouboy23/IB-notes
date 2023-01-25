@@ -37,7 +37,7 @@ $$\Huge{Architecture}$$
 4. [[Les nombres héxadécimaux]] 
 
 
-1100
+10010
 101011
 100000
 
