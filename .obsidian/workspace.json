@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subvention.md",
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subvention.md",
+                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subvention.md",
+                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subvention.md"
+                "file": "History.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subvention.md",
+                "file": "History.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
+    "common core/TOK.md",
+    "personal knowledge.md",
+    "Ethics.md",
+    "Tools and methods.md",
+    "Perspective.md",
+    "Scope.md",
+    "History.md",
     "IB overview.md",
-    "hl subjects/Computer science.md",
-    "hl subjects/Francais B.md",
-    "hl subjects/Math AA.md",
     "Subvention.md",
-    "Impôts indirects.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Contrôles des prix planchers.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md"
+    "sl subjects/Economie.md"
   ]
 }
