@@ -14,10 +14,20 @@ Created: 2022-10-14
 - Que pouvons-nous apprendre sur une culture grace a son expression artistique? 
 - En quoi les medias modifient-ils les rapports que nous entretenons avec les autres? 
 
-
-
  
 - **Message publié dans les médias sociaux / dialogue en ligne / un forum en ligne**: L’internaute partage une expérience, une opinion, des informations, des photos… avec son réseau de lecteurs. Les buts de ce type de texte sont divers : informer, divertir, convaincre, avertir… 
 - **Proposition**: Texte qui fait part d’une demande ou d’une suggestion. L’auteur explique et justifie une idée dont il espère la réalisation. 
 - **Rapport**: Exposé dans lequel on relate ce qu'on a vu ou entendu ; compte-rendu, souvent de caractère officiel, d'une question, d'une mission 
 - **Reportage**: Article, émission où un ou une journaliste recueille des informations écrites, enregistré ou photographié lors d'un événement. Un reportage écrit comporte impérativement dans le corps du texte la réponse à six questions fondamentales : Qui, quoi, où quand comment et pourquoi ?
+
+## **Theme 4 :** Organisation sociale
+
+**Principe-directeur**: Explorer les façons dont les groupes de personnes s'organisent ou sont organises autour de système ou de centres d'interet communs.
+
+**Sujets recommandes**: -Relations sociales -Communauté -Engagement Social -Education -Monde du travail -Ordre 
+
+**Questions possibles**: 
+1. Quel est le role de l'individu dans la communauté ? 
+2. A quoi servent les règles et les règlements dans la formation d'une société ? 
+3. Quel role joue la langue dans la société ?
+4. Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ?

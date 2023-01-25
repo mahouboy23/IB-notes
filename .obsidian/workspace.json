@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "hl subjects/Francais B.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "hl subjects/Francais B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "hl subjects/Francais B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "hl subjects/Francais B.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "History.md",
+                "file": "hl subjects/Francais B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "IB overview.md",
+    "hl subjects/Francais B.md",
+    "History.md",
     "common core/TOK.md",
     "personal knowledge.md",
     "Ethics.md",
     "Tools and methods.md",
     "Perspective.md",
     "Scope.md",
-    "History.md",
-    "IB overview.md",
-    "Subvention.md",
-    "sl subjects/Economie.md"
+    "Subvention.md"
   ]
 }
