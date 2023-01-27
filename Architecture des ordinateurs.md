@@ -35,19 +35,4 @@ $$\Huge{Architecture}$$
 2. [[Le système binaire]] 
 3. [[Relation entre les nombres décimaux et binaires]]  
 4. [[Les nombres héxadécimaux]] 
-
-
-10010
-101011
-100000
-
-11/ 3/ 22
-
-17 / 31 / 405 
-10111
-
-161 / 283 / 8096
-
-010100001 / 0001010110001 / 
-
-b3 / f / 16
+5. [[Standards des formats de données]] 
