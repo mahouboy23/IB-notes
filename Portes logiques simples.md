@@ -65,3 +65,5 @@ norme britannique que vous trouverez sur le Web.
 
 ![[image-20230127110825955.png]]
 
+## Combinaison d'opérateurs / de portes logiques
+
