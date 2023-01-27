@@ -83,3 +83,6 @@ norme britannique que vous trouverez sur le Web.
 *NOR* : Climatisation : La climatisation ne se met en marche (1) que si les DEUX fenêtres A et B sont fermées. (0)
 
 *XOR* : 2 interrupteurs d'éclairage dans un couloir
+
+![[image-20230127112738121.png]]
+
