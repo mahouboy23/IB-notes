@@ -86,3 +86,5 @@ norme britannique que vous trouverez sur le Web.
 
 ![[image-20230127112738121.png]]
 
+![[image-20230127113027798.png]]
+
