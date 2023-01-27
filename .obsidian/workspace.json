@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Standards des formats de données.md",
+                "file": "Représentation de quelques types de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standards des formats de données.md",
+                "file": "Représentation de quelques types de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Standards des formats de données.md",
+                "file": "Représentation de quelques types de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Standards des formats de données.md"
+                "file": "Représentation de quelques types de données.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Standards des formats de données.md",
+                "file": "Représentation de quelques types de données.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,6 +289,7 @@
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
     "Architecture des ordinateurs.md",
+    "Standards des formats de données.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "sl subjects/Economie.md",
@@ -296,7 +297,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "La loi de gravitation universelle de Newton.md",
     "sl subjects/Physics.md",
-    "Les nombres héxadécimaux.md",
-    "Natural sciences.md"
+    "Les nombres héxadécimaux.md"
   ]
 }

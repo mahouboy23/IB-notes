@@ -14,3 +14,8 @@ représentations différentes qui peuvent être réalisées est la suivante :
 
 ![[image-20230127102557165.png]]
 
+
+Il est donc important que les systèmes informatiques soient cohérents dans leur façon de
+représenter et d'échanger les données. C'est pourquoi il existe des formats standard de données
+**Integers, characters, string, Colours ...** 
+

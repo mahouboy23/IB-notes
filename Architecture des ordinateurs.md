@@ -35,4 +35,5 @@ $$\Huge{Architecture}$$
 2. [[Le système binaire]] 
 3. [[Relation entre les nombres décimaux et binaires]]  
 4. [[Les nombres héxadécimaux]] 
-5. [[Standards des formats de données]] 
+5. [[Standards des formats de données]]
+6. [[Représentation de quelques types de données]] 
