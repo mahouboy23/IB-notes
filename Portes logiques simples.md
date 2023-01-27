@@ -66,4 +66,20 @@ norme britannique que vous trouverez sur le Web.
 ![[image-20230127110825955.png]]
 
 ## Combinaison d'opérateurs / de portes logiques
+- **Q = NOT(A AND B)**
+![[image-20230127111307482.png]]
 
+- **Q = NOT A NOR B**
+![[image-20230127111349436.png]]
+
+- **Q = C AND (A OR B)** 
+![[image-20230127111452517.png]]
+
+### Applications possibles dans le monde réel
+*AND* : Alarme incendie : Fumée (1) ET chaleur (1)
+
+*OR* : Lumière de voiture interne : L'une ou l'autre porte ouverte (1)
+
+*NOR* : Climatisation : La climatisation ne se met en marche (1) que si les DEUX fenêtres A et B sont fermées. (0)
+
+*XOR* : 2 interrupteurs d'éclairage dans un couloir
