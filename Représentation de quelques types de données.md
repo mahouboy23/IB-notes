@@ -31,3 +31,10 @@ caractère de 8 bits se suivant l'un l'autre. Chaque mot comprendra environ
 Est représentée dans le système numérique hexadécimal. Il y aura 6 valeurs
 hexadécimales, 2 pour chaque couleur primaire, dans l'ordre Rouge, Vert, Bleu
 (RVB).
+
+#### Exemple de représentation de couleurs
+Par exemple, la couleur rouge sera FF 00 00. Lorsqu'elle est visualisée sur
+un écran, la valeur est généralement précédée d'un dièse, par exemple
+  /#FF 00 00.
+Un maximum d'environ 16,8 millions de couleurs différentes peut être
+saisi (16 à la puissance 6 ou 2 à la puissance 24).
