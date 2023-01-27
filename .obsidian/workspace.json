@@ -43,11 +43,9 @@
             "id": "494a7c07b9fcf0c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Introduction draft.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md"
               }
             }
           }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction draft.md"
+                "file": "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md"
               }
             }
           },
@@ -214,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,15 +262,15 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "Extended Essay.canvas",
+    "Excalidraw/Drawing 2023-01-27 18.52.58.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-01-27 18.52.58.excalidraw/Pasted Image 20230127185328_421.png",
+    "Introduction draft.md",
     "common core/EE.md",
     "intro 1 1.md",
-    "Extended Essay.canvas",
     "IB overview.md",
     "Portes logiques simples.md",
     "Piles électrique.md",
-    "Architecture des ordinateurs.md",
-    "Représentation de quelques types de données.md",
-    "Standards des formats de données.md",
-    "hl subjects/Computer science.md"
+    "Architecture des ordinateurs.md"
   ]
 }
