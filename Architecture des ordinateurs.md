@@ -37,3 +37,4 @@ $$\Huge{Architecture}$$
 4. [[Les nombres héxadécimaux]] 
 5. [[Standards des formats de données]]
 6. [[Représentation de quelques types de données]] 
+7. [[Portes logiques simples]] 
