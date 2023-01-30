@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Notion de fonction.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Notion de fonction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Notion de fonction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Francais B.md"
+                "file": "Notion de fonction.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "Notion de fonction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,15 +264,15 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "hl subjects/Francais B.md",
     "Excalidraw/Physique exo hard.md",
     "Extended Essay.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Excalidraw/assets/Physique exo hard/Pasted Image 20230127185328_421.png",
     "Introduction draft.md",
     "common core/EE.md",
-    "intro 1 1.md",
-    "Portes logiques simples.md",
-    "Piles électrique.md"
+    "intro 1 1.md"
   ]
 }
