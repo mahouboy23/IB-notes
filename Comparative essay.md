@@ -65,3 +65,6 @@ The conclusion should summaries the main points of the essay and reiterate the t
 1.  Pablo Picasso is suggesting that art has the ability to reveal truths about the world and about humanity that cannot be seen through literal representations. He argues that art is not a literal representation of reality, but rather a means of interpreting and understanding it. 
 
 ## Methodology of comparative essay
+
+- **Background**
+- 
