@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Le Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Le Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md"
+                "file": "Le Champ de gravitation.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Le Champ de gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,6 +264,7 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Notion de fonction.md",
@@ -272,7 +273,6 @@
     "Excalidraw/Physique exo hard.md",
     "Extended Essay.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "Excalidraw/assets/Physique exo hard/Pasted Image 20230127185328_421.png",
-    "Introduction draft.md"
+    "Excalidraw/assets/Physique exo hard/Pasted Image 20230127185328_421.png"
   ]
 }
