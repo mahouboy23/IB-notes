@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,15 +263,15 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "Excalidraw/Math exo hard.md",
+    "Le Champ de gravitation.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Notion de fonction.md",
     "hl subjects/Math AA.md",
     "hl subjects/Francais B.md",
-    "Excalidraw/Physique exo hard.md",
     "Extended Essay.canvas",
-    "Eléctricite et magnétisme fiche revision.canvas",
-    "Excalidraw/assets/Physique exo hard/Pasted Image 20230127185328_421.png"
+    "Eléctricite et magnétisme fiche revision.canvas"
   ]
 }
