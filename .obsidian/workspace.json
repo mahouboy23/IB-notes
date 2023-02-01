@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo francais.md",
+                "file": "Physique nucléaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo francais.md",
+                "file": "Physique nucléaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo francais.md",
+                "file": "Physique nucléaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo francais.md"
+                "file": "Physique nucléaire.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exo francais.md",
+                "file": "Physique nucléaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +276,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "hl subjects/Francais B.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
     "IB overview.md",
+    "Exo francais.md",
+    "hl subjects/Francais B.md",
     "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
     "la résistance électrique.md",
     "Eléctricite et magnétisme.md",
-    "Piles électrique.md",
-    "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Le Champ de gravitation.md"
+    "Piles électrique.md"
   ]
 }
