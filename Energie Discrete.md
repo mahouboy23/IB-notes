@@ -23,8 +23,9 @@ Les rares impacts sont des particules $\alpha$ qui ont heurte un noyau ou ce son
 
 Une atome est constitue d'un noyau positive contenant z proton autour du qu'elle tourne z electron. entre les electrons et les noyau il y a le vide. 
 
-#### Inconvenient de ce modele 
+#### Inconvenient de ce modele:
+?
 tout particules électrisés anime de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tombe sur le noyau. 
 
-Composition du noyau: Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse
-Le nombre de proton d'un noyau est note Z 
+**Composition du noyau** : Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse
+Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre de charge
