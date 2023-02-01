@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=IfeehixQlQA&ab_channel=AndyMasley%27sIBPhysicsLe
 Pour expliquer le fait que la majeure partie des particules $\alpha$ ne sont pas divisées. Rutherford imite l'hypothese que l'atome est constitue d'un petit volume + appelé noyau, entre les noyaux il y a majoritairement du vide; structure lacunaire de l'atome. 
 
 Les rares impacts sont des particules $\alpha$ qui ont heurte un noyau ou ce sont trop rapproches d'un noyau
+![[Pasted image 20230201141343.png]]
