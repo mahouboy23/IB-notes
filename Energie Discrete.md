@@ -32,3 +32,6 @@ Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre
 
 ![[Pasted image 20230201142535.png]]
 
+*NB*: 
+**Des isotopes** :: ce sont des atomes (ou noyaux) ayant le meme nombre de protons mais un nombre de neutrons (ou de nucleons) $\neq$ 
+-Ils ont les meme propriétés chimiques mais de propriétés physiques different (ex: la masse, la radioactivités)
