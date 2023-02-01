@@ -7,6 +7,10 @@ Created: 2023-02-01
 
 - #### experience de geiger-Marsden (Rutherford)
 ?
-![[Geiger-Marsden_experiment_expectation_and_result_(French).svg.png]]
 ![[image-20230201135453192.png]]
 
+https://www.youtube.com/watch?v=IfeehixQlQA&ab_channel=AndyMasley%27sIBPhysicsLectures 
+
+#### Interpretation: 
+?
+![[Geiger-Marsden_experiment_expectation_and_result_(French).svg.png]]
