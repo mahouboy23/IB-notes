@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=IfeehixQlQA&ab_channel=AndyMasley%27sIBPhysicsLe
 #### Interpretation: 
 ?
 ![[Geiger-Marsden_experiment_expectation_and_result_(French).svg.png]]
-Pour expliquer le fait que la majeure partie des particules $\alpha$ ne sont pas divisées. Rutherford imite l'hypothese que l'atome est constitue d'un petit volume + appelé noyau, entre les noyaux il y a majoritairement du vide; structure lacunaire de l'atome 
+Pour expliquer le fait que la majeure partie des particules $\alpha$ ne sont pas divisées. Rutherford imite l'hypothese que l'atome est constitue d'un petit volume + appelé noyau, entre les noyaux il y a majoritairement du vide; structure lacunaire de l'atome. 
