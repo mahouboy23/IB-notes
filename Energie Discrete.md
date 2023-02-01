@@ -30,6 +30,8 @@ tout particules électrisés anime de mouvement circulaire devrait perdre de l'�
 **Composition du noyau** : Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse
 Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre de charges.
 
+![[image-20230201150635859.png]]
+
 ![[Pasted image 20230201142535.png]]
 
 *NB*: 
