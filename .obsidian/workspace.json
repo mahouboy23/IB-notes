@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "Permis d'émission négociables.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "Permis d'émission négociables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "Permis d'émission négociables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité négative.md"
+                "file": "Permis d'émission négociables.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "Permis d'émission négociables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,15 +284,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Externalité négative.md",
+    "Législation.md",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
     "Externalités.md",
     "sl subjects/Economie.md",
     "Conceptes de base economie.md",
     "IB overview.md",
     "Energie Discrete.md",
     "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Exo francais.md",
-    "hl subjects/Francais B.md"
+    "sl subjects/Physics.md"
   ]
 }
