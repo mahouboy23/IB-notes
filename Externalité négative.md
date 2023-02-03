@@ -1,0 +1,20 @@
+---
+tags : mod economie
+---
+Created: 2023-02-03
+
+## Externalité négative de la production
+Définition et graphe:
+?
+Lorsque le processus de production d'un bien ou d'un service génère un effet négatif sur un tiers ou sur la société dans son ensemble, on dit qu'il y a une externalité négative de la production.
+![[Pasted image 20230203090315.png]]
+
+- Lorsqu'une Externalité négative de la production se produit :: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
+
+Réponses possibles du gouvernement:
+?
+- Imposer une taxe carbone aux entreprises polluantes
+- Législation
+- Permis d'émission négociables
+
+<iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe> 

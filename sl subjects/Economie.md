@@ -53,3 +53,6 @@ tags : mod economie
 6. [[Conséquences possibles de l'imposition d'un prix plancher]] 
 7. [[Impôts indirects]] 
 8. [[Subvention]] 
+
+## Chapitre 8: Défaillance du marché – externalités et ressources communes
+1. [[Externalités|Définition]] 

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Externalité négative.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Externalité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Externalité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptes de base economie.md"
+                "file": "Externalité négative.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Externalité négative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 8,
+                  "scale": 0.7048583661751916,
                   "close": true
                 }
               }
@@ -267,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,15 +284,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Externalités.md",
     "sl subjects/Economie.md",
+    "Conceptes de base economie.md",
     "IB overview.md",
     "Energie Discrete.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Exo francais.md",
-    "hl subjects/Francais B.md",
-    "Comparative essay.md",
-    "sl subjects/Anglais Literrature.md"
+    "hl subjects/Francais B.md"
   ]
 }

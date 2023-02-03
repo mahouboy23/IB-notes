@@ -15,5 +15,6 @@
   "dataview",
   "table-editor-obsidian",
   "python-lab-plugin",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "convert-url-to-iframe"
 ]
