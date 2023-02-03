@@ -12,3 +12,4 @@ Cela peut se faire de deux manières différentes :
 ?
 -   Subventionner les entreprises
 -   Prestation gouvernementale directe
+
