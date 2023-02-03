@@ -22,3 +22,8 @@ Created: 2022-09-28
 >[!Info]
 >Les besoins des individus sont :: illimités
 <!--SR:!2023-04-26,100,310-->
+
+- CMP : cout marginal prive
+- BMO : Benefice marginal Prive
+- CMS : Cout marginal social
+- BMS : Benefice marginal social
