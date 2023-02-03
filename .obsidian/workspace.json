@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité positive.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité positive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité positive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalités.md"
+                "file": "Externalité positive.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité positive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,11 +284,11 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Externalités.md",
     "Externalité négative.md",
     "Permis d'émission négociables.md",
     "Législation.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Externalités.md",
     "sl subjects/Economie.md",
     "Conceptes de base economie.md",
     "IB overview.md",
