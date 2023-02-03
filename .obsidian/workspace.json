@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité positive.md",
+                "file": "Externalité négative.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité positive.md",
+                "file": "Externalité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité positive.md",
+                "file": "Externalité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité positive.md"
+                "file": "Externalité négative.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité positive.md",
+                "file": "Externalité négative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,6 +285,7 @@
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
     "Externalités.md",
+    "Externalité positive.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "système.md",
@@ -292,7 +293,6 @@
     "point.md",
     "subjective knowledge.md",
     "la résistance électrique.md",
-    "Externalité positive.md",
     "Subventionner les entreprises.md"
   ]
 }
