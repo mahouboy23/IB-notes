@@ -55,20 +55,10 @@
             "id": "5a6891834683e75e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "La table de vérité.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/computer.md"
               }
-            }
-          },
-          {
-            "id": "509720f0b98a3673",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -133,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La table de vérité.md",
+                "file": "Excalidraw/computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La table de vérité.md",
+                "file": "Excalidraw/computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La table de vérité.md"
+                "file": "Excalidraw/computer.md"
               }
             }
           },
@@ -234,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La table de vérité.md",
+                "file": "Excalidraw/computer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,15 +273,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "La table de vérité.md",
+    "Excalidraw/computer.md",
+    "Excalidraw/assets/computer/Pasted Image 20230203104614_500.png",
     "Architecture des ordinateurs.md",
     "Portes logiques simples.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "Externalité négative.md",
     "Externalités.md",
-    "Externalité positive.md",
-    "sl subjects/Economie.md",
-    "système.md",
-    "Prestation gouvernementale directe.md"
+    "Externalité positive.md"
   ]
 }
