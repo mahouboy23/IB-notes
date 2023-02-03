@@ -10,8 +10,9 @@ L'effet de l'acte d'un agent économique sur un tiers ou sur la société sans q
 Il y a deux types d'externalité:
 ?
 - [[Externalité négative]] 
-- Externalité positive
+- [[Externalité positive]]
 
+#### NB:
 - CMP:: Coût marginal privée
 - BMP:: Bénéfice marginal privée
 - CMS:: Coût marginal social

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permis d'émission négociables.md",
+                "file": "Externalités.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permis d'émission négociables.md",
+                "file": "Externalités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permis d'émission négociables.md",
+                "file": "Externalités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permis d'émission négociables.md"
+                "file": "Externalités.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permis d'émission négociables.md",
+                "file": "Externalités.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,6 +285,7 @@
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
     "Externalité négative.md",
+    "Permis d'émission négociables.md",
     "Législation.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
     "Externalités.md",
@@ -292,7 +293,6 @@
     "Conceptes de base economie.md",
     "IB overview.md",
     "Energie Discrete.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md"
+    "Physique nucléaire, atomique et des particules.md"
   ]
 }
