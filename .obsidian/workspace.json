@@ -55,9 +55,11 @@
             "id": "5a6891834683e75e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/computer.md"
+                "file": "Energie Discrete.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/computer.md",
+                "file": "Energie Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/computer.md",
+                "file": "Energie Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/computer.md"
+                "file": "Energie Discrete.md"
               }
             }
           },
@@ -223,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/computer.md",
+                "file": "Energie Discrete.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +276,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "La table de vérité.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "Energie Discrete.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Excalidraw/computer.md",
+    "La table de vérité.md",
     "Excalidraw/assets/computer/Pasted Image 20230203104614_500.png",
     "Architecture des ordinateurs.md",
     "Portes logiques simples.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
-    "Externalité négative.md",
-    "Externalités.md",
-    "Externalité positive.md"
+    "hl subjects/Computer science.md"
   ]
 }

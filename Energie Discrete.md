@@ -9,7 +9,8 @@ Created: 2023-02-01
 ?
 ![[image-20230201135453192.png]]
 
-https://www.youtube.com/watch?v=IfeehixQlQA&ab_channel=AndyMasley%27sIBPhysicsLectures 
+<iframe title="The Geiger Marsden Rutherford Gold Foil Experiment - IB Physics" src="https://www.youtube.com/embed/IfeehixQlQA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe> 
+
 
 #### Interpretation: 
 ?
