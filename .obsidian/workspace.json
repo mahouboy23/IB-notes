@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "Comparative essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "Comparative essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "Comparative essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete.md"
+                "file": "Comparative essay.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "Comparative essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +276,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-04 10.32.40.excalidraw.md",
+    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "Architecture des ordinateurs.md",
+    "hl subjects/Computer science.md",
     "Energie Discrete.md",
+    "Excalidraw/Drawing 2023-02-04 10.32.40.excalidraw.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Excalidraw/computer.md",
-    "La table de vérité.md",
-    "Excalidraw/assets/computer/Pasted Image 20230203104614_500.png",
-    "Architecture des ordinateurs.md",
-    "Portes logiques simples.md"
+    "La table de vérité.md"
   ]
 }
