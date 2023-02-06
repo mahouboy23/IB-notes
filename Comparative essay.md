@@ -64,5 +64,7 @@ The conclusion should summaries the main points of the essay and reiterate the t
  Key words : Art / lie / truth / enable
 1.  Pablo Picasso is suggesting that art has the ability to reveal truths about the world and about humanity that cannot be seen through literal representations. He argues that art is not a literal representation of reality, but rather a means of interpreting and understanding it. 
 
+TED TALK
 >[! Topic:]
->Immigration and refugee crisis
+>Immigration and refugee crisis 
+>
