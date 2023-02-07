@@ -59,28 +59,28 @@
               "state": {
                 "file": "Climate Change and Global Warming.canvas",
                 "viewState": {
-                  "x": 83.68694628952554,
-                  "y": 704.9418966871015,
-                  "zoom": -1.3888888041178384,
+                  "x": -7.711671178723016,
+                  "y": 775.9880148731046,
+                  "zoom": -1.666666564941406,
                   "snapToGrid": true
                 }
               }
             }
           },
           {
-            "id": "ac7301bc228363a8",
+            "id": "a76e85b9fdaf8fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition Climate change.md",
+                "file": "Definition of Global warming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Definition of Global warming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Definition of Global warming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate Change and Global Warming.canvas"
+                "file": "Definition of Global warming.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Definition of Global warming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,10 +290,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "a76e85b9fdaf8fb4",
   "lastOpenFiles": [
-    "Definition Climate change.md",
     "Climate Change and Global Warming.canvas",
+    "Definition Climate change.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas",
     "sl subjects/Anglais Literrature.md",

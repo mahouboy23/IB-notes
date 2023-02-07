@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"9b25f6b0bf4bc997","x":-100,"y":-120,"width":420,"height":60,"color":"3","type":"text","text":"# Climate Change and Global Warming"},
-		{"id":"3a945895e6b2a55a","x":-460,"y":272,"width":250,"height":60,"color":"1","type":"text","text":"# Introduction"},
 		{"id":"57daf557a59c1f63","x":-160,"y":272,"width":250,"height":60,"color":"5","type":"text","text":"# Case study"},
 		{"id":"280a49e4d63c05a8","x":480,"y":272,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
 		{"id":"f9b56bd015f944f4","x":161,"y":272,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"},
 		{"id":"3e375e9e53110044","x":3,"y":0,"width":215,"height":60,"color":"3","type":"text","text":"#  Table of contents"},
-		{"id":"868aa8b2c8c364dd","x":-960,"y":440,"width":400,"height":390,"color":"1","type":"file","file":"Definition Climate change.md"}
+		{"id":"3a945895e6b2a55a","x":-640,"y":242,"width":250,"height":60,"color":"1","type":"text","text":"# Introduction"},
+		{"id":"868aa8b2c8c364dd","x":-1140,"y":440,"width":500,"height":300,"color":"1","type":"file","file":"Definition Climate change.md"}
 	],
 	"edges":[
 		{"id":"5705992458f0a55f","fromNode":"9b25f6b0bf4bc997","fromSide":"bottom","toNode":"3e375e9e53110044","toSide":"top","color":"3"},
