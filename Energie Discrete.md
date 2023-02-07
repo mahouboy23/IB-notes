@@ -49,5 +49,7 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 Les ondes électromagnétiques comme la lumière se propagent dans le vide a la vitesse de la lumière c = 3.10 8 m/s.
 Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m, sa fréquence f en Hz hertz ou s-1 et sa période T en s
 
+$\ $
+
 #### formules utiles.
-$$\londa$$
+$$\lambda$$
