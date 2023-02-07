@@ -24,3 +24,15 @@ Definition et graphe:
 ?
 Les externalités négatives de consommation se produisent lorsque la consommation d'un bien par un individu génère un effet négatif sur des tiers qui n'ont pas été pris en compte dans la décision de consommer ce bien.
 ![[Pasted image 20230207162125.png]]
+
+- Lorsque l'externalité se situe du côté de la demande du marché et n'est pas générée par le processus de production, les coûts sociaux et privés de production sont égaux :: **MPC = MSC**. 
+
+Les solutions visent à sensibiliser les gens aux risques liés à leur consommation, ou à les démotiver à ne pas consommer le bien en augmentant le coût du bien lui-même. Cela peut se faire par différentes méthodes :
+?
+-   **Interdire ou réglementer le bien** =
+
+
+-   Imposer une taxe indirecte sur le bien
+-   Publicité négative
+![[Pasted image 20230207163242.png]] 
+
