@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalités.md",
+                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalités.md",
+                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalités.md",
+                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalités.md"
+                "file": "Solutions aux conséquences du contrôle des prix plafonds.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalités.md",
+                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +276,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Loi de la demande.md",
-    "Externalités.md",
-    "Externalité positive.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "Energie Discrete.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md",
-    "Definition of Global warming.md",
-    "Analyses Switzerland.md"
+    "Prix maximum.md",
+    "Il y a des conséquences pour les acteurs du marché..md",
+    "Cela génère un problème de rationnement.md",
+    "Cela produit des pénuries.md",
+    "Introduction gouvernement.md",
+    "Promouvoir l'équité.md",
+    "Pour corriger les défaillances du marché.md",
+    "Influencer le niveau de consommation.md",
+    "Influencer le niveau de production.md"
   ]
 }
