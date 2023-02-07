@@ -20,3 +20,7 @@ Réponses possibles du gouvernement:
 <iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe> 
 
 ## Externalité négative de la consommation
+Definition et graphe:
+?
+Les externalités négatives de consommation se produisent lorsque la consommation d'un bien par un individu génère un effet négatif sur des tiers qui n'ont pas été pris en compte dans la décision de consommer ce bien.
+![[Pasted image 20230207162125.png]]

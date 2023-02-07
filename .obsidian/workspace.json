@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Externalité négative.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Externalité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Externalité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Externalité négative.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Externalité négative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +275,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Contrôles des prix planchers.md",
+    "Externalités.md",
+    "Externalité négative.md",
+    "Externalité positive.md",
     "sl subjects/Economie.md",
+    "Contrôles des prix planchers.md",
     "Solutions aux conséquences du contrôle des prix plafonds.md",
     "Prix maximum.md",
     "Il y a des conséquences pour les acteurs du marché..md",
     "Cela génère un problème de rationnement.md",
-    "Cela produit des pénuries.md",
-    "Introduction gouvernement.md",
-    "Promouvoir l'équité.md",
-    "Pour corriger les défaillances du marché.md"
+    "Cela produit des pénuries.md"
   ]
 }
