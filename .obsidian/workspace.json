@@ -55,15 +55,11 @@
             "id": "5a6891834683e75e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
-                "viewState": {
-                  "x": -1328.684078465467,
-                  "y": 1023.794243215008,
-                  "zoom": -1.1666665649414063,
-                  "snapToGrid": true
-                }
+                "file": "Analyses Switzerland.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: section:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate Change and Global Warming.canvas"
+                "file": "IB overview.md"
               }
             }
           },
@@ -230,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,17 +273,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "0498c5d1af558e45",
   "lastOpenFiles": [
+    "Definition of Global warming.md",
     "Analyses Switzerland.md",
     "Climate Change and Global Warming.canvas",
+    "la résistance électrique.md",
     "Analyses China.md",
     "Facts of Climate Change.md",
     "Definition Climate change.md",
     "Facts of Global warming.md",
-    "Definition of Global warming.md",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "Extended Essay.canvas",
-    "sl subjects/Anglais Literrature.md"
+    "Extended Essay.canvas"
   ]
 }
