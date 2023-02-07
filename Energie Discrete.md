@@ -46,15 +46,22 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 
 ### **a.** **Le spectre électromagnétique**
 ?
-Les ondes électromagnétiques comme la lumière se propagent dans le vide a la vitesse de la lumière c = 3.10 8 m/s.
+Les ondes électromagnétiques comme la lumière se propagent dans le vide a la vitesse de la lumière.
 Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m, sa fréquence f en Hz hertz ou s-1 et sa période T en s
 
 **$\lambda$** = longueur d'onde
-c = célérité = $3*10^8ms^{-1}$
+c = célérité :: $3*10^8ms^{-1}$
 T=
 f=
-
+h = est la constante de Planck :: (6,63 × 10 -34 J s)
 #### formules utiles.
 $$\lambda=vT$$
 $$E=hf$$
 $$f=\frac{1}{T}$$
+$$E=\frac{hc}{\lambda}$$
+![[image-20230207084222834.png]]
+
+### **.**      **Spectres de raies continues, d'émission et d'absorption**
+
+lumière polychromatique :: constitue de plusieurs couleurs
+lumière monochromatique constituée d'une seule $\lambda$ 

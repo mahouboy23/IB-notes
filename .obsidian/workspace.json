@@ -55,9 +55,11 @@
             "id": "5a6891834683e75e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.36.37.excalidraw.md"
+                "file": "Energie Discrete.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.36.37.excalidraw.md",
+                "file": "Energie Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.36.37.excalidraw.md",
+                "file": "Energie Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.36.37.excalidraw.md"
+                "file": "Energie Discrete.md"
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.36.37.excalidraw.md",
+                "file": "Energie Discrete.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,6 +276,7 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Excalidraw/Application 1 theme 7.md",
     "Energie Discrete.md",
     "la résistance électrique.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -282,7 +285,6 @@
     "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
     "sl subjects/Economie.md",
-    "Architecture des ordinateurs.md",
-    "hl subjects/Computer science.md"
+    "Architecture des ordinateurs.md"
   ]
 }
