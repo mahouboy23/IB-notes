@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix plafonds.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix plafonds.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7048583661751916,
+                  "scale": 0.13013326441222256,
                   "close": true
                 }
               }
@@ -276,15 +276,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Contrôles des prix planchers.md",
     "sl subjects/Economie.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
     "Prix maximum.md",
     "Il y a des conséquences pour les acteurs du marché..md",
     "Cela génère un problème de rationnement.md",
     "Cela produit des pénuries.md",
     "Introduction gouvernement.md",
     "Promouvoir l'équité.md",
-    "Pour corriger les défaillances du marché.md",
-    "Influencer le niveau de consommation.md",
-    "Influencer le niveau de production.md"
+    "Pour corriger les défaillances du marché.md"
   ]
 }
