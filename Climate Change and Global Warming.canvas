@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"id":"9b25f6b0bf4bc997","x":-100,"y":-120,"width":420,"height":60,"color":"3","type":"text","text":"# Climate Change and Global Warming"},
-		{"id":"280a49e4d63c05a8","x":480,"y":272,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
-		{"id":"f9b56bd015f944f4","x":161,"y":272,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"},
 		{"id":"3e375e9e53110044","x":3,"y":0,"width":215,"height":60,"color":"3","type":"text","text":"#  Table of contents"},
 		{"id":"6ef09e338868c9a9","x":-933,"y":550,"width":400,"height":318,"color":"1","type":"file","file":"Definition of Global warming.md"},
 		{"id":"29e7ddff1a7c173d","x":-1699,"y":1121,"width":400,"height":400,"color":"1","type":"file","file":"Facts of Climate Change.md"},
@@ -14,14 +12,24 @@
 		{"id":"d4642c230688686b","x":-2320,"y":1408,"width":400,"height":343,"color":"1","type":"file","file":"assets/Facts of Global warming/Pasted image 20230207113020.png"},
 		{"id":"57daf557a59c1f63","x":-240,"y":302,"width":250,"height":60,"color":"5","type":"text","text":"# Case study"},
 		{"id":"726c9dece5c9c6c0","x":60,"y":520,"width":160,"height":60,"color":"5","type":"text","text":"# Switzerland"},
-		{"id":"48f526314e9e7bc1","x":-294,"y":520,"width":108,"height":60,"color":"5","type":"text","text":"# China"}
+		{"id":"48f526314e9e7bc1","x":-294,"y":520,"width":108,"height":60,"color":"5","type":"text","text":"# China"},
+		{"id":"917a886a70d619fd","x":-140,"y":1631,"width":400,"height":224,"color":"5","type":"file","file":"assets/Analyses China/Pasted image 20230207113744.jpg"},
+		{"id":"3735480f9775d457","x":140,"y":1300,"width":400,"height":266,"color":"5","type":"file","file":"assets/Analyses China/Pasted image 20230207113838.jpg"},
+		{"id":"8ab9407b3aed422b","x":-460,"y":1252,"width":400,"height":266,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207113701.jpg"},
+		{"id":"1d34596c7781d7dd","x":605,"y":618,"width":435,"height":406,"color":"5","type":"file","file":"Analyses Switzerland.md"},
+		{"id":"fe710aa33c633b46","x":1200,"y":332,"width":400,"height":298,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114309.png"},
+		{"id":"c27dce537e9cc1de","x":1200,"y":852,"width":400,"height":400,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114346.jpg"},
+		{"id":"7b8394950e9288a6","x":1000,"y":1326,"width":400,"height":240,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114446.jpg"},
+		{"id":"f9b56bd015f944f4","x":480,"y":242,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"},
+		{"id":"280a49e4d63c05a8","x":495,"y":-120,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
+		{"id":"429180bfd205c5d1","x":-390,"y":730,"width":400,"height":322,"color":"5","type":"file","file":"Analyses China.md"},
+		{"id":"f7ffa4b696ad7bfb","x":140,"y":1024,"width":400,"height":188,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207113933.jpg"}
 	],
 	"edges":[
 		{"id":"5705992458f0a55f","fromNode":"9b25f6b0bf4bc997","fromSide":"bottom","toNode":"3e375e9e53110044","toSide":"top","color":"3"},
 		{"id":"3c75a57f6da24632","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"3a945895e6b2a55a","toSide":"top","color":"1"},
 		{"id":"764d095e30058efb","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"57daf557a59c1f63","toSide":"top","color":"5"},
 		{"id":"90cf03f4f4e8daaa","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"f9b56bd015f944f4","toSide":"top","color":"4"},
-		{"id":"5b96a4df4881ccee","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"280a49e4d63c05a8","toSide":"top","color":"6"},
 		{"id":"791208355dd74c3c","fromNode":"3a945895e6b2a55a","fromSide":"bottom","toNode":"868aa8b2c8c364dd","toSide":"top","color":"1"},
 		{"id":"8713db6299b606ec","fromNode":"3a945895e6b2a55a","fromSide":"bottom","toNode":"6ef09e338868c9a9","toSide":"top","color":"1"},
 		{"id":"db2100fbb72d10f4","fromNode":"6ef09e338868c9a9","fromSide":"left","toNode":"868aa8b2c8c364dd","toSide":"right","color":"1"},
@@ -34,6 +42,16 @@
 		{"id":"8befe709b9108a65","fromNode":"c86eee95e4575c8b","fromSide":"right","toNode":"29e7ddff1a7c173d","toSide":"left","color":"1"},
 		{"id":"cb020786baaf82b1","fromNode":"d4642c230688686b","fromSide":"right","toNode":"29e7ddff1a7c173d","toSide":"left","color":"1"},
 		{"id":"463e72520997a048","fromNode":"57daf557a59c1f63","fromSide":"bottom","toNode":"48f526314e9e7bc1","toSide":"top","color":"5"},
-		{"id":"305e0179a39dbda8","fromNode":"57daf557a59c1f63","fromSide":"bottom","toNode":"726c9dece5c9c6c0","toSide":"top","color":"5"}
+		{"id":"305e0179a39dbda8","fromNode":"57daf557a59c1f63","fromSide":"bottom","toNode":"726c9dece5c9c6c0","toSide":"top","color":"5"},
+		{"id":"a409fc6180e20511","fromNode":"48f526314e9e7bc1","fromSide":"bottom","toNode":"429180bfd205c5d1","toSide":"top","color":"5"},
+		{"id":"6d4e920dd7c8bda5","fromNode":"726c9dece5c9c6c0","fromSide":"bottom","toNode":"1d34596c7781d7dd","toSide":"top","color":"5"},
+		{"id":"5e08d74bd6561125","fromNode":"429180bfd205c5d1","fromSide":"bottom","toNode":"8ab9407b3aed422b","toSide":"top","color":"5"},
+		{"id":"8888c7f7450ec6e0","fromNode":"429180bfd205c5d1","fromSide":"bottom","toNode":"917a886a70d619fd","toSide":"top","color":"5"},
+		{"id":"228717d9023db9e2","fromNode":"429180bfd205c5d1","fromSide":"bottom","toNode":"3735480f9775d457","toSide":"left","color":"5"},
+		{"id":"8d98a41218fefe33","fromNode":"429180bfd205c5d1","fromSide":"right","toNode":"f7ffa4b696ad7bfb","toSide":"left","color":"5"},
+		{"id":"1b8d794eb1b1a53a","fromNode":"1d34596c7781d7dd","fromSide":"right","toNode":"fe710aa33c633b46","toSide":"left","color":"5"},
+		{"id":"5c420bee90c4b9b4","fromNode":"1d34596c7781d7dd","fromSide":"right","toNode":"c27dce537e9cc1de","toSide":"left","color":"5"},
+		{"id":"ef7a25e25cbfe20d","fromNode":"1d34596c7781d7dd","fromSide":"bottom","toNode":"7b8394950e9288a6","toSide":"left","color":"5"},
+		{"id":"8854f17b50b5f83d","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"280a49e4d63c05a8","toSide":"bottom","color":"6"}
 	]
 }

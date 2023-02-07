@@ -1,0 +1,3 @@
+China's pollution has been decreasing since the country began a “war against pollution” 7 years ago. This decline continued through 2020, with **pollution levels down about 40 percent compared to 2013**. 
+
+Electricity generation has historically been the main source of China's air pollution. However, **large coal-powered industries, which are key drivers of China's economic development, have increasingly contributed to China's air pollution problems**.

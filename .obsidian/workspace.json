@@ -59,23 +59,11 @@
               "state": {
                 "file": "Climate Change and Global Warming.canvas",
                 "viewState": {
-                  "x": -321.5702548238364,
-                  "y": 984.8072249066881,
-                  "zoom": -0.8333332824707032,
+                  "x": 625.9394371286879,
+                  "y": 1391.4748466946855,
+                  "zoom": -0.8333332824707034,
                   "snapToGrid": true
                 }
-              }
-            }
-          },
-          {
-            "id": "fc378f8b53f6bec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analyses China.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Analyses Switzerland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Analyses Switzerland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate Change and Global Warming.canvas"
+                "file": "Analyses Switzerland.md"
               }
             }
           },
@@ -242,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Climate Change and Global Warming.canvas",
+                "file": "Analyses Switzerland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,15 +280,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Analyses China.md",
+    "Analyses Switzerland.md",
     "Climate Change and Global Warming.canvas",
+    "Analyses China.md",
     "Facts of Climate Change.md",
     "Definition Climate change.md",
     "Facts of Global warming.md",
     "Definition of Global warming.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas",
-    "sl subjects/Anglais Literrature.md",
-    "IB overview.md"
+    "sl subjects/Anglais Literrature.md"
   ]
 }
