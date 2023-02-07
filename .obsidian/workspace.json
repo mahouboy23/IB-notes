@@ -59,40 +59,28 @@
               "state": {
                 "file": "Climate Change and Global Warming.canvas",
                 "viewState": {
-                  "x": -97.08716387043877,
-                  "y": 779.1628167531838,
-                  "zoom": -1.666666564941406,
+                  "x": -321.5702548238364,
+                  "y": 984.8072249066881,
+                  "zoom": -0.8333332824707032,
                   "snapToGrid": true
                 }
               }
             }
           },
           {
-            "id": "17cfef98e6209998",
+            "id": "fc378f8b53f6bec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facts of Global warming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a76e85b9fdaf8fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definition of Global warming.md",
+                "file": "Analyses China.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facts of Global warming.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facts of Global warming.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facts of Global warming.md"
+                "file": "Climate Change and Global Warming.canvas"
               }
             }
           },
@@ -254,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Facts of Global warming.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,17 +290,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cfef98e6209998",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Facts of Climate Change.md",
+    "Analyses China.md",
     "Climate Change and Global Warming.canvas",
-    "Definition of Global warming.md",
+    "Facts of Climate Change.md",
     "Definition Climate change.md",
+    "Facts of Global warming.md",
+    "Definition of Global warming.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas",
     "sl subjects/Anglais Literrature.md",
-    "IB overview.md",
-    "Energie Discrete.md",
-    "Excalidraw/Application 1 theme 7.md"
+    "IB overview.md"
   ]
 }
