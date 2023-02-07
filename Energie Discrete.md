@@ -66,4 +66,6 @@ $$E=\frac{hc}{\lambda}$$
 lumière polychromatique :: constitue de plusieurs couleurs
 lumière monochromatique :: constituée d'une seule $\lambda$ 
 
-**spectre continu** ::
+- **spectre continu** :: Dans un spectre continu les différents  de la lumiere sont tres proches et on ne peut pas les differencier.
+- **spectre de raies d** ' **absorption** :: Un spectre de raies d'absorption diffère d'un spectre continu en ce que certaines des longueurs d'onde de la lumière visible sont manquantes, représentées par les lignes noires sur le fond coloré.
+- **spectre de raies d** ' **émission** :: Un spectre de raies d'émission est caractérisé par des raies colorées sur un fond noir, seul quelques couleurs sont presentent.
