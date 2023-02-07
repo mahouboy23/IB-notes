@@ -6,7 +6,7 @@
 		{"id":"280a49e4d63c05a8","x":480,"y":272,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
 		{"id":"f9b56bd015f944f4","x":161,"y":272,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"},
 		{"id":"3e375e9e53110044","x":3,"y":0,"width":215,"height":60,"color":"3","type":"text","text":"#  Table of contents"},
-		{"id":"868aa8b2c8c364dd","x":-960,"y":440,"width":400,"height":390,"type":"file","file":"Definition Climate change.md"}
+		{"id":"868aa8b2c8c364dd","x":-960,"y":440,"width":400,"height":390,"color":"1","type":"file","file":"Definition Climate change.md"}
 	],
 	"edges":[
 		{"id":"5705992458f0a55f","fromNode":"9b25f6b0bf4bc997","fromSide":"bottom","toNode":"3e375e9e53110044","toSide":"top","color":"3"},
@@ -14,6 +14,6 @@
 		{"id":"764d095e30058efb","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"57daf557a59c1f63","toSide":"top","color":"5"},
 		{"id":"90cf03f4f4e8daaa","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"f9b56bd015f944f4","toSide":"top","color":"4"},
 		{"id":"5b96a4df4881ccee","fromNode":"3e375e9e53110044","fromSide":"bottom","toNode":"280a49e4d63c05a8","toSide":"top","color":"6"},
-		{"id":"791208355dd74c3c","fromNode":"3a945895e6b2a55a","fromSide":"bottom","toNode":"868aa8b2c8c364dd","toSide":"top"}
+		{"id":"791208355dd74c3c","fromNode":"3a945895e6b2a55a","fromSide":"bottom","toNode":"868aa8b2c8c364dd","toSide":"top","color":"1"}
 	]
 }

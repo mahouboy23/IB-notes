@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition Climate change.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition Climate change.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition Climate change.md"
+                "file": "Climate Change and Global Warming.canvas"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definition Climate change.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
