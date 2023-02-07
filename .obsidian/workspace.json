@@ -59,9 +59,9 @@
               "state": {
                 "file": "Climate Change and Global Warming.canvas",
                 "viewState": {
-                  "x": 625.9394371286879,
-                  "y": 1391.4748466946855,
-                  "zoom": -0.8333332824707034,
+                  "x": -271.9646424677662,
+                  "y": 977.951373809965,
+                  "zoom": -2.2222220865885416,
                   "snapToGrid": true
                 }
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyses Switzerland.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analyses Switzerland.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analyses Switzerland.md"
+                "file": "Climate Change and Global Warming.canvas"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analyses Switzerland.md",
+                "file": "Climate Change and Global Warming.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

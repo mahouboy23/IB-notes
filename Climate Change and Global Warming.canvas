@@ -19,11 +19,11 @@
 		{"id":"1d34596c7781d7dd","x":605,"y":618,"width":435,"height":406,"color":"5","type":"file","file":"Analyses Switzerland.md"},
 		{"id":"fe710aa33c633b46","x":1200,"y":332,"width":400,"height":298,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114309.png"},
 		{"id":"c27dce537e9cc1de","x":1200,"y":852,"width":400,"height":400,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114346.jpg"},
-		{"id":"7b8394950e9288a6","x":1000,"y":1326,"width":400,"height":240,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114446.jpg"},
-		{"id":"f9b56bd015f944f4","x":480,"y":242,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"},
-		{"id":"280a49e4d63c05a8","x":495,"y":-120,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
 		{"id":"429180bfd205c5d1","x":-390,"y":730,"width":400,"height":322,"color":"5","type":"file","file":"Analyses China.md"},
-		{"id":"f7ffa4b696ad7bfb","x":140,"y":1024,"width":400,"height":188,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207113933.jpg"}
+		{"id":"f7ffa4b696ad7bfb","x":140,"y":1024,"width":400,"height":188,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207113933.jpg"},
+		{"id":"7b8394950e9288a6","x":840,"y":1313,"width":400,"height":240,"color":"5","type":"file","file":"assets/Analyses Switzerland/Pasted image 20230207114446.jpg"},
+		{"id":"280a49e4d63c05a8","x":495,"y":-120,"width":250,"height":60,"color":"6","type":"text","text":"# Conclusion"},
+		{"id":"f9b56bd015f944f4","x":480,"y":242,"width":250,"height":60,"color":"4","type":"text","text":"# Solution"}
 	],
 	"edges":[
 		{"id":"5705992458f0a55f","fromNode":"9b25f6b0bf4bc997","fromSide":"bottom","toNode":"3e375e9e53110044","toSide":"top","color":"3"},
