@@ -43,3 +43,8 @@ Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porter de l'orde des taille des noyau $10^{-15}m$ 
 
 ## Niveau d'énergie atomique et transformation d'énergie au sains des atomes
+
+### **a.** **Le spectre électromagnétique**
+?
+Les ondes électromagnétiques comme la lumière se propagent dans le vide a la vitesse de la lumière c = 3.10 8 m/s.
+Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m, sa fréquence f en Hz hertz ou s-1 et sa période T en s
