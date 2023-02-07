@@ -52,6 +52,8 @@ Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m
 **$\lambda$** = longueur d'onde
 c = célérité = $3*10^8ms^{-1}$
 T=
+f=
 
 #### formules utiles.
 $$\lambda=vT$$
+$$E=hf$$
