@@ -15,6 +15,6 @@ Si on a $\Delta{U_{total}}$ et $\Delta{Q_d}$ alors l'utilité marginale $U_m$ =
 
 ?
 $$U_m=\frac{\Delta{U_{total}}}{\Delta{Q_{d}}}$$
-<!--SR:!2023-01-24,8,210-->
+<!--SR:!2023-03-12,33,210-->
 
 ![[Pasted image 20221021072134.png]]
