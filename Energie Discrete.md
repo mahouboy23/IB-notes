@@ -57,3 +57,4 @@ f=
 #### formules utiles.
 $$\lambda=vT$$
 $$E=hf$$
+$$f=\frac{1}{T}$$
