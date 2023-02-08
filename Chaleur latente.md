@@ -13,7 +13,7 @@ L c'est la quantite de chaleur necessaire pour changer d'etat l'unite de masse d
 
 
 **Chaleur latente spécifique de vaporisation** :: La quantité de chaleur nécessaire pour transformer 1 kg d'une substance liquide en gaz sans aucun changement de température. 
-<!--SR:!2023-02-02,15,230-->
+<!--SR:!2023-03-21,41,230-->
 
 
 ![[image-20221020140214804.png]]
