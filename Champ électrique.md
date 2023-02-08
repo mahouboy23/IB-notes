@@ -24,7 +24,7 @@ $$F=|q|E$$
 <!--SR:!2023-01-24,1,203-->
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
-<!--SR:!2023-02-03,11,210-->
+<!--SR:!2023-03-05,25,210-->
 
 Champ électrique crée par une charge ponctuelle  $q$ > 0 :
 ?
