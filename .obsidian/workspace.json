@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TOK WORK 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TOK WORK 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TOK WORK 3.md"
+              }
             }
           },
           {
@@ -230,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "TOK WORK 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +282,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e5f900df211cedb",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
     "TOK WORK 3.md",
     "common core/TOK.md",
