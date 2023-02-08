@@ -67,12 +67,16 @@
             "id": "9e5f900df211cedb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Natural sciences.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK 3.md"
+                "file": "Natural sciences.md"
               }
             }
           },
@@ -234,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,13 +286,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "9e5f900df211cedb",
   "lastOpenFiles": [
     "common core/TOK.md",
-    "Natural sciences.md",
-    "Tools and methods.md",
     "TOK WORK 3.md",
     "IB overview.md",
+    "Natural sciences.md",
+    "Tools and methods.md",
     "Externalité négative.md",
     "Champ électrique.md",
     "Externalités.md",
