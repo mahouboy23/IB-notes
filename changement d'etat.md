@@ -12,4 +12,4 @@ Lors d'un changement de phase, la température et l'énergie cinétique restent 
 
 
 **Évaporation** :: Peut se produire à n'importe quelle température et ne se produit qu'à la surface du liquide. Les particules les plus rapides s'évaporent, diminuant le KE moyen des particules restantes. En conséquence, la temperature diminue.
-<!--SR:!2023-01-27,4,190-->
+<!--SR:!2023-02-26,18,190-->
