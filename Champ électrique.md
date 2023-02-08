@@ -31,7 +31,7 @@ Champ électrique crée par une charge ponctuelle  $q$ > 0 :
 ![[champ-e (2).png]]
 Champ électrique en M distant de r de q 
 $$\ E = \frac{Kq}{r^2}$$ **E est radial** (Droite passant par le centre) et centrifuge 
-<!--SR:!2023-02-05,13,263-->
+<!--SR:!2023-03-18,38,263-->
 
 
 Champ électrique crée par une charge ponctuelle  $q$ < 0 :
