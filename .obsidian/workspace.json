@@ -57,14 +57,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "TOK WORK 3.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e5f900df211cedb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Externalité négative.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,7 +230,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité négative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,17 +277,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "9e5f900df211cedb",
   "lastOpenFiles": [
-    "Champ électrique.md",
+    "TOK WORK 3.md",
+    "common core/TOK.md",
+    "IB overview.md",
     "Externalité négative.md",
+    "Champ électrique.md",
     "Externalités.md",
     "Externalité positive.md",
     "sl subjects/Economie.md",
     "Contrôles des prix planchers.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Prix maximum.md",
-    "Il y a des conséquences pour les acteurs du marché..md",
-    "Cela génère un problème de rationnement.md"
+    "Solutions aux conséquences du contrôle des prix plafonds.md"
   ]
 }
