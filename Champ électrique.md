@@ -21,7 +21,7 @@ $$F=|q|E$$
 <!--SR:!2023-01-25,1,163-->
 
 - L'intensité du champ électrique est :: la force par unité de charge qui s'exerce sur une charge ponctuelle.
-<!--SR:!2023-01-24,1,203-->
+<!--SR:!2023-02-24,16,203-->
 
 - La charge électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2023-03-05,25,210-->

@@ -18,7 +18,7 @@ Le potentiel électrique en un point est :: égale a l'énergie potentiel élect
 ?
  ![[Unicité de la tension, en parallèles.png]]
  la tension aux borne des dipoles branchés en parallèle est la meme
-<!--SR:!2023-02-02,10,256-->
+<!--SR:!2023-03-29,49,276-->
 
 - **Additivité de la tension ou loi de Kirchhoff pour la tension**  pour les dipoles qui se suivent/en série :
 ?
