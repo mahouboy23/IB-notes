@@ -42,4 +42,7 @@ We often refer to the scientific method as if were a single way of correctly doi
 - making generalization
 - assessing results and theories 
 - communicating results
-<!--SR:!2023-01-24,1,230-->
+<!--SR:!2023-01-24,1,230--> 
+
+## Methods
+Our observation are linked to our senses. Our brain interprets and makes sense of the data it receives through or via or true sight, sound, taste, touch, smell and our other senses. There are important question here to evaluate, regarding the reliability of our senses and the scope and accuracy of our observation.

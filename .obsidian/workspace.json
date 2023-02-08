@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK 3.md"
+                "file": "Natural sciences.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Natural sciences.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,15 +284,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "TOK WORK 3.md",
     "common core/TOK.md",
+    "Natural sciences.md",
+    "Tools and methods.md",
+    "TOK WORK 3.md",
     "IB overview.md",
     "Externalité négative.md",
     "Champ électrique.md",
     "Externalités.md",
     "Externalité positive.md",
-    "sl subjects/Economie.md",
-    "Contrôles des prix planchers.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md"
+    "sl subjects/Economie.md"
   ]
 }
