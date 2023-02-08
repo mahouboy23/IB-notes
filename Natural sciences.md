@@ -45,4 +45,8 @@ We often refer to the scientific method as if were a single way of correctly doi
 <!--SR:!2023-01-24,1,230--> 
 
 ## Methods
-Our observation are linked to our senses. Our brain interprets and makes sense of the data it receives through or via or true sight, sound, taste, touch, smell and our other senses. There are important question here to evaluate, regarding the reliability of our senses and the scope and accuracy of our observation.
+### -Observation
+Our observation are linked to our senses. Our brain interprets and makes sense of the data it receives through or via or true sight, sound, taste, touch, smell and our other senses. There are important question here to evaluate, regarding the reliability of our senses and the scope and accuracy of our observation. 
+
+### -The observer affect 
+In human and natural sciences, there are a number of facteurs that affects us when we are making observation
