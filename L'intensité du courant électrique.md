@@ -30,7 +30,7 @@ $$I=nqAv$$
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité** :: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité
-<!--SR:!2023-02-04,12,250-->
+<!--SR:!2023-03-28,48,270-->
 
 - **Loi des nœuds ou de Kirchhoff pour l'intensité** :: Dans un noeuds la somme des courants entrants est égale a la somme des courants sortants.
 <!--SR:!2023-02-03,11,250-->
