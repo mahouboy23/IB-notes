@@ -16,6 +16,7 @@ Réponses possibles du gouvernement:
 - [[Imposer une taxe carbone aux entreprises polluantes]] 
 - [[Législation]] 
 - [[Permis d'émission négociables]] 
+<!--SR:!2023-02-11,3,250-->
 
 <iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe> 
 

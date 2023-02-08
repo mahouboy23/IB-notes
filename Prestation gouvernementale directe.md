@@ -12,3 +12,4 @@ Les gouvernements financent souvent la recherche et le développement dans de no
 -   Le coût pour le gouvernement peut être élevé et créer un coût d'opportunité, comme dans le cas des subventions.
 -   Le gouvernement pourrait manquer de l'expertise que l'on trouve dans les entreprises, qui sont spécialisées dans leur domaine de connaissances.
 -   Les entreprises privées pourraient être dissuadées d'investir elles-mêmes dans ces domaines en raison de cette politique gouvernementale.
+<!--SR:!2023-02-09,1,230-->
