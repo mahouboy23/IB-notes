@@ -30,7 +30,7 @@ $U=aI$
 $U=RI$ 
 
 **Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
-<!--SR:!2023-02-01,9,248-->
+<!--SR:!2023-03-13,33,248-->
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
 <!--SR:!2023-02-07,15,270-->
@@ -81,7 +81,7 @@ un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mo
 ?
 Le rhéostat est un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
-<!--SR:!2023-01-25,2,228-->
+<!--SR:!2023-02-11,3,208-->
 
 *Caractéristique d'un Montage potentiométrique* :
 ?
