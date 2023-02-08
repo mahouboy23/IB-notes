@@ -54,7 +54,7 @@ Formule de la constante de Coulomb:
 ?
 $$k=\frac{1}{4\pi \epsilon_{0}}$$
 $\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$ 
-<!--SR:!2023-01-27,4,184-->
+<!--SR:!2023-02-12,4,164-->
 
 
 

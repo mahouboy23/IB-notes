@@ -39,7 +39,7 @@ Champ électrique crée par une charge ponctuelle  $q$ < 0 :
 ![[champ-e (3).png]]
 $$E = \frac{K\hspace1mm |q|}{r^2}$$
 **E est radial** et centripète (diriges vers le centre)
-<!--SR:!2023-02-02,10,243-->
+<!--SR:!2023-03-15,35,243-->
 
 -**Champ crée par** plusieurs charges :
 ?
