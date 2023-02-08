@@ -16,4 +16,4 @@ yes mostly but not completely
 
 
 
-	1. Do you need to do some research into this topic to be able to finalise your list? if so complete your list once you have found out what is known about the similarities and differences between humans and other animals.
+4. Do you need to do some research into this topic to be able to finalise your list? if so complete your list once you have found out what is known about the similarities and differences between humans and other animals.
