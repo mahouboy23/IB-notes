@@ -6,7 +6,7 @@ Created: 2022-11-29
 ## Qu'est ce qu'un champ électrique-
 ?
 On appelle champ électrique tout region de l'espace ou une charge est soumise a une force électrique. 
-<!--SR:!2023-01-24,1,223-->
+<!--SR:!2023-02-27,19,223-->
 
 le champs électrique ne depends pas de la charge q (qui le subit) mais des charges qui le créent.
 
