@@ -85,3 +85,6 @@ Les spectres d'emission et d'absorption de raie est une preuve experimental des 
 en effet la lumière absorber ou émisse est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie qu'entre deux niveaux
 
 #### Spectre de l'atome d'hydrogen (complement de la feuille) 
+![[image-20230209085425119.png]]
+
+Les valeurs des niveaux d'energies de l'atomes de H sont données par:
