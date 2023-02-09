@@ -87,4 +87,10 @@ en effet la lumière absorber ou émisse est proportionnelle a la variation d'é
 #### Spectre de l'atome d'hydrogen (complement de la feuille) 
 ![[image-20230209085425119.png]]
 
-Les valeurs des niveaux d'energies de l'atomes de H sont données par:
+Les valeurs des niveaux d'energies de l'atomes de H sont données par: 
+$$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
+-Retrouver les valeurs des niveaux d'énergie de l'activite
+-Representer les niveaux d'energie sur l'axe
+-Montrer que les trois transitions $3\rightarrow 2,4\rightarrow 2,5 \rightarrow 2,6 \rightarrow 2$ sont visibles et retrouver la couleur sur Internet
+-Montrer que les transitions $7 \rightarrow 2$, $2 \rightarrow 1$ sont uv
+-Montrer que $4 \rightarrow 2$ est IR
