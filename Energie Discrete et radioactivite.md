@@ -108,3 +108,8 @@ Une particules $\alpha$ sont très ionisantes elles transforment la matières en
 $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
 #### Beta$^+$ 
+Lors d’une **désintégration _β_+**, un noyau radioactif AZX se désintègre en émettant un positron +1 _β_+, antiparticule de l’électron), pour donner un noyau fils Z–1AY :
+0e (appelé ici particule)
+
+
+
