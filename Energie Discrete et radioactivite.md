@@ -105,4 +105,4 @@ Une particules $\alpha$ sont très ionisantes elles transforment la matières en
 #### Beta$^-$ 
 ![[image-20230209093957460.png]]
 
-$$X$$
+$$^{a}_{z}X \rightarrow ^{0}_{-1}e$$
