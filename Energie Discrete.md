@@ -82,4 +82,4 @@ Les spectres d'emission et d'absorption de raie est une preuve experimental des 
 - les variations des atomes sont quantifies (on des valeurs discrètes)
 - Les atomes ne peuvent exister que dans quelque état d'énergie bien définie caractériser par un niveau d'énergie
 - La atome ne peut absorber ou émettre que des radiation lumineuse de fréquence données 
-en effet la lumière absorber ou émisse est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie qu'entre deux niveau 
+en effet la lumière absorber ou émisse est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie qu'entre deux niveaux
