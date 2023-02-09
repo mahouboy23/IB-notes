@@ -96,3 +96,4 @@ $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Montrer que $4 \rightarrow 2$ est IR
 
 ## Désintégration radioactive
+La radioactivité est l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium
