@@ -90,7 +90,9 @@ en effet la lumière absorber ou émisse est proportionnelle a la variation d'é
 Les valeurs des niveaux d'energies de l'atomes de H sont données par: 
 $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Retrouver les valeurs des niveaux d'énergie de l'activite
--Representer les niveaux d'energie sur l'axe
+-Representer les niveaux d'énergie sur l'axe
 -Montrer que les trois transitions $3\rightarrow 2,4\rightarrow 2,5 \rightarrow 2,6 \rightarrow 2$ sont visibles et retrouver la couleur sur Internet
--Montrer que les transitions $7 \rightarrow 2$, $2 \rightarrow 1$ sont uv
+-Montrer que les transitions $7 \rightarrow 2$, $2 \rightarrow 1$ sont UV
 -Montrer que $4 \rightarrow 2$ est IR
+
+## Désintégration radioactive
