@@ -96,4 +96,13 @@ $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Montrer que $4 \rightarrow 2$ est IR
 
 ## Désintégration radioactive
-La radioactivité est l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$ 
+La radioactivité est l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$  
+
+#### Alpha
+![[image-20230209094009536.png]]
+Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 Mev est arrête par une feuille de papier. 
+
+#### Beta$^-$ 
+![[image-20230209093957460.png]]
+
+$$X$$
