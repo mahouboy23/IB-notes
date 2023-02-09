@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete.md",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,8 +286,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e5f900df211cedb",
+  "active": "c6fc50c5222cda64",
   "lastOpenFiles": [
+    "Energie Discrete.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "IB overview.md",
@@ -296,7 +297,6 @@
     "TOK WORK 3.md",
     "Tools and methods.md",
     "Externalité négative.md",
-    "Champ électrique.md",
-    "Externalités.md"
+    "Champ électrique.md"
   ]
 }
