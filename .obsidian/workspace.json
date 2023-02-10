@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "les ménages à faibles revenus.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "les ménages à faibles revenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "les ménages à faibles revenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité négative.md"
+                "file": "les ménages à faibles revenus.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité négative.md",
+                "file": "les ménages à faibles revenus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "9e5f900df211cedb",
   "lastOpenFiles": [
-    "Externalités.md",
-    "sl subjects/Economie.md",
-    "Externalité positive.md",
-    "Externalité négative.md",
-    "IB overview.md",
     "Introduction gouvernement.md",
-    "Energie Discrete et radioactivite.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md",
-    "Natural sciences.md"
+    "des revenus du gouvernement.md",
+    "sl subjects/Economie.md",
+    "Externalités.md",
+    "Externalité négative.md",
+    "Législation.md",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "Externalité positive.md",
+    "IB overview.md",
+    "Energie Discrete et radioactivite.md"
   ]
 }
