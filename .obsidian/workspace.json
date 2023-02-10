@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Introduction gouvernement.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Introduction gouvernement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Introduction gouvernement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "Introduction gouvernement.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Introduction gouvernement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,6 +288,7 @@
   },
   "active": "9e5f900df211cedb",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -296,7 +297,6 @@
     "common core/TOK.md",
     "TOK WORK 3.md",
     "Tools and methods.md",
-    "Externalité négative.md",
-    "Champ électrique.md"
+    "Externalité négative.md"
   ]
 }
