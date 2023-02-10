@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Externalité négative.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Externalité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Externalité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction gouvernement.md"
+                "file": "Externalité négative.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction gouvernement.md",
+                "file": "Externalité négative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,15 @@
   },
   "active": "9e5f900df211cedb",
   "lastOpenFiles": [
+    "Externalités.md",
     "sl subjects/Economie.md",
+    "Externalité positive.md",
+    "Externalité négative.md",
     "IB overview.md",
+    "Introduction gouvernement.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "Natural sciences.md",
-    "common core/TOK.md",
-    "TOK WORK 3.md",
-    "Tools and methods.md",
-    "Externalité négative.md"
+    "Natural sciences.md"
   ]
 }
