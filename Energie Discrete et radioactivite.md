@@ -103,15 +103,18 @@ $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 La radioactivité est l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$  
 
 #### Alpha
+?
 ![[image-20230209094009536.png]]
 Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 Mev est arrête par une feuille de papier. 
 
 #### Beta$^-$ 
+?
 ![[image-20230209093957460.png]]
 
 $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
 #### Beta$^+$ 
+?
 Lors d’une **désintégration _β_+**, un noyau radioactif AZX se désintègre en émettant un positron +1 _β_+, antiparticule de l’électron), pour donner un noyau fils Z–1AY :
 0e (appelé ici particule)
 
