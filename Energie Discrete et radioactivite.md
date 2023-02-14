@@ -40,6 +40,7 @@ Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre
 -Ils ont les meme propriétés chimiques mais de propriétés physiques different (ex: la masse, la radioactivités)
 
 ### Interaction forte 
+?
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porter de l'orde des taille des noyau $10^{-15}m$ 
 
 ## Niveau d'énergie atomique et transformation d'énergie au sains des atomes
@@ -49,21 +50,22 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 Les ondes électromagnétiques comme la lumière se propagent dans le vide a la vitesse de la lumière.
 Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m, sa fréquence f en Hz hertz ou s-1 et sa période T en s
 
-**$\lambda$** = longueur d'onde
+**$\lambda$** :: longueur d'onde
 c = célérité :: $3*10^8ms^{-1}$
 T=
 f=
 h = est la constante de Planck :: (6,63 × 10 -34 J s)
 #### formules utiles.
+?
 $$\lambda=vT$$
 $$E=hf$$
 $$f=\frac{1}{T}$$
 $$E=\frac{hc}{\lambda}$$
 ![[image-20230207084222834.png]]
 
-- Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
+- Une lumière qui est constitué de plusieurs couleurs est appelé :: **lumière polychromatique**
 
-- Une lumière monochromatique est constitué:: **d'une seul $\lambda$
+- Une lumière monochromatique est constitué :: **d'une seul $\lambda$
 
 ### **.**     **Spectres de raies continues, d'émission et d'absorption**
 
@@ -83,6 +85,7 @@ Les spectres d’émission de  lumière émise par luminescence      (so
 
 ### Interpretation des spectre atomiques 
 Les spectres d'emission et d'absorption de raie est une preuve experimental des niveaux d'energies atomiques. On doit l'interpretation des spectres de Bohr (Niels) qui énonces les postulat suivant qui a énonce les postulat suivant : 
+?
 - les variations des atomes sont quantifies (on des valeurs discrètes)
 - Les atomes ne peuvent exister que dans quelque état d'énergie bien définie caractériser par un niveau d'énergie
 - La atome ne peut absorber ou émettre que des radiation lumineuse de fréquence données 
@@ -91,6 +94,7 @@ en effet la lumière absorber ou émisse est proportionnelle a la variation d'é
 #### Spectre de l'atome d'hydrogen (complement de la feuille) 
 ![[image-20230209085425119.png]]
 
+#### **Activite**
 Les valeurs des niveaux d'energies de l'atomes de H sont données par: 
 $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Retrouver les valeurs des niveaux d'énergie de l'activite
@@ -100,12 +104,12 @@ $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Montrer que $4 \rightarrow 2$ est IR
 
 ## Désintégration radioactive
-La radioactivité est l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$  
+La radioactivité est :: l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$  
 
 #### Alpha
 ?
 ![[image-20230214085457864.png]]
-Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 Mev est arrête par une feuille de papier. 
+Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 $Mev$ est arrête par une feuille de papier. 
 
 #### Beta$^-$ 
 ?
