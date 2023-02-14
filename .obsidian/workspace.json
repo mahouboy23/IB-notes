@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK WORK 3.md",
+                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction draft.md"
+                "file": "Le Champ de gravitation.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "Le Champ de gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,17 +286,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b303464454c9cf2d",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "common core/EE.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "La loi de gravitation universelle de Newton.md",
+    "Le Champ de gravitation.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
     "TOK WORK 3.md",
     "Introduction draft.md",
+    "common core/EE.md",
     "intro 1 1.md",
-    "Externalité positive.md",
-    "Externalités.md",
-    "sl subjects/Economie.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Prix maximum.md"
+    "Externalité positive.md"
   ]
 }
