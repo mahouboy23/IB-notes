@@ -122,6 +122,9 @@ $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (anti \hspace{2mm} ne
 
 ![[image-20230214082224377.png]]
 
+#### Gamma $\gamma$ 
+?
+C'est l'emission d'un rayonnement électromagnétique de courte longueur par un noyau a l'etat excité.
+![[image-20230214082629676.png]]
 
-
-#### APPLICATION 
+$x^{*} \rightarrow x + \gamma$ 
