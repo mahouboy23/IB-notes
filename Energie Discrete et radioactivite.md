@@ -129,3 +129,4 @@ $x^{*} \rightarrow x + \gamma$
 
 ![[image-20230214082224377.png]]
 
+#### stabilite des noyaux
