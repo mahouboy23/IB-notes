@@ -61,7 +61,11 @@ $$f=\frac{1}{T}$$
 $$E=\frac{hc}{\lambda}$$
 ![[image-20230207084222834.png]]
 
-### **.**      **Spectres de raies continues, d'émission et d'absorption**
+- Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
+
+- Une lumière monochromatique est constitué:: **d'une seul $\lambda$
+
+### **.**     **Spectres de raies continues, d'émission et d'absorption**
 
 lumière polychromatique :: constitue de plusieurs couleurs
 lumière monochromatique :: constituée d'une seule $\lambda$ 
