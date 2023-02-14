@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventionner l'entreprise.md",
+                "file": "Prestation gouvernemental direct.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventionner l'entreprise.md",
+                "file": "Prestation gouvernemental direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventionner l'entreprise.md",
+                "file": "Prestation gouvernemental direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventionner l'entreprise.md"
+                "file": "Prestation gouvernemental direct.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subventionner l'entreprise.md",
+                "file": "Prestation gouvernemental direct.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,14 +290,14 @@
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
     "Externalité positive.md",
+    "Prestation gouvernementale directe.md",
+    "Subventionner l'entreprise.md",
     "Subventionner les entreprises.md",
     "Externalités.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md",
-    "Le Champ de gravitation.md",
-    "Mouvement circulaire uniforme et gravitation.md"
+    "sl subjects/Physics.md"
   ]
 }

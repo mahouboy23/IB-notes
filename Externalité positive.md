@@ -25,6 +25,6 @@ Lorsque cela se produit, **le bénéfice social marginal de la consommation (MS
 Les solutions visent maintenant à ce que le gouvernement incite les gens à consommer ces biens. Cela peut être fait en utilisant différentes méthodes :
 ?
 -   [[Subventionner l'entreprise]] 
--   Prestation gouvernementale directe
+-   [[Prestation gouvernemental direct]]
 -   Publicité positive
 -   Législation pour rendre la consommation obligatoire
