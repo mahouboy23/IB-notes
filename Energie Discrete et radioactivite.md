@@ -118,3 +118,4 @@ $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hs
 ![[image-20230214080414405.png]]
 $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
+#### APPLICATION 
