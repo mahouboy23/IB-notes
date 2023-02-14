@@ -144,7 +144,9 @@ Le nombre de noyaux désintégrés
 - Le nombre de noyaux désintègres dN ($\delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.
 $$dN=-\lambda Ndt$$
 $$\frac{dn}{dt}=-\lambda N$$
-
 - Demi-vie $T_{\frac{1}{2}}$ ou période radioactive 
 C'est le temps au bout duquel la moitie des noyaux radioactifs d'un échantillon s'est désintègre
+
+![[image-20230214092309477.png]]
+
 
