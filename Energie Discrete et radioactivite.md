@@ -130,3 +130,4 @@ $x^{*} \rightarrow x + \gamma$
 ![[image-20230214082224377.png]]
 
 #### stabilite des noyaux
+Les noyaux on plus de proton que de neutron car les proton du a l'interaction forte participe a la stabilité du noyaux contrairement au proton qui se repousse. Au valeur importante de Z la majeur partit des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'interaction forte est un force de courte porte ( environ $10^{-15}$ m) ces noyaux seront instable.
