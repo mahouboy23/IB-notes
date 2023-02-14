@@ -134,7 +134,17 @@ Les noyaux on plus de proton que de neutron car les proton du a l'interaction fo
 
 ### Loi de décroissance radioactive 
 La décroissance radioactive est un phénomène aléatoire on peut pas prédire lorsqu'un noyau va se désintègre
-la probabilité d'un noyau entre 2 date très proche est :
+
+- la probabilité d'un noyau entre 2 date très proche est :
 $$d_{p}=\lambda \hspace0.5mm dt$$
 $$\lambda = \frac{dp}{dt} \hspace8mm en \hspace2mm s^{-1}$$
-$\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps
+$\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps 
+Le nombre de noyaux désintégrés 
+
+- Le nombre de noyaux désintègres dN ($\delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.
+$$dN=-\lambda Ndt$$
+$$\frac{dn}{dt}=-\lambda N$$
+
+- Demi-vie $T_{\frac{1}{2}}$ ou période radioactive 
+C'est le temps au bout duquel la moitie des noyaux radioactifs d'un échantillon s'est désintègre
+

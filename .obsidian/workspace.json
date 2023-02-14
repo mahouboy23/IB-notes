@@ -226,7 +226,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d13a06cb4474056d",
@@ -271,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 368
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +287,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "2023dc70c735d799",
   "lastOpenFiles": [
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
