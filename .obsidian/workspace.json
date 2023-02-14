@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Externalité positive.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Externalité positive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Externalité positive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "Externalité positive.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Externalité positive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,15 +289,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "Externalités.md",
+    "Externalité positive.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "Le Champ de gravitation.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "La loi de gravitation universelle de Newton.md",
-    "TOK WORK 3.md",
-    "Introduction draft.md",
-    "common core/EE.md"
+    "La loi de gravitation universelle de Newton.md"
   ]
 }
