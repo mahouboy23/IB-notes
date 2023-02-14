@@ -26,5 +26,5 @@ Les solutions visent maintenant à ce que le gouvernement incite les gens à con
 ?
 -   [[Subventionner l'entreprise]] 
 -   [[Prestation gouvernemental direct]]
--   Publicité positive
--   Législation pour rendre la consommation obligatoire
+-   [[Publicité positive]]
+-   [[Législation pour rendre la consommation obligatoire]]  
