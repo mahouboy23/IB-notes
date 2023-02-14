@@ -104,7 +104,7 @@ La radioactivité est l'emission spontané d'un rayonnement par les noyaux de ce
 
 #### Alpha
 ?
-![[image-20230209094009536.png]]
+![[image-20230214085457864.png]]
 Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 Mev est arrête par une feuille de papier. 
 
 #### Beta$^-$ 
@@ -132,4 +132,9 @@ $x^{*} \rightarrow x + \gamma$
 #### stabilite des noyaux
 Les noyaux on plus de proton que de neutron car les proton du a l'interaction forte participe a la stabilité du noyaux contrairement au proton qui se repousse. Au valeur importante de Z la majeur partit des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'interaction forte est un force de courte porte ( environ $10^{-15}$ m) ces noyaux seront instable. La majeur parti des noyaux lourd sont radioactive alpha $\alpha$. La courbe en bleu représente le domaine de stabilité les elements beta- sont au-dessus du domaine de stabilité car ils sont trop de neutron, ces derniers vont de transformer en proton et electron jusqu'à ce que le noyau devienne instable. Les noyau beta+ sont en-dessous du niveau de stabilité car ils ont trop de neutrons. 
 
-### Loi de décroissance radioactive
+### Loi de décroissance radioactive 
+La décroissance radioactive est un phénomène aléatoire on peut pas prédire lorsqu'un noyau va se désintègre
+la probabilité d'un noyau entre 2 date très proche est :
+$$d_{p}=\lambda \hspace0.5mm dt$$
+$$\lambda = \frac{dp}{dt} \hspace8mm en \hspace2mm s^{-1}$$
+$\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps
