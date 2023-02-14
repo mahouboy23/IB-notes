@@ -141,7 +141,7 @@ $$\lambda = \frac{dp}{dt} \hspace8mm en \hspace2mm s^{-1}$$
 $\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps 
 Le nombre de noyaux désintégrés 
 
-- Le nombre de noyaux désintègres dN ($\delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.
+- Le nombre de noyaux désintègres dN ($\Delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.
 $$dN=-\lambda Ndt$$
 $$\frac{dn}{dt}=-\lambda N$$
 - Demi-vie $T_{\frac{1}{2}}$ ou période radioactive 
