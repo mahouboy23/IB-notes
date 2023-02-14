@@ -120,11 +120,12 @@ $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (anti \hspace{2mm} ne
 
 ![[image-20230214081921777.png]]
 
-![[image-20230214082224377.png]]
-
 #### Gamma $\gamma$ 
 ?
-C'est l'emission d'un rayonnement électromagnétique de courte longueur par un noyau a l'etat excité.
+C'est l'emission d'un rayonnement électromagnétique de courte longueur par un noyau a l'etat excité. La radioactivité gamma est de loin la plus dangereuse elle peut meme traverser quelque centimètre de plond.
 ![[image-20230214082629676.png]]
 
 $x^{*} \rightarrow x + \gamma$ 
+
+![[image-20230214082224377.png]]
+
