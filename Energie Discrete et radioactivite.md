@@ -155,6 +155,8 @@ C'est le temps au bout duquel la moitie des noyaux radioactifs d'un échantillon
 
 ![[image-20230214092309477.png]]
 
+
+
 - Activité radioactive :: nombre de désintégration   par unite de temps se mesure avec compteur geiger-Muller unite $B_q$ Becquerel (1 désintégration par seconde) 
 $$A=\lambda N \hspace2mm or \hspace2mm N=N_{o}e^{-\lambda t}$$
 $$A=\lambda N_{o}e^{-\lambda t}=A_oe^{-\lambda t}$$
