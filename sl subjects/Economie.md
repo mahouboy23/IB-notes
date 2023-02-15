@@ -2,7 +2,7 @@
 tags : mod economie
 ---
  $$\Huge{Microeconomie}$$
- <br/>
+<br/>
 ### Mot clés en économie
 [[Conceptes de base economie|Economics basic concepts]] 
 
