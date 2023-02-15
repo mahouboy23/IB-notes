@@ -20,7 +20,7 @@
 - [[History]]
 - Mathematics 
 - [[Natural sciences]]
-- Human sciences
+- [[Human sciences]]
 - The arts 
 ## **Part 4 :** Assessment
 1. TOK Exhibition $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts

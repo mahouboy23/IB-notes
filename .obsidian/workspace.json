@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK WORK 4.md",
+                "file": "Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK 4.md",
+                "file": "Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK 4.md",
+                "file": "Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK 4.md"
+                "file": "Scope.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK WORK 4.md",
+                "file": "Scope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,13 +301,13 @@
   "lastOpenFiles": [
     "common core/TOK.md",
     "Natural sciences.md",
+    "Human sciences.md",
     "TOK WORK 4.md",
     "TOK WORK 3.md",
     "Tools and methods.md",
     "IB overview.md",
     "sl subjects/Economie.md",
     "Législation pour rendre la consommation obligatoire.md",
-    "Introduction draft.md",
-    "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md"
+    "Introduction draft.md"
   ]
 }

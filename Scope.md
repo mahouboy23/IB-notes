@@ -25,7 +25,4 @@ Language plays a substantial role in the recording of history and passing on of 
 
 Accepting that
 
-
-
-
-
+## Natural sciences
