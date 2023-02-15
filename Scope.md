@@ -19,7 +19,7 @@ Where as some historians might specialized in a specified time period such as th
 
 - HOW CAN WE KNOW ABOUT THE PAST : 
 People know what happened in the past by **looking at things from the past including sources (like books, newspapers, and letters) and artifacts (like pottery, tools, and human or animal remains.)** Libraries, archives, and museums collect and keep these things for people to study history. 
-- 
+
 - HOW CAN WE CONSTRUCT KNOWLEDGE AS PART OF A STUDY OF HISTORY : 
 Language plays a substantial role in the recording of history and passing on of collective memory. Some knowledge communities draw on oral history, whereas others record data in writing or symbols. Much historical knowledge has been passed on **through language via textbooks**. 
 
