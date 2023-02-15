@@ -13,5 +13,5 @@ We pose an hypothesis where were gonna prove or contest the claim. Then do the e
 
 3. **Provide a real-life example of a lav you have actually done for each of the following criteria**: 
   a/  It was an experiment in biology where we tried to visualize and find the different parts of a cell.
-  b/ 
-  c/ I tried to predict using machine learning what a  
+  b/  
+  c/ I tried to predict using machine learning what the results of a football match
