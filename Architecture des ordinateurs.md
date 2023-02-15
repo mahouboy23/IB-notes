@@ -39,3 +39,4 @@ $$\Huge{Architecture}$$
 6. [[Représentation de quelques types de données]] 
 7. [[Portes logiques simples]] 
 8. [[La table de vérité]] 
+

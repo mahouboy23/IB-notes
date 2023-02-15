@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools and methods.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools and methods.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools and methods.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools and methods.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools and methods.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,15 +299,15 @@
   },
   "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "common core/TOK.md",
+    "Tools and methods.md",
     "Natural sciences.md",
     "Scope.md",
     "Human sciences.md",
     "TOK WORK 4.md",
     "TOK WORK 3.md",
-    "Tools and methods.md",
-    "IB overview.md",
-    "sl subjects/Economie.md",
-    "Législation pour rendre la consommation obligatoire.md"
+    "sl subjects/Economie.md"
   ]
 }
