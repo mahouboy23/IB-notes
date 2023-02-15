@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Législation pour rendre la consommation obligatoire.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,17 +297,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcd171e3d51f18b8",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "IB overview.md",
     "Législation pour rendre la consommation obligatoire.md",
+    "Introduction draft.md",
+    "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "Externalité positive.md",
     "Publicité positive.md",
     "Prestation gouvernemental direct.md",
     "Prestation gouvernementale directe.md",
     "Subventionner l'entreprise.md",
-    "Subventionner les entreprises.md",
-    "Externalités.md",
-    "sl subjects/Economie.md",
-    "IB overview.md"
+    "Subventionner les entreprises.md"
   ]
 }
