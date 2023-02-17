@@ -91,7 +91,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-17 10.59.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-17 10.59.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-17 10.59.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-17 10.59.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-17 10.59.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,6 +309,7 @@
   },
   "active": "278c0a8ae4a45657",
   "lastOpenFiles": [
+    "Excalidraw/shema cs.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -317,7 +318,6 @@
     "Déterminants de l'élasticité-prix de l'offre.md",
     "Externalités.md",
     "Externalité positive.md",
-    "Externalité négative.md",
-    "Mouvement circulaire uniforme et gravitation.md"
+    "Externalité négative.md"
   ]
 }
