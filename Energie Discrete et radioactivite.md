@@ -101,7 +101,7 @@ $$E_n=\frac{-13,6}{n^{2}}eV \hspace 8mm n\rightarrow N^*$$
 -Representer les niveaux d'énergie sur l'axe
 -Montrer que les trois transitions $3\rightarrow 2,4\rightarrow 2,5 \rightarrow 2,6 \rightarrow 2$ sont visibles et retrouver la couleur sur Internet
 -Montrer que les transitions $7 \rightarrow 2$, $2 \rightarrow 1$ sont UV
--Montrer que $4 \rightarrow 2$ est IR
+-Montrer que $4 \rightarrow 3$ est IR
 
 ## Désintégration radioactive
 La radioactivité est :: l'emission spontané d'un rayonnement par les noyaux de certains elements radioactifs elle a été découvert accidentellement par le Français Becquerel sur des travaux de sel d'Uranium. Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$  
