@@ -54,7 +54,7 @@ Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m
 c = célérité :: $3*10^8ms^{-1}$
 T=
 f=
-h = est la constante de Planck :: (6,63 × 10 -34 J s)
+h = est la constante de Planck :: ($6,63*10^{-34}Js^{-1}$)
 #### formules utiles.
 ?
 $$\lambda=vT$$
