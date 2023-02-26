@@ -17,8 +17,7 @@
                 "viewState": {
                   "x": -195.80791122166517,
                   "y": -111.8353395518814,
-                  "zoom": -1.2222223917643236,
-                  "snapToGrid": false
+                  "zoom": -1.2222223917643236
                 }
               }
             }
@@ -33,8 +32,7 @@
                 "viewState": {
                   "x": 361.002048067584,
                   "y": -440.97876798670245,
-                  "zoom": -1.3608088759057402,
-                  "snapToGrid": false
+                  "zoom": -1.3608088759057402
                 }
               }
             }
@@ -94,9 +92,19 @@
                 "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "b12b6a02d44494da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "Eléctricite et magnétisme fiche revision.canvas"
               }
             }
           },
@@ -259,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Eléctricite et magnétisme fiche revision.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,7 +315,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea2cb0a21f14309",
+  "active": "b12b6a02d44494da",
   "lastOpenFiles": [
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
