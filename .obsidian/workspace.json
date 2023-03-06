@@ -92,19 +92,9 @@
                 "file": "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "b12b6a02d44494da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md"
               }
             }
           },
@@ -267,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,13 +305,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b12b6a02d44494da",
+  "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Introduction draft.md",
-    "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
     "Excalidraw/shema cs.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
