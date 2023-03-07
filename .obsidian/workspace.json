@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "The behaviorist theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "The behaviorist theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "The behaviorist theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "The behaviorist theory.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "The behaviorist theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,8 +309,9 @@
   },
   "active": "278c0a8ae4a45657",
   "lastOpenFiles": [
-    "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
+    "The behaviorist theory.md",
+    "Comparative essay.md",
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png",
