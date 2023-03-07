@@ -80,3 +80,10 @@ Books : King Lear / The house boys
 [[King Lear Correction]] 
 
 [[Comparative essay]] 
+
+## **Unit 9:** The key theories of language acquisition
+In language acquisition we have three key theories : 
+?
+1. [[The behaviorist theory]]
+2. [[The innatism nativism theory]] 
+3. [[]]

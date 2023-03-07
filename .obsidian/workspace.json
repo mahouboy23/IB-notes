@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,14 +309,16 @@
   },
   "active": "278c0a8ae4a45657",
   "lastOpenFiles": [
+    "Comparative essay.md",
+    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "Energie Discrete et radioactivite.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png",
     "assets/Energie Discrete et radioactivite/image-20230307091744050.png",
     "assets/Energie Discrete et radioactivite/image-20230307091732247.png",
-    "Energie Discrete et radioactivite.md",
     "la résistance électrique.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "Introduction draft.md",
