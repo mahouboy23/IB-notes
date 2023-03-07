@@ -170,6 +170,11 @@ On peut détecter un rayonnement radioactif avec un compteur Geiger-Muller ou un
 ![[image-20230307091744050.png]]
 
 
+### Decomposition d'un spectre d'emission
+![[image-20230307095128910.png]]
+
+
+
 
 
 
