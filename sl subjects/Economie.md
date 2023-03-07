@@ -16,7 +16,7 @@ tags : mod economie
 ## Parte 2 : L'approvisionneument
 1. [[l'offre|definition]]  
 2. [[la loi de l'offre]] 
-3. L'[[écriture mathématique|ecriture mathématique de l'offre]] 
+3. [[écriture mathématique|l'écriture mathématique de l'offre]] 
 4. [[Mouvement et déplacement de l'offre]]  
 
 ## Parte 3 : L'Equilibre du marche 

@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "écriture mathématique.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "écriture mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "écriture mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "écriture mathématique.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "écriture mathématique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,9 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "Externalités.md",
     "sl subjects/Economie.md",
+    "écriture mathématique.md",
+    "Externalités.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "pl.md",
