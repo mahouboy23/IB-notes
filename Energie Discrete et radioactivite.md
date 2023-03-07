@@ -79,7 +79,8 @@ lumière monochromatique :: constituée d'une seule $\lambda$
 Les spectres d’émission de  lumière émise par luminescence      (sources               froides) sont       des         spectres               de          raie ou discontinu            alors      que               les          spectres obtenus              par         incandescence    (sources chaudes)              sont               des         spectres continu Les         profils    spectraux            (colonne              2             du               tableau) permettent         d’avoir   plus        d’informations    que        les          spectres sur               la            lumière émise    par         une        lampe.   En           effet,     ils           nous               informent            de          l’intensité            relative de          chaque  radiation lumineuse               alors      qu’un     spectre  nous      informe simplement        de          la            présence               de          ces         radiations.
 
 **ev** :: l'electron volt est l'énergie cinétique acquise par un electron accélère par 1 potentiel 1V 
-1 ev  = $1.6*10^{-19}J$ 
+
+**1 ev  en joule** :: $1.6*10^{-19}J$ 
 
 #### **Voir feuille** : spectres continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption
 
