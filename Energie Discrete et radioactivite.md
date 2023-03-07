@@ -167,10 +167,7 @@ $$A=\lambda N_{o}e^{-\lambda t}=A_oe^{-\lambda t}$$
 
 ### Detection de la radioactivité
 On peut détecter un rayonnement radioactif avec un compteur Geiger-Muller ou un champ électrique ou magnétique. 
-
-
-
-
+![[image-20230307091744050.png]]
 
 
 
