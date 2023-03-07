@@ -87,3 +87,10 @@ In language acquisition we have three key theories :
 1. [[The behaviorist theory]]
 2. [[The innatism nativism theory]] 
 3. [[The interactionist Theory]]
+
+QUESTIONS: 
+-who are the character
+-what is the plot
+-what is the tone 
+-what is the theme
+-what is the authors purpose in writing this text
