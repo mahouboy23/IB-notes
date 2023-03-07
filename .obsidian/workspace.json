@@ -77,26 +77,16 @@
             "id": "fcd171e3d51f18b8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "278c0a8ae4a45657",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "pl.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pl.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pl.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pl.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -259,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pl.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,15 +297,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "278c0a8ae4a45657",
+  "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "The interactionist Theory.md",
+    "Externalités.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "pl.md",
+    "The interactionist Theory.md",
     "sl subjects/Anglais Literrature.md",
     "The innatism nativism theory.md",
     "The behaviorist theory.md",
     "Comparative essay.md",
-    "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png",
     "assets/Energie Discrete et radioactivite/image-20230307091744050.png",
@@ -324,12 +317,10 @@
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "Excalidraw/Drawing 2023-02-17 17.21.37.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "Introduction draft.md",
     "Excalidraw/shema cs.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
-    "sl subjects/Economie.md",
     "Subvention.md"
   ]
 }
