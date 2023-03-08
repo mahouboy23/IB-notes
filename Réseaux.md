@@ -19,4 +19,4 @@ Un réseau informatique est un ensembles de systèmes informatiques et de d'autr
 2. [[Nécessité des protocoles]] 
 3. [[Vitesse de transmission des données sur un reseau]] 
 4. [[Compression des données dans un réseau]]
-5. 
+5. [[Caractéristiques des différents supports de transmission]] 

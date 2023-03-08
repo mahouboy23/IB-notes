@@ -12,3 +12,7 @@ Pourquoi compresser ?
 ?
 ![[image-20230308155152702.png]]
 
+## Lossless vs Lossy
+?
+![[image-20230308155757960.png]]
+
