@@ -12,3 +12,4 @@ Un réseau informatique est un ensembles de systèmes informatiques et de d'autr
 ## **Chapitre 2:** Transmission de données
 
 1. [[Protocoles et paquets de données]] 
+2. [[Nécessité des protocoles]] 
