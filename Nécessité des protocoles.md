@@ -15,4 +15,6 @@ L'intégrité des données, dans le contexte de la mise en réseau, fait référ
 ?
 Le contrôle de flux est le mécanisme qui garantit que le taux de transmission d'un expéditeur est proportionnel aux capacités de réception du récepteur.
 
-
+## Prévenir les impasses
+?
+Une impasse est une situation dans laquelle deux nœuds ou processus tentent d'accéder au même nœud exactement au même moment, ce qui fait que ni l'un ni l'autre ne peut avancer.
