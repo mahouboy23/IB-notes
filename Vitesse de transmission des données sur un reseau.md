@@ -11,4 +11,9 @@ La vitesse théorique des données sur un support est appelée largeur de bande 
 
 ![[image-20230308152544172.png]]
 
+## Facteurs influençant la vitesse de transmission
+?
+1. [[Le trafic]] 
+2. [[Heure de la journée]]
+3. [[La distance]] 
 
