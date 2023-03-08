@@ -22,3 +22,7 @@ Une impasse est une situation dans laquelle deux nœuds ou processus tentent d'a
 ## Gérer la congestion
 ?
 L'encombrement est un état du réseau dans lequel un nœud ou une liaison transporte une telle quantité de données qu'il peut en résulter une détérioration de la qualité du service réseau, ce qui se traduit par un retard dans la mise en file d'attente, la perte de trames ou de paquets de données et le blocage de nouvelles connexions.
+
+## Contrôler les erreurs
+?
+Le contrôle ou la détection des erreurs fait référence aux techniques utilisées pour détecter le bruit ou d'autres dégradations introduites dans les données lors de leur transmission de la source à la destination. La détection des erreurs fait souvent appel à des bits de parité, c'est-àdire des bits situés à la fin d'un paquet et qui sont calculés pour être soit un 1, soit un 0.

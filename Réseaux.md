@@ -17,3 +17,4 @@ Un réseau informatique est un ensembles de systèmes informatiques et de d'autr
 
 1. [[Protocoles et paquets de données]] 
 2. [[Nécessité des protocoles]] 
+3. [[Vitesse de transmission des données sur un reseau]] 
