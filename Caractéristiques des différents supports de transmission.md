@@ -10,4 +10,5 @@ Created: 2023-03-08
 ?
 1. [[Securite]]
 2. [[Fiabilite transmission|fiabilite ]]
-3. 
+3. [[Cout]]
+4. [[Vitesse de transmission]] 
