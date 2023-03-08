@@ -18,3 +18,7 @@ Le contrôle de flux est le mécanisme qui garantit que le taux de transmission 
 ## Prévenir les impasses
 ?
 Une impasse est une situation dans laquelle deux nœuds ou processus tentent d'accéder au même nœud exactement au même moment, ce qui fait que ni l'un ni l'autre ne peut avancer.
+
+## Gérer la congestion
+?
+L'encombrement est un état du réseau dans lequel un nœud ou une liaison transporte une telle quantité de données qu'il peut en résulter une détérioration de la qualité du service réseau, ce qui se traduit par un retard dans la mise en file d'attente, la perte de trames ou de paquets de données et le blocage de nouvelles connexions.
