@@ -17,3 +17,13 @@ $$\Delta E = \Delta m.c2$$
 Remarque :
 - Si la masse du système diminue : le système fournit de l'énergie au milieu extérieur.
 - Si la masse du système augmente : le système reçoit de l'énergie du milieu extérieur.
+
+### **Unités de masse et d'énergie**
+Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On
+utilise plutôt à cette échelle l'électron volt (noté eV)
+
+1u :: unite de masse unifie ou unite de masse atomique 
+?
+$\simeq$ masse d'un nucleon
+$\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$ 
+$\simeq$ $1,67*10^{-27}kg$ 
