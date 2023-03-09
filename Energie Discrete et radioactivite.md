@@ -173,7 +173,7 @@ On peut détecter un rayonnement radioactif avec un compteur Geiger-Muller ou un
 ### Decomposition d'un spectre d'emission
 ![[image-20230307095128910.png]]
 
-
+### **Rayonnement de fond** :: c'est la radioactivité propre a un endroit qui ajoute a la radioactivité d'une source.
 
 
 
