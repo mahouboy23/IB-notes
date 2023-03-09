@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Réactions nucléaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Réactions nucléaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Réactions nucléaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "Réactions nucléaires.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "Réactions nucléaires.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +300,8 @@
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
     "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
+    "Energie Discrete et radioactivite.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Vitesse de transmission.md",
@@ -335,8 +337,6 @@
     "The interactionist Theory.md",
     "The innatism nativism theory.md",
     "The behaviorist theory.md",
-    "Comparative essay.md",
-    "Energie Discrete et radioactivite.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png",
     "assets/Energie Discrete et radioactivite/image-20230307091744050.png"
   ]
