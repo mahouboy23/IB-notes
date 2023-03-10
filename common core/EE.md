@@ -48,6 +48,7 @@ Introduce the problem and the topic
 
 -   Provide a brief overview of machine learning algorithms and their use in medical data recognition. [[background 1]]
 -   Introduce Linear Regression and Logistic Regression as two commonly used algorithms for this task.
+  [[background 2]] 
 -   Explain the key differences between these two algorithms and how they work.
 
 3.  Methodology:
