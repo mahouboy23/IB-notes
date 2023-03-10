@@ -13,7 +13,7 @@ tags: EE
  >To what extent is the Linear Regression algorithm precision and performance better than Logistic Regression in the recognition of medical 
 
 ### *research question (French)*
-Dans quelle mesure la précision et la performance de l'algorithme de régression linéaire sont-elles meilleures que celles de la régression logistique dans la reconnaissance de maladie d'apres leurs symptômes.
+Dans quelle mesure la précision et la performance de l'algorithme de régression linéaire est-elle meilleures que celles de la régression logistique dans la reconnaissance de maladie d'apres leurs symptômes.
 
 ----- 
 

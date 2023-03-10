@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "background 2.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "background 2.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "background 2.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "background 2.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "background 2.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,8 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "common core/EE.md",
     "background 2.md",
+    "common core/EE.md",
     "background 1.md",
     "Introduction draft.md",
     "IB overview.md",
