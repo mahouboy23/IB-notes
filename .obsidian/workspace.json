@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "background 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "background 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "background 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l'algorithme de régression linéaire.md"
+                "file": "background 2.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "background 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,9 +299,9 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "l'algorithme de régression linéaire.md",
     "background 2.md",
     "common core/EE.md",
-    "l'algorithme de régression linéaire.md",
     "Réactions nucléaires.md",
     "REFERENCE.md",
     "background 1.md",
