@@ -14,8 +14,3 @@ how the algorithm works:
 4.  Once the algorithm finds the best-fit line, it can use it to make predictions for new input values. For example, if a new patient comes in with a set of symptoms, the algorithm can use the best-fit line to predict the severity of their medical condition.
 
 
-Sources:
-
--   Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction (2nd ed.). Springer.
--   Bishop, C. M. (2006). Pattern recognition and machine learning (1st ed.). Springer
-
