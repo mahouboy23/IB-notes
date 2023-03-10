@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l'algorithme de régression linéaire.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "l'algorithme de régression linéaire.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,14 +299,14 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "background 2.md",
+    "Réactions nucléaires.md",
     "common core/EE.md",
-    "REFERENCE.md",
     "l'algorithme de régression linéaire.md",
+    "background 2.md",
+    "REFERENCE.md",
     "background 1.md",
     "Introduction draft.md",
     "IB overview.md",
-    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "Energie Discrete et radioactivite.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",

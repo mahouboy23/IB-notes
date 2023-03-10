@@ -10,10 +10,10 @@ tags: EE
  **TOPIC:** Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de condition medical.
  
  >[!Research question:]
- >To what extent is the Linear Regression algorithm precision and performance better than Logistic Regression in the recognition of medical 
+ >To what extent is the Logistic Regression algorithm precision and performance better than Linear Regression in the recognition of medical 
 
 ### *research question (French)*
-Dans quelle mesure la précision et la performance de l'algorithme de régression linéaire est-elle meilleures que celles de la régression logistique dans la reconnaissance de maladie d'apres leurs symptômes.
+Dans quelle mesure la précision et la performance de l'algorithme de régression logistique est-elle meilleures que celles de la régression linéaire dans la reconnaissance de maladie d'apres leurs symptômes.
 
 ----- 
 
