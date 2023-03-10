@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,13 +299,13 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "Energie Discrete et radioactivite.md",
-    "Réactions nucléaires.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Vitesse de transmission.md",
     "Caractéristiques des différents supports de transmission.md",
     "Cout.md",
