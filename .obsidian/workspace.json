@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "background 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "background 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "background 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction draft.md"
+                "file": "background 1.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction draft.md",
+                "file": "background 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +300,8 @@
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
     "common core/EE.md",
+    "background 1.md",
+    "Introduction draft.md",
     "IB overview.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -337,8 +339,6 @@
     "Externalités.md",
     "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "pl.md",
-    "The interactionist Theory.md",
-    "The innatism nativism theory.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png"
   ]
 }
