@@ -13,4 +13,14 @@ how the algorithm works:
 
 4.  Once the algorithm finds the best-fit line, it can use it to make predictions for new input values. For example, if a new patient comes in with a set of symptoms, the algorithm can use the best-fit line to predict the severity of their medical condition.
 
+**ENGLISH**
+The algorithm starts by taking in a set of input variables and their corresponding output variables. These variables are also known as independent and dependent variables or features and targets, respectively. For instance, in the context of market analysis, the input variables could be the price and quality of a product, while the output variable could be the sales.
 
+Next, the algorithm attempts to find the best-fit line that represents the relationship between the input variables and the output variable. This line is represented by the equation $$Y = mX + b$$where Y is the predicted output 
+X is the input variable 
+m is the slope of the line 
+and b is the y-intercept.
+
+To obtain the best-fit line, the algorithm calculates the sum of the squared errors between the predicted values and the actual values. This error is then minimized by adjusting the values of m and b, a process called optimization. Finally, once the best-fit line is obtained, the algorithm can use it to make predictions for new input values. For example, in the market analysis context, the algorithm can use the best-fit line to predict the sales of a new product based on its price and quality.
+
+**FRENCH**
