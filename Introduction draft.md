@@ -2,10 +2,7 @@
 tags : EE
 ---
 Created: 2023-01-06
+Medical data recognition has been a crucial task in healthcare. Doctors and healthcare professionals have been using various methods to diagnose and treat different medical conditions. However, with the advent of technology, machine learning algorithms have made significant contributions in this field. These algorithms can analyze vast amounts of data and detect patterns that are difficult for humans to perceive. As a result, machine learning algorithms have become increasingly popular for medical data recognition.
 
-ENGLISH
-In the field of medical diagnosis, accurately identifying and classifying various conditions is crucial for effective treatment. Machine learning algorithms, have become increasingly popular tools for automating this process. However, the question remains: which of these algorithms is more precise and performs better in the recognition of medical conditions? Our aim is to investigate and compare the precision and performance of Linear Regression and Logistic Regression in the recognition of medical conditions. By analyzing their respective strengths and limitations.
-
-FRENCH
-Dans le domaine du diagnostic médical, l'identification et la classification précises de diverses pathologies sont cruciales pour un traitement efficace. Les algorithmes d'apprentissage automatique sont devenus des outils de plus en plus populaires pour automatiser ce processus. Cependant, une question demeure : lequel de ces algorithmes est le plus précis et le plus performant dans la reconnaissance des conditions médicales ? Notre objectif est d'étudier et de comparer la précision et la performance de la régression linéaire et de la régression logistique dans la reconnaissance des conditions médicales. En analysant leurs forces et leurs limites respectives.
+The purpose of this extended essay is to compare the precision and performance of two commonly used machine learning algorithms, linear regression and logistic regression, in the recognition of medical conditions based on their symptoms.
 
