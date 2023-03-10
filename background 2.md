@@ -20,3 +20,5 @@ Les algorithmes d'apprentissage automatique sont conçus pour apprendre des mod�
 Les algorithmes de classification sont utilisés pour classer les données dans des catégories prédéfinies en fonction de leurs caractéristiques. Ces algorithmes analysent les données afin d'identifier les similitudes et les modèles qui seront utilisés pour les regrouper. Les arbres de décision, les machines à vecteurs de support, l'algorithme de Naïve Bayes et l'algorithme de régression logistique sont des exemples courants d'algorithmes de classification.
 
 Les algorithmes de régression, quant à eux, sont utilisés pour prédire les valeurs de sortie continues en fonction des variables d'entrée. Ils établissent une relation entre les variables d'entrée et une fonction continue pour prédire la sortie. Par exemple, l'utilisation de la relation entre la surface d'une maison et son prix pour prédire le prix d'une nouvelle maison est un problème de régression.
+
+### [[l'algorithme de régression linéaire]] 

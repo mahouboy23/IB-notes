@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "l'algorithme de régression linéaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "l'algorithme de régression linéaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "l'algorithme de régression linéaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "l'algorithme de régression linéaire.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "l'algorithme de régression linéaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,6 +301,8 @@
   "lastOpenFiles": [
     "background 2.md",
     "common core/EE.md",
+    "REFERENCE.md",
+    "l'algorithme de régression linéaire.md",
     "background 1.md",
     "Introduction draft.md",
     "IB overview.md",
@@ -337,8 +339,6 @@
     "hl subjects/Computer science.md",
     "écriture mathématique.md",
     "sl subjects/Economie.md",
-    "Externalités.md",
-    "Excalidraw/Drawing 2023-02-14 15.54.48.excalidraw.md",
     "assets/Energie Discrete et radioactivite/image-20230307095128910.png"
   ]
 }
