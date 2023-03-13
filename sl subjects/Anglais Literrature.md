@@ -90,7 +90,7 @@ In language acquisition we have three key theories :
 
 QUESTIONS: 
 -who are the character
-The character Jany, Mary, John. John mother
+The character Jany, Mary, John. John mother, Jenny
 
 -what is the plot
 It is about a women dealing with the stress of having her child and going into depression
