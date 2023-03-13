@@ -90,7 +90,16 @@ In language acquisition we have three key theories :
 
 QUESTIONS: 
 -who are the character
+The character Jany, Mary, John. John mother
+
 -what is the plot
+It is about a women dealing with the stress of having her child and going into depression
+
 -what is the tone 
+The tone is dark and gloomy 
+
 -what is the theme
+The theme is the oppression of women in the 19th centurie
+
 -what is the authors purpose in writing this text
+To raise awareness about the depression because he also suffered it
