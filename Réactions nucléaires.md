@@ -46,4 +46,5 @@ $$\large{E_{l}=(\sum_{}^{}m_{nucleons}-m_{noyau})c^{2}=\Delta mc^{2}}$$
 ## Courbe d'Aston-Stabilite des noyaux
 
 Un noyau est d'autant plus stable que son énergie de liaison par nucleon est grande.
-La fusion :: c'est l'association de 2 noyaux legers pour donner un noyau plus lourd et plus stable (avec un enegie de liaison par nucleon plus grande) avec liberation d'energion
+La fusion :: c'est l'association de 2 noyaux legers pour donner un noyau plus lourd et plus stable avec une enegie de liaison par nucleon plus grande, avec liberation d'energion.
+La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une énergie de liaison par nucleon plus grande, il y aura liberation d'énergie
