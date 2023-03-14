@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,17 +299,19 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "Externalités.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
     "sl subjects/Anglais Literrature.md",
     "common core/TOK.md",
-    "Energie Discrete et radioactivite.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
@@ -333,10 +335,8 @@
     "assets/Compression des données dans un réseau/image-20230308154735935.png",
     "assets/Compression des données dans un réseau",
     "Vitesse de transmission des données sur un reseau.md",
-    "Heure de la journée.md",
     "assets/Vitesse de transmission des données sur un reseau/image-20230308152544172.png",
     "assets/Vitesse de transmission des données sur un reseau",
-    "Nécessité des protocoles.md",
     "assets/Protocoles et paquets de données/image-20230308150001447.png",
     "assets/Protocoles et paquets de données/image-20230308145954056.png",
     "assets/Protocoles et paquets de données"

@@ -56,3 +56,4 @@ tags : mod economie
 
 ## Chapitre 8: Défaillance du marché – externalités et ressources communes
 1. [[Externalités|Définition]] 
+2. [[ressources communes]] 
