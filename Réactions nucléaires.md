@@ -40,5 +40,6 @@ $$\large{\Delta m= \sum_{}^{}m_{nucleons} - m_{noyau}}$$
 $$\large{\Delta m= Zm_{p}+(A-Z)-m_{^{a}_{z}x}}$$
 On peut expliquer cette difference de masse avec l'equivalence masse-energie ($E=mc^{2}$) 
 $$\large{\sum_{}^{}m_{nucleons}c^{2} = m_{noyau}c^{2}+E_{l} }$$
-$E_{l}$ energie de liaison du noyau
-$$\large{}$$
+$E_{l}$ énergie de liaison du noyau
+$$\large{E_{l}=\sum_{}^{}m_{nucleons}c^{2}-m_{noyau}c^{2}}$$
+$$\large{E_{l}=(\sum_{}^{}m_{nucleons}-m_{noyau})c^{2}=\Delta mc^{2}}$$
