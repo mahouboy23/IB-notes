@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "ressources communes.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "ressources communes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "ressources communes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "ressources communes.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "ressources communes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,9 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "Externalités.md",
     "sl subjects/Economie.md",
+    "ressources communes.md",
+    "Externalités.md",
     "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -334,7 +335,6 @@
     "assets/Compression des données dans un réseau/image-20230308155152702.png",
     "assets/Compression des données dans un réseau/image-20230308154735935.png",
     "assets/Compression des données dans un réseau",
-    "Vitesse de transmission des données sur un reseau.md",
     "assets/Vitesse de transmission des données sur un reseau/image-20230308152544172.png",
     "assets/Vitesse de transmission des données sur un reseau",
     "assets/Protocoles et paquets de données/image-20230308150001447.png",
