@@ -30,3 +30,8 @@ utilise plutôt à cette échelle l'électron volt (noté eV)
 $\simeq$ masse d'un nucleon
 $\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$ 
 $\simeq$ $1,67*10^{-27}kg$ 
+
+A une masse $m=1$ u correspond une énergie $E=mc^{2}=1.67*10^{-27}*$ Mev.
+D’où 1 u = 931,5 Mev/c2
+
+## Énergie de liaison du noyau
