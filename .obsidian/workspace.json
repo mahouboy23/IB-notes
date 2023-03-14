@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Réactions nucléaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Réactions nucléaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Réactions nucléaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Réactions nucléaires.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Réactions nucléaires.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,11 +299,11 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "IB overview.md",
+    "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
+    "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "common core/TOK.md",
-    "Physique nucléaire, atomique et des particules.md",
     "Energie Discrete et radioactivite.md",
     "Réactions nucléaires.md",
     "Attributs du profil de l'apprenant.md",
