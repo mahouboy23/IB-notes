@@ -43,3 +43,6 @@ $$\large{\sum_{}^{}m_{nucleons}c^{2} = m_{noyau}c^{2}+E_{l} }$$
 $E_{l}$ énergie de liaison du noyau
 $$\large{E_{l}=\sum_{}^{}m_{nucleons}c^{2}-m_{noyau}c^{2}}$$
 $$\large{E_{l}=(\sum_{}^{}m_{nucleons}-m_{noyau})c^{2}=\Delta mc^{2}}$$
+## Courbe d'Aston-Stabilite des noyaux
+
+Un noyau est d'autant plus stable que son énergie de liaison par nucleon est grande.
