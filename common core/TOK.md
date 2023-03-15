@@ -18,7 +18,7 @@
 ## **Part 3 :** Areas of knowledge
 ?
 - [[History]]
-- Mathematics 
+- [[Mathematics]] 
 - [[Natural sciences]]
 - [[Human sciences]]
 - The arts 

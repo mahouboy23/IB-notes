@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ressources communes.md",
+                "file": "Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ressources communes.md",
+                "file": "Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ressources communes.md",
+                "file": "Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ressources communes.md"
+                "file": "Mathematics.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ressources communes.md",
+                "file": "Mathematics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,10 +299,12 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
-    "ressources communes.md",
-    "Externalités.md",
+    "common core/TOK.md",
+    "Mathematics.md",
     "IB overview.md",
+    "ressources communes.md",
+    "sl subjects/Economie.md",
+    "Externalités.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
@@ -312,7 +314,6 @@
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
     "sl subjects/Anglais Literrature.md",
-    "common core/TOK.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
@@ -330,7 +331,6 @@
     "Fiabilite transmission.md",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
     "assets/Caractéristiques des différents supports de transmission",
-    "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230308155757960.png",
     "assets/Compression des données dans un réseau/image-20230308155152702.png",
     "assets/Compression des données dans un réseau/image-20230308154735935.png",
