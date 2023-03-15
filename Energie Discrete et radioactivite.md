@@ -183,3 +183,6 @@ On peut détecter un rayonnement radioactif avec un compteur Geiger-Muller ou un
 
 
 Application - datation au $^{14}C$  
+
+
+The formula for area is useful in many different fields, including mathematics, geometry, physics, engineering, and construction. It allows us to determine the amount of surface or space that an object or shape occupies, which can be important for a wide range of practical applications.
