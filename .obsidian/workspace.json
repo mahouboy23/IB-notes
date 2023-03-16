@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux.md",
+                "file": "EXO MATH.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux.md",
+                "file": "EXO MATH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux.md",
+                "file": "EXO MATH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux.md"
+                "file": "EXO MATH.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réseaux.md",
+                "file": "EXO MATH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,10 +299,12 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "EXO MATH.md",
+    "IB overview.md",
+    "Réseaux.md",
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
-    "Réseaux.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-03-15 13.44.08.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
@@ -329,8 +331,6 @@
     "background 1.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
-    "Vitesse de transmission.md",
-    "Caractéristiques des différents supports de transmission.md",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
     "assets/Caractéristiques des différents supports de transmission",
     "assets/Compression des données dans un réseau/image-20230308155757960.png",
