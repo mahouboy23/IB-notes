@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise economie.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,6 +299,7 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "Subvention.md",
     "sl subjects/Economie.md",
     "Exercise economie.md",
     "IB overview.md",
@@ -328,7 +329,6 @@
     "common core/EE.md",
     "background 2.md",
     "l'algorithme de régression linéaire.md",
-    "REFERENCE.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
