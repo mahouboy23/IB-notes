@@ -85,7 +85,7 @@ Les spectres d’émission de  lumière émise par luminescence      (so
 #### **Voir feuille** : spectres continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption
 
 ### Interpretation des spectre atomiques 
-Les spectres d'emission et d'absorption de raie est une preuve experimental des niveaux d'energies atomiques. On doit l'interpretation des spectres de Bohr (Niels) qui énonces les postulat suivant qui a énonce les postulat suivant : 
+Les spectres d'emission et d'absorption de raie est une preuve experimental des niveaux d'energies atomiques. On doit l'interpretation des spectres de Bohr (Niels) qui énonces les postulat suivant: 
 ?
 - les variations des atomes sont quantifies (on des valeurs discrètes)
 - Les atomes ne peuvent exister que dans quelque état d'énergie bien définie caractériser par un niveau d'énergie
