@@ -112,7 +112,7 @@ Donc il existe 4 type de radioactivité : $\alpha, \beta^{+}, \beta^{-}, \gamma$
 #### Alpha
 ?
 ![[image-20230214085457864.png]]
-Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules $\alpha$ sont vite arrêtées rayonnement $\alpha$ de 100 $Mev$ est arrête par une feuille de papier. 
+Une particules $\alpha$ sont très ionisantes elles transforment la matières en ions c'est pourquoi les particules de 100 $Mev$ est arrête par une feuille de papier. 
 
 #### Beta$^-$ 
 ?
