@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Energie Discrete et radioactivite.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,13 +299,13 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "Subvention.md",
-    "sl subjects/Economie.md",
-    "Exercise economie.md",
-    "IB overview.md",
     "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
     "sl subjects/Physics.md",
+    "IB overview.md",
+    "sl subjects/Economie.md",
+    "Subvention.md",
+    "Exercise economie.md",
+    "Réactions nucléaires.md",
     "Energie Discrete et radioactivite.md",
     "EXO MATH.md",
     "hl subjects/Math AA.md",
