@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique nucléaire, atomique et des particules.md",
+                "file": "Exercise economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique nucléaire, atomique et des particules.md",
+                "file": "Exercise economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique nucléaire, atomique et des particules.md",
+                "file": "Exercise economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique nucléaire, atomique et des particules.md"
+                "file": "Exercise economie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physique nucléaire, atomique et des particules.md",
+                "file": "Exercise economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,11 +299,13 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "Réactions nucléaires.md",
+    "sl subjects/Economie.md",
+    "Exercise economie.md",
+    "IB overview.md",
     "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
     "sl subjects/Physics.md",
     "Energie Discrete et radioactivite.md",
-    "IB overview.md",
     "EXO MATH.md",
     "hl subjects/Math AA.md",
     "Réseaux.md",
@@ -315,7 +317,6 @@
     "Mathematics.md",
     "common core/TOK.md",
     "ressources communes.md",
-    "sl subjects/Economie.md",
     "Externalités.md",
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
@@ -328,7 +329,6 @@
     "background 2.md",
     "l'algorithme de régression linéaire.md",
     "REFERENCE.md",
-    "background 1.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
