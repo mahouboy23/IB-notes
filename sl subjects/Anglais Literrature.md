@@ -106,4 +106,4 @@ To raise awareness about the depression because he also suffered it
 
 ## Summary of House Boy 
 
-Toundi Ondoua, the rural african protagonist of Houseboy, encounters a world of prisms that cast beautiful but unobtainable glimmers, especially for black youth in colonial Cameroon. Houseboy, written in the form of Toundi's captivating
+Toundi Ondoua, the rural african protagonist of Houseboy, encounters a world of prisms that cast beautiful but unobtainable glimmers, especially for black youth in colonial Cameroon. Houseboy, written in the form of Toundi's captivating diary and translated from the original French, discloses his awe of the white world and a web of unpredictable experiences. Early on, he escapes his father's angry blows by seeking asylum with his benefactor father Gilbert, the local European priest. He asks the amused by seeking asylum with his benefactor
