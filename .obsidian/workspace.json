@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,14 +299,16 @@
   },
   "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "Key features of stories.md",
+    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "sl subjects/Economie.md",
     "Subvention.md",
     "Exercise economie.md",
     "Réactions nucléaires.md",
-    "Energie Discrete et radioactivite.md",
     "EXO MATH.md",
     "hl subjects/Math AA.md",
     "Réseaux.md",
@@ -321,14 +323,12 @@
     "Externalités.md",
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
-    "sl subjects/Anglais Literrature.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "Introduction draft.md",
     "common core/EE.md",
     "background 2.md",
-    "l'algorithme de régression linéaire.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",

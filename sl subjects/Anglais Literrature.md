@@ -103,3 +103,5 @@ The theme is the oppression of women in the 19th centurie
 
 -what is the authors purpose in writing this text
 To raise awareness about the depression because he also suffered it
+
+## Summary of House Boy 
