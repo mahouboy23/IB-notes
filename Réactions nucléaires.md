@@ -54,4 +54,4 @@ La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une éner
 
 ## 3. Fission et fusion nucléaire
 
-**Fusion **
+**Fusion thermonucléaire**: La fusion s'effectue a des tres fortes
