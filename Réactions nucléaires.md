@@ -55,3 +55,6 @@ La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une éner
 ## 3. Fission et fusion nucléaire
 
 **Fusion thermonucléaire**: La fusion s'effectue a des tres fortes temperature car il est difficile de rapprocher 2 noyaux positifs (force de repulsion)
+
+**NB**: 
+$$\large{\Delta E=\sum_{}^{}{E_{l}} \hspace1mm _{(produits)}-\sum_{}^{}{E_{l}} \hspace1mm _{(reactifs)}}$$
