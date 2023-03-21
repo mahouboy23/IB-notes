@@ -52,5 +52,6 @@ La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une éner
 ![[image-20230314094627178.png]]
 
 
+## 3. Fission et fusion nucléaire
 
-
+**Fusion **
