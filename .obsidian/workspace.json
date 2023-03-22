@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,19 +299,26 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "sl subjects/Economie.md",
+    "Contrôles des prix planchers.md",
+    "Prix maximum.md",
+    "Externalités.md",
+    "Externalité positive.md",
+    "Prestation gouvernementale directe.md",
+    "Subventionner les entreprises.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Protocoles et paquets de données.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
     "Energie Discrete et radioactivite.md",
-    "sl subjects/Anglais Literrature.md",
     "Key features of stories.md",
-    "sl subjects/Economie.md",
     "Subvention.md",
     "Exercise economie.md",
-    "Réactions nucléaires.md",
     "EXO MATH.md",
     "hl subjects/Math AA.md",
     "Architecture des ordinateurs.md",
@@ -320,15 +327,8 @@
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "Mathematics.md",
     "common core/TOK.md",
-    "ressources communes.md",
-    "Externalités.md",
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
-    "Attributs du profil de l'apprenant.md",
-    "common core/CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "Introduction draft.md",
-    "common core/EE.md",
     "assets/Réactions nucléaires/image-20230309091728899.png",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
