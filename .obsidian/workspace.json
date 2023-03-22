@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,15 +299,17 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "IB overview.md",
+    "hl subjects/Math AA.md",
+    "hl subjects/Francais B.md",
     "sl subjects/Economie.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix planchers.md",
     "Prix maximum.md",
     "Externalités.md",
     "Externalité positive.md",
     "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
-    "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -320,13 +322,11 @@
     "Subvention.md",
     "Exercise economie.md",
     "EXO MATH.md",
-    "hl subjects/Math AA.md",
     "Architecture des ordinateurs.md",
     "Excalidraw/Drawing 2023-03-15 13.44.08.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "Mathematics.md",
-    "common core/TOK.md",
     "assets/Réactions nucléaires/image-20230314094627178.png",
     "assets/Réactions nucléaires/image-20230314094511255.png",
     "assets/Réactions nucléaires/image-20230309091728899.png",
