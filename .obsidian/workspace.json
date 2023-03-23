@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "Energie Discrete et radioactivite.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +300,7 @@
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
     "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "common core/TOK.md",
@@ -314,7 +315,6 @@
     "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
     "sl subjects/Anglais Literrature.md",
-    "Réactions nucléaires.md",
     "Protocoles et paquets de données.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
