@@ -65,9 +65,11 @@
             "id": "b303464454c9cf2d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md"
+                "file": "sl subjects/Economie.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -247,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,18 +299,21 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "sl subjects/assets/Economie/image-20230324082130545.png",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "Microéconomie.md",
+    "IB overview.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
+    "Untitled 2.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33.excalidraw.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "common core/TOK.md",
     "hl subjects/Math AA.md",
     "hl subjects/Francais B.md",
-    "sl subjects/Economie.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix planchers.md",
     "Prix maximum.md",
@@ -320,9 +325,6 @@
     "Protocoles et paquets de données.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
-    "Key features of stories.md",
-    "Subvention.md",
-    "Exercise economie.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires/image-20230314094627178.png",
