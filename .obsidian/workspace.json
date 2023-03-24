@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Basic Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Basic Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Basic Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Basic Macroéconomie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Basic Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,9 +299,10 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
     "sl subjects/assets/Economie/image-20230324082130545.png",
-    "Macroéconomie.md",
     "Microéconomie.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
