@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Macroéconomie.md"
+                "file": "Flux circulaire de revenus.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basic Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,11 +299,14 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "assets/Flux circulaire de revenus/Pasted image 20230324092736.png",
+    "assets/Flux circulaire de revenus",
+    "Macroéconomie.md",
+    "Flux circulaire de revenus.md",
+    "Basic Macroéconomie.md",
     "assets/Basic Macroéconomie/image-20230324083243243.png",
     "assets/Basic Macroéconomie/image-20230324083038690.png",
     "assets/Basic Macroéconomie",
-    "Macroéconomie.md",
-    "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
     "sl subjects/assets/Economie/image-20230324082130545.png",
     "Microéconomie.md",
@@ -327,7 +330,6 @@
     "Subventionner les entreprises.md",
     "sl subjects/Anglais Literrature.md",
     "Protocoles et paquets de données.md",
-    "Réseaux.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires/image-20230314094627178.png",
@@ -338,7 +340,6 @@
     "assets/Caractéristiques des différents supports de transmission",
     "assets/Compression des données dans un réseau/image-20230308155757960.png",
     "assets/Compression des données dans un réseau/image-20230308155152702.png",
-    "assets/Compression des données dans un réseau/image-20230308154735935.png",
     "assets/Compression des données dans un réseau",
     "assets/Vitesse de transmission des données sur un reseau",
     "assets/Protocoles et paquets de données"
