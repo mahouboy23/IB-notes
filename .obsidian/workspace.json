@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flux circulaire de revenus.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,15 +299,15 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "Basic Macroéconomie.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "Flux circulaire de revenus.md",
     "assets/Flux circulaire de revenus/Pasted image 20230324092736.png",
     "assets/Flux circulaire de revenus",
-    "Macroéconomie.md",
-    "Flux circulaire de revenus.md",
-    "Basic Macroéconomie.md",
     "assets/Basic Macroéconomie/image-20230324083243243.png",
     "assets/Basic Macroéconomie/image-20230324083038690.png",
     "assets/Basic Macroéconomie",
-    "sl subjects/Economie.md",
     "sl subjects/assets/Economie/image-20230324082130545.png",
     "Microéconomie.md",
     "IB overview.md",
@@ -339,7 +339,6 @@
     "assets/Caractéristiques des différents supports de transmission/image-20230308155953937.png",
     "assets/Caractéristiques des différents supports de transmission",
     "assets/Compression des données dans un réseau/image-20230308155757960.png",
-    "assets/Compression des données dans un réseau/image-20230308155152702.png",
     "assets/Compression des données dans un réseau",
     "assets/Vitesse de transmission des données sur un reseau",
     "assets/Protocoles et paquets de données"
