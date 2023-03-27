@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Lear Correction.md",
+                "file": "Le Cid.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "King Lear Correction.md",
+                "file": "Le Cid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "King Lear Correction.md",
+                "file": "Le Cid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "King Lear Correction.md"
+                "file": "Le Cid.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "King Lear Correction.md",
+                "file": "Le Cid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,9 +299,11 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
-    "King Lear Correction.md",
+    "hl subjects/Francais B.md",
+    "Le Cid.md",
     "IB overview.md",
+    "King Lear Correction.md",
+    "sl subjects/Anglais Literrature.md",
     "sl subjects/Physics.md",
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
@@ -322,7 +324,6 @@
     "Réactions nucléaires.md",
     "common core/TOK.md",
     "hl subjects/Math AA.md",
-    "hl subjects/Francais B.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix planchers.md",
     "Prix maximum.md",
@@ -330,7 +331,6 @@
     "Externalité positive.md",
     "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
-    "Protocoles et paquets de données.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires/image-20230314094627178.png",

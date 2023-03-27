@@ -33,3 +33,7 @@ Created: 2022-10-14
 4. Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ? 
 
 [[Exo francais]] 
+
+### Oeuvre litteraire:
+1. [[Mademba]]
+2. [[Le Cid]] 
