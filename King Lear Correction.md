@@ -67,3 +67,6 @@ Between King Lear and Houseboy, we notice the complexities and multi-dimensional
 The narrative style of King Lear is that of a play that is composed of dialogue and action. The language is poetic and elevated with a complex structure and multiple layers of meaning. The narrative style of Houseboy is that of a novel which is composed of prose and description. The language is simpler and more straightforward.
 
 #### The author's
+William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. Is considered one of the greatest writer in the English language and is known for his profound incite into Human. His mastery of English and his ability to create complex character and intricate plot. Ferdinand Oyono the author of Houseboy was Cameroon writer and politician who lived during the 20th century. He was a member of the Francophone African literature movement who aimed to promote the cultural and political identity of African people. Oyono's writing often addressed issues of colonialism and oppression and he known for his use of satire and irony to criticize the system of power that existed in Africa at that time
+
+#### Figure of devices
