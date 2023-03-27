@@ -44,3 +44,8 @@ Created: 2023-01-16
 9. Ironically, the Gentleman tells the disguised Kent that Edgar and Kent are rumored to be residing in Germany.
 
 10. Edmund has taken Cornwall’s place after his death.
+
+
+King Lear a play by William Shakespeare and Houseboy a novel by Ferdinand Oyono are two literary works that differ in many ways, but shares some similarities in there themes, characters and setting.
+#### Differences
+King Lear is a play that was written and set in England where as Houseboy is novel that was written in the 20th centurie and is set in Cameroon. King Lear is tragedy about an aging who divides he's kingdom between his three daughters and suffers the consequences of his discision. Houseboy on the other hand is a coming of age story about a young boy named Toundi who works as Houseboy for a French colonial administrator in Cameroon. An other difference between the two works is there point of view. King Lear is written in third person omniscient which means that the reader is able to see into the thoughts and feelings of all the characters. Houseboy is written in first person point of view which means that the reader is only able to see things from the perspective of the narrator Toundi
