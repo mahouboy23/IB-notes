@@ -32,3 +32,16 @@ Acte 5 : Rodrigo se prépare à mourir, mais le roi intervient et finit par pard
 En résumé, "Le Cid" est une pièce de théâtre en cinq actes qui explore les thèmes de l'amour, de l'honneur, de la loyauté et de la justice. Elle raconte l'histoire de Rodrigo et Chimène, deux jeunes nobles espagnols dont l'amour est mis à l'épreuve par la mort des pères de chacun d'entre eux. La pièce culmine avec le pardon accordé à Rodrigo et la réconciliation entre les deux amants.
 
 ### **Style d'ecriture :**
+ Pierre Corneille a utilisé un style d'écriture sophistiqué et élaboré dans sa pièce "Le Cid". Voici quelques-uns des procédés et des figures de style qu'il a utilisés, avec leur rôle dans la pièce :
+
+1.  Alexandrins : Les vers utilisés dans la pièce sont des alexandrins, c'est-à-dire des vers de douze syllabes. Cette forme de versification est une caractéristique du théâtre classique français et donne à la pièce un rythme régulier et une structure formelle.
+    
+2.  Antithèse : Corneille utilise souvent des antithèses, qui sont des oppositions de termes ou de concepts. Par exemple, dans la réplique de Chimène "Je suis fille de sang, je suis fille de flamme", la juxtaposition de ces deux images crée une tension dramatique et souligne l'intensité des émotions de Chimène.
+    
+3.  Métaphore : Corneille utilise également des métaphores pour créer des images poétiques et des associations d'idées. Par exemple, lorsque Don Diègue dit à Rodrigo "Ton bras est invincible, et ta droite est fatale", il associe la force de Rodrigo à la mort et crée une atmosphère de danger.
+    
+4.  Anaphore : L'anaphore est une figure de style qui consiste en la répétition d'un mot ou d'une expression au début de plusieurs phrases. Corneille utilise l'anaphore pour insister sur un point ou pour créer un effet de rythme. Par exemple, lorsque Chimène dit "Rodrigue, as-tu du cœur ?" plusieurs fois de suite, elle souligne l'importance de la question et crée une tension dramatique.
+    
+5.  Prolepse : La prolepse est une figure de style qui consiste en l'utilisation d'un temps verbal pour indiquer un événement futur. Corneille utilise la prolepse pour créer de l'ironie ou pour souligner l'importance d'un événement. Par exemple, lorsque Don Diègue dit "Je l'ai fait, et bien fait", il utilise la prolepse pour indiquer que la conséquence de son acte sera positive, même si cela n'est pas encore clair pour le public.
+
+En résumé, Pierre Corneille a utilisé un style sophistiqué et élaboré dans sa pièce "Le Cid", avec des procédés et des figures de style tels que l'alexandrin, l'antithèse, la métaphore, l'anaphore et la prolepse. Ces éléments ont permis de créer une atmosphère poétique, dramatique et rythmée dans la pièce.
