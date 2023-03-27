@@ -13,3 +13,5 @@ Corneille était un auteur classique, qui croyait que la tragédie devait être 
 Dans ses pièces, Corneille a souvent exploré des thèmes tels que l'amour, l'honneur, la loyauté et la justice. Il a également été influencé par les idées religieuses de son époque, en particulier le jansénisme, une doctrine catholique qui mettait l'accent sur la grâce divine et la prédestination.
 
 En résumé, Pierre Corneille était un dramaturge classique français du XVIIe siècle, connu pour ses pièces tragiques et sa croyance en la "vraisemblance" et en l'exploration des conflits intérieurs des personnages. Il a vécu pendant une période de grande effervescence culturelle en France et a été influencé par les idées religieuses de son époque.
+
+### **Oeuvre :**
