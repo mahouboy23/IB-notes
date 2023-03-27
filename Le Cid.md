@@ -15,3 +15,20 @@ Dans ses pièces, Corneille a souvent exploré des thèmes tels que l'amour, l'h
 En résumé, Pierre Corneille était un dramaturge classique français du XVIIe siècle, connu pour ses pièces tragiques et sa croyance en la "vraisemblance" et en l'exploration des conflits intérieurs des personnages. Il a vécu pendant une période de grande effervescence culturelle en France et a été influencé par les idées religieuses de son époque.
 
 ### **Oeuvre :**
+"Le Cid" est une pièce de théâtre en cinq actes écrite par Corneille et publiée en 1637. Elle raconte l'histoire de Rodrigo, un jeune noble espagnol qui tombe amoureux de Chimène, la fille d'un autre noble espagnol, Don Gomez. Le père de Chimène est tué par le père de Rodrigo, Don Diègue, lors d'un duel, et Chimène demande à Rodrigo de se venger pour l'honneur de sa famille.
+
+La pièce explore les thèmes de l'amour, de l'honneur, de la loyauté et de la justice, et est considérée comme l'une des plus grandes pièces de théâtre française de tous les temps.
+
+Acte 1 : La pièce s'ouvre sur une scène où Don Diègue, le père de Rodrigo, demande au roi de Castille de le nommer gouverneur de la ville de Calatrava. Le roi refuse et nomme plutôt Don Gomez, le père de Chimène, à la place. Don Diègue est furieux et demande à Rodrigo de venger son honneur.
+
+Acte 2 : Rodrigo avoue son amour à Chimène, mais elle est furieuse à l'idée qu'il ait tué son père. Elle demande à Rodrigo de se battre en duel avec le père de Don Gomez pour venger son honneur.
+
+Acte 3 : Rodrigo tue le père de Don Gomez dans un duel, mais il est ensuite banni de la ville pour avoir enfreint les lois sur la vengeance. Chimène est déchirée entre son amour pour Rodrigo et son désir de venger la mort de son père.
+
+Acte 4 : Le roi de Castille demande à Chimène de choisir entre son amour pour Rodrigo et son devoir envers sa famille. Elle choisit de demander la mort de Rodrigo pour venger son père.
+
+Acte 5 : Rodrigo se prépare à mourir, mais le roi intervient et finit par pardonner à Rodrigo et à lui permettre d'épouser Chimène.
+
+En résumé, "Le Cid" est une pièce de théâtre en cinq actes qui explore les thèmes de l'amour, de l'honneur, de la loyauté et de la justice. Elle raconte l'histoire de Rodrigo et Chimène, deux jeunes nobles espagnols dont l'amour est mis à l'épreuve par la mort des pères de chacun d'entre eux. La pièce culmine avec le pardon accordé à Rodrigo et la réconciliation entre les deux amants.
+
+### **Style d'ecriture :**
