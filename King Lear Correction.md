@@ -63,3 +63,4 @@ The cultural of King Lear is set in England, a time where the monarchy and King 
 #### characters
 Between King Lear and Houseboy, we notice the complexities and multi-dimensionality of their characters. Both works feature characters who are flawed and nuanced with their own motivations and desires. In King Lear for example Lear himself is a complex character who undergoes a transformation over the course of the play. Initially arrogant and self centered, he gradually comes to see the error of his ways and begins to the sympathise with his subjects where as in the Houseboy Toundis a character who is initially naïve an innocent but who comes to see the cruelty and injustice of the system under which he leaves.
 
+#### tHE NARRATIVE STYLE
