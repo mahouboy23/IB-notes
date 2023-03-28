@@ -31,5 +31,9 @@ $$\vec{v}=\lim _{\Delta{t} \to 0} \hspace2mm \frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}
 C'est la variation de la vitesse au cour du temps
 - acceleration moyenne a.
 $$\vec{a}=\frac{\Delta{\vec{v}}}{\Delta{t}}$$
-- acceleration instantannee
+- acceleration instantanée
 $$\vec{a}=\frac{d\vec{v}}{dt}$$
+### 2/ **Les equations de la cinématique a une dimension equation SUVAT**
+
+#### uTILISATION DES AIRES
+*Diagramme v en fonction de t*
