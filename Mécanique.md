@@ -40,6 +40,6 @@ $$\vec{a}=\frac{d\vec{v}}{dt}$$
 
 ![[image-20230328092624940.png]]
 
-
-
 Aire entre la courbe representant r en fonction du temps et l'axe des temps est égale au déplacement  $\Delta{x}$ 
+déplacement : $\Delta{X}=A_{1}+A_{2}$
+distance parcourue : $d= \lvert A_{1} \rvert + \lvert A_{2} \rvert$  
