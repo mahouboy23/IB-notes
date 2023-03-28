@@ -24,4 +24,4 @@ $$\vec{V}_{1\rightarrow 2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}$$
 ##### C) VITESSE INSTANTANNEE 
 ?
 C'est le vecteur vitesse moyenne pour 2 positions très proches.
-$$\vec{v}=\lim{}$$
+$$\vec{v}=\lim _{\Delta{t} \to 0} \hspace2mm \frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}} = d\frac{O\vec{M}}{dt} $$ pente de la tangente a la trajectoire a la date donnée
