@@ -11,7 +11,7 @@ Created: 2023-03-28
 Souvent la longueur du déplacement est différente de la distance parcourue
 ![[Pasted image 20230328083239.png]]
 
-**Trajectoire** :: est l'ensemble des position prise par l'object ou par le mobile au cour du temps
+**Trajectoire** :: est l'ensemble des position prise par l'objet ou par le mobile au cour du temps
 
 #### VITESSE 
 ##### A) VITESSE SCALAORE MOYENNE
