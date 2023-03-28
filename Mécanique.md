@@ -37,3 +37,5 @@ $$\vec{a}=\frac{d\vec{v}}{dt}$$
 
 #### uTILISATION DES AIRES
 *Diagramme v en fonction de t*
+
+	Aire entre la courbe representant r en fonction du temps et l'axe des temps est egale au deplacement 
