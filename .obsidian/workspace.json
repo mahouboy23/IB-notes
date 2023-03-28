@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "Energie Discrete et radioactivite.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +302,11 @@
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Réactions nucléaires.md",
     "Le Cid.md",
     "hl subjects/Francais B.md",
     "King Lear Correction.md",
-    "sl subjects/Anglais Literrature.md",
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -321,7 +322,6 @@
     "Untitled 2.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33.excalidraw.md",
     "Energie Discrete et radioactivite.md",
-    "Réactions nucléaires.md",
     "common core/TOK.md",
     "hl subjects/Math AA.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",

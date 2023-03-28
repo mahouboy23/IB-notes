@@ -187,3 +187,6 @@ Application - datation au $^{14}C$
 
 
 The formula for area is useful in many different fields, including mathematics, geometry, physics, engineering, and construction. It allows us to determine the amount of surface or space that an object or shape occupies, which can be important for a wide range of practical applications.
+
+
+Les spectres de la valeur gamma sont discrete alors que le spectre de beta est continu c'est pour sa on a postuler l'existance de neutrino 
