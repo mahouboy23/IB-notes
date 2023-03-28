@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,11 +299,14 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "Mécanique.md",
+    "sl subjects/Physics.md",
+    "Eléctricité et magnétisme.md",
+    "Réseaux.md",
     "Physique nucléaire, atomique et des particules.md",
     "Energie Discrete et radioactivite.md",
-    "sl subjects/Physics.md",
     "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
     "Réactions nucléaires.md",
     "Le Cid.md",
     "hl subjects/Francais B.md",
@@ -328,9 +331,6 @@
     "Contrôles des prix planchers.md",
     "Prix maximum.md",
     "Externalités.md",
-    "Externalité positive.md",
-    "Prestation gouvernementale directe.md",
-    "Subventionner les entreprises.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires/image-20230314094627178.png",
