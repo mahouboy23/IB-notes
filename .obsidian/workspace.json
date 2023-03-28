@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie Discrete et radioactivite.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie Discrete et radioactivite.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +300,7 @@
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
     "Physique nucléaire, atomique et des particules.md",
+    "Energie Discrete et radioactivite.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
@@ -321,7 +322,6 @@
     "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
     "Untitled 2.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33.excalidraw.md",
-    "Energie Discrete et radioactivite.md",
     "common core/TOK.md",
     "hl subjects/Math AA.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
