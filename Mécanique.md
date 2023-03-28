@@ -51,3 +51,7 @@ distance parcourue : $d= \lvert A_{1} \rvert + \lvert A_{2} \rvert$
 *Diagramme a en fonction de t*
 ![[image-20230328094057566.png]]
 
+$A_{2}$ en $ms^{-2}*s=ms^{-1}$ 
+aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$ 
+
+#### Mouvement rectiline uniforme
