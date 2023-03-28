@@ -8,4 +8,4 @@ Created: 2023-03-28
 ### 1/ **Notion de cinématique**
 
 #### deplacement et distance parcourue 
-Un deplacement
+Souvent la longueur du déplacement est différente de la distance parcourue
