@@ -1,50 +1,7 @@
 ---
 tags : mod englais
 ---
-Created: 2023-01-16
-
-**Study Questions**  
-1. Why does Kent prefer not to reveal his true identity to anyone except Cordelia?
-
-2. In what way has the King’s attire been changed?
-
-3. Why is the King able to sleep so well?
-
-4. How long has it been since Cordelia has seen her father?
-
-5. When Lear awakens, where does he think he has been?
-
-6. Is Lear angry at Cordelia in this scene?
-
-7. How does Cordelia feel when her father finally recognizes her as his daughter?
-
-8. Why does the doctor want Cordelia and the others to leave the King alone after they have spoken with him for a while?
-
-9. What news does the Gentleman tell the disguised Kent about Edgar and Kent?
-
-10. Who has taken the former Duke of Cornwall’s place as the leader of the people?
-
-**Answers**  
-1. Kent is not ready to reveal his identity because at this point in the play his purpose for the disguise has not been completely fulfilled.
- 
-2. The King’s clothes have been changed from the ragged attire that he wore in the storm to “fresh garments.”
-
-3. The King has been given a drug to help him sleep.
-
-4. Cordelia has not seen her father since she was banished in the first scene of the play.
-
-5. Lear thinks he has been taken him out of the grave.
-
-6. Lear is not angry at Cordelia but tells her she has cause to hate him.
-
-7. Cordelia is overjoyed when her father identifies her as his daughter.
-
-8. The doctor does not want to risk the overexertion of the King.
-
-9. Ironically, the Gentleman tells the disguised Kent that Edgar and Kent are rumored to be residing in Germany.
-
-10. Edmund has taken Cornwall’s place after his death.
-
+Created: 2023-03-28
 
 
 King Lear a play by William Shakespeare and Houseboy a novel by Ferdinand Oyono are two literary works that differ in many ways, but shares some similarities in there themes, characters and setting.
@@ -70,5 +27,5 @@ The narrative style of King Lear is that of a play that is composed of dialogue 
 #### The author's
 William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. Is considered one of the greatest writer in the English language and is known for his profound incite into Human. His mastery of English and his ability to create complex character and intricate plot. Ferdinand Oyono the author of Houseboy was Cameroon writer and politician who lived during the 20th century. He was a member of the Francophone African literature movement who aimed to promote the cultural and political identity of African people. Oyono's writing often addressed issues of colonialism and oppression and he known for his use of satire and irony to criticize the system of power that existed in Africa at that time
 
-#### Figure of devices
+#### Figurative of devices
 Both King Lear and Houseboy make use of figurative devices to convey there themes and messages. In King Lear Shakespeare make us of metaphors, similis and other figure if speech to explore the complexity of human relationship and emotion. For example Lear compares himself to a storm when he says "I will do such things, what there yet I know not, but they shall be the terrors of the earth" (act 2, scene 4) this metaphor emphasizes the chaotic nature of Lear's emotions and his sense of powerlessness in the phase of his own rage and despair. In Houseboy Ferdinand Oyono uses figurative language to criticizes the systems that exist in Cameroon. For example he uses the white man chair to describe the position of power that colonizers held. Toundi's the narrator says " The white man chair was not made for a black man bottom " (Chapter 1). This metaphor showcases the sense of alienation and discomfort that Toundi feels in the presence of the colonizers as well as the power dynamic that exist between them.   
