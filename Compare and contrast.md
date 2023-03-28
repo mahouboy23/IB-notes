@@ -39,5 +39,3 @@ So one of the key similarities between King Lear and Houseboy is there explorati
 #### in conclusion
 In conclusion while there may be many differences King Lear and Houseboy there also several key similarities between the two literary works. Both explore themes related to power, authority and betrayal. feature complex and multi-dimensional characters and asset an environment marked by social and political upheaval. By examining this similarities we can gain deeper understanding of the ways in which literature can provide insights to into the human experience.
 
-Can you compare and contrast the treatment of Toundi by the french colonizers and by his fellow Africans. How do different characters view Toundi's role as a servant,
-differences, similarities, point of view, the culture context, characters, The narrative style, symbols, themes and conclusion.
