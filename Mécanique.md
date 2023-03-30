@@ -58,7 +58,9 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 #### Mouvement rectiline uniforme
 
-![[image-20230330154628706.png]]
+![[image-20230330154850103.png]]
+
+![[image-20230330154853038.png]]
 
 
 
