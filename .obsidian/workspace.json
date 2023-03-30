@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compare and contrast.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compare and contrast.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compare and contrast.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compare and contrast.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compare and contrast.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,10 +299,14 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
-    "Compare and contrast.md",
-    "King Lear Correction.md",
+    "assets/Mécanique/image-20230330154628706.png",
+    "sl subjects/Physics.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
     "IB overview.md",
+    "Compare and contrast.md",
+    "sl subjects/Anglais Literrature.md",
+    "King Lear Correction.md",
     "Mécanique.md",
     "assets/Mécanique/image-20230328094704451.png",
     "assets/Mécanique/image-20230328094057566.png",
@@ -310,12 +314,9 @@
     "assets/Mécanique/image-20230328092624940.png",
     "assets/Mécanique/Pasted image 20230328083239.png",
     "assets/Mécanique",
-    "sl subjects/Physics.md",
     "Eléctricité et magnétisme.md",
     "Réseaux.md",
-    "Physique nucléaire, atomique et des particules.md",
     "Energie Discrete et radioactivite.md",
-    "Réactions nucléaires.md",
     "Le Cid.md",
     "hl subjects/Francais B.md",
     "Macroéconomie.md",
@@ -336,7 +337,6 @@
     "hl subjects/Math AA.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix planchers.md",
-    "Prix maximum.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw/Pasted Image 20230315135437_182.png",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires",
