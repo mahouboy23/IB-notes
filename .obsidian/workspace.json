@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "Raisonnement procédural.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "Raisonnement procédural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "Raisonnement procédural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La notion de problème.md"
+                "file": "Raisonnement procédural.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "Raisonnement procédural.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,10 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "assets/Raisonnement procédural/image-20230331102913016.png",
+    "assets/Raisonnement procédural",
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement procédural.md",
     "La notion de problème.md",
     "hl subjects/Computer science.md",
     "Réseaux.md",
@@ -336,8 +339,6 @@
     "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
     "Untitled 2.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33.excalidraw.md",
-    "common core/TOK.md",
-    "hl subjects/Math AA.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission",
