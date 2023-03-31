@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,10 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
+    "Réseaux.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "sl subjects/Physics.md",
     "Mécanique.md",
     "assets/Mécanique/image-20230330170146114.png",
     "assets/Mécanique/image-20230330162734824.png",
@@ -307,7 +310,6 @@
     "assets/Mécanique/image-20230330154853038.png",
     "assets/Mécanique/image-20230330154850103.png",
     "assets/Mécanique/image-20230330154628706.png",
-    "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Compare and contrast.md",
@@ -319,7 +321,6 @@
     "assets/Mécanique/image-20230328092624940.png",
     "assets/Mécanique",
     "Eléctricité et magnétisme.md",
-    "Réseaux.md",
     "Energie Discrete et radioactivite.md",
     "Le Cid.md",
     "hl subjects/Francais B.md",
