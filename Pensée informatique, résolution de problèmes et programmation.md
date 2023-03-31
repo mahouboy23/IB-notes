@@ -10,3 +10,5 @@ Created: 2023-03-31
 ## La pensée computationnelle
 
 1. [[Raisonnement procédural]] 
+2. [[]]
+3. [[]]
