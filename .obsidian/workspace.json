@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement procédural.md"
+                "file": "Pensée logique.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,10 +300,11 @@
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Pensée logique.md",
+    "Raisonnement procédural.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-03-31 10.30.49.excalidraw.md",
-    "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230331102913016.png",
     "assets/Raisonnement procédural",
     "La notion de problème.md",
@@ -338,7 +339,6 @@
     "Microéconomie.md",
     "Excalidraw/Drawing 2023-03-23 08.44.33_0.excalidraw.md",
     "Untitled 2.md",
-    "Excalidraw/Drawing 2023-03-23 08.44.33.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
     "assets/Réactions nucléaires",
     "assets/Caractéristiques des différents supports de transmission",
