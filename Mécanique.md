@@ -63,9 +63,4 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 ![[image-20230330170146114.png]]
 
 
-
-
-
-
-
 ![[image-20230328092624940.png]]

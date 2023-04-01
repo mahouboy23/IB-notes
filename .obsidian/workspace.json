@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée logique.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,17 +299,17 @@
   },
   "active": "b303464454c9cf2d",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Pensée logique.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement procédural.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-03-31 10.30.49.excalidraw.md",
     "assets/Raisonnement procédural/image-20230331102913016.png",
     "assets/Raisonnement procédural",
     "La notion de problème.md",
     "Réseaux.md",
-    "sl subjects/Physics.md",
     "Mécanique.md",
     "assets/Mécanique/image-20230330170146114.png",
     "assets/Mécanique/image-20230330162734824.png",
