@@ -28,4 +28,4 @@ As for a non-literary image that portrays this question, an image of a person st
 
 ## Culture, Identity and community: Racial segregation in hostile environment
 
-### **Thesis**: 
+### **Thesis**: Highlight the treatment of Toundi by the french colonizers
