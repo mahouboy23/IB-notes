@@ -25,3 +25,6 @@ As for a non-literary image that portrays this question, an image of a person st
 
 
 ![[New Project.png]]
+
+## Culture, Identy and community: Racial segregaton in hostile environment
+
