@@ -6,6 +6,7 @@ Created: 2023-04-03
 ## **question : compare and contrast the treatment of Toundi by the french colonizers and by his fellow Africans. How do different characters view Toundi's role as a servant, and how does this impact Touni's own sense of identity and belonging? Find an extract related to the question and find an image that is non-literary portraying to the question**
 
 
+
 The novel "Houseboy" by Cameroonian author Ferdinand Oyono explores the treatment of Toundi, a young African boy, by both French colonizers and his fellow Africans. Toundi is taken in as a servant by a French colonial administrator and soon becomes aware of the injustices and brutality of the French colonial system. At the same time, he is viewed as a traitor by some of his fellow Africans who see him as aligning himself with the oppressors. This dichotomy ultimately impacts Toundi's own sense of identity and belonging.
 
 The French colonizers treat Toundi as a servant, but also as a means to further their own interests. Toundi is initially eager to please his French masters and seeks to assimilate into their culture, but he soon realizes that they view him as inferior and expendable. Toundi is subjected to physical and emotional abuse by the French, and he witnesses firsthand the violent exploitation of his fellow Africans. Despite this mistreatment, Toundi is initially reluctant to challenge his French masters, as he feels indebted to them for providing him with food and shelter.
