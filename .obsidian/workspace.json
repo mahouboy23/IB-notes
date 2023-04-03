@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "eng work 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "eng work 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "eng work 1.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "eng work 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +273,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.6587996510868768,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -297,10 +297,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
-    "eng work 1.md",
+    "Compare and contrast.md",
     "hl subjects/Français B.md",
+    "eng work 1.md",
     "sl subjects/Anglais Literrature.md",
     "Exo français.md",
     "Le Cid.md",
@@ -308,7 +309,6 @@
     "IB overview.md",
     "Réseaux.md",
     "la résistance électrique.md",
-    "Compare and contrast.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
     "Mécanique.md",

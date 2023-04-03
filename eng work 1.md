@@ -45,3 +45,4 @@ I soon learned that this was how all the white people in the town saw me - as a 
 But it wasn't just the way they treated me that was so degrading - it was the way they treated all the people of my village. They looked down on us as savages, as if we were barely human. They forced us to work long hours in their plantations, paying us next to nothing and treating us like animals.
 I knew then that I had to escape from this life of servitude and degradation. I had to find a way to stand up to the colonizers and fight for my people's freedom."
 
+
