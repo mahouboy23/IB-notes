@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eng work 1.md"
+                "file": "test fr.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,13 +297,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcd171e3d51f18b8",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "eng work 1.md",
     "test fr.md",
     "Extended Essay.canvas",
     "la résistance électrique.md",
     "Compare and contrast.md",
-    "eng work 1.md",
     "hl subjects/Français B.md",
     "sl subjects/Anglais Literrature.md",
     "Exo français.md",
