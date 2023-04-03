@@ -4,7 +4,7 @@ tags : ib
 
 ## HL subjects
  - [[Math AA]] ➕
- - [[Francais B]] 📚
+ - [[Français B]] 📚
  - [[Computer science]] 💻
 
 ## SL subjects

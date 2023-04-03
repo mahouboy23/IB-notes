@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "hl subjects/Français B.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,14 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "eng work 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "eng work 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "eng work 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Francais B.md"
+                "file": "eng work 1.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Francais B.md",
+                "file": "eng work 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,15 +297,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "fcd171e3d51f18b8",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "hl subjects/Français B.md",
+    "Exo français.md",
     "Le Cid.md",
-    "hl subjects/Francais B.md",
     "Mademba.md",
     "IB overview.md",
     "Réseaux.md",
     "la résistance électrique.md",
-    "sl subjects/Anglais Literrature.md",
     "Compare and contrast.md",
     "eng work 1.md",
     "assets/eng work 1/New Project.png",
@@ -337,7 +338,6 @@
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
-    "Flux circulaire de revenus.md",
     "assets/Flux circulaire de revenus",
     "assets/Basic Macroéconomie",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",

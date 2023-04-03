@@ -32,8 +32,11 @@ Created: 2022-10-14
 3. Quel role joue la langue dans la société ?
 4. Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ? 
 
-[[Exo francais]] 
+[[Exo français]] 
 
-### Oeuvre litteraire:
+### Oeuvre littéraire:
 1. [[Mademba]]
 2. [[Le Cid]] 
+
+Sujet 2 : Composez pour l’internet la page d’accueil de votre association de lutte contre le
+racisme.
