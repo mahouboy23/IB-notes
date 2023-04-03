@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux.md",
+                "file": "hl subjects/Francais B.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eng work 1.md",
+                "file": "Compare and contrast.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eng work 1.md",
+                "file": "hl subjects/Francais B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eng work 1.md",
+                "file": "hl subjects/Francais B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eng work 1.md"
+                "file": "hl subjects/Francais B.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eng work 1.md",
+                "file": "hl subjects/Francais B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,13 +297,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b303464454c9cf2d",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Réseaux.md",
+    "la résistance électrique.md",
+    "sl subjects/Anglais Literrature.md",
+    "Compare and contrast.md",
+    "eng work 1.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
-    "sl subjects/Anglais Literrature.md",
-    "eng work 1.md",
-    "IB overview.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
     "Pensée logique.md",
@@ -314,7 +317,6 @@
     "assets/Raisonnement procédural/image-20230331102913016.png",
     "assets/Raisonnement procédural",
     "La notion de problème.md",
-    "Réseaux.md",
     "assets/Mécanique/image-20230330170146114.png",
     "assets/Mécanique/image-20230330162734824.png",
     "assets/Mécanique/image-20230330155327145.png",
@@ -323,11 +325,9 @@
     "assets/Mécanique/image-20230330154628706.png",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
-    "Compare and contrast.md",
     "King Lear Correction.md",
     "assets/Mécanique/image-20230328094704451.png",
     "assets/Mécanique/image-20230328094057566.png",
-    "assets/Mécanique/image-20230328093633362.png",
     "assets/Mécanique",
     "Eléctricité et magnétisme.md",
     "Energie Discrete et radioactivite.md",
