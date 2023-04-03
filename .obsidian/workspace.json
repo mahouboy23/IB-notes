@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "test fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eng work 1.md"
+                "file": "test fr.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eng work 1.md",
+                "file": "test fr.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,18 +297,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcd171e3d51f18b8",
+  "active": "5a6891834683e75e",
   "lastOpenFiles": [
-    "Compare and contrast.md",
     "hl subjects/Français B.md",
+    "test fr.md",
     "eng work 1.md",
+    "Compare and contrast.md",
+    "la résistance électrique.md",
     "sl subjects/Anglais Literrature.md",
     "Exo français.md",
     "Le Cid.md",
     "Mademba.md",
     "IB overview.md",
     "Réseaux.md",
-    "la résistance électrique.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
     "Mécanique.md",
@@ -337,7 +338,6 @@
     "Energie Discrete et radioactivite.md",
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
-    "sl subjects/Economie.md",
     "assets/Flux circulaire de revenus",
     "assets/Basic Macroéconomie",
     "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw",
