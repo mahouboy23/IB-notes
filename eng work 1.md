@@ -28,4 +28,6 @@ As for a non-literary image that portrays this question, an image of a person st
 
 ## Culture, Identity and community: Racial segregation in hostile environment
 
-### **Thesis**: Highlight the treatment of Toundi by the french colonizers
+### **Thesis**: Highlight the treatment of Toundi by the french colonizers, how does it impact his identity and belonging to his African community
+
+ Toundi is taken in as a servant by a French colonial administrator and soon becomes aware of the injustices and brutality of the French colonial system. The French colonizers treat Toundi as a servant, but also as a means to further their own interests. Toundi is initially eager to please his French masters and seeks to assimilate into their culture, but he soon realizes that they view him as inferior and expendable. Toundi is subjected to physical and emotional abuse by the French, and he witnesses firsthand the violent exploitation of his fellow Africans. Despite this mistreatment, Toundi is initially reluctant to challenge his French masters, as he feels indebted to them for providing him with food and shelter.
