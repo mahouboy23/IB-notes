@@ -26,14 +26,11 @@
             "id": "90f66308cc69cc52",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Extended Essay.canvas",
-                "viewState": {
-                  "x": 361.002048067584,
-                  "y": -440.97876798670245,
-                  "zoom": -1.3608088759057402
-                }
+                "file": "Mécanique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -43,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la résistance électrique.md",
+                "file": "hl subjects/Français B.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test fr.md",
+                "file": "Le Cid.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test fr.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test fr.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test fr.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -249,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test fr.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,26 +294,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6891834683e75e",
+  "active": "90f66308cc69cc52",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Extended Essay.canvas",
+    "Le Cid.md",
+    "hl subjects/Français B.md",
+    "Exo français.md",
+    "la résistance électrique.md",
+    "test fr.md",
     "eng work 1.md",
     "Compare and contrast.md",
     "assets/Compare and contrast/Pasted image 20230403095557.jpg",
     "assets/Compare and contrast",
-    "test fr.md",
-    "Extended Essay.canvas",
-    "la résistance électrique.md",
-    "hl subjects/Français B.md",
     "sl subjects/Anglais Literrature.md",
-    "Exo français.md",
-    "Le Cid.md",
     "Mademba.md",
-    "IB overview.md",
     "Réseaux.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
     "Mécanique.md",
-    "sl subjects/Physics.md",
     "Pensée logique.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement procédural.md",
