@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,8 +296,8 @@
   },
   "active": "90f66308cc69cc52",
   "lastOpenFiles": [
-    "TOK Exhibition.md",
     "common core/TOK.md",
+    "TOK Exhibition.md",
     "IB overview.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
