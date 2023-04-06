@@ -11,14 +11,11 @@
             "id": "4d12486bf3ef080c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
-                "viewState": {
-                  "x": -195.80791122166517,
-                  "y": -111.8353395518814,
-                  "zoom": -1.2222223917643236
-                }
+                "file": "Attributs du profil de l'apprenant.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Attributs du profil de l'apprenant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Attributs du profil de l'apprenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas"
+                "file": "Attributs du profil de l'apprenant.md"
               }
             }
           },
@@ -242,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eléctricite et magnétisme fiche revision.canvas",
+                "file": "Attributs du profil de l'apprenant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,10 +291,17 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "common core/CAS.md",
+    "7 objectifs d'apprentissage CAS.md",
+    "IB overview.md",
+    "système.md",
+    "materiel.md",
+    "humaine.md",
+    "La demande.md",
+    "Eléctricite et magnétisme fiche revision.canvas",
     "TOK Exhibition.md",
     "common core/TOK.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
     "hl subjects/Computer science.md",
     "Object.md",
     "PDF/Objects.pdf",
@@ -321,19 +326,14 @@
     "Pensée logique.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement procédural.md",
-    "Excalidraw/Drawing 2023-03-31 10.30.49.excalidraw.md",
     "assets/Raisonnement procédural/image-20230331102913016.png",
     "assets/Raisonnement procédural",
-    "La notion de problème.md",
     "assets/Mécanique/image-20230330170146114.png",
     "assets/Mécanique/image-20230330162734824.png",
     "assets/Mécanique/image-20230330155327145.png",
     "assets/Mécanique/image-20230330154853038.png",
     "assets/Mécanique/image-20230330154850103.png",
     "assets/Mécanique/image-20230330154628706.png",
-    "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
-    "King Lear Correction.md",
     "assets/Mécanique/image-20230328094704451.png",
     "assets/Mécanique",
     "assets/Flux circulaire de revenus",
