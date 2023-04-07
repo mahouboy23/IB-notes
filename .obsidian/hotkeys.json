@@ -87,5 +87,14 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-diagrams-net:app:diagrams-net-new-diagram": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
