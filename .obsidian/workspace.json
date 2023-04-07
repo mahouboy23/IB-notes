@@ -274,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 257
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,6 +292,9 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
+    "assets/Français B/Diagram.svg.xml",
+    "assets/Français B/Diagram.svg",
+    "assets/Français B",
     "Le Cid.md",
     "hl subjects/Français B.md",
     "Object.md",
@@ -324,7 +327,6 @@
     "assets/Compare and contrast/Pasted image 20230403095557.jpg",
     "assets/Compare and contrast",
     "sl subjects/Anglais Literrature.md",
-    "Mademba.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
     "assets/Raisonnement procédural/image-20230331102913016.png",
@@ -335,10 +337,8 @@
     "assets/Mécanique/image-20230330154853038.png",
     "assets/Mécanique/image-20230330154850103.png",
     "assets/Mécanique/image-20230330154628706.png",
-    "assets/Mécanique/image-20230328094704451.png",
     "assets/Mécanique",
     "assets/Flux circulaire de revenus",
-    "assets/Basic Macroéconomie",
-    "Excalidraw/assets/Drawing 2023-03-15 13.44.08.excalidraw"
+    "assets/Basic Macroéconomie"
   ]
 }
