@@ -13,3 +13,5 @@ The algorithm takes small steps in the opposite direction of the gradient to min
 Gradient Descent has many variations, including Stochastic Gradient Descent (SGD) and Mini-Batch Gradient Descent. In SGD, instead of computing the gradient of the entire dataset, the algorithm computes the gradient of a single data point. This approach reduces the computational cost and speeds up the convergence of the algorithm.
 
 Mini-Batch Gradient Descent is a compromise between Gradient Descent and SGD. In this approach, the algorithm computes the gradient on a small batch of data points instead of the entire dataset. This method reduces the variance of the parameter updates and can make use of hardware optimizations to further speed up the training process.
+
+French
