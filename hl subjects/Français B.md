@@ -41,3 +41,5 @@ Created: 2022-10-14
 Sujet 2 : Composez pour l’internet la page d’accueil de votre association de lutte contre le
 racisme.
 [[test fr]] 
+
+i only want one output of the validate credit card so make it so that it varifys two times once with the dash and once whithout it but gives one singuler output
