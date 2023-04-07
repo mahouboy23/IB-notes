@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology.md",
+                "file": "background 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology.md",
+                "file": "background 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology.md",
+                "file": "background 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology.md"
+                "file": "background 3.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Methodology.md",
+                "file": "background 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,9 @@
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
     "common core/EE.md",
+    "background 3.md",
     "Methodology.md",
+    "Introduction draft.md",
     "IB overview.md",
     "hl subjects/Français B.md",
     "Object.md",
@@ -324,8 +326,6 @@
     "Exo français.md",
     "la résistance électrique.md",
     "test fr.md",
-    "eng work 1.md",
-    "Compare and contrast.md",
     "assets/Compare and contrast/Pasted image 20230403095557.jpg",
     "assets/Compare and contrast",
     "assets/eng work 1/New Project.png",

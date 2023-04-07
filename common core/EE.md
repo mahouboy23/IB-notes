@@ -50,7 +50,7 @@ Introduce the problem and the topic
 -   Introduce Linear Regression and Logistic Regression as two commonly used algorithms for this task.
   [[background 2]] 
 -   Explain the key differences between these two algorithms and how they work.
-
+  [[background 3]] 
 3.  Methodology:
 [[Methodology]] 
 -   Describe the data set used in the study, including the size and characteristics of the data.
