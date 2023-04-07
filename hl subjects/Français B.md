@@ -42,4 +42,3 @@ Sujet 2 : Composez pour l’internet la page d’accueil de votre association d
 racisme.
 [[test fr]] 
 
-![[assets/Français B/Diagram.svg]]
