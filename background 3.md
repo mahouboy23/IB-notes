@@ -15,3 +15,13 @@ Gradient Descent has many variations, including Stochastic Gradient Descent (SGD
 Mini-Batch Gradient Descent is a compromise between Gradient Descent and SGD. In this approach, the algorithm computes the gradient on a small batch of data points instead of the entire dataset. This method reduces the variance of the parameter updates and can make use of hardware optimizations to further speed up the training process.
 
 French
+L'algorithme d'optimisation de la descente de gradient est un concept essentiel pour comprendre le fonctionnement des modèles d'apprentissage automatique. La descente de gradient est un algorithme d'optimisation largement utilisé pour minimiser le coût ou la fonction de perte d'un modèle. Cet algorithme est utilisé dans le processus de formation des modèles d'apprentissage automatique pour ajuster les paramètres du modèle afin d'obtenir des valeurs optimales.
+
+La descente de gradient fonctionne en calculant le gradient de la fonction de coût par rapport aux paramètres du modèle. Le gradient est le taux de variation de la fonction de coût par rapport aux paramètres. Ce calcul fournit des informations sur la direction dans laquelle les paramètres doivent être ajustés pour réduire le coût du modèle.
+
+L'algorithme fait de petits pas dans la direction opposée du gradient pour minimiser la fonction de coût. La taille du pas est déterminée par le taux d'apprentissage, qui est un hyperparamètre qui doit être ajusté pour obtenir des résultats optimaux. Si le taux d'apprentissage est trop faible, l'algorithme convergera lentement, tandis que s'il est trop élevé, il risque de dépasser le minimum de la fonction de coût et de ne pas converger.
+
+La descente de gradient a de nombreuses variantes, notamment la descente de gradient stochastique (SGD) et la descente de gradient par mini-lots. Dans le SGD, au lieu de calculer le gradient de l'ensemble des données, l'algorithme calcule le gradient d'un seul point de données. Cette approche réduit le coût de calcul et accélère la convergence de l'algorithme.
+
+La descente de gradient par mini-lots est un compromis entre la descente de gradient et le SGD. Dans cette approche, l'algorithme calcule le gradient sur un petit lot de points de données au lieu de l'ensemble des données. Cette méthode réduit la variance des mises à jour des paramètres et peut utiliser des optimisations matérielles pour accélérer davantage le processus d'apprentissage.
+
