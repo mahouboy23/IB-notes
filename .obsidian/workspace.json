@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Methodology.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Methodology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,11 @@
   },
   "active": "494a7c07b9fcf0c1",
   "lastOpenFiles": [
-    "Object.md",
+    "common core/EE.md",
+    "Methodology.md",
+    "IB overview.md",
     "hl subjects/Français B.md",
+    "Object.md",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B/Diagram.svg",
     "assets/Français B",
@@ -301,7 +304,6 @@
     "Flux circulaire de revenus.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
@@ -326,7 +328,6 @@
     "Compare and contrast.md",
     "assets/Compare and contrast/Pasted image 20230403095557.jpg",
     "assets/Compare and contrast",
-    "sl subjects/Anglais Literrature.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
     "assets/Raisonnement procédural/image-20230331102913016.png",

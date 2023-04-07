@@ -52,7 +52,7 @@ Introduce the problem and the topic
 -   Explain the key differences between these two algorithms and how they work.
 
 3.  Methodology:
-
+[[Methodology]] 
 -   Describe the data set used in the study, including the size and characteristics of the data.
 -   Explain how the data was preprocessed and split into training and testing sets.
 -   Describe the evaluation metrics used to measure the performance and precision of the algorithms.
