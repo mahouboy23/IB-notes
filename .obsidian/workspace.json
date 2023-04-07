@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Flux circulaire de revenus.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Flux circulaire de revenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Flux circulaire de revenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md"
+                "file": "Flux circulaire de revenus.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Flux circulaire de revenus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,9 +291,12 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
-    "IB overview.md",
     "système.md",
     "materiel.md",
     "humaine.md",
@@ -323,9 +326,6 @@
     "Réseaux.md",
     "assets/eng work 1/New Project.png",
     "assets/eng work 1",
-    "Pensée logique.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230331102913016.png",
     "assets/Raisonnement procédural",
     "assets/Mécanique/image-20230330170146114.png",
