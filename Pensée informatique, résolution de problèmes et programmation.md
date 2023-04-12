@@ -16,3 +16,4 @@ Created: 2023-03-31
 ## Raisonnement par abstraction
 
 1. [[Definition de L'abstraction]] 
+2. [[L'abstraction et la programmation]] 

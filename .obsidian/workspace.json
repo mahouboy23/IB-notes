@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition de L'abstraction.md",
+                "file": "L'abstraction et la programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition de L'abstraction.md",
+                "file": "L'abstraction et la programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition de L'abstraction.md",
+                "file": "L'abstraction et la programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition de L'abstraction.md"
+                "file": "L'abstraction et la programmation.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definition de L'abstraction.md",
+                "file": "L'abstraction et la programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,6 +268,7 @@
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "L'abstraction et la programmation.md",
     "Definition de L'abstraction.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -296,7 +297,6 @@
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Attributs du profil de l'apprenant.md",
-    "common core/CAS.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "PDF/Objects.pdf",
     "PDF",
