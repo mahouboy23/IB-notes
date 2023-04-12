@@ -9,3 +9,4 @@ page 376:
 3/ La punition
 4/ il a commis de graves violences.
 5/ c
+6/ j'ai pas vu le film
