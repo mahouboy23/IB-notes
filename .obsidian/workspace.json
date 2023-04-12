@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "Prompt and object.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt.md",
+                "file": "Prompt and object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt.md",
+                "file": "Prompt and object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt.md"
+                "file": "Prompt and object.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompt.md",
+                "file": "Prompt and object.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,11 +269,11 @@
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
     "TOK Exhibition.md",
-    "Prompt.md",
+    "Prompt and object.md",
+    "Object.md",
     "common core/TOK.md",
     "IB overview.md",
     "Mécanique.md",
-    "Object.md",
     "Recuille de donnees.md",
     "sl subjects/Physics.md",
     "Flux circulaire de revenus.md",

@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/Prompt",
+  "attachmentFolderPath": "./assets/Prompt and object",
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": [

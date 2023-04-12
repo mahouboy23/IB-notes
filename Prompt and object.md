@@ -5,7 +5,7 @@ Created: 2023-04-12
 
 The prompt "What are the implications of having, or not having, knowledge?". 
 
-Using this prompt, I would choose objects that relate to the idea of the implications of having or not having knowledge. For example, I would choose a book as an object that represents knowledge, a locked safe as an object that represents the lack of knowledge, and a map as an object that represents the acquisition of knowledge.
+Using this prompt, I would choose objects that relate to the idea of the implications of having or not having knowledge. For example, I would choose a book as an object that represents knowledge, a locked safe as an object that represents the lack of knowledge, and a map as an object that represents the acquisition of knowledge. we could discuss how the acquisition of knowledge can lead to personal growth and development, or how the lack of knowledge can lead to fear and uncertainty. 
 
 To answer the questions provided, I could explore the following:
 
@@ -33,4 +33,10 @@ To whom does it matter? (Who is involved?)
 -   The locked safe matters to anyone who values privacy, security, or the ability to control access to information.
 -   The map matters to anyone who is interested in geography, from students to explorers to government officials.
 
-Overall, I think this prompt would provide a rich and thought-provoking basis for my TOK exhibition.
+For my TOK exhibition, I have chosen three objects that I believe are relevant to the prompt "What are the implications of having, or not having, knowledge?"
+
+The first object I have chosen is a book. I believe that books represent knowledge, as they contain information and ideas that can broaden one's understanding of the world. Books can also be interpreted in different ways by different people, and this can lead to further knowledge being created. For example, a reader may come across a new idea or concept while reading a book and then research it further, which leads to the acquisition of new knowledge.
+
+The second object I have chosen is a locked safe. I believe that the locked safe represents the lack of knowledge, as the contents of the safe are unknown until it is opened. This can lead to feelings of uncertainty or even fear, as the unknown can be daunting. In the same way, when we lack knowledge on a certain topic, we may feel unsure or hesitant about making decisions or forming opinions.
+
+The third object I have chosen is a map. I believe that maps represent the acquisition of knowledge, as they provide a visual representation of geographic locations and can help us navigate the world around us. Maps also provide context and can give us a better understanding of the relationships between different places. By using a map, we can gain knowledge about different regions and cultures, and this can lead to a deeper appreciation and understanding of the world.
