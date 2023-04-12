@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Definition de L'abstraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Definition de L'abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Definition de L'abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "Definition de L'abstraction.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Definition de L'abstraction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,6 +267,8 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Definition de L'abstraction.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "Exo français.md",
@@ -295,8 +297,6 @@
     "sl subjects/Economie.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "système.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "PDF/Objects.pdf",
     "PDF",

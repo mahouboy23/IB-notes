@@ -13,4 +13,6 @@ Created: 2023-03-31
 2. [[Pensée logique]] 
 3. [[]]
 
+## Raisonnement par abstraction
 
+1. [[Definition de L'abstraction]] 
