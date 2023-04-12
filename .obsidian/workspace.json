@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo français.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt and object.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -217,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,14 +265,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
-    "common core/TOK.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Exo français.md",
+    "Prompt and object.md",
+    "common core/TOK.md",
     "Mécanique.md",
     "Object.md",
-    "Prompt and object.md",
-    "Exo français.md",
     "hl subjects/Français B.md",
     "test fr.md",
     "Recuille de donnees.md",
@@ -297,7 +297,6 @@
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "système.md",
-    "materiel.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "PDF/Objects.pdf",
     "PDF",

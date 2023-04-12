@@ -12,3 +12,5 @@ Created: 2023-03-31
 1. [[Raisonnement procédural]] 
 2. [[Pensée logique]] 
 3. [[]]
+
+
