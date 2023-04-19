@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,10 +267,11 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "IB overview.md",
+    "hl subjects/Math AA.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
     "Physique thermique.md",
-    "IB overview.md",
     "L'abstraction et la programmation.md",
     "assets/L'abstraction et la programmation/image-20230412155621664.png",
     "assets/L'abstraction et la programmation",
@@ -298,7 +299,6 @@
     "assets/Français B",
     "Le Cid.md",
     "Macroéconomie.md",
-    "sl subjects/Economie.md",
     "Eléctricite et magnétisme fiche revision.canvas",
     "PDF/Objects.pdf",
     "PDF",
