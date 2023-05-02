@@ -10,4 +10,4 @@ Writing a High level essay in the IB program requires a structured and well rese
 4. *Organise your essay* : Your essay should be well organized with a clear introduction, body and conclusion. Use topic sentences and linking word's to help guide your reader to the argument.
 5. *Use evidence* : Dont just present your evidence but also analyze it. Explain how it supports argument and why it is important. This could be in the form of direct quotes, statistics or other supporting information
 6. *Use critical thinking* : The IB program values critical thinking so make sure to analyze your arguments trough multiple perspectives. This will help you to identify any weakness in your argument and strengthen it.
-7. *Use your references* : Make Sure you properly reference all your sources. This include in-text citations or work quoted into your essay. 
+7. *Use your references* : Make Sure you properly reference all your sources. This include in-text citations or works quoted into your essay. 
