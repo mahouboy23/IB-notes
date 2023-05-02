@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "High level Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "High level Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "High level Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "High level Essay.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "High level Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,8 +267,9 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "sl subjects/Anglais Literrature.md",
+    "High level Essay.md",
+    "Untitled 3.md",
     "assets/Anglais Literrature",
     "IB overview.md",
     "Mécanique.md",
@@ -299,7 +300,6 @@
     "eng work 1.md",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "background 3.md",
-    "Methodology.md",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B/Diagram.svg",
     "assets/Français B",
