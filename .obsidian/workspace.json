@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,13 +267,14 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "assets/Anglais Literrature",
+    "IB overview.md",
+    "Mécanique.md",
     "Excalidraw/nm.md",
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
     "Excalidraw/assets/nm",
-    "Mécanique.md",
     "assets/Mécanique/Pasted image 20230502081448.png",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Prompt and object.md",
     "TOK Exhibition.md",
     "Object.md",
