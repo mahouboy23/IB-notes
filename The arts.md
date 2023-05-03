@@ -26,3 +26,4 @@ For each quotation, consider:
 **This quotation can applied in Art and History because it's mainly referring to art and how they provides emotions and how it gives their ideas during a different period of time**
 
 #### WHAT IS THE ARTS 
+The arts is a way a doing something
