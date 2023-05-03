@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High level Essay.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6b1fdb4b796a6535",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
               }
             }
           },
@@ -113,6 +123,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "40b7174caebcddda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High level Essay.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High level Essay.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High level Essay.md"
+                "file": "TOK EXHIBITION DRAFT.md"
               }
             }
           },
@@ -216,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "High level Essay.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,11 +285,14 @@
   },
   "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "common core/TOK.md",
+    "IB overview.md",
     "High level Essay.md",
+    "sl subjects/Anglais Literrature.md",
     "Untitled 3.md",
     "assets/Anglais Literrature",
-    "IB overview.md",
     "Mécanique.md",
     "Excalidraw/nm.md",
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
@@ -279,9 +300,7 @@
     "assets/Mécanique/Pasted image 20230502081448.png",
     "sl subjects/Physics.md",
     "Prompt and object.md",
-    "TOK Exhibition.md",
     "Object.md",
-    "common core/TOK.md",
     "common core/EE.md",
     "hl subjects/Math AA.md",
     "Physique thermique.md",
@@ -299,7 +318,6 @@
     "Compare and contrast.md",
     "eng work 1.md",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
-    "background 3.md",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B/Diagram.svg",
     "assets/Français B",
