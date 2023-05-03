@@ -15,6 +15,8 @@ I chose a confidential government document as an example of how restricting ac
 There is an ongoing debate around government overreach in restricting information versus the public's right to know. Laws aim to find a balance, for example by limiting the government's power to classify information and requiring eventual declassification of historic records. However, striking the right balance is complex with valid arguments on both sides. Overall, confidential documents represent how a lack of knowledge due to secrecy, whether reasonable or not, can have a corrosive effect on society by diminishing trust and accountability in authority. They highlight the need to limit unnecessary restrictions on information where possible to promote an open democratic process.
 
 
+![[image-20230503090500843.png]]
+
 
 
 My third object is a map of Senegal, located in West Africa. Maps represent knowledge, and this map specifically represents knowledge about the geography of Senegal that has been accumulated by cartographers and explorers over centuries of travel within Senegal. Access to maps has expanded our understanding of the world and enabled both mobility and control over space.
