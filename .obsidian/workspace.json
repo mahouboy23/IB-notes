@@ -23,9 +23,11 @@
             "id": "6b1fdb4b796a6535",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "common core/TOK.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -63,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -234,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,8 +286,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d12486bf3ef080c",
+  "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "TOK EXHIBITION DRAFT.md",
+    "common core/TOK.md",
+    "IB overview.md",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090410957.png",
@@ -293,9 +299,6 @@
     "assets/TOK EXHIBITION DRAFT",
     "TOK Exhibition.md",
     "Prompt and object.md",
-    "TOK EXHIBITION DRAFT.md",
-    "common core/TOK.md",
-    "IB overview.md",
     "High level Essay.md",
     "sl subjects/Anglais Literrature.md",
     "Untitled 3.md",
@@ -331,7 +334,6 @@
     "PDF",
     "New folder",
     "Extended Essay.canvas",
-    "assets/Compare and contrast/Pasted image 20230403095557.jpg",
-    "assets/eng work 1/New Project.png"
+    "assets/Compare and contrast/Pasted image 20230403095557.jpg"
   ]
 }
