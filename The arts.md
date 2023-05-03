@@ -11,7 +11,7 @@ From our understanding we can dissect the quote into three parts and analyse the
 
 For each quotation, consider:
 1. Do you agree or disagree with the quotation ? 
-
+**YES**
 
 2. What do you think the quotation suggests about the nature and purpose of the art is refers to?
 
@@ -24,3 +24,5 @@ For each quotation, consider:
 4. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
 
 **This quotation can applied in Art and History because it's mainly referring to art and how they provides emotions and how it gives their ideas during a different period of time**
+
+#### WHAT IS THE ARTS 
