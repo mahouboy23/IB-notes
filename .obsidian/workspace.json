@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "The arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "The arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "The arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "The arts.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "The arts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,8 +288,11 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "TOK EXHIBITION DRAFT.md",
     "common core/TOK.md",
+    "The arts.md",
+    "12concepts.md",
+    "knowers and knowing.md",
+    "TOK EXHIBITION DRAFT.md",
     "IB overview.md",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
@@ -323,8 +326,6 @@
     "hl subjects/Français B.md",
     "test fr.md",
     "Recuille de donnees.md",
-    "Flux circulaire de revenus.md",
-    "Compare and contrast.md",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B/Diagram.svg",
