@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The arts.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The arts.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The arts.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The arts.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The arts.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,12 +288,12 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "common core/TOK.md",
+    "IB overview.md",
     "The arts.md",
+    "common core/TOK.md",
     "12concepts.md",
     "knowers and knowing.md",
     "TOK EXHIBITION DRAFT.md",
-    "IB overview.md",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090410957.png",

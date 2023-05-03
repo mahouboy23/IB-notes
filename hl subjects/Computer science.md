@@ -9,4 +9,6 @@ tags : subject cs
 
 ## **Theme 3**: [[Réseaux]] 
 
-## **Theme 4**:[[Pensée informatique, résolution de problèmes et programmation]]
+## **Theme 4**: [[Pensée informatique, résolution de problèmes et programmation]]
+
+
