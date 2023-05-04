@@ -69,3 +69,7 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 #### g/ Mouvement d'un projectile
 
 ![[nm]]
+
+
+
+## Force
