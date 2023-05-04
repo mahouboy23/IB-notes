@@ -99,3 +99,4 @@ Quand il y a des frottements la reaction est inclinée
 
 - **La tension d'un fil**
 C'est la force que l'on exerce aux 2 extrémités d'un fil
+![[Pasted image 20230504095510.png]]
