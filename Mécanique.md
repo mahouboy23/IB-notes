@@ -96,3 +96,6 @@ $\vec{R}$ force qu'exerce le support sur l'objet *Reaction*
 ![[Pasted image 20230504094025.png]] 
 
 Quand il y a des frottements la reaction est inclinée
+
+- **La tension d'un fil**
+C'est la force que l'on exerce aux 2 extrémités d'un fil
