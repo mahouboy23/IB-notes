@@ -93,6 +93,6 @@ $F_{m}=qvBsin\teta$
 #### 2. Force de contact
 - **La reaction d'un support**
 $\vec{R}$ force qu'exerce le support sur l'objet *Reaction* 
+![[Pasted image 20230504094025.png]] 
 
-Quand il y a des frottements la reaction est inclinee
-![[Pasted image 20230504094025.png]]
+Quand il y a des frottements la reaction est inclinée
