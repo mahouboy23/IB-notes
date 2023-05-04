@@ -35,9 +35,11 @@
             "id": "90f66308cc69cc52",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Object.md"
+                "file": "Champ électrique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -288,8 +290,14 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "assets/Mécanique/Pasted image 20230504094025.png",
+    "Champ électrique.md",
+    "Mécanique.md",
+    "Eléctricité et magnétisme.md",
+    "L'intensité du courant électrique.md",
     "sl subjects/Physics.md",
     "IB overview.md",
+    "Object.md",
     "L'abstraction et la programmation.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "hl subjects/Computer science.md",
@@ -310,22 +318,16 @@
     "sl subjects/Anglais Literrature.md",
     "Untitled 3.md",
     "assets/Anglais Literrature",
-    "Mécanique.md",
     "Excalidraw/nm.md",
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
     "Excalidraw/assets/nm",
     "assets/Mécanique/Pasted image 20230502081448.png",
-    "Object.md",
     "common core/EE.md",
     "hl subjects/Math AA.md",
     "Physique thermique.md",
     "assets/L'abstraction et la programmation/image-20230412155621664.png",
     "assets/L'abstraction et la programmation",
     "Definition de L'abstraction.md",
-    "Exo français.md",
-    "hl subjects/Français B.md",
-    "test fr.md",
-    "Recuille de donnees.md",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B/Diagram.svg",

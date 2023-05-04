@@ -74,13 +74,25 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 ## Force et Lois de Newton
 
-### Exemples de forces
+### **A)** Exemples de forces
 
-1. **Force a distance** 
-- Le poids d'un corps  ou/et la force de gravitation 
+#### 1. Force a distance 
+- Le poids d'un corps ou/et la force de gravitation 
 $$\vec{P} = m\vec{g}$$
 -Direction verticale 
 -Sens vers le bas
 -Point d'application: centre de gravite
 -$P=mg$
-2.
+
+- **La force électrique**
+$\vec{F_{e}} = q\vec{E}$        $E = \frac{K\hspace1mm q_{1}q_{2}}{r^2}$ voir $T_{5}$ 
+
+- **Force magnétique voir**
+$F_{m}=qvBsin\teta$ 
+
+#### 2. Force de contact
+- **La reaction d'un support**
+$\vec{R}$ force qu'exerce le support sur l'objet *Reaction* 
+
+Quand il y a des frottements la reaction est inclinee
+![[Pasted image 20230504094025.png]]
