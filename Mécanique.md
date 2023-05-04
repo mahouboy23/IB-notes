@@ -72,4 +72,15 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 
 
-## Force
+## Force et Lois de Newton
+
+### Exemples de forces
+
+1. **Force a distance** 
+- Le poids d'un corps  ou/et la force de gravitation 
+$$\vec{P} = m\vec{g}$$
+-Direction verticale 
+-Sens vers le bas
+-Point d'application: centre de gravite
+-$P=mg$
+2.
