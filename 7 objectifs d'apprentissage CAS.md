@@ -5,7 +5,7 @@ Created: 2022-12-20
 
 Pour réussir il faut atteindre les 7 objectifs suivants
 
--   **Objectif 1**  
+-   Objectif 1  
     Identifier ses points forts et développer les domaines a améliorer.
     
 -   **Objectif 2**  
