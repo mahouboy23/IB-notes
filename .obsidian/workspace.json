@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "background 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "background 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "background 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "background 3.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "background 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,8 +290,10 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "common core/CAS.md",
+    "common core/EE.md",
     "IB overview.md",
+    "7 objectifs d'apprentissage CAS.md",
+    "common core/CAS.md",
     "common core/TOK.md",
     "sl subjects/Physics.md",
     "Mécanique.md",
@@ -324,12 +326,10 @@
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
     "Excalidraw/assets/nm",
     "assets/Mécanique/Pasted image 20230502081448.png",
-    "common core/EE.md",
     "hl subjects/Math AA.md",
     "Physique thermique.md",
     "assets/L'abstraction et la programmation/image-20230412155621664.png",
     "assets/L'abstraction et la programmation",
-    "Definition de L'abstraction.md",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B",

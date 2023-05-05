@@ -25,3 +25,7 @@ La descente de gradient a de nombreuses variantes, notamment la descente de grad
 
 La descente de gradient par mini-lots est un compromis entre la descente de gradient et le SGD. Dans cette approche, l'algorithme calcule le gradient sur un petit lot de points de données au lieu de l'ensemble des données. Cette méthode réduit la variance des mises à jour des paramètres et peut utiliser des optimisations matérielles pour accélérer davantage le processus d'apprentissage.
 
+
+
+L'algorithme de régression logistique commence par calculer la probabilité d'un événement binaire en utilisant la fonction logistique ou sigmoïde. Cette fonction transforme la combinaison linéaire de variables d'entrée en une probabilité comprise entre 0 et 1.
+Ensuite, l'algorithme de régression logistique utilise une fonction de coût appelée "cross-entropy loss" pour mesurer la différence entre les probabilités prédites et les valeurs réelles de l'événement binaire. L'objectif est de minimiser cette fonction de coût en ajustant les coefficients de régression. Plus précisément, la "cross-entropy loss" calcule la somme des erreurs de prédiction pour chaque exemple de l'ensemble de données. Elle prend en compte à la fois les erreurs de prédiction positives et négatives, en utilisant une formule mathématique qui pénalise fortement les prédictions incorrectes. 
