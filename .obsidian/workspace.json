@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "TOK EXHIBITION DRAFT.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,8 +287,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b1fdb4b796a6535",
+  "active": "4d12486bf3ef080c",
   "lastOpenFiles": [
+    "Macroéconomie.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "background 3.md",
@@ -324,7 +324,6 @@
     "sl subjects/Anglais Literrature.md",
     "Untitled 3.md",
     "assets/Anglais Literrature",
-    "Excalidraw/nm.md",
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
     "Excalidraw/assets/nm",
     "assets/Mécanique/Pasted image 20230502081448.png",
