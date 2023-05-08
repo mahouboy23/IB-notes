@@ -5,6 +5,9 @@ Created: 2023-05-08
 
 Topics : 
 1. Developing an algorithm to pack circles or spheres into a constrained space as efficiently as possible.
+
+Développement d'un algorithme permettant de placer des cercles ou des sphères dans un espace restreint de la manière la plus efficace possible.
+
 Topic 2 (Packing circles) relates strongly to geometry, measurement, optimization and algorithms, which are core to the Math AA HL syllabus. The mathematics involves modeling the space, calculating areas and volumes, and developing an optimization algorithm to find the best packing solution. This topic can be made very challenging by increasing the complexity of the shapes, constraints, and optimization criteria. It provides ample opportunities to apply various AA HL mathematics in an interesting real-world context.
 
 2. Optimizing the route of a delivery vehicle to minimize distance traveled and maximize number of deliveries.
