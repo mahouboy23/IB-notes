@@ -137,7 +137,7 @@ Compare and contrast the way in which they appeal to the auditory and visual sen
 
 **Houseboy**
 
--   Auditory appeal through vernacular African English and oral storytelling.
--   Visual appeal through descriptions of colonial Cameroon and protagonist's struggles with identity and sexuality.
+-   Auditory appeal through native African English and oral storytelling.
+-   Visual appeal through descriptions of colonial Cameroon and protagonist's struggles with identity.
 -   Written in the 1960s by a Cameroonian writer to reflect concerns about colonialism, racism, and identity in Africa.
 -   Powerful and moving novel that offers a unique perspective on colonialism.
