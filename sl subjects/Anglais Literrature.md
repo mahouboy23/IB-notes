@@ -127,3 +127,17 @@ Compare and contrast the way in which they appeal to the auditory and visual sen
 **A**nalyses
 **C**ontext
 **E**valuation
+
+**The Scarlet Letter**
+
+-   Visual appeal through vivid descriptions of Puritan society and the scarlet letter symbol.
+-   Auditory appeal through formal and elevated language.
+-   Written in the 19th century to reflect author's concerns about Puritan society.
+-   Classic novel known for its depiction of guilt, shame, and redemption.
+
+**Houseboy**
+
+-   Auditory appeal through vernacular African English and oral storytelling.
+-   Visual appeal through descriptions of colonial Cameroon and protagonist's struggles with identity and sexuality.
+-   Written in the 1960s by a Cameroonian writer to reflect concerns about colonialism, racism, and identity in Africa.
+-   Powerful and moving novel that offers a unique perspective on colonialism.
