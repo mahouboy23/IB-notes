@@ -119,10 +119,10 @@ It is explained in the prologue that Toundi dies so the reader already knows. Th
 [[High level Essay]] 
 
 Essay prompt: 
-In what ways and for what reasons do Scarlett Letter and House Boy appeal to there audiences eyes and ears ?
+In what ways and for what reasons do ==Scarlett Letter== and ==House Boy== appeal to there audiences ==eyes and ears== ?
 Compare and contrast the way in which they appeal to the auditory and visual senses of there audiences eyes and ears.
 
-**P**oint
+**P**oint 
 **E**vidence
 **A**nalyses
 **C**ontext
