@@ -142,4 +142,7 @@ Compare and contrast the way in which they appeal to the auditory and visual sen
 -   Written in the 1960s by a Cameroonian writer to reflect concerns about colonialism, racism, and identity in Africa.
 -   Powerful and moving novel that offers a unique perspective on colonialism.
 
-Essay vs Easy  
+Choose a en extract of literary or non-literary work of your choosing of about 20 words and make a commentary about. After you must prepare a presentation of maximum 20 words
+- brief intro 
+- body / summary
+- Conclusion (answer to the problematic/thesis that you formulated)
