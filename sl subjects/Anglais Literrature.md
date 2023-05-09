@@ -142,4 +142,4 @@ Compare and contrast the way in which they appeal to the auditory and visual sen
 -   Written in the 1960s by a Cameroonian writer to reflect concerns about colonialism, racism, and identity in Africa.
 -   Powerful and moving novel that offers a unique perspective on colonialism.
 
-Essay vs Easy  zds
+Essay vs Easy  
