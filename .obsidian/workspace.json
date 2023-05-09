@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,11 +278,12 @@
   },
   "active": "90f66308cc69cc52",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
     "Champ électrique.md",
     "sl subjects/Anglais Literrature.md",
-    "MATH INTERNAL ASSESMENT.md",
     "Macroéconomie.md",
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
@@ -293,7 +294,6 @@
     "sl subjects/Economie.md",
     "background 3.md",
     "common core/TOK.md",
-    "sl subjects/Physics.md",
     "Mécanique.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
