@@ -137,5 +137,9 @@ Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppo
 2. définir le référentiel d'etude
 *exemple :* 
 -un référentiel du labo, référentiel terrestre pour les mouvement sur Terre
--un referentiel geocentrique pour les satelites, lalune
+-un référentiel géocentrique pour les satellite, la lune
+-un référentiel héliocentrique mouvement des planètes
+3. inventaire des forces
+4. application d'une loi de Newton
+5. définir un repère et faire des projections
 
