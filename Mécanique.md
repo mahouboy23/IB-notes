@@ -100,3 +100,14 @@ Quand il y a des frottements la reaction est inclinée
 - **La tension d'un fil**
 C'est la force que l'on exerce aux 2 extrémités d'un fil
 ![[Pasted image 20230504095510.png]]
+
+
+- **La tension d'un ressort**
+![[Pasted image 20230509081424.png]]
+
+La tension d'un ressort s'oppose a sa deformation.
+$$T = Kx$$
+x allongement (compression) du ressort.
+K $nm^{-1}$ constante de raideur (d'elasticite) du ressort
+$x=l-l_{0}$  $l$, $l_0$  longueur finales et initiales du ressort.
+$$ T = kx= k(l-l_{0}) = kl - kl_{0} $$
