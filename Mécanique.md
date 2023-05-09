@@ -72,6 +72,7 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 
 
+
 ## Force et Lois de Newton
 
 ### **A)** Exemples de forces
@@ -116,7 +117,15 @@ $$ T = kx= k(l-l_{0}) = kl - kl_{0} $$
  
 ![[Pasted image 20230509090413.png]]
 $$A = P_{fluide} * V_{immerge}*g$$
-### **A)** Les lois de Newton
+### **B)** Les lois de Newton
 
 - **Premier lois de Newton** 
 Dans un référentiel Galiléens (ou inertie) un système reste au repos ou garde son mouvement rectiligne uniforme si la somme des forces extérieur applique est nul.
+Un référentiel Galiléens est un endroit ou on peut applique la premier loi de Newton
+$$\sum \vec F_{ext} = \vec 0$$
+
+- **Deuxième loi de Newton**
+Dans un référentiel Galiléens la somme des forces extérieur est égale au produit de la masse et du vecteur acceleration.
+$$\sum \vec F_{ext} = m\vec a$$
+- **Troisième loi de Newton**
+Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppose a la force que exerce l'un sur l'autre.
