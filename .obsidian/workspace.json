@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,10 +278,11 @@
   },
   "active": "90f66308cc69cc52",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Mécanique.md",
     "assets/Mécanique/Pasted image 20230509090413.png",
     "assets/Mécanique/Pasted image 20230509081424.png",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "Champ électrique.md",
@@ -296,7 +297,6 @@
     "sl subjects/Economie.md",
     "background 3.md",
     "common core/TOK.md",
-    "Mécanique.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "Eléctricité et magnétisme.md",
@@ -316,7 +316,6 @@
     "assets/Anglais Literrature",
     "Excalidraw/assets/nm/Pasted Image 20230502082837_101.png",
     "Excalidraw/assets/nm",
-    "assets/Mécanique/Pasted image 20230502081448.png",
     "assets/L'abstraction et la programmation",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "assets/Français B/Diagram.svg.xml",
