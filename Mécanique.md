@@ -112,4 +112,11 @@ K $nm^{-1}$ constante de raideur (d'elasticite) du ressort
 $x=l-l_{0}$  $l$, $l_0$  longueur finales et initiales du ressort.
 $$ T = kx= k(l-l_{0}) = kl - kl_{0} $$
  - **Poussée d'Archimede**
- Lorsqu'un objet est plonge dans un fluide (gas ou liquide) une force verticale dirigée vers le haut appelée poussée d'archimed
+ Lorsqu'un objet est plonge dans un fluide (gas ou liquide) une force verticale dirigée vers le haut appelée poussée d'archimede (= au poids de fluide déplacé)
+ 
+![[Pasted image 20230509090413.png]]
+$$A = P_{fluide} * V_{immerge}*g$$
+### **A)** Les lois de Newton
+
+- **Premier lois de Newton** 
+Dans un référentiel Galiléens (ou inertie) un système reste au repos ou garde son mouvement rectiligne uniforme si la somme des forces extérieur applique est nul.
