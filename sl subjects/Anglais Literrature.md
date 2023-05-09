@@ -147,6 +147,12 @@ Choose a en extract of literary or non-literary work of your choosing of about 2
 - brief intro 
 - body / summary
 - Conclusion (answer to the problematic/thesis that you formulated)
+- 
+synopsis: 
+**The book centers on Stanley Yelnats, who is sent to Camp Green Lake, a correctional boot camp in a desert in Texas, after being falsely accused of theft**. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present.
+
+info author: 
+Louis Sachar is an American young-adult mystery-comedy author. He is best known for the Wayside School series and the novel Holes. Holes won the 1998 U.S. National Book Award for Young People's Literature and the 1999 Newbery Medal for the year's "most distinguished contribution to American literature for children".
 
 possible extract: 
 "Stanley watched Zero crawl back through his hole. It was a miracle he was still alive, but Stanley knew he would have to get him back to camp soon, even if he had to carry him. He crawled after him, and was just able to squeeze his body through the hole. He never would have fit when he first came to Camp Green Lake. He’d lost a lot of weight. As he pulled himself through, his leg struck something sharp and hard. It was a shovel. For a second Stanley wondered how it got there, but then remembered that Zero had taken it with him after striking Mr. Pendanski. It was cooler under the boat, which was half buried in the dirt. There were enough cracks and holes in the bottom of the boat, now the roof, to provide light and ventilation. He could see empty jars scattered about"
