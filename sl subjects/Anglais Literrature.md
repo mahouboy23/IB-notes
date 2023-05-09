@@ -148,3 +148,5 @@ Choose a en extract of literary or non-literary work of your choosing of about 2
 - body / summary
 - Conclusion (answer to the problematic/thesis that you formulated)
 
+possible extract: 
+"Stanley watched Zero crawl back through his hole. It was a miracle he was still alive, but Stanley knew he would have to get him back to camp soon, even if he had to carry him. He crawled after him, and was just able to squeeze his body through the hole. He never would have fit when he first came to Camp Green Lake. He’d lost a lot of weight. As he pulled himself through, his leg struck something sharp and hard. It was a shovel. For a second Stanley wondered how it got there, but then remembered that Zero had taken it with him after striking Mr. Pendanski. It was cooler under the boat, which was half buried in the dirt. There were enough cracks and holes in the bottom of the boat, now the roof, to provide light and ventilation. He could see empty jars scattered about"
