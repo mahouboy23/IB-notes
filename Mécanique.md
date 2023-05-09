@@ -111,3 +111,4 @@ x allongement (compression) du ressort.
 K $nm^{-1}$ constante de raideur (d'elasticite) du ressort
 $x=l-l_{0}$  $l$, $l_0$  longueur finales et initiales du ressort.
 $$ T = kx= k(l-l_{0}) = kl - kl_{0} $$
+ 
