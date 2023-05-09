@@ -141,5 +141,5 @@ Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppo
 -un référentiel héliocentrique mouvement des planètes
 3. inventaire des forces
 4. application d'une loi de Newton
-5. définir un repère et faire des projections
+5. définir un repère et faire des projections puis faire des calculs
 
