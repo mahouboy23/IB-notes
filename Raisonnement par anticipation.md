@@ -44,3 +44,4 @@ La pré-condition décrit l'état initial avant l'exécution d'un algorithme ; l
 Une exception est une condition anormale ou exceptionnelle qui nécessite un traitement spécial et qui modifie souvent le déroulement normal de l'exécution du programme.
 **Attention : exception ≠ erreur**
 
+

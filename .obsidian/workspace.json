@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement par anticipation.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,16 +262,17 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "Raisonnement simultané.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement par anticipation.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "Prompt and object.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "IB overview.md",
-    "Raisonnement par anticipation.md",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Pensée logique.md",
     "Raisonnement procédural.md",
     "Le concept de programmation.md",
@@ -300,7 +301,6 @@
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
-    "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
     "assets/TOK EXHIBITION DRAFT",
     "assets/Anglais Literrature",
     "Excalidraw/assets/nm",
