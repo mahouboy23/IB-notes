@@ -16,7 +16,7 @@ Created: 2023-03-31
 2. [[Pensée logique]] 
 3. [[Raisonnement par anticipation]]
 4. [[Raisonnement simultané]] 
-5. [[Raisonnement par abstraction]]
+5. [[Raisonnement par abstraction]] 
 
 ## Raisonnement par abstraction
 
