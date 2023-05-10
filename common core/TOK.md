@@ -22,9 +22,11 @@
 - [[Natural sciences]]
 - [[Human sciences]]
 - [[The arts]] 
+
 ## **Part 4 :** Assessment
 1. [[TOK Exhibition]]  $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts; **1/3 of the grade** 1
 2. TOK Essay $\rightarrow$ 1600 words, __6__ ***prescribed essay titles*** 
+
 ## **Part 5 :** Framework 
 ?
 1. [[Scope]] 
