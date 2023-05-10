@@ -35,4 +35,5 @@ Un **diagramme de Gantt** est un type de diagramme à barres, nommé d'après He
 **Une bibliothèque logicielle (module)** :: consiste en un code pré-écrit, des classes, des procédures, des méthodes, etc. qu'un programmeur peut utiliser pour ajouter plus de fonctionnalités à ses programmes, sans avoir à réécrire le code équivalent.
 
 ## L'utilisation de conditions préalables : pre-conditions
+
 Les conditions préalables sont nécessaires parce que de nombreux processus requièrent des conditions pour être exécutés.
