@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK WORK 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK WORK 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK WORK 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "TOK WORK 5.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK WORK 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,8 +267,9 @@
   },
   "active": "5e782aa71ad9a5f6",
   "lastOpenFiles": [
-    "The arts.md",
     "common core/TOK.md",
+    "TOK WORK 5.md",
+    "The arts.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "Object.md",
@@ -295,7 +296,6 @@
     "Pensée logique.md",
     "Raisonnement procédural.md",
     "Le concept de programmation.md",
-    "Pseudocode.md",
     "assets/Organigramme/image-20230510085403882.png",
     "assets/Organigramme",
     "assets/La notion de problème/image-20230510084339261.png",
