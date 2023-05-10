@@ -16,4 +16,6 @@ Les conditions préalables de la méthode de recherche binaire sont :
 - Qu'il soit Ordonnées
 
 Les postconditions d'une méthode de recherche binaire sont :
-- 
+- On doit trouver le nombre Target
+
+3. Définir les conditions préalables et les postconditions d'une méthode de recherche binaire.
