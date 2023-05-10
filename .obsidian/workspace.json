@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée logique.md"
+                "file": "Raisonnement par anticipation.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,6 +250,8 @@
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement par anticipation.md",
+    "Pensée logique.md",
     "Raisonnement procédural.md",
     "Le concept de programmation.md",
     "Pseudocode.md",
@@ -280,8 +282,6 @@
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
-    "Extended essay draft final.md",
-    "common core/EE.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
