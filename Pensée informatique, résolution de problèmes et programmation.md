@@ -7,6 +7,8 @@ Created: 2023-03-31
 
 1. [[La notion de problème]] 
 2. [[Organigramme]] 
+3. [[Pseudocode]] 
+4. [[Le concept de programmation]] 
 
 ## La pensée computationnelle
 

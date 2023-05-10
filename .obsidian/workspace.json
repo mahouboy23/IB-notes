@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organigramme.md",
+                "file": "Raisonnement procédural.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organigramme.md",
+                "file": "Raisonnement procédural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organigramme.md",
+                "file": "Raisonnement procédural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organigramme.md"
+                "file": "Raisonnement procédural.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organigramme.md",
+                "file": "Raisonnement procédural.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,11 +250,15 @@
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "Organigramme.md",
-    "hl subjects/Computer science.md",
-    "La notion de problème.md",
-    "Langage de programmation.md",
+    "Le concept de programmation.md",
     "Pseudocode.md",
+    "Notion de pseudocode.md",
+    "La notion de problème.md",
+    "Organigramme.md",
+    "assets/Organigramme/image-20230510085403882.png",
+    "assets/Organigramme",
+    "hl subjects/Computer science.md",
+    "Langage de programmation.md",
     "Diagramme de flux; Organigramme.md",
     "Langue naturelle.md",
     "assets/La notion de problème/image-20230510084339261.png",
@@ -278,14 +282,11 @@
     "Extended essay draft final.md",
     "common core/EE.md",
     "TOK EXHIBITION DRAFT.md",
-    "sl subjects/Economie.md",
-    "background 3.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090410957.png",
-    "assets/TOK EXHIBITION DRAFT/image-20230503090004601.png",
     "assets/TOK EXHIBITION DRAFT",
     "assets/Anglais Literrature",
     "Excalidraw/assets/nm",
@@ -295,7 +296,6 @@
     "assets/Français B",
     "Eléctricite et magnétisme fiche revision.canvas",
     "PDF/Objects.pdf",
-    "PDF",
     "Extended Essay.canvas"
   ]
 }

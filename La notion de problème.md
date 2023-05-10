@@ -50,5 +50,5 @@ Un algorithme peut être exporté de plusieurs façons, notamment :
 ?
 1. [[Langue naturelle]] 
 2. [[Diagramme de flux; Organigramme]]
-3. [[Pseudocode]]
+3. [[Notion de pseudocode]] 
 4. [[Langage de programmation]]
