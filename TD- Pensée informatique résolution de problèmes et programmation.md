@@ -10,8 +10,9 @@ Un diagramme de GANTT est un diagramme qui aide pour la planification et la gest
 
 2. Définir les conditions préalables et les postconditions d'une méthode de recherche binaire.
 
-Les condition préalables de la méthode de recherche binaire sont :
+Les conditions préalables de la méthode de recherche binaire sont :
 - Sa doit être des chiffres et non des caractères
 - Sa doit être une liste
 - Qu'il soit Ordonnées
 
+Les postconditions d'une méthode de recherche binaire dont
