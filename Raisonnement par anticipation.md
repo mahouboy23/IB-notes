@@ -17,3 +17,22 @@ Dans toute solution, vous devez comprendre clairement les entrées et les sortie
 ![[image-20230510091222408.png]]
 
 ## Planification préalable dans le cadre d'une proposition de problème et de solution
+
+**La planification préalable** :: est le processus qui consiste à planifier quelque chose à l'avance. C'est la préparation requise avant la mise en œuvre d'une solution.
+
+**Exemples**:
+- précommande d'un article non encore disponible
+- enfourner des aliments dans un four préchauffé
+- récupérer un manuel rangé dans un casier de l'école : pensée procédurale et de planification
+préalable.
+
+**Le prefetching ou la préfixation** :: consiste à placer des données ou des instructions de la mémoire dans la mémoire
+
+Un **diagramme de Gantt** est un type de diagramme à barres, nommé d'après Henry Gantt. Il est largement utilisé pour la planification et la gestion de projets, comme moyen de montrer les activités, les tâches et les événements en fonction du temps.
+
+![[image-20230510091811637.png]]
+
+**Une bibliothèque logicielle (module)** :: consiste en un code pré-écrit, des classes, des procédures, des méthodes, etc. qu'un programmeur peut utiliser pour ajouter plus de fonctionnalités à ses programmes, sans avoir à réécrire le code équivalent.
+
+## L'utilisation de conditions préalables : pre-conditions
+Les conditions préalables sont nécessaires parce que de nombreux processus requièrent des conditions pour être exécutés.
