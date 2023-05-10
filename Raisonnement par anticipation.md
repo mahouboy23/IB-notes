@@ -39,3 +39,8 @@ Un **diagramme de Gantt** est un type de diagramme à barres, nommé d'après He
 Les conditions préalables sont nécessaires parce que de nombreux processus requièrent des conditions pour être exécutés.
 La pré-condition décrit l'état initial avant l'exécution d'un algorithme ; la post-condition décrit l'état final après l'exécution d'un algorithme.
 
+## Exceptions et conditions préalables
+?
+Une exception est une condition anormale ou exceptionnelle qui nécessite un traitement spécial et qui modifie souvent le déroulement normal de l'exécution du programme.
+**Attention : exception ≠ erreur**
+
