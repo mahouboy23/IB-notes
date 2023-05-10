@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90f66308cc69cc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sl subjects/Anglais Literrature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "494a7c07b9fcf0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "common core/TOK.md",
+                "file": "La notion de problème.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,32 +55,29 @@
             }
           },
           {
-            "id": "c6fc50c5222cda64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB overview.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "70072f68ff9c8574",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ib overvi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb8de2628963bafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -125,12 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.51219177246094
+    "width": 268.5033760070801
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -146,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "La notion de problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "La notion de problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "La notion de problème.md"
               }
             }
           },
@@ -227,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "La notion de problème.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,8 +221,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6587996510868768,
-                  "close": false
+                  "scale": 0.33776654713198895,
+                  "close": true
                 }
               }
             }
@@ -276,15 +247,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90f66308cc69cc52",
+  "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Prompt and object.md",
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
     "Mécanique.md",
     "assets/Mécanique/Pasted image 20230509090413.png",
     "assets/Mécanique/Pasted image 20230509081424.png",
     "sl subjects/Physics.md",
     "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
     "Champ électrique.md",
     "sl subjects/Anglais Literrature.md",
     "Macroéconomie.md",
@@ -303,10 +278,7 @@
     "L'intensité du courant électrique.md",
     "Object.md",
     "L'abstraction et la programmation.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "hl subjects/Computer science.md",
     "The arts.md",
-    "12concepts.md",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090410957.png",
