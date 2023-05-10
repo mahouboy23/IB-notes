@@ -37,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Le Cid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e782aa71ad9a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common core/TOK.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,23 +95,15 @@
             }
           },
           {
-            "id": "bb8de2628963bafd",
+            "id": "53117ebb359db5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB overview.md",
+                "file": "common core/TOK.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "53117ebb359db5db",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -130,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement par anticipation.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -211,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,44 +265,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b1fdb4b796a6535",
+  "active": "5e782aa71ad9a5f6",
   "lastOpenFiles": [
+    "The arts.md",
+    "common core/TOK.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "Object.md",
+    "IB overview.md",
+    "Perspective.md",
+    "Scope.md",
+    "personal knowledge.md",
+    "TOK WORK 4.md",
+    "Le Cid.md",
+    "hl subjects/Math AA.md",
+    "hl subjects/Français B.md",
+    "Mademba.md",
+    "Réactions nucléaires.md",
+    "Raisonnement par anticipation.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement par abstraction.md",
     "Raisonnement simultané.md",
-    "Raisonnement par anticipation.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "Prompt and object.md",
-    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
     "Pensée logique.md",
     "Raisonnement procédural.md",
     "Le concept de programmation.md",
     "Pseudocode.md",
-    "Notion de pseudocode.md",
-    "La notion de problème.md",
-    "Organigramme.md",
     "assets/Organigramme/image-20230510085403882.png",
     "assets/Organigramme",
-    "hl subjects/Computer science.md",
-    "Langage de programmation.md",
-    "Diagramme de flux; Organigramme.md",
-    "Langue naturelle.md",
     "assets/La notion de problème/image-20230510084339261.png",
     "assets/La notion de problème/image-20230510083634921.png",
     "assets/La notion de problème",
-    "hl subjects/Math AA.md",
-    "Notion de système.md",
-    "Mécanique.md",
     "assets/Mécanique/Pasted image 20230509090413.png",
     "assets/Mécanique/Pasted image 20230509081424.png",
-    "MATH INTERNAL ASSESMENT.md",
-    "Champ électrique.md",
-    "sl subjects/Anglais Literrature.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",

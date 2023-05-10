@@ -9,7 +9,7 @@
 ## **Part 2 :** Optional themes
 ?
 - knowledge and technology
-- knowledge and language
+- knowledge and language 
 - knowledge and religion 
 - knowledge and politics
 - knowledge and indigenous societies  
