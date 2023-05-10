@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7be032e5b26c97fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Réactions nucléaires.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -97,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -249,8 +262,15 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Prompt and object.md",
+    "Réactions nucléaires.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Raisonnement par anticipation.md",
+    "assets/Raisonnement par anticipation/image-20230510091222408.png",
+    "assets/Raisonnement par anticipation",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "Pensée logique.md",
     "Raisonnement procédural.md",
     "Le concept de programmation.md",
@@ -267,26 +287,20 @@
     "assets/La notion de problème/image-20230510084339261.png",
     "assets/La notion de problème/image-20230510083634921.png",
     "assets/La notion de problème",
-    "Prompt and object.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Notion de système.md",
     "Mécanique.md",
     "assets/Mécanique/Pasted image 20230509090413.png",
     "assets/Mécanique/Pasted image 20230509081424.png",
-    "sl subjects/Physics.md",
     "MATH INTERNAL ASSESMENT.md",
     "Champ électrique.md",
     "sl subjects/Anglais Literrature.md",
     "Macroéconomie.md",
     "Attributs du profil de l'apprenant.md",
-    "common core/CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090438698.png",
-    "assets/TOK EXHIBITION DRAFT/image-20230503090410957.png",
     "assets/TOK EXHIBITION DRAFT",
     "assets/Anglais Literrature",
     "Excalidraw/assets/nm",
@@ -295,7 +309,6 @@
     "assets/Français B/Diagram.svg.xml",
     "assets/Français B",
     "Eléctricite et magnétisme fiche revision.canvas",
-    "PDF/Objects.pdf",
     "Extended Essay.canvas"
   ]
 }
