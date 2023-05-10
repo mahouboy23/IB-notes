@@ -15,4 +15,5 @@ Les conditions préalables de la méthode de recherche binaire sont :
 - Sa doit être une liste
 - Qu'il soit Ordonnées
 
-Les postconditions d'une méthode de recherche binaire dont
+Les postconditions d'une méthode de recherche binaire sont :
+- 
