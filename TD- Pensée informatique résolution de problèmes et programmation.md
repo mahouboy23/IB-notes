@@ -39,7 +39,7 @@ L'abstraction est utilisée pour créer un modèle de logiciel en Omettant tout 
 
 - Recherche séquentielle : est une méthode permettant de trouver un élément dans une liste. Elle vérifie séquentiellement chaque élément de la liste jusqu'à ce qu'une correspondance soit trouvée ou que toute la liste ait été parcourue.
 - Recherche binaire : est un algorithme de recherche qui permet de trouver la position d'une valeur cible dans un tableau trié en comparent la valeur cible à l'élément central du tableau ; s'ils sont inégaux, la moitié dans laquelle la cible ne peut se trouver est éliminée et la recherche se poursuit sur la moitié restante jusqu'à ce qu'elle finit.
-- Tri a bulles : Le tri à bulles est un algorithme de tri simple qui parcourt de manière répétée le tableau à trier.
-Il compare les éléments adjacents et les échange s'ils
-ne sont pas dans le bon ordre.
+- Tri a bulles : Le tri à bulles est un algorithme de tri simple qui parcourt de manière répétée le tableau à trier. Il compare les éléments adjacents et les échange s'ils ne sont pas dans le bon ordre.
+- Tri a selection : 
+
    
