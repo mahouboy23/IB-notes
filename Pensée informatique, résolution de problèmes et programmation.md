@@ -6,6 +6,7 @@ Created: 2023-03-31
 ## Notions de bases
 
 1. [[La notion de problème]] 
+2. [[Organigramme]] 
 
 ## La pensée computationnelle
 
