@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement par abstraction.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TD- Pensée informatique résolution de problèmes et programmation.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -218,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,20 +266,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e782aa71ad9a5f6",
+  "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "Excalidraw/GANTT.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
+    "Recueil de données.md",
+    "IB overview.md",
     "Raisonnement par abstraction.md",
+    "Prompt and object.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Excalidraw/GANTT.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement simultané.md",
     "Le Cid.md",
     "Raisonnement par anticipation.md",
     "Excalidraw/Drawing 2023-05-10 15.39.06.excalidraw.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "TOK WORK 5.md",
-    "Prompt and object.md",
     "common core/TOK.md",
     "The arts.md",
     "TOK Exhibition.md",
@@ -292,10 +294,7 @@
     "TOK WORK 4.md",
     "hl subjects/Math AA.md",
     "hl subjects/Français B.md",
-    "Mademba.md",
-    "Réactions nucléaires.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
-    "Physique nucléaire, atomique et des particules.md",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
     "assets/Organigramme/image-20230510085403882.png",

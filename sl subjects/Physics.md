@@ -7,8 +7,8 @@ tags : mod Physique
 ### **Theme 2:** [[Mécanique]] 
 ### **Theme 3:** [[Physique thermique]] 
 ### **Theme 4:**  
-### **Theme 5:** [[Eléctricité et magnétisme]]  
+### **Theme 5:** [[Electricité et magnétisme]]  
 ### **Theme 6:** [[Mouvement circulaire uniforme et gravitation]]  
 ### **Theme 7** : [[Physique nucléaire, atomique et des particules]] 
 
-[[Recuille de donnees]] 
+[[Recueil de données]]  
