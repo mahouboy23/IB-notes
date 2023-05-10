@@ -28,4 +28,5 @@ Les postconditions d'une méthode de recherche binaire sont :
 - La liste doit être Ordonnées
 
 4. Dans le contexte de la conception de logiciels, décrire comment mettre en oeuvre le traitement simultané.
-On peut mettre en oeuvre le traitement simultané dans le contexte de la conception de logiciels en d
+
+On peut mettre en oeuvre le traitement simultané dans le contexte de la conception de logiciels en divisant les partit de la conception de logiciels puit les exécutes en simultanées (en meme temps).
