@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement simultané.md"
+                "file": "TD- Pensée informatique résolution de problèmes et programmation.md"
               }
             }
           },
@@ -217,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,15 +267,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b1fdb4b796a6535",
+  "active": "5e782aa71ad9a5f6",
   "lastOpenFiles": [
+    "Excalidraw/GANTT.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement par anticipation.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Excalidraw/Drawing 2023-05-10 15.39.06.excalidraw.md",
+    "Raisonnement simultané.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "TOK WORK 5.md",
     "Prompt and object.md",
-    "Raisonnement par anticipation.md",
     "common core/TOK.md",
     "The arts.md",
     "TOK Exhibition.md",
@@ -290,13 +294,10 @@
     "Mademba.md",
     "Réactions nucléaires.md",
     "Raisonnement par abstraction.md",
-    "Raisonnement simultané.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "Physique nucléaire, atomique et des particules.md",
-    "sl subjects/Physics.md",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
-    "Pensée logique.md",
     "assets/Organigramme/image-20230510085403882.png",
     "assets/Organigramme",
     "assets/La notion de problème/image-20230510084339261.png",
