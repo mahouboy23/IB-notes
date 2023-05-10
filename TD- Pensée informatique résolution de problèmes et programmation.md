@@ -42,6 +42,6 @@ L'abstraction est utilisée pour créer un modèle de logiciel en Omettant tout 
 - Tri a bulles : Le tri à bulles est un algorithme de tri simple qui parcourt de manière répétée le tableau à trier. Il compare les éléments adjacents et les échange s'ils ne sont pas dans le bon ordre.
 - Tri a selection : 
 
-7. Decrire l'utilisation de pseudocode
+7. Décrire l'utilisation de pseudocode
 
    
