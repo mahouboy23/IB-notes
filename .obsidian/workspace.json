@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement procédural.md"
+                "file": "Pensée logique.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Pensée logique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,6 +250,7 @@
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement procédural.md",
     "Le concept de programmation.md",
     "Pseudocode.md",
     "Notion de pseudocode.md",
@@ -281,7 +282,6 @@
     "7 objectifs d'apprentissage CAS.md",
     "Extended essay draft final.md",
     "common core/EE.md",
-    "TOK EXHIBITION DRAFT.md",
     "assets/Mécanique/Pasted image 20230504095510.png",
     "assets/Mécanique/Pasted image 20230504094025.png",
     "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
