@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,27 +95,29 @@
             }
           },
           {
-            "id": "53117ebb359db5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "common core/TOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "40b7174caebcddda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e900348822b7304a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK 5.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK 5.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK 5.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -216,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK WORK 5.md",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,15 +267,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e782aa71ad9a5f6",
+  "active": "e900348822b7304a",
   "lastOpenFiles": [
-    "common core/TOK.md",
     "TOK WORK 5.md",
+    "IB overview.md",
+    "Prompt and object.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
+    "Raisonnement par anticipation.md",
+    "common core/TOK.md",
     "The arts.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "Object.md",
-    "IB overview.md",
     "Perspective.md",
     "Scope.md",
     "personal knowledge.md",
@@ -283,19 +290,14 @@
     "hl subjects/Français B.md",
     "Mademba.md",
     "Réactions nucléaires.md",
-    "Raisonnement par anticipation.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement par abstraction.md",
     "Raisonnement simultané.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
-    "Prompt and object.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
     "Pensée logique.md",
-    "Raisonnement procédural.md",
-    "Le concept de programmation.md",
     "assets/Organigramme/image-20230510085403882.png",
     "assets/Organigramme",
     "assets/La notion de problème/image-20230510084339261.png",

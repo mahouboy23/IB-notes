@@ -22,3 +22,5 @@ Created: 2023-03-31
 
 1. [[Definition de L'abstraction]] 
 2. [[L'abstraction et la programmation]] 
+
+[[TD- Pensée informatique résolution de problèmes et programmation]] 
