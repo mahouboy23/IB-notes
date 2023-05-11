@@ -147,4 +147,6 @@ Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppo
 -Chute Libre
 Un object de masse m tombe, on néglige la resistance de l'air. 
 système : objet de masse m
-Inventaire des forces $$$$
+Inventaire des forces $\vec p = m \vec g$
+
+-Object glissant sur un plan incline sans frottem
