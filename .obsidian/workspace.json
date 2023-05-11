@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,8 +268,8 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "Electricité et magnétisme.md",
     "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
     "Recueil de données.md",
     "IB overview.md",
     "Raisonnement par abstraction.md",

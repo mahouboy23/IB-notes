@@ -89,7 +89,7 @@ $$\vec{P} = m\vec{g}$$
 $\vec{F_{e}} = q\vec{E}$        $E = \frac{K\hspace1mm q_{1}q_{2}}{r^2}$ voir $T_{5}$ 
 
 - **Force magnétique voir**
-$F_{m}=qvBsin\teta$ 
+$F_{m}=qvBsin\theta$ 
 
 #### 2. Force de contact
 - **La reaction d'un support**
