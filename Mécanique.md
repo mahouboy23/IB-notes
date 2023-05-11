@@ -149,4 +149,4 @@ Un object de masse m tombe, on néglige la resistance de l'air.
 système : objet de masse m
 Inventaire des forces $\vec p = m \vec g$
 
--Object glissant sur un plan incline sans frottem
+-Object glissant sur un plan incline sans frottement
