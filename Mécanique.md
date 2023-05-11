@@ -143,3 +143,8 @@ Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppo
 4. application d'une loi de Newton
 5. définir un repère et faire des projections puis faire des calculs
 
+- **Application de la deuxième loi de Newton**
+-Chute Libre
+Un object de masse m tombe, on néglige la resistance de l'air. 
+système : objet de masse m
+Inventaire des forces $$$$
