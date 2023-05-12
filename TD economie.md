@@ -21,4 +21,13 @@ La courbe d'offre à court terme représente la relation positive entre le prix 
 -   Des politiques gouvernementales qui affectent les coûts de production ou la rentabilité peuvent déplacer la d'offre à gauche ou à droite.
 -   Des prix plus élevés pour les produits concurrents peuvent déplacer la courbe d'offre à droite.
 
-4. 
+4.  ![[Ogct new]]  
+(a) L'augmentation du prix du pétrole entraînera une augmentation des coûts de production, ce qui déplacera la courbe d'offre à court terme vers la gauche.
+
+(b) La baisse de la température qui détruit la production agricole entraînera une diminution de la quantité de produits agricoles offerts, ce qui déplacera la courbe d'offre à court terme vers la gauche.
+
+(c) La diminution des taxes professionnelles sur le bénéfice des entreprises entraînera une diminution des coûts de production, ce qui déplacera la courbe d'offre à court terme vers la droite.
+
+(d) La suppression des subventions sur les produits agricoles entraînera une augmentation des coûts de production, ce qui déplacera la courbe d'offre à court terme vers la gauche.
+
+(e) L'augmentation du salaire minimum entraînera une augmentation des coûts de production, ce qui déplacera la courbe d'offre à court terme vers la gauche.
