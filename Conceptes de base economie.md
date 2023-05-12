@@ -3,7 +3,7 @@ tags : mod economie
 ---
 Created: 2022-09-28
 
-## Concept cle
+## Concept clé
 - Choix
 - Rareté
 - Interdépendance
