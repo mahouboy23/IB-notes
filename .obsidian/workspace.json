@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptes de base economie.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +266,13 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "Definition de L'abstraction.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Le Cid.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "Conceptes de base economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
@@ -273,25 +280,18 @@
     "Excalidraw/Ogct new.md",
     "Excalidraw/ogct.md",
     "Prompt and object.md",
-    "IB overview.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
     "Raisonnement par abstraction.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Excalidraw/GANTT.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement simultané.md",
-    "Le Cid.md",
     "Raisonnement par anticipation.md",
     "Excalidraw/Drawing 2023-05-10 15.39.06.excalidraw.md",
-    "hl subjects/Computer science.md",
     "TOK WORK 5.md",
     "common core/TOK.md",
     "The arts.md",
-    "TOK Exhibition.md",
-    "TOK EXHIBITION DRAFT.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",

@@ -1,4 +1,4 @@
----
+		---
 tags : mod cs
 ---
 Created: 2023-03-31
@@ -24,3 +24,5 @@ Created: 2023-03-31
 2. [[L'abstraction et la programmation]] 
 
 [[TD- Pensée informatique résolution de problèmes et programmation]] 
+
+## 
