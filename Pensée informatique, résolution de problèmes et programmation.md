@@ -25,4 +25,4 @@ Created: 2023-03-31
 
 [[TD- Pensée informatique résolution de problèmes et programmation]] 
 
-## 
+## Les collections de données
