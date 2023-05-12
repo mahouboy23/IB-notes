@@ -23,11 +23,9 @@
             "id": "4064df0df1aa4843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Prompt and object.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ogct.md"
               }
             }
           },
@@ -268,16 +266,17 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "Macroéconomie.md",
-    "TD economie.md",
-    "sl subjects/Economie.md",
+    "Excalidraw/ogct.md",
+    "Prompt and object.md",
     "IB overview.md",
+    "TD economie.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
     "Raisonnement par abstraction.md",
-    "Prompt and object.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Excalidraw/GANTT.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
@@ -293,7 +292,6 @@
     "TOK EXHIBITION DRAFT.md",
     "Object.md",
     "Perspective.md",
-    "Scope.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
