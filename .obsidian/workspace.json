@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "TD economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "TD economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "TD economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "TD economie.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "TD economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,10 +268,14 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "TD economie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Mécanique.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
-    "IB overview.md",
     "Raisonnement par abstraction.md",
     "Prompt and object.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
@@ -290,10 +294,6 @@
     "Object.md",
     "Perspective.md",
     "Scope.md",
-    "personal knowledge.md",
-    "TOK WORK 4.md",
-    "hl subjects/Math AA.md",
-    "hl subjects/Français B.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
