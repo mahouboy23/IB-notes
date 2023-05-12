@@ -10,3 +10,5 @@ Created: 2023-05-12
    **b)** 
 
 3. **a)** 
+
+La courbe d'offre à court terme représente la relation positive entre le prix des biens et services et la quantité que les entreprises sont disposées à produire à court terme. Si les prix augmentent, les entreprises sont généralement disposées à offrir une plus grande quantité de biens et services sur le marché.
