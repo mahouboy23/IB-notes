@@ -14,4 +14,11 @@ La courbe d'offre à court terme représente la relation positive entre le prix 
 
   **b)** Le déplacement le long de la courbe d'offre à court terme est causé par un changement du niveau des prix, qui entraîne une variation de la quantité offerte par les entreprises.
   
-  **c)** 
+  **c)** Les facteurs qui peuvent déplacer la courbe d'offre à court terme sont
+-   Les coûts de production plus élevés ou plus faibles peuvent déplacer la courbe d'offre à gauche ou à droite.
+-   Une technologie plus efficace peut déplacer la courbe d'offre à droite.
+-   Une demande plus élevée peut déplacer la courbe d'offre à droite.
+-   Des politiques gouvernementales qui affectent les coûts de production ou la rentabilité peuvent déplacer la d'offre à gauche ou à droite.
+-   Des prix plus élevés pour les produits concurrents peuvent déplacer la courbe d'offre à droite.
+
+4. 
