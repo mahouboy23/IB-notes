@@ -3,6 +3,7 @@ tags : mod economie
 ---
 Created: 2022-09-28
 
+## Concept cle
 - Choix
 - Rareté
 - Interdépendance
@@ -12,6 +13,8 @@ Created: 2022-09-28
 - Durabilité| Soutenabilité
 - Equité
 - Bien-etre
+
+
 - Excèdent = pléthore
 - Penuries = 
 -  **Valeur Ajoutée (VA)** : CA - CI = VA 
