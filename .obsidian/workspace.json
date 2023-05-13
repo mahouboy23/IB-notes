@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Physics AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Physics AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Physics AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "Physics AI.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Physics AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,8 +266,11 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
+    "sl subjects/Physics.md",
+    "Physics AI.md",
     "IB overview.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Definition de L'abstraction.md",
     "Le Cid.md",
@@ -282,7 +285,6 @@
     "Excalidraw/ogct.md",
     "Prompt and object.md",
     "Mécanique.md",
-    "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
     "Raisonnement par abstraction.md",
@@ -290,8 +292,6 @@
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
     "Excalidraw/Drawing 2023-05-10 15.39.06.excalidraw.md",
-    "TOK WORK 5.md",
-    "common core/TOK.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",

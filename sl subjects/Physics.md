@@ -12,3 +12,5 @@ tags : mod Physique
 ### **Theme 7** : [[Physique nucléaire, atomique et des particules]] 
 
 [[Recueil de données]]  
+
+[[Physics AI]] 
