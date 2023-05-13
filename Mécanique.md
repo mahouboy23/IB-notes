@@ -73,6 +73,8 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 
 
+
+
 ## Force et Lois de Newton
 
 ### **A)** Exemples de forces

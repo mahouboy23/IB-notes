@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics AI.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,9 +266,11 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
-    "Physics AI.md",
+    "Mécanique.md",
     "IB overview.md",
+    "Physics AI.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
@@ -284,14 +286,12 @@
     "Excalidraw/Ogct new.md",
     "Excalidraw/ogct.md",
     "Prompt and object.md",
-    "Mécanique.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
     "Raisonnement par abstraction.md",
     "Excalidraw/GANTT.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
-    "Excalidraw/Drawing 2023-05-10 15.39.06.excalidraw.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
