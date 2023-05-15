@@ -153,7 +153,7 @@ synopsis:
 The novel explores themes of power, control, and the struggle between civilization and savagery. As the boys struggle to maintain order and find a way to be rescued, they must confront their own inner demons and the brutal reality of survival in the wild.
 
 Extract: 
-An extract from "Lord of the Flies" by William Golding, from Chapter 8, page 143:
+An extract from "Lord of the Flies" by William Golding, from Chapter 12, page 143:
 "Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of a true, wise friend called Piggy."
 
 Introduction: 
