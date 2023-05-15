@@ -149,10 +149,10 @@ Choose a en extract of literary or non-literary work of your choosing of about 2
 - Conclusion (answer to the problematic/thesis that you formulated)
 - 
 synopsis: 
-**The book centers on Stanley Yelnats, who is sent to Camp Green Lake, a correctional boot camp in a desert in Texas, after being falsely accused of theft**. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present.
+"Lord of the Flies" is a novel by William Golding that explores the dark side of human nature. **The story follows a group of British schoolboys who become stranded on an uninhabited island after a plane crash. The boys must learn to survive on the island, but as time passes, they become increasingly savage and violent.**
+The novel explores themes of power, control, and the struggle between civilization and savagery. As the boys struggle to maintain order and find a way to be rescued, they must confront their own inner demons and the brutal reality of survival in the wild.
 
-
-possible extract: 
+Extract: 
 An extract from "Lord of the Flies" by William Golding, from Chapter 8, page 143:
 "Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of a true, wise friend called Piggy."
 
