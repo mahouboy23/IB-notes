@@ -155,34 +155,22 @@ info author:
 Louis Sachar is an American young-adult mystery-comedy author. He is best known for the Wayside School series and the novel Holes. Holes won the 1998 U.S. National Book Award for Young People's Literature and the 1999 Newbery Medal for the year's "most distinguished contribution to American literature for children".
 
 possible extract: 
-"Stanley watched Zero crawl back through his hole. It was a miracle he was still alive, but Stanley knew he would have to get him back to camp soon, even if he had to carry him. He crawled after him, and was just able to squeeze his body through the hole. He never would have fit when he first came to Camp Green Lake. He’d lost a lot of weight. As he pulled himself through, his leg struck something sharp and hard. It was a shovel. For a second Stanley wondered how it got there, but then remembered that Zero had taken it with him after striking Mr. Pendanski. It was cooler under the boat, which was half buried in the dirt. There were enough cracks and holes in the bottom of the boat, now the roof, to provide light and ventilation. He could see empty jars scattered about"
+An extract from "Lord of the Flies" by William Golding, from Chapter 8, page 143:
+"Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of a true, wise friend called Piggy."
 
-Intro:
+Introduction: 
+William Golding's novel "Lord of the Flies" explores the darkest aspects of human nature, as a group of young boys are stranded on a deserted island and must confront their own inner demons. The novel is a powerful allegory that speaks to universal themes of the loss of innocence and the corruption of humanity. The chosen extract, from chapter 12, comes at a crucial point in the novel, where the characters are forced to confront the reality of their situation. Ralph, the protagonist, weeps for "the end of innocence, the darkness of man's heart, and the fall through the air of a true, wise friend called Piggy."
 
--   The novel 'Holes' by Louis Sachar follows the story of Stanley Yelnats, a boy unjustly sent to a detention camp where boys are forced to dig holes everyday.
--   The extract (pg 105-106) shows the development of friendship between Stanley and Zero, a boy in the camp who is unable to read or write.
--   The extract highlights themes of friendship, freedom vs entrapment and kindness.
+Body/Summary: 
+The phrase "the end of innocence" encapsulates the central theme of the novel, which is the loss of innocence and the corruption of humanity when removed from societal constraints. This theme is prevalent throughout the novel, as the boys slowly shed their childlike innocence and succumb to their primal desires. The loss of innocence is symbolized by the boys' physical transformation - they become dirty and disheveled, their clothes become tattered, and they begin to resemble savage animals.
 
-Body:
+The phrase "the darkness of man's heart" emphasizes the theme that evil is inherent in human nature, waiting to be unleashed when the veneer of civilization is stripped away. This idea is a direct reference to the biblical story of Adam and Eve and the fall of man. Golding uses this reference to suggest that evil is not just a societal construct, but an innate part of human nature. The novel argues that without the constraints of society, humans are capable of unspeakable acts of violence and cruelty. This is evident in the novel as the boys gradually become more violent and barbaric in their behavior.
 
--   The extract begins with Zero helping Stanley dig his hole "before sunrise", showing Zero's immense kindness, caring nature and determination. Zero sacrifices his own time to help Stanley for no benefit of his own.
+Piggy's death serves as a symbol for the breakdown of society and the loss of rationality. Piggy was the voice of reason and represented the boys' only hope for restoring order, but his death signifies the complete triumph of savagery over civilization. The phrase "the fall through the air" is significant, as it not only describes the physical event of Piggy's death but also suggests a fall from grace and the loss of something pure and good.
 
--   When Stanley tells Zero "You don't have to do this", Zero insists "I want to". This demonstrates Zero's resolute spirit and that he will not be deterred from helping Stanley. Zero then says "I'm digging for freedom", metaphorically reflecting how the unjust system of digging holes has trapped the boys. However, through friendship, they can attain a sense of freedom.
+It's important to note that "Lord of the Flies" is an allegory, which means that the novel is meant to be interpreted on a symbolic level. The island represents a microcosm of society, where the boys' actions reflect the behavior of adults in the real world. The themes of the novel are timeless and universal, as they explore the darker aspects of human nature that are still relevant today.
 
--   Zero's "lips formed a straight line of determination" reinforces how Zero is single-minded in his decision to help Stanley. Despite the challenges they face, Zero's determination and kindness shines through.
+Golding's message in "Lord of the Flies" is a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society. The novel suggests that without the restraints of civilization, humans are capable of unspeakable acts of violence and cruelty. Golding argues that it's our responsibility as humans to recognize the darkness within us and actively work to suppress it in order to maintain a peaceful and civilized society.
 
--   Stanley watches Zero dig for a while, gaining appreciation for Zero's kindness. Stanley thanks Zero, recognizing Zero as his first real friend in the camp. Their unlikely friendship shows how relationships can form between people of vastly different lives and temperaments.
- 
--   The themes of friendship and freedom are strongly depicted in the extract:
-
--   Friendship: Zero's act of kindness helps Stanley realize Zero is his friend. Their friendship provides solace in the harsh camp environment.
-
--   Freedom vs Entrapment: The metaphor of "digging for freedom" shows their trapped situation in the camp. But they find freedom through friendship - highlighting the power of relationships.
-
--   Kindness: Zero's immense kindness and selflessness is shown through him helping Stanley dig, even at his own expense. His kindness is a shining light in the darkness of the camp.
-
-Conclusion:
-
--   The extract highlights themes of friendship and freedom vs entrapment in the novel.
--   Through Zero's kind act of helping Stanley dig his hole and insisting on supporting him, an unlikely friendship develops between the two boys.
--   This friendship provides them a sense of freedom in the harsh, unjust world they live in. Zero's friendship and kindness is a beacon of hope, demonstrating how powerful relationships are.
+Conclusion: 
+The chosen extract from "Lord of the Flies" highlights the central themes of the loss of innocence and the darkness within human nature. The death of Piggy serves as a symbol of the descent into savagery and the tragedy of the loss of reason in the face of chaos. Golding's novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society, as well as a timeless allegory that speaks to the darker aspects of human nature. Ultimately, "Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within
