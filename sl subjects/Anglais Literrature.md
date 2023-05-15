@@ -251,3 +251,7 @@ It's important to note that "Lord of the Flies" is an allegory. The island repre
 Conclusion:
 
 In conclusion, the chosen extract from "Lord of the Flies" highlights the central themes of the loss of innocence and the darkness within human nature. The death of Piggy serves as a symbol of the descent into savagery and the tragedy of the loss of reason in the face of chaos. Golding's novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society, as well as a timeless allegory that speaks to the darker aspects of human nature. Ultimately, "Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within us. Thank you for listening.
+
+The novel's message is clear: we need rules, norms, and institutions to regulate our behavior and prevent us from giving in to our most base instincts.
+In today's world, we can see the importance of societal structures in controlling our behavior. From the laws that govern our societies to the social norms that guide our interactions, these structures help us to live together in peace and harmony. Without them, we risk falling into the same kind of chaos and violence that the children in "Lord of the Flies" experienced.
+As we continue to grapple with these issues, it is clear that we need to work together to build strong, stable, and just societies that can help us to overcome our innate darkness and live together in peace and harmony.
