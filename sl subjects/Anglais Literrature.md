@@ -212,4 +212,4 @@ Oral Presentation:
     -   A timeless allegory that speaks to the darker aspects of human nature
     -   The importance of societal structures and their role in controlling the innate darkness within.
 
-Ok can you extended add more details to this commentary so that i can do a 10 minute oral presentation
+Ok can you write me a script that extends and adds more details to this commentary so that i can do a 10 minute oral presentation on it. The script should be in the first person (me) where greet and then present the extract and what Im gonna say. But should try to follow these bullets point but adds as much details as needed
