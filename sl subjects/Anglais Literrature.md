@@ -147,7 +147,7 @@ Choose a en extract of literary or non-literary work of your choosing of about 2
 - brief intro 
 - body / summary
 - Conclusion (answer to the problematic/thesis that you formulated)
-- 
+
 synopsis: 
 "Lord of the Flies" is a novel by William Golding that explores the dark side of human nature. **The story follows a group of British schoolboys who become stranded on an uninhabited island after a plane crash. The boys must learn to survive on the island, but as time passes, they become increasingly savage and violent.**
 The novel explores themes of power, control, and the struggle between civilization and savagery. As the boys struggle to maintain order and find a way to be rescued, they must confront their own inner demons and the brutal reality of survival in the wild.
