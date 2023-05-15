@@ -172,3 +172,42 @@ Golding's message in "Lord of the Flies" is a warning about the dangers of unche
 
 Conclusion: 
 The chosen extract from "Lord of the Flies" highlights the central themes of the loss of innocence and the darkness within human nature. The death of Piggy serves as a symbol of the descent into savagery and the tragedy of the loss of reason in the face of chaos. Golding's novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society, as well as a timeless allegory that speaks to the darker aspects of human nature. Ultimately, "Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within
+
+Oral Presentation:
+
+-   Introduction:
+ 
+    -   William Golding's novel "Lord of the Flies"
+    -   Explores the darkest aspects of human nature
+    -   A powerful allegory that speaks to universal themes
+    -   The chosen extract from chapter 12
+
+
+-   Body/Summary:
+   
+    -   "The end of innocence"
+        -   The central theme of the novel
+        -   The loss of innocence and the corruption of humanity
+        -   Symbolized by the boys' physical transformation
+    -   "The darkness of man's heart"
+        -   Evil is inherent in human nature
+        -   The novel argues that without societal constraints, humans are capable of unspeakable acts of violence and cruelty
+    -   Piggy's death
+        -   Symbol for the breakdown of society and the loss of rationality
+        -   The complete triumph of savagery over civilization
+    -   "Lord of the Flies" is an allegory
+        -   Meant to be interpreted on a symbolic level
+        -   The island represents a microcosm of society
+        -   The themes of the novel are timeless and universal
+    -   Golding's message
+        -   A warning about the dangers of unchecked human nature
+        -   The importance of maintaining the institutions of society
+        -   Recognizing the darkness within us and actively working to suppress it
+
+
+-   Conclusion:
+
+    -   The chosen extract highlights the central themes
+    -   Golding's novel serves as a warning
+    -   A timeless allegory that speaks to the darker aspects of human nature
+    -   The importance of societal structures and their role in controlling the innate darkness within.
