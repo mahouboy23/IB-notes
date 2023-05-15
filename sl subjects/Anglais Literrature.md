@@ -211,3 +211,5 @@ Oral Presentation:
     -   Golding's novel serves as a warning
     -   A timeless allegory that speaks to the darker aspects of human nature
     -   The importance of societal structures and their role in controlling the innate darkness within.
+
+Ok can you extended add more details to this commentary so that i can do a 10 minute oral presentation
