@@ -151,8 +151,6 @@ Choose a en extract of literary or non-literary work of your choosing of about 2
 synopsis: 
 **The book centers on Stanley Yelnats, who is sent to Camp Green Lake, a correctional boot camp in a desert in Texas, after being falsely accused of theft**. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present.
 
-info author: 
-Louis Sachar is an American young-adult mystery-comedy author. He is best known for the Wayside School series and the novel Holes. Holes won the 1998 U.S. National Book Award for Young People's Literature and the 1999 Newbery Medal for the year's "most distinguished contribution to American literature for children".
 
 possible extract: 
 An extract from "Lord of the Flies" by William Golding, from Chapter 8, page 143:
