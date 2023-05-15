@@ -229,3 +229,25 @@ It's important to note that "Lord of the Flies" is an allegory. The island repre
 Conclusion:
 
 In conclusion, the chosen extract from "Lord of the Flies" highlights the central themes of the loss of innocence and the darkness within human nature. The death of Piggy serves as a symbol of the descent into savagery and the tragedy of the loss of reason in the face of chaos. Golding's novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society, as well as a timeless allegory that speaks to the darker aspects of human nature. Ultimately, "Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within us. Thank you for listening.
+
+I want to develop thesis using simple english and at the end make an open ended statement that later be developed try to make it detail and big but with simple terms.
+The thesis : Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within us.
+Original commentary / context :
+
+Introduction:
+
+Hello everyone, today I'll be talking about William Golding's novel "Lord of the Flies", which explores the darkest aspects of human nature. The novel is a powerful allegory that speaks to universal themes of the loss of innocence and the corruption of humanity. The extract I've chosen, from chapter 12, comes at a crucial point in the novel, where the characters are forced to confront the reality of their situation. Ralph, the protagonist, weeps for "the end of innocence, the darkness of man's heart, and the fall through the air of a true, wise friend called Piggy."
+
+Body/Summary:
+
+"The end of innocence" is the central theme of the novel. As the boys are stranded on a deserted island and left without societal constraints, they slowly shed their childlike innocence and succumb to their primal desires. This loss of innocence is symbolized by the boys' physical transformation, as they become dirty and disheveled, their clothes become tattered, and they begin to resemble savage animals. This transformation illustrates how humans are capable of abandoning their civilized behavior and descending into savagery.
+
+"The darkness of man's heart" emphasizes the theme that evil is inherent in human nature. Golding uses this reference to suggest that evil is not just a societal construct, but an innate part of human nature. Without the constraints of society, humans are capable of unspeakable acts of violence and cruelty. The novel argues that as humans, it is our responsibility to recognize the darkness within us and actively work to suppress it in order to maintain a peaceful and civilized society.
+
+Piggy's death serves as a symbol for the breakdown of society and the loss of rationality. Piggy was the voice of reason and represented the boys' only hope for restoring order, but his death signifies the complete triumph of savagery over civilization. The phrase "the fall through the air" is significant, as it not only describes the physical event of Piggy's death but also suggests a fall from grace and the loss of something pure and good. It is a reminder that when humanity descends into chaos, it is the rational, logical voice that is silenced.
+
+It's important to note that "Lord of the Flies" is an allegory. The island represents a microcosm of society, where the boys' actions reflect the behavior of adults in the real world. The themes of the novel are timeless and universal, as they explore the darker aspects of human nature that are still relevant today. The novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society.
+
+Conclusion:
+
+In conclusion, the chosen extract from "Lord of the Flies" highlights the central themes of the loss of innocence and the darkness within human nature. The death of Piggy serves as a symbol of the descent into savagery and the tragedy of the loss of reason in the face of chaos. Golding's novel serves as a warning about the dangers of unchecked human nature and the importance of maintaining the institutions of society, as well as a timeless allegory that speaks to the darker aspects of human nature. Ultimately, "Lord of the Flies" asks us to consider the importance of societal structures and the role they play in controlling the innate darkness within us. Thank you for listening.
