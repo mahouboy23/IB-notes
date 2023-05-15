@@ -15,8 +15,35 @@ tags : mod Physique
 
 [[Physics AI]] 
 
-hey can you help me with my oral presentation. I want to prepare full commentary on a extract of (find and choose the most interesting and pertinent extract with a lot of meaning and then state it with the exact page/chapter number put it in quotes) holes by Louis Sachar with details and everything that can last about 8 minutes but then i want you to give a bullet version of the commentary and that what I'm gonna use to present, give me most of the important info and themes and i will fill in the gaps during the 10 m presentation here is the structure of the work:
-Choose a en extract of literary or non-literary work of your choosing of maximum 20 lines and make a commentary about. After you must prepare a presentation of maximum 10 minutes 
-- brief intro (introduce the book, author and extract also introduce the thesis)
-- body / summary 
-- Conclusion (answer to the problematic/thesis that you formulated)
+
+
+
+Intro:
+
+-   The novel 'Holes' by Louis Sachar follows the story of Stanley Yelnats, a boy unjustly sent to a detention camp where boys are forced to dig holes everyday.
+-   The extract (pg 105-106) shows the development of friendship between Stanley and Zero, a boy in the camp who is unable to read or write.
+-   The extract highlights themes of friendship, freedom vs entrapment and kindness.
+
+Body:
+
+-   The extract begins with Zero helping Stanley dig his hole "before sunrise", showing Zero's immense kindness, caring nature and determination. Zero sacrifices his own time to help Stanley for no benefit of his own.
+
+-   When Stanley tells Zero "You don't have to do this", Zero insists "I want to". This demonstrates Zero's resolute spirit and that he will not be deterred from helping Stanley. Zero then says "I'm digging for freedom", metaphorically reflecting how the unjust system of digging holes has trapped the boys. However, through friendship, they can attain a sense of freedom.
+
+-   Zero's "lips formed a straight line of determination" reinforces how Zero is single-minded in his decision to help Stanley. Despite the challenges they face, Zero's determination and kindness shines through.
+
+-   Stanley watches Zero dig for a while, gaining appreciation for Zero's kindness. Stanley thanks Zero, recognizing Zero as his first real friend in the camp. Their unlikely friendship shows how relationships can form between people of vastly different lives and temperaments.
+ 
+-   The themes of friendship and freedom are strongly depicted in the extract:
+
+-   Friendship: Zero's act of kindness helps Stanley realize Zero is his friend. Their friendship provides solace in the harsh camp environment.
+
+-   Freedom vs Entrapment: The metaphor of "digging for freedom" shows their trapped situation in the camp. But they find freedom through friendship - highlighting the power of relationships.
+
+-   Kindness: Zero's immense kindness and selflessness is shown through him helping Stanley dig, even at his own expense. His kindness is a shining light in the darkness of the camp.
+
+Conclusion:
+
+-   The extract highlights themes of friendship and freedom vs entrapment in the novel.
+-   Through Zero's kind act of helping Stanley dig his hole and insisting on supporting him, an unlikely friendship develops between the two boys.
+-   This friendship provides them a sense of freedom in the harsh, unjust world they live in. Zero's friendship and kindness is a beacon of hope, demonstrating how powerful relationships are.

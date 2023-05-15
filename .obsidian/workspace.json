@@ -23,9 +23,11 @@
             "id": "4064df0df1aa4843",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Ogct new.md"
+                "file": "sl subjects/Anglais Literrature.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -53,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -215,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,12 +267,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b1fdb4b796a6535",
+  "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
-    "Mécanique.md",
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "Excalidraw/Ogct new.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Mécanique.md",
     "Physics AI.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
@@ -283,7 +288,6 @@
     "sl subjects/Economie.md",
     "Macroéconomie.md",
     "TD economie.md",
-    "Excalidraw/Ogct new.md",
     "Excalidraw/ogct.md",
     "Prompt and object.md",
     "Electricité et magnétisme.md",
@@ -291,7 +295,6 @@
     "Raisonnement par abstraction.md",
     "Excalidraw/GANTT.md",
     "Raisonnement simultané.md",
-    "Raisonnement par anticipation.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
