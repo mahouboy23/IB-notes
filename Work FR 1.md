@@ -15,4 +15,4 @@ Sujet 3: Comment aider les enfants a affronter une séparation ou un divorce ?
 
 #### Impact sur les relation avec les parents 
 
-Et donc a cause de cette relation parental les enfants non pas 
+Et donc a cause de cette relation parental les enfants non pas de soutiens, les parents ont pour tâche d’élever et d’éduquer leurs enfants et de les préparer pour la vie adulte. Ces parents permet le bon développement de leurs développement 
