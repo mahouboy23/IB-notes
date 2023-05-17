@@ -34,3 +34,6 @@ Accepting that
 **Question :** Can you think of ways that artistic representation such as paintings, literature or films have shaped the way you think about particular people events or people. 
 
 I think artistic representation in films, paintings and literature especially for me has shaped my view of particular events. For exemple my view of world war I has been completely skewed thanks to representation by film that try to reenact the events and the story told in autobiographic work has molded my understanding of the events of world war one.
+
+1. To what extent is the creation of new art the same as the creation of new knowledge in the arts ?
+2. What is the relationship between art and knowledge?
