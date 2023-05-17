@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,20 +269,22 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
-    "Mécanique.md",
+    "Raisonnement par anticipation.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Organigramme.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Mécanique.md",
+    "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "Excalidraw/Ogct new.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Physics AI.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Definition de L'abstraction.md",
     "Le Cid.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
-    "hl subjects/Computer science.md",
     "Conceptes de base economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
@@ -293,8 +295,6 @@
     "Electricité et magnétisme.md",
     "Recueil de données.md",
     "Raisonnement par abstraction.md",
-    "Excalidraw/GANTT.md",
-    "Raisonnement simultané.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
