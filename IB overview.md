@@ -13,6 +13,6 @@ tags : ib
 - [[Physics]] 🔭
 
 ## Common core
-- [[TOK]] 
-- [[common core/CAS]]
-- [[EE]]
+- [[TOK]] 🧠
+- [[common core/CAS]] ⚽
+- [[EE]] 📑

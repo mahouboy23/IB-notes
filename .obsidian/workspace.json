@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "hl subjects/Français B.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -218,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,15 +266,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "e900348822b7304a",
   "lastOpenFiles": [
-    "Raisonnement par anticipation.md",
+    "hl subjects/Français B.md",
+    "IB overview.md",
+    "sl subjects/Physics.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Raisonnement par anticipation.md",
     "Organigramme.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Mécanique.md",
-    "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "Excalidraw/Ogct new.md",
     "Mouvement circulaire uniforme et gravitation.md",
@@ -294,7 +294,6 @@
     "Prompt and object.md",
     "Electricité et magnétisme.md",
     "Recueil de données.md",
-    "Raisonnement par abstraction.md",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
