@@ -28,4 +28,4 @@ Accepting that
 ## Natural sciences
 
 
-Can you think of ways of artistic representation such as paintings, literature or films have shaped the way you think about 
+Can you think of ways that artistic representation such as paintings, literature or films have shaped the way you think about particular people events or people
