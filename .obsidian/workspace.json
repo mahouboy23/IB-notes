@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,11 +270,11 @@
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
     "sl subjects/Physics.md",
-    "sl subjects/Anglais Literrature.md",
+    "Mécanique.md",
     "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
     "Excalidraw/Ogct new.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "Mécanique.md",
     "Physics AI.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
