@@ -26,3 +26,6 @@ Language plays a substantial role in the recording of history and passing on of 
 Accepting that
 
 ## Natural sciences
+
+
+Can you think of ways of artistic representation such as paintings, literature or films have shaped the way you think about 
