@@ -28,4 +28,6 @@ Accepting that
 ## Natural sciences
 
 
-Can you think of ways that artistic representation such as paintings, literature or films have shaped the way you think about particular people events or people
+Can you think of ways that artistic representation such as paintings, literature or films have shaped the way you think about particular people events or people. 
+
+I think artistic representation in films, paintings and literature especially for me has shaped my view of particular events. For exemple my view of world war I has been completely skewed thanks to representation by film that try to reenact the events and the story told in autobiographic work has molded my understanding of the events of world war one.
