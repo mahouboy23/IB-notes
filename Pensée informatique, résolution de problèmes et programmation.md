@@ -27,3 +27,8 @@ Created: 2023-03-31
 
 ## Les collections de données
 [[]]
+
+
+## Algorithmes pour résoudre un problème
+
+ Comparaison d'algorithmes

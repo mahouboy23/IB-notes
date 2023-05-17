@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scope.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scope.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scope.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scope.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scope.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,22 +268,23 @@
   },
   "active": "6b1fdb4b796a6535",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "Attributs du profil de l'apprenant.md",
+    "common core/CAS.md",
+    "Scope.md",
     "assets/Scope",
     "common core/TOK.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "12concepts.md",
-    "Scope.md",
     "Prompt and object.md",
-    "IB overview.md",
-    "common core/CAS.md",
     "Work FR 1.md",
     "hl subjects/Français B.md",
     "sl subjects/Physics.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement par anticipation.md",
     "Organigramme.md",
-    "hl subjects/Computer science.md",
     "Mécanique.md",
     "sl subjects/Anglais Literrature.md",
     "Excalidraw/Ogct new.md",
@@ -313,7 +314,6 @@
     "assets/L'abstraction et la programmation",
     "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
     "assets/Français B/Diagram.svg.xml",
-    "assets/Français B",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
