@@ -15,4 +15,4 @@ Sujet 3: Comment aider les enfants a affronter une séparation ou un divorce ?
 
 #### Impact sur les relation avec les parents 
 
-Ce 
+Et donc a cause de cette relation parental les enfants non pas 
