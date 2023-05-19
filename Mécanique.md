@@ -14,7 +14,7 @@ Souvent la longueur du déplacement est différente de la distance parcourue
 **Trajectoire** :: est l'ensemble des position prise par l'objet ou par le mobile au cour du temps
 
 #### VITESSE 
-##### A) VITESSE SCALAORE MOYENNE
+##### A) VITESSE SCALAIRE MOYENNE
 $$ V = \frac{d}{t}$$
 ##### B) VECTEUR VITESSE MOYENNE (VELOCITY)
 $$\vec{V}=\frac{\vec{D}}{\Delta{\vec{t}}}$$
