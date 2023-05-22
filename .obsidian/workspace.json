@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Oral presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Oral presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Oral presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Oral presentation.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Oral presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,6 +257,8 @@
   },
   "active": "5e782aa71ad9a5f6",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "Oral presentation.md",
     "IB overview.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Mécanique.md",
@@ -281,8 +283,6 @@
     "Langage de programmation.md",
     "Notion de pseudocode.md",
     "Diagramme de flux; Organigramme.md",
-    "Langue naturelle.md",
-    "bor.md",
     "assets/Scope",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
