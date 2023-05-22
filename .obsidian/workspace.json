@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TD- Pensée informatique résolution de problèmes et programmation.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,11 +255,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "5e782aa71ad9a5f6",
   "lastOpenFiles": [
+    "IB overview.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Mécanique.md",
     "sl subjects/Physics.md",
     "Physique thermique.md",
-    "IB overview.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement par abstraction.md",
     "hl subjects/Computer science.md",
@@ -269,7 +272,6 @@
     "Flux circulaire de revenus.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
     "Pensée logique.md",
@@ -280,7 +282,6 @@
     "Notion de pseudocode.md",
     "Diagramme de flux; Organigramme.md",
     "Langue naturelle.md",
-    "Mécanique.md",
     "bor.md",
     "assets/Scope",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
