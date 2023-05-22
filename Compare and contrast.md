@@ -40,3 +40,28 @@ So one of the key similarities between King Lear and Houseboy is there explorati
 In conclusion while there may be many differences King Lear and Houseboy there also several key similarities between the two literary works. Both explore themes related to power, authority and betrayal. feature complex and multi-dimensional characters and asset an environment marked by social and political upheaval. By examining this similarities we can gain deeper understanding of the ways in which literature can provide insights to into the human experience.
 
 Can you compare and contrast the treatment of Toundi by the french colonizers and by his fellow Africans. How do different characters view Toundi's role as a servant, and how does this impact Touni's own sense of identity and belonging? and add an intoduction differences, similarities, characters, symbols, themes and conclusion.
+
+
+Essay prompt: 
+In what ways and for what reasons do ==Scarlett Letter== and ==House Boy== appeal to there audiences ==eyes and ears== ?
+Compare and contrast the way in which they appeal to the auditory and visual senses of there audiences eyes and ears.
+
+**P**oint 
+**E**vidence
+**A**nalyses
+**C**ontext
+**E**valuation
+
+**The Scarlet Letter**
+
+-   Visual appeal through vivid descriptions of Puritan society and the scarlet letter symbol.
+-   Auditory appeal through formal and elevated language.
+-   Written in the 19th century to reflect author's concerns about Puritan society.
+-   Classic novel known for its depiction of guilt, shame, and redemption.
+
+**Houseboy**
+
+-   Auditory appeal through native African English and oral storytelling.
+-   Visual appeal through descriptions of colonial Cameroon and protagonist's struggles with identity.
+-   Written in the 1960s by a Cameroonian writer to reflect concerns about colonialism, racism, and identity in Africa.
+-   Powerful and moving novel that offers a unique perspective on colonialism.
