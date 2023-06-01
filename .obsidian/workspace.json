@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md"
+                "file": "definition.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "definition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +256,8 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
+    "definition.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Mécanique.md",
@@ -280,8 +282,6 @@
     "Raisonnement par anticipation.md",
     "Pensée logique.md",
     "Le concept de programmation.md",
-    "Organigramme.md",
-    "La notion de problème.md",
     "assets/Scope",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
