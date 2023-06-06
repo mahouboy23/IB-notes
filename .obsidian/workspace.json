@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "definition.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,10 +256,12 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Mouvement circulaire uniforme et gravitation.md",
-    "definition.md",
+    "Electricité et magnétisme.md",
     "sl subjects/Physics.md",
     "IB overview.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "La loi de gravitation universelle de Newton.md",
+    "definition.md",
     "Mécanique.md",
     "sl subjects/Anglais Literrature.md",
     "Time and space.md",
@@ -280,8 +282,6 @@
     "sl subjects/Economie.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
-    "Pensée logique.md",
-    "Le concept de programmation.md",
     "assets/Scope",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
