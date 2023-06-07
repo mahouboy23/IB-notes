@@ -33,4 +33,4 @@ Created: 2023-03-31
 
  Comparaison d'algorithmes
 
-[[Exo 1]] 
+[[Exo info]] 

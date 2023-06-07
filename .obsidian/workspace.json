@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo 1.md",
-                "mode": "preview",
+                "file": "Exo info.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo 1.md",
+                "file": "Exo info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo 1.md",
+                "file": "Exo info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo 1.md"
+                "file": "Exo info.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exo 1.md",
+                "file": "Exo info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +268,7 @@
   "active": "7be032e5b26c97fe",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "Exo 1.md",
+    "Exo info.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "Le Cid.md",

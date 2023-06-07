@@ -34,7 +34,7 @@ loop A from 0 to B
 end loop
 
 ex 6:
-```python
+```python 
 A = input("Donner un nombre")
 B = input("Donner un nombre")
 C = input("Donner un nombre")
