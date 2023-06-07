@@ -45,3 +45,4 @@ En résumé, "Le Cid" est une pièce de théâtre en cinq actes qui explore les 
 5.  Prolepse : La prolepse est une figure de style qui consiste en l'utilisation d'un temps verbal pour indiquer un événement futur. Corneille utilise la prolepse pour créer de l'ironie ou pour souligner l'importance d'un événement. Par exemple, lorsque Don Diègue dit "Je l'ai fait, et bien fait", il utilise la prolepse pour indiquer que la conséquence de son acte sera positive, même si cela n'est pas encore clair pour le public.
 
 En résumé, Pierre Corneille a utilisé un style sophistiqué et élaboré dans sa pièce "Le Cid", avec des procédés et des figures de style tels que l'alexandrin, l'antithèse, la métaphore, l'anaphore et la prolepse. Ces éléments ont permis de créer une atmosphère poétique, dramatique et rythmée dans la pièce.
+
