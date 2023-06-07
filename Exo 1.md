@@ -11,4 +11,4 @@ output N1 * N2
 Ex 2:
 Nombre = input("Donner un nombre")
 if Nombre != 5 and Nombre != 6 then
-    
+    output "C'est ni un 5 ni un 6"
