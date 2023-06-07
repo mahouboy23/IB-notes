@@ -25,3 +25,12 @@ loop A from 1 to 20
  output B
 
 ex 5:
+A = 0
+B = input("Donner le point d'arret")
+loop A from 0 to B
+ if A mod 2 = 0 then
+  output A
+ end if
+end loop
+
+ex 6:
