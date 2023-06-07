@@ -34,7 +34,7 @@ loop A from 0 to B
 end loop
 
 ex 6:
-
+```
 A = input("Donner un nombre")
 B = input("Donner un nombre")
 C = input("Donner un nombre")
@@ -43,4 +43,6 @@ E = input("Donner un nombre")
 
 Somme = A + B + C + D + E  
 Moy = somme / 5
+```
+
 
