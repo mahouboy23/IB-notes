@@ -4,27 +4,35 @@ tags : mod cs
 Created: 2023-06-07
 
 Ex 1: 
+``` python
 N1 = input("Saisir le 1er nombre ")
 N2 = input("Saisir le 2eme nombre ")
 output N1 * N2
+```
 
 Ex 2:
+``` java
 Nombre = input("Donner un nombre")
 if Nombre != 5 and Nombre != 6 then
     output "C'est ni un 5 ni un 6"
 end if
+```
 
 Ex 3: 
 
 
+
 ex 4: 
+``` python
 A = 0
 B = 0
 loop A from 1 to 20 
  B = B + 5
  output B
+```
 
 ex 5:
+```python
 A = 0
 B = input("Donner le point d'arret")
 loop A from 0 to B
@@ -32,17 +40,42 @@ loop A from 0 to B
   output A
  end if
 end loop
+```
 
 ex 6:
 ```python 
-A = input("Donner un nombre")
-B = input("Donner un nombre")
-C = input("Donner un nombre")
-D = input("Donner un nombre")
-E = input("Donner un nombre")
+A = new Array()
+B = 0
+S = 0
+average = 0
+min = A[0]
+max = A[0]
 
-Somme = A + B + C + D + E  
-Moy = somme / 5
+
+loop B from 0 to 4
+ A[B] = input("Donner un nombre")
+end loop
+
+loop B from 0 to 4
+ output "Array position", B, "contient la valeur", A[B]
+end loop
+
+loop B from 0 to 4
+ if min >= A[B] then
+  min = A[B]
+ end if
+ if max <= A[B] then
+  max = A[B]
+ end if
+ S = S + A[B]
+end loop
+
+average = S/5
+
+output "Average = ", Average, "max = " , max, "min = ", min 
 ```
 
+ex 7:
+```python
 
+```
