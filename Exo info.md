@@ -77,5 +77,19 @@ output "Average = ", Average, "max = " , max, "min = ", min
 
 ex 7:
 ```python
+input_string = input("Enter a list element separated by space ")
+list1  = input_string.split()
+def bubble_sort(list1):  
+    has_swapped = True  
+    while(has_swapped):  
+        has_swapped = False  
+        for i in range(len(list1) - 1):  
+            if list1[i] > list1[i+1]:  
+                list1[i], list1[i+1] = list1[i+1], list1[i]  
+                has_swapped = True  
+    return list1
 
+print("The unsorted list is: ", list1)  
+
+print("The sorted list is: ", bubble_sort(list1))
 ```
