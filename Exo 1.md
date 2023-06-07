@@ -15,3 +15,13 @@ if Nombre != 5 and Nombre != 6 then
 end if
 
 Ex 3: 
+
+
+ex 4: 
+A = 0
+B = 0
+loop A from 1 to 20 
+ B = B + 5
+ output B
+
+ex 5:
