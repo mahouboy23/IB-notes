@@ -12,3 +12,6 @@ Ex 2:
 Nombre = input("Donner un nombre")
 if Nombre != 5 and Nombre != 6 then
     output "C'est ni un 5 ni un 6"
+end if
+
+Ex 3: 
