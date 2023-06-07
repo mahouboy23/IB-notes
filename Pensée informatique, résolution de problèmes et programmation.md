@@ -32,3 +32,5 @@ Created: 2023-03-31
 ## Algorithmes pour résoudre un problème
 
  Comparaison d'algorithmes
+
+[[Exo 1]] 

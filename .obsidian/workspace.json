@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Exo 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Exo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Exo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Cid.md"
+                "file": "Exo 1.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Exo 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,6 +267,10 @@
   },
   "active": "7be032e5b26c97fe",
   "lastOpenFiles": [
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Exo 1.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "Le Cid.md",
     "hl subjects/Math AA.md",
     "Electricité et magnétisme.md",
@@ -274,7 +278,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "definition.md",
     "Mécanique.md",
-    "IB overview.md",
     "Champ électrique.md",
     "La loi de gravitation universelle de Newton.md",
     "sl subjects/Anglais Literrature.md",
@@ -284,15 +287,12 @@
     "Oral presentation.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Physique thermique.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement par abstraction.md",
-    "hl subjects/Computer science.md",
     "L'abstraction et la programmation.md",
     "Definition de L'abstraction.md",
     "Raisonnement procédural.md",
     "Macroéconomie.md",
     "Flux circulaire de revenus.md",
-    "Basic Macroéconomie.md",
     "assets/Scope",
     "assets/Raisonnement par anticipation/image-20230510091811637.png",
     "assets/Raisonnement par anticipation/image-20230510091222408.png",
