@@ -93,3 +93,18 @@ print("The unsorted list is: ", list1)  
 
 print("The sorted list is: ", bubble_sort(list1))
 ```
+
+ex 8:
+```python
+s = 0
+a = 0 
+loop until a < 0 
+ input a 
+ s = s + a
+ if a >= 0
+  output "The new somme is", s 
+ end if
+end loop 
+output "The total somme is", s - a
+```
+

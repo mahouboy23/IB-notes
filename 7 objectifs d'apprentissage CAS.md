@@ -20,7 +20,7 @@ Pour réussir il faut atteindre les 7 objectifs suivants
 -   **Objectif 5**         
     Démontrer des compétences et reconnaître les bénéfices du travail en collaboration
     
--   Objectif 6  
+-   **Objectif 6**  
     Démontrer son engagement dans les questions d’importances mondiale
     
 -   **Objectif 7**  

@@ -13,48 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Learn ee.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd294169fb2f3686",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "7be032e5b26c97fe",
+            "id": "1251329edb1ce792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo info.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e782aa71ad9a5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Learn/Blender.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ib overvi",
+                "query": "blender",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +78,7 @@
             }
           },
           {
-            "id": "e900348822b7304a",
+            "id": "91f2422dc317b946",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -135,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo info.md",
+                "file": "Learn ee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo info.md",
+                "file": "Learn ee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo info.md"
+                "file": "Learn ee.md"
               }
             }
           },
@@ -216,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exo info.md",
+                "file": "Learn ee.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,54 +242,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be032e5b26c97fe",
+  "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "Exo info.md",
-    "hl subjects/Computer science.md",
+    "New version EE.md",
+    "Learn ee.md",
+    "common core/EE.md",
     "IB overview.md",
-    "Le Cid.md",
-    "hl subjects/Math AA.md",
-    "Electricité et magnétisme.md",
     "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "definition.md",
-    "Mécanique.md",
-    "Champ électrique.md",
-    "La loi de gravitation universelle de Newton.md",
-    "sl subjects/Anglais Literrature.md",
-    "Time and space.md",
-    "Key features of stories.md",
-    "Compare and contrast.md",
-    "Oral presentation.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "Learn/Blender.md",
+    "Learn/assets/Blender/image-20230628131644441.png",
+    "Learn/assets/Blender",
+    "Learn/assets",
+    "Terms.md",
+    "Organic shapes.md",
+    "Geometric shapes.md",
+    "Organic objects.md",
     "Physique thermique.md",
-    "Raisonnement par abstraction.md",
-    "L'abstraction et la programmation.md",
-    "Definition de L'abstraction.md",
-    "Raisonnement procédural.md",
-    "Macroéconomie.md",
-    "Flux circulaire de revenus.md",
+    "Mécanique.md",
+    "Notion de cinématique.md",
+    "Mesure d'incertitude.md",
+    "template/TOK-.md",
+    "template/math-.md",
+    "Untitled 4.md",
+    "template/CAS-.md",
+    "template/francais-.md",
+    "hl subjects/Computer science.md",
+    "Learn",
+    "Excalidraw/Graph economie.md",
+    "Travaille d'une force.md",
+    "Electricité et magnétisme.md",
+    "rappels d'électrostatique.md",
+    "Champ électrique.md",
+    "Application des loi de Newton.md",
+    "assets/Travaille d'une force/image-20230615084814820.png",
+    "assets/Travaille d'une force/image-20230615082950257.png",
+    "assets/Travaille d'une force/Pasted image 20230615082356.png",
+    "assets/TOK EXHIBITION DRAFT/image-20230614091611233.png",
+    "assets/Poussée d'Archimede/image-20230612215201612.png",
+    "assets/Poussée d'Archimede/image-20230612214611480.png",
+    "assets/Poussée d'Archimede",
+    "assets/Tension d'un fil/image-20230612214104797.png",
+    "assets/Tension d'un fil",
+    "assets/Réaction d'un support/image-20230612213846847.png",
+    "assets/Réaction d'un support",
+    "assets/Travaille d'une force/image-20230612164314064.png",
+    "assets/Travaille d'une force",
+    "assets/Application",
     "assets/Scope",
-    "assets/Raisonnement par anticipation/image-20230510091811637.png",
-    "assets/Raisonnement par anticipation/image-20230510091222408.png",
     "assets/Raisonnement par anticipation",
-    "assets/Organigramme/image-20230510085403882.png",
-    "assets/Organigramme",
-    "assets/La notion de problème/image-20230510084339261.png",
-    "assets/La notion de problème/image-20230510083634921.png",
-    "assets/La notion de problème",
-    "assets/Mécanique/Pasted image 20230509090413.png",
-    "assets/Mécanique/Pasted image 20230509081424.png",
-    "assets/Mécanique/Pasted image 20230504095510.png",
-    "assets/Mécanique/Pasted image 20230504094025.png",
-    "assets/TOK EXHIBITION DRAFT/image-20230503090500843.png",
-    "assets/TOK EXHIBITION DRAFT",
-    "assets/Anglais Literrature",
-    "Excalidraw/assets/nm",
-    "assets/L'abstraction et la programmation",
-    "PDF/OCC_d_4_physi_inf_1402_3_f.pdf",
-    "assets/Français B/Diagram.svg.xml",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

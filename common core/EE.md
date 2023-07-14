@@ -80,3 +80,5 @@ decision trees, random forests, and support vector machines.
 [[Extended essay draft final]] 
 
 I am deeply interested in joining the Inspirit AI Scholars program because of my interest in artificial intelligence and its applications in various fields. The program provides a unique opportunity to learn from experts, which aligns perfectly with my goal to gain hands-on experience in this field. One of the primary reasons for my interest is my intrigue by the various applications of AI technology, such as the chatbot ChatGPT and Stable Diffusion, and I am excited to learn more about how they work. Additionally, I am pursuing studies in computer science and believe that the Inspirit AI Scholars program would provide me with valuable opportunities to develop my skills further. Although programming skills are not necessary for the program, I am eager to learn more about the technical aspects of AI.
+
+# [[New version EE]] 

@@ -7,6 +7,7 @@ Created: 2023-03-24
 <br/>
 ### Mot clés en économie
 [[Conceptes de base economie|Economics basic concepts]] 
+[[Commentaire d'economie]] 
 
 ##  Parte 1 :  La demande 
  1. [[La demande|definition]] 
