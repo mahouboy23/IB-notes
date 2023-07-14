@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn ee.md"
+                "file": "Experiment.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Experiment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,8 +245,9 @@
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
     "New version EE.md",
-    "Possible structure.md",
+    "Experiment.md",
     "Learn ee.md",
+    "Possible structure.md",
     "common core/EE.md",
     "IB overview.md",
     "sl subjects/Physics.md",
@@ -273,7 +274,6 @@
     "Travaille d'une force.md",
     "Electricité et magnétisme.md",
     "rappels d'électrostatique.md",
-    "Champ électrique.md",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
     "assets/Travaille d'une force/Pasted image 20230615082356.png",
