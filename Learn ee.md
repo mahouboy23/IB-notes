@@ -42,6 +42,8 @@ Created: 2023-07-14
    
    - Learn how to load and preprocess the dataset
    - Understand the defect annotations
+
+
 - Implementing the algorithms:
    
    - Genetic algorithm for hyperparameter optimization
