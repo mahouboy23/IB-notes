@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "83534af7a57bb4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1251329edb1ce792",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment.md",
+                "file": "Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment.md",
+                "file": "Untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment.md"
+                "file": "Untitled 5.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Experiment.md",
+                "file": "Untitled 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,10 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "83534af7a57bb4df",
   "lastOpenFiles": [
-    "New version EE.md",
     "Experiment.md",
+    "Untitled 5.md",
+    "New version EE.md",
     "Learn ee.md",
     "Possible structure.md",
     "common core/EE.md",
@@ -273,7 +287,6 @@
     "Excalidraw/Graph economie.md",
     "Travaille d'une force.md",
     "Electricité et magnétisme.md",
-    "rappels d'électrostatique.md",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
     "assets/Travaille d'une force/Pasted image 20230615082356.png",
