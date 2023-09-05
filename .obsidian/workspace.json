@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "EE NEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "EE NEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "EE NEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "EE NEW.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "EE NEW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,22 +257,24 @@
   },
   "active": "1a48ec18e1b24f1d",
   "lastOpenFiles": [
-    "IB overview.md",
-    "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
-    "Physique nucléaire, atomique et des particules.md",
+    "New version EE.md",
+    "EE NEW.md",
     "Experiment.md",
+    "Possible structure.md",
+    "Learn ee.md",
+    "common core/EE.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
+    "hl subjects/Math AA.md",
+    "sl subjects/Physics.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "Physique nucléaire, atomique et des particules.md",
     "Learn/Blender.md",
     "Geometric shapes.md",
     "Organic shapes.md",
     "Réactions nucléaires.md",
-    "sl subjects/Physics.md",
     "common core/CAS.md",
     "Untitled 5.md",
-    "New version EE.md",
-    "Learn ee.md",
-    "Possible structure.md",
-    "common core/EE.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
@@ -284,8 +286,6 @@
     "Mesure d'incertitude.md",
     "template/TOK-.md",
     "template/math-.md",
-    "Untitled 4.md",
-    "template/CAS-.md",
     "Learn",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
