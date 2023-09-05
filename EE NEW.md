@@ -22,23 +22,3 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 ### Algorithmes génétiques
 
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
-## Méthodologie
-
-Le jeu de données MVTec AD contenant plus de 5000 images haute résolution de produits industriels sera utilisé. Les images présentent des annotations au niveau des pixels pour différents types de défauts tels que rayures et bosses.
-
-80% des images serviront à l'entraînement du CNN et à la validation des configurations d'hyperparamètres trouvées par les algorithmes d'optimisation. Les 20% restants constitueront un ensemble de test non vu pour l'évaluation finale.
-
-Une architecture de CNN sera définie avec des couches convolutives, de mise en pool et totalement connectées. L'activation ReLU et l'optimiseur Adam seront utilisés pour un entraînement efficace. Les hyperparamètres à optimiser sont:
-
-Taille des filtres  
-Nombre de filtres par couche  
-Taux de renoncement  
-Taille de lot  
-Taux d'apprentissage  
-Le PSO et les AG seront mis en œuvre pour rechercher les valeurs optimales d'hyperparamètres maximisant la précision de validation sur 50 générations avec une population de 50 particules/chromosomes. La précision de détection de défauts sur l'ensemble de test sera mesurée avec la meilleure configuration trouvée par chaque algorithme.
-
-Les hyperparamètres, la précision de validation et la vitesse de convergence seront analysés pour évaluer l'efficacité du PSO par rapport aux AG. L'algorithme obtenant la plus haute précision de test en moins de générations sera considéré comme le plus efficace.
-
-Conclusion
-
-Cet essai compare le PSO et les AG pour l'optimisation des hyperparamètres des CNN dans le contexte de la détection automatisée de défauts. La méthodologie analyse leurs performances sur la base de la précision de test, des hyperparamètres optimaux et de la vitesse de convergence. Les résultats fourniront un éclairage sur leur adéquation à l'optimisation automatisée des hyperparamètres dans les CNN pour des tâches de vision par ordinateur.
