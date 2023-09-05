@@ -15,7 +15,7 @@ Les CNN ont révolutionné la vision d'ordinateur par leur capacité à apprendr
 
 ### Hyperparamètres de CNN
 
-Les CNN comportent divers hyperparamètres à régler, dont le nombre et la taille des filtres, le nombre de couches, le taux d'abandon, la taille de lot, le taux d'apprentissage, etc. La configuration optimale de ces hyperparamètres peut avoir un impact significatif sur la capacité du CNN à apprendre des caractéristiques efficaces et à bien généraliser. Le réglage manuel est inefficient et trouver la meilleurecombinaison d'hyperparamètres est difficile vu l'immensité de l'espace de recherche. Les algorithmes d'optimisation sont donc bien adaptés pour automatiser le processus de réglage des hyperparamètres des CNN.
+Les CNN comportent divers hyperparamètres à régler, dont le nombre et la taille des filtres, le nombre de couches, le taux d'abandon, la taille de lot, le taux d'apprentissage, etc. La configuration optimale de ces hyperparamètres peut avoir un impact significatif sur la capacité du CNN à apprendre des caractéristiques efficaces et à bien généraliser. Le réglage manuel est inefficient et trouver la meilleure combinaison d'hyperparamètres est difficile vu l'immensité de l'espace de recherche. Les algorithmes d'optimisation sont donc bien adaptés pour automatiser le processus de réglage des hyperparamètres des CNN.
 
 ### Optimisation par essaim de particules
 
