@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,23 +257,26 @@
   },
   "active": "1a48ec18e1b24f1d",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
     "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
+    "Physique nucléaire, atomique et des particules.md",
     "Experiment.md",
-    "Untitled 5.md",
     "Learn/Blender.md",
+    "Geometric shapes.md",
+    "Organic shapes.md",
+    "Réactions nucléaires.md",
+    "sl subjects/Physics.md",
+    "common core/CAS.md",
+    "Untitled 5.md",
     "New version EE.md",
     "Learn ee.md",
     "Possible structure.md",
     "common core/EE.md",
-    "sl subjects/Physics.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
     "Terms.md",
-    "Organic shapes.md",
-    "Geometric shapes.md",
     "Organic objects.md",
     "Physique thermique.md",
     "Mécanique.md",
@@ -283,10 +286,7 @@
     "template/math-.md",
     "Untitled 4.md",
     "template/CAS-.md",
-    "template/francais-.md",
-    "hl subjects/Computer science.md",
     "Learn",
-    "Excalidraw/Graph economie.md",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
     "assets/Travaille d'une force/Pasted image 20230615082356.png",
