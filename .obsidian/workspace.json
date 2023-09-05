@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f37b91cca33e13e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d10b9dca80aadcdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE NEW.md"
+                "file": "Untitled 5.md"
               }
             }
           },
@@ -206,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Untitled 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,10 +275,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a48ec18e1b24f1d",
+  "active": "d10b9dca80aadcdf",
   "lastOpenFiles": [
-    "New version EE.md",
+    "1.md",
+    "Untitled 5.md",
     "EE NEW.md",
+    "New version EE.md",
     "Experiment.md",
     "Possible structure.md",
     "Learn ee.md",
@@ -274,7 +296,6 @@
     "Organic shapes.md",
     "Réactions nucléaires.md",
     "common core/CAS.md",
-    "Untitled 5.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
@@ -285,7 +306,6 @@
     "Notion de cinématique.md",
     "Mesure d'incertitude.md",
     "template/TOK-.md",
-    "template/math-.md",
     "Learn",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
