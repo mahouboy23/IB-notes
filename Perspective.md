@@ -13,5 +13,7 @@ If you think back to the things you liked or disliked when you were very young, 
 ## The arts
 
 - Can a work of art meaning on which the artist themselves are unaware ?
+- *Everyone has there own interpretation of a piece of art meaning they can perceive hidden meanings in art*
 - How does knowing more about a social, culture or historical context of a work of art have an impact on our knowledge of the work itself.
+- **
 - Should your judgments about art be given the same weight from those of an expert ?
