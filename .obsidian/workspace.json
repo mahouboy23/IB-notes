@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,11 +277,15 @@
   },
   "active": "1a48ec18e1b24f1d",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "TOK Essay.md",
+    "History.md",
+    "who is the knower.md",
+    "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
     "Flux circulaire de revenus.md",
-    "IB overview.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "hl subjects/Computer science.md",
     "Exo info.md",
     "EE NEW.md",
@@ -299,13 +303,9 @@
     "Physique nucléaire, atomique et des particules.md",
     "Learn/Blender.md",
     "Geometric shapes.md",
-    "Organic shapes.md",
-    "Réactions nucléaires.md",
-    "common core/CAS.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
-    "Terms.md",
     "Learn",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",

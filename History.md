@@ -1,7 +1,7 @@
 ---
 tags : mod TOK
 ---
-Created: 2022-11-30 
+`Created: 2022-11-30 
 
 what is history :: “History is **an area of knowledge that studies the recorded past**. It raises knowledge questions such as whether it is possible to talk meaningfully about a historical fact and what such a fact might be, or how far we can speak with certainty about anything in the past.
 <!--SR:!2023-01-25,7,210-->
