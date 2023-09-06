@@ -14,4 +14,4 @@ If you think back to the things you liked or disliked when you were very young, 
 
 - Can a work of art meaning on which the artist themselves are unaware ?
 - How does knowing more about a social, culture or historical context of a work of art have an impact on our knowledge of the work itself.
-- Should your judgments about art be given the same weight from those of an expert
+- Should your judgments about art be given the same weight from those of an expert ?
