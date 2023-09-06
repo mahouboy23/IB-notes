@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,17 +275,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d10b9dca80aadcdf",
+  "active": "1a48ec18e1b24f1d",
   "lastOpenFiles": [
-    "1.md",
-    "Untitled 5.md",
+    "sl subjects/Economie.md",
+    "Macroéconomie.md",
+    "Flux circulaire de revenus.md",
+    "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
+    "Exo info.md",
     "EE NEW.md",
+    "Untitled 5.md",
+    "1.md",
     "New version EE.md",
     "Experiment.md",
     "Possible structure.md",
     "Learn ee.md",
     "common core/EE.md",
-    "IB overview.md",
     "hl subjects/Français B.md",
     "hl subjects/Math AA.md",
     "sl subjects/Physics.md",
@@ -300,12 +306,6 @@
     "Learn/assets/Blender",
     "Learn/assets",
     "Terms.md",
-    "Organic objects.md",
-    "Physique thermique.md",
-    "Mécanique.md",
-    "Notion de cinématique.md",
-    "Mesure d'incertitude.md",
-    "template/TOK-.md",
     "Learn",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
