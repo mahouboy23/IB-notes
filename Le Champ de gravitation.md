@@ -39,7 +39,6 @@ Le champ de gravitation créer par plusieurs masse est égale a la somme du cham
 $$g=g_1+g_2+g_{3}...$$
 $$g=\frac{gm_1}{r_{1}^2}$$
 *VOIR EXO*
-
 ### -Variation du champ de gravitation d'une planète avec l'altitude
 
 ![[champ]]

@@ -34,7 +34,7 @@ les isolants ne conduisent pas l'electricite car les charges électriques y sont
 ### Loi de conservation de la charge électrique
 - la charge électrique d'un système isole est constant
 
-### [[Loi de Coulomb]]
+### Loi de Coulomb
 Deux charges électriques s'attire ou se repousse selon leur signe. Les forces s'exersant sur les deux charges sont opposes et leur intensité est donne par la loi de coulomb 
 
 **Loi de Coulomb** :: L'intensite de la force électrique qui s'exerce entre deux charges est proportionnelle au deux charges et est inversement proportionnel au carre de la distance séparément c'est deux charges. 
