@@ -66,7 +66,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "text",
+        "type": "currency",
         "currencyType": "USD",
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
@@ -132,7 +132,7 @@
         "id": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "index": 0,
         "creationTime": 1694115720222,
-        "lastEditedTime": 1694118912996
+        "lastEditedTime": 1694122489698
       },
       {
         "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
@@ -242,7 +242,7 @@
         "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
-        "markdown": "70000-90000 cad",
+        "markdown": "55000",
         "tagIds": []
       },
       {
