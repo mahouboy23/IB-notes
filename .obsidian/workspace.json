@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Pib.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Pib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Pib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode des dépenses (demande).md"
+                "file": "Pib.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Pib.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,8 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Pib.md",
     "Méthode des dépenses (demande).md",
+    "Pib.md",
     "Macroéconomie.md",
     "Méthode de sortie (production).md",
     "Méthode du revenu.md",
