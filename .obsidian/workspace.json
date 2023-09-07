@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesure d'incertitude.md",
+                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesure d'incertitude.md",
+                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesure d'incertitude.md",
+                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mesure d'incertitude.md"
+                "file": "Les equation de la cinématique a une dimension equation SUVAT.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mesure d'incertitude.md",
+                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,12 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
+    "Mécanique.md",
+    "Notion de cinématique.md",
+    "assets/Notion de cinématique/Pasted image 20230907163115.png",
+    "assets/Notion de cinématique",
     "sl subjects/Physics.md",
+    "Mesure d'incertitude.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Energie Discrete et radioactivite.md",
@@ -299,9 +304,6 @@
     "loi d'avogrado ampere.md",
     "equation des gas parfait.md",
     "Modelisation.md",
-    "Chaleur échanger lors d'un changement d'etat.md",
-    "Chaleur latente.md",
-    "changement d'etat.md",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
     "assets/Chaleur massique, capacité calorifique",
     "Chaleur et energie interne",
@@ -319,9 +321,7 @@
     "assets/Travaille d'une force/image-20230615082950257.png",
     "assets/Travaille d'une force/Pasted image 20230615082356.png",
     "assets/TOK EXHIBITION DRAFT/image-20230614091611233.png",
-    "assets/Poussée d'Archimede/image-20230612215201612.png",
     "assets/Poussée d'Archimede",
-    "assets/Tension d'un fil",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

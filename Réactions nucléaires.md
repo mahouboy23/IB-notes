@@ -33,6 +33,7 @@ utilise plutôt à cette échelle l'électron volt (noté eV)
 $\simeq$ masse d'un nucleon
 $\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$ 
 $\simeq$ $1,67*10^{-27}kg$ 
+<!--SR:!2023-09-10,3,263-->
 
 A une masse $m=1$ u correspond une énergie $E=mc^{2}=1.67*10^{-27}*$ MeV.
 Pour convertir un $1u$  en $MeVc^{-2}$:
