@@ -17,4 +17,5 @@ tags : ib
 - [[common core/CAS]] ⚽
 - [[EE]] 📑
 
-## Extrascholar
+## extracurricular activities
+- [[Universitie's]]  

@@ -47,8 +47,12 @@
             "id": "f37b91cca33e13e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Universitie's.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universitie's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universitie's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Universitie's.md"
+              }
             }
           },
           {
@@ -222,6 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Universitie's.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,10 +281,11 @@
   },
   "active": "f37b91cca33e13e7",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Universitie's.md",
     "hl subjects/Computer science.md",
     "Computer science exploration.md",
     "Méthode de sortie (production).md",
-    "IB overview.md",
     "Microéconomie.md",
     "Loi de la demande.md",
     "Nature et comportement humain.md",
@@ -297,7 +307,6 @@
     "formule élasticites.md",
     "introduction.md",
     "Definition Elasticite.md",
-    "Définition élasticités offre.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
