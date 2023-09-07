@@ -10,7 +10,7 @@ Created: 2023-09-07
 Creation d'une application de revision et gestion de leçons 
 
 Problème :  
-Mon client a des problèmes de revision et management et n'arrive pas suivre ces cours. Il a besoin d'une application qui lui permettrai de mieux organiser c'est leçons mais aussi de mieux reviser et être plus productif.
+Mon client éprouve des difficultés en ce qui concerne la révision et la gestion de ses études, ce qui l'empêche de suivre efficacement ses cours. Il recherche une application qui pourrait l'aider à améliorer l'organisation de ses leçons, à réviser de manière plus efficace et à augmenter sa productivité.
 
 Solution :  
 
