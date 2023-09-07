@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,10 +265,11 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "Computer science exploration.md",
     "IB overview.md",
     "New version EE.md",
     "common core/EE.md",
-    "hl subjects/Computer science.md",
     "Perspective.md",
     "common core/TOK.md",
     "The arts.md",
@@ -290,7 +291,6 @@
     "sl subjects/Economie.md",
     "Macroéconomie.md",
     "Flux circulaire de revenus.md",
-    "Exo info.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",

@@ -11,4 +11,4 @@ tags : subject cs
 
 ## **Theme 4**: [[Pensée informatique, résolution de problèmes et programmation]]
 
-
+### [[Computer science exploration]] 
