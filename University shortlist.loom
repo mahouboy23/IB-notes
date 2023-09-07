@@ -111,7 +111,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "embed",
+        "type": "text",
         "currencyType": "USD",
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
@@ -132,7 +132,7 @@
         "id": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "index": 0,
         "creationTime": 1694115720222,
-        "lastEditedTime": 1694116763846
+        "lastEditedTime": 1694117194605
       }
     ],
     "footerRows": [
@@ -200,7 +200,7 @@
         "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "University of Waterloo",
         "tagIds": []
       },
       {
@@ -263,7 +263,7 @@
         "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "https://uwaterloo.ca",
         "tagIds": []
       }
     ],
