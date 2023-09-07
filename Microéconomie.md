@@ -39,8 +39,9 @@ Created: 2023-03-24
 1. [[introduction]] 
 2. [[Definition Elasticite|definition]] 
 3. [[formule élasticites|formule]] 
-4. [[Implication PED pour les politiques gouvernementales]] 
-5. [[Taxes]] 
+4. [[Fourchette des valeurs de l'élasticité-prix de la demande]] 
+5. [[Implication PED pour les politiques gouvernementales]] 
+6. [[Taxes]] 
 
 ## Parte 6 : Elasticités de l'offre
 1. [[Définition élasticités offre]] 
