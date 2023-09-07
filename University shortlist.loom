@@ -138,7 +138,7 @@
         "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "index": 1,
         "creationTime": 1694118920456,
-        "lastEditedTime": 1694122988861
+        "lastEditedTime": 1694123146818
       }
     ],
     "footerRows": [
@@ -305,7 +305,7 @@
         "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
         "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "Bachelor of Science in Computer Science",
         "tagIds": []
       },
       {
