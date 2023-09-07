@@ -40,6 +40,10 @@ Pour convertir un $1u$  en $MeVc^{-2}$:
 $\large{1u=931.5MeVc^{-2}}$ 
 
 ## Énergie de liaison du noyau
+- Les protons se repoussent a cause de :: l'intéraction électrostatique.
+- Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
+
+
 La difference entre la masse d'un noyau et de la masse de ses nucleons est appelée défaut de masse $\Delta m$.
 $$\large{\Delta m= \sum_{}^{}m_{nucleons} - m_{noyau}}$$
 $$\large{\Delta m= Zm_{p}+(A-Z)-m_{^{a}_{z}x}}$$
