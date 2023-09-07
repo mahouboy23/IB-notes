@@ -35,7 +35,9 @@ $\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$
 $\simeq$ $1,67*10^{-27}kg$ 
 
 A une masse $m=1$ u correspond une énergie $E=mc^{2}=1.67*10^{-27}*$ MeV.
-D’où 1 u = 931,5 MeV/c2
+Pour convertir un $1u$  en $MeVc^{-2}$:
+?
+$\large{1u=931.5MeVc^{-2}}$ 
 
 ## Énergie de liaison du noyau
 La difference entre la masse d'un noyau et de la masse de ses nucleons est appelée défaut de masse $\Delta m$.
