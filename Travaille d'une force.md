@@ -63,6 +63,7 @@ $W_{A \rightarrow B}(\vec F)$  travail de la force $\vec{F}$ lors du déplacemen
 $\Delta t$ durée de ce déplacement.
 
 **Puissance** :: travail par unite de temps
+<!--SR:!2023-09-09,2,244-->
 Formule de la Puissance :
 ?
 <!--SR:!2023-09-08,1,230-->

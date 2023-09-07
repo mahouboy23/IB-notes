@@ -27,6 +27,7 @@ Une atome est constitue d'un noyau positive contenant z proton autour du qu'elle
 #### Inconvenient de ce modele:
 ?
 tout particules électrisés anime de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tombe sur le noyau. 
+<!--SR:!2023-09-08,1,217-->
 
 **Composition du noyau** : Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse
 Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre de charges.
@@ -66,6 +67,7 @@ $$E=hf$$
 $$f=\frac{1}{T}$$
 $$E=\frac{hc}{\lambda}$$
 ![[image-20230207084222834.png]]
+<!--SR:!2023-09-09,2,237-->
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé :: **lumière polychromatique**
 
