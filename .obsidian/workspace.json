@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de la demande.md",
+                "file": "Microéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Loi de la demande.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,7 +222,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loi de la demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,12 +270,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "f37b91cca33e13e7",
   "lastOpenFiles": [
-    "Effet de substitution.md",
-    "Loi de la demande.md",
-    "Loi d'utilité marginale décroissante.md",
+    "hl subjects/Computer science.md",
+    "Computer science exploration.md",
+    "Méthode de sortie (production).md",
+    "IB overview.md",
     "Microéconomie.md",
+    "Loi de la demande.md",
+    "Nature et comportement humain.md",
+    "Effet de substitution.md",
+    "Loi d'utilité marginale décroissante.md",
     "écriture mathématique de la demande.md",
     "Mouvement et déplacement de la demande.md",
     "Mouvement et déplacement de l'offre.md",
@@ -297,11 +298,6 @@
     "introduction.md",
     "Definition Elasticite.md",
     "Définition élasticités offre.md",
-    "Déterminants de l'élasticité-prix de l'offre.md",
-    "Période considérée (offre).md",
-    "Possibilité de stocker des stocks.md",
-    "Capacité inutilisée.md",
-    "Prix maximum.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
