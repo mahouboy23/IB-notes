@@ -105,6 +105,21 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "embed",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -117,7 +132,7 @@
         "id": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "index": 0,
         "creationTime": 1694115720222,
-        "lastEditedTime": 1694115720222
+        "lastEditedTime": 1694116261263
       }
     ],
     "footerRows": [
@@ -139,7 +154,7 @@
         "id": "23a44450-2671-48b9-8891-497fe857ad20",
         "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
         "rowId": "4fb6be3a-238e-4a78-8083-5f13be3c0ffa",
-        "markdown": "Requirement"
+        "markdown": "Requirements"
       },
       {
         "id": "9cb9e376-120e-401a-9607-9eb79f4b2e74",
@@ -170,6 +185,12 @@
         "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
         "rowId": "4fb6be3a-238e-4a78-8083-5f13be3c0ffa",
         "markdown": "Achievability (1-5)"
+      },
+      {
+        "id": "bb07e2c4-ad53-4641-88fe-37a70b6917c1",
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+        "rowId": "4fb6be3a-238e-4a78-8083-5f13be3c0ffa",
+        "markdown": "New Column"
       }
     ],
     "bodyCells": [
@@ -231,6 +252,15 @@
         "id": "ea4eca5a-fa5f-41a7-a9d3-0b1b3f20883e",
         "isExternalLink": false,
         "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
+        "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "8930bde5-32ec-4b57-9f27-79038e9ac3c8",
+        "isExternalLink": true,
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
         "markdown": "",
@@ -306,6 +336,16 @@
       {
         "id": "681f6b42-4319-4208-a962-bdde2c871197",
         "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
+        "rowId": "c2bcb59e-846d-493a-982c-98ea68c4e70c"
+      },
+      {
+        "id": "c09581aa-4ff7-40ca-9d4a-50cc048676db",
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+        "rowId": "af2e2635-775a-4c3e-b6e9-956c83170fe9"
+      },
+      {
+        "id": "9b89a3ba-20c1-4bfe-88df-1889da4c77bc",
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
         "rowId": "c2bcb59e-846d-493a-982c-98ea68c4e70c"
       }
     ],
