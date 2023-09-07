@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demande globale.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande globale.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande globale.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,11 +276,18 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Effet richesse.md",
+    "Macroéconomie.md",
+    "TD economie.md",
+    "Determinant des composantes de la demande globale.md",
+    "Confiance.md",
+    "assets/Determinant des composantes de la demande globale/image-20230907114534215.png",
+    "assets/Determinant des composantes de la demande globale",
     "Demande globale.md",
+    "Effet solde net.md",
+    "Effet taux d'intérêt.md",
+    "Effet richesse.md",
     "assets/Demande globale/image-20230907113014867.png",
     "assets/Demande globale",
-    "Macroéconomie.md",
     "Pib.md",
     "assets/Pib/image-20230907111621841.png",
     "assets/Pib",
@@ -301,11 +308,6 @@
     "New version EE.md",
     "common core/EE.md",
     "Perspective.md",
-    "common core/TOK.md",
-    "The arts.md",
-    "Scope.md",
-    "Ethics.md",
-    "Tools and methods.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
@@ -317,11 +319,9 @@
     "assets/Poussée d'Archimede/image-20230612215201612.png",
     "assets/Poussée d'Archimede/image-20230612214611480.png",
     "assets/Poussée d'Archimede",
-    "assets/Tension d'un fil/image-20230612214104797.png",
     "assets/Tension d'un fil",
     "assets/Réaction d'un support",
     "assets/Travaille d'une force",
-    "assets/Application",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

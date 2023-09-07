@@ -12,7 +12,7 @@ Basic concept en Economie:
 
 ## Parte 2: Variation de L'activite Economique — Demande globale et offre globale 
 1. [[Demande globale]] 
- 
+ 2. [[Determinant des composantes de la demande globale]] 
 
 [[TD economie]] 
 
