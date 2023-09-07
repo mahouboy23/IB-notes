@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "determinant non prix de l'offre.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "determinant non prix de l'offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "determinant non prix de l'offre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microéconomie.md"
+                "file": "determinant non prix de l'offre.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "determinant non prix de l'offre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,16 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Implication PED pour les politiques gouvernementales.md",
+    "Mouvement et déplacement de l'offre.md",
     "Microéconomie.md",
+    "Mouvement et déplacement de la demande.md",
+    "écriture mathématique.md",
+    "determinant prix de l'offre.md",
+    "Notion d'efficacite.md",
+    "Efficacité productive.md",
+    "Changements de prix et boucles de rétroaction.md",
+    "Surplus du producteur.md",
+    "Implication PED pour les politiques gouvernementales.md",
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "Taxes.md",
     "formule élasticites.md",
@@ -294,14 +302,6 @@
     "Cela génère un problème de rationnement.md",
     "Cela produit des pénuries.md",
     "Il y a des conséquences pour les acteurs du marché..md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Contrôles des prix planchers.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Impôts indirects.md",
-    "Subvention.md",
-    "Externalités.md",
-    "ressources communes.md",
-    "sl subjects/Economie.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
