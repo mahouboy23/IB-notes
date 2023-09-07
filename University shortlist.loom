@@ -138,7 +138,7 @@
         "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "index": 1,
         "creationTime": 1694118920456,
-        "lastEditedTime": 1694122638396
+        "lastEditedTime": 1694122988861
       }
     ],
     "footerRows": [
@@ -287,7 +287,7 @@
         "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
         "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "- English proficiency using a USG approved method\n- Higher Level Math and Sciences courses",
         "tagIds": []
       },
       {
