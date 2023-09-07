@@ -13,7 +13,7 @@
 - knowledge and religion 
 - knowledge and politics
 - knowledge and indigenous societies  
-<!--SR:!2023-02-05,18,290-->
+<!--SR:!2023-10-16,39,270-->
 
 ## **Part 3 :** Areas of knowledge
 ?
@@ -22,6 +22,7 @@
 - [[Natural sciences]]
 - [[Human sciences]]
 - [[The arts]] 
+<!--SR:!2023-09-08,1,237-->
 
 ## **Part 4 :** Assessment
 1. [[TOK Exhibition]]  $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts; **1/3 of the grade** 1
@@ -33,7 +34,7 @@
 2. [[Perspective]]
 3. [[Tools and methods]]
 4. [[Ethics]]
-<!--SR:!2023-02-07,20,290-->
+<!--SR:!2023-10-14,37,270-->
 
 [[test correction]] 
 

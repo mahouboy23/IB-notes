@@ -6,11 +6,11 @@ Created: 2022-11-16
 Knowledge is 
 ?
 *experiential* :: based on experience  
-<!--SR:!2023-02-17,25,250-->
+<!--SR:!2023-12-16,100,250-->
 *innate* ::   you are born with
-<!--SR:!2023-02-08,21,270-->
+<!--SR:!2023-12-16,100,290-->
 *a priori* :: purely by reason 
-<!--SR:!2023-01-29,6,230-->
+<!--SR:!2023-12-16,100,230-->
 
 To what extent can we know | 
 
@@ -18,10 +18,10 @@ Personal knowledge is a knowledge we personally have. Almost all our personale k
 Some people would say we are born with an innate sense of God. 
 
 *Theorem* :: a principle or a statement that can be demonstrated or proved using logic, but is not self evident.
-<!--SR:!2023-03-11,59,230-->
+<!--SR:!2023-11-01,55,210-->
 
 *Truth* :: In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2023-02-04,17,230-->
+<!--SR:!2023-10-13,36,210-->
 
 Everything we perceive about the world is perceived trough our senses, so everything we know about the world is our brains interpretation of the sensory information it receives. 
 

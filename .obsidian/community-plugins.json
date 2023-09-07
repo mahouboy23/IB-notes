@@ -9,7 +9,6 @@
   "obsidian-hover-editor",
   "url-into-selection",
   "sliding-panes-obsidian",
-  "obsidian-spaced-repetition",
   "templater-obsidian",
   "text-snippets-obsidian",
   "dataview",
@@ -20,5 +19,6 @@
   "omnisearch",
   "obsidian-annotator",
   "obsidian-diagrams-net",
-  "execute-code"
+  "execute-code",
+  "obsidian-spaced-repetition"
 ]

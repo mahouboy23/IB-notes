@@ -4,7 +4,7 @@ tags : mod TOK
 Created: 2022-10-12 
 
 **The word perspective can be defined as** :: a particular way of seeing or considering something
-<!--SR:!2023-01-25,2,190-->
+<!--SR:!2023-12-16,100,210-->
 
 All of us, as knowers, bring our own perspective to every situations from the people and places we like to the political opinions we hold. 
 

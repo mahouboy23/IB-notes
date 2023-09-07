@@ -8,6 +8,7 @@ Created: 2023-06-01
 On appelle mouvement circulaire uniforme un mouvement circulaire dont le module de la vitesse est constant.
 
 - Dans un mouvement circulaire uniforme, l'accélération est :: centripète et constante. (+perpendiculaire au vecteur vitesse) 
+<!--SR:!2023-09-08,1,230-->
 
 Vitesses angulaire ω est égale a 
 ? 
@@ -21,3 +22,4 @@ v = vecteur vitesse
 ω = vitesse angulaire 
 T = Période 
 En utilisant la formule $F = ma$, dans le mouvement circulaire uniforme, la force centripète $F$  est égale a:: $$F = \frac{mv^2} r = mω^2r$$
+<!--SR:!2023-09-08,1,230-->

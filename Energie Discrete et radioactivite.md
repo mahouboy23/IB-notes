@@ -37,11 +37,13 @@ Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre
 
 *NB*: 
 **Des isotopes** :: ce sont des atomes (ou noyaux) ayant le meme nombre de protons mais un nombre de neutrons (ou de nucleons) $\neq$ 
+<!--SR:!2023-09-08,1,230-->
 -Ils ont les meme propriétés chimiques mais de propriétés physiques different (ex: la masse, la radioactivités)
 
 ### Interaction forte 
 ?
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porter de l'orde des taille des noyau $10^{-15}m$ 
+<!--SR:!2023-09-08,1,230-->
 
 ## Niveau d'énergie atomique et transformation d'énergie au sains des atomes
 
@@ -52,9 +54,11 @@ Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m
 
 **$\lambda$** :: longueur d'onde en m
 c = célérité :: $3*10^8ms^{-1}$
+<!--SR:!2023-09-08,1,230-->
 T=
 f= $f$ = fréquence de la lumière en $hz$ ou $s^{-1}$
 h = est la constante de Planck :: ($6,63*10^{-34}Js^{-1}$)
+<!--SR:!2023-09-08,1,230-->
 #### formules utiles.
 ?
 $$\lambda=vT$$
@@ -70,7 +74,9 @@ $$E=\frac{hc}{\lambda}$$
 ### **.**     **Spectres de raies continues, d'émission et d'absorption**
 
 lumière polychromatique :: constitue de plusieurs couleurs
+<!--SR:!2023-09-08,1,230-->
 lumière monochromatique :: constituée d'une seule $\lambda$ 
+<!--SR:!2023-09-08,1,230-->
 
 - **spectre continu** :: Dans un spectre continu les différents longueur d'onde de la lumière sont très proches et on ne peut pas les différencier.
 - **spectre de raies d** ' **absorption** :: Un spectre de raies d'absorption diffère d'un spectre continu en ce que certaines des longueurs d'onde de la lumière visible sont manquantes, représentées par les lignes noires sur le fond coloré.
@@ -81,6 +87,7 @@ Les spectres d’émission de  lumière émise par luminescence      (so
 **ev** :: l'electron volt est l'énergie cinétique acquise par un electron accélère par 1 potentiel 1V 
 
 **1 ev  en joule** :: $1.6*10^{-19}J$ 
+<!--SR:!2023-09-08,1,230-->
 
 #### **Voir feuille** : spectres continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption
 
@@ -117,6 +124,7 @@ Une particules $\alpha$ sont très ionisantes elles transforment la matières en
 #### Beta$^-$ 
 ?
 ![[image-20230209093957460.png]]
+<!--SR:!2023-09-08,1,230-->
 
 $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
@@ -124,6 +132,7 @@ $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hs
 ?
 ![[image-20230214080414405.png]]
 $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (neutrino)$$
+<!--SR:!2023-09-08,1,230-->
 
 ![[image-20230214081921777.png]]
 
@@ -131,6 +140,7 @@ $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (neutrino)$$
 ?
 C'est l'emission d'un rayonnement électromagnétique de courte longueur par un noyau a l'etat excité. La radioactivité gamma est de loin la plus dangereuse elle peut meme traverser quelque centimètre de plond.
 ![[image-20230214082629676.png]]
+<!--SR:!2023-09-08,1,230-->
 
 $x^{*} \rightarrow x + \gamma$ 
 
@@ -146,6 +156,7 @@ La décroissance radioactive est un phénomène aléatoire on peut pas prédire 
 $$d_{p}=\lambda \hspace0.5mm dt$$
 $$\lambda = \frac{dp}{dt} \hspace8mm en \hspace2mm s^{-1}$$
 $\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps 
+<!--SR:!2023-09-08,1,230-->
 Le nombre de noyaux désintégrés 
 
 - Le nombre de noyaux désintègres dN ($\Delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.

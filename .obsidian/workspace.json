@@ -205,7 +205,7 @@
             }
           },
           {
-            "id": "506871393085abe8",
+            "id": "a80d3dde672a47db",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "d13a06cb4474056d",
@@ -269,12 +269,12 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "a80d3dde672a47db",
   "lastOpenFiles": [
     "Macroéconomie.md",
     "TD economie.md",

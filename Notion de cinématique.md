@@ -10,6 +10,7 @@ Souvent la longueur du déplacement est différente de la distance parcourue
 ![[Pasted image 20230328083239.png]]
 
 **Trajectoire** :: est l'ensemble des position prise par l'objet ou par le mobile au cour du temps
+<!--SR:!2023-09-08,1,230-->
 
 #### VITESSE 
 ##### A) VITESSE SCALAIRE MOYENNE
@@ -25,10 +26,12 @@ C'est le vecteur vitesse moyenne pour 2 positions très proches.
 $$\vec{v}=\lim _{\Delta{t} \to 0} \hspace2mm \frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}} = d\frac{O\vec{M}}{dt} $$ 
 ![[image-20230328093633362.png]]
 pente de la tangente a la trajectoire a la date donnée
+<!--SR:!2023-09-08,1,230-->
 
 #### L'acceleration
 ?
 C'est la variation de la vitesse au cour du temps
+<!--SR:!2023-09-08,1,230-->
 
 
 - acceleration moyenne a.

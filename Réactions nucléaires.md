@@ -10,6 +10,7 @@ En 1905, en élaborant la théorie de la relativité restreinte, Einstein postul
 Postulat d’Einstein : Un système de masse m possède lorsqu'il est au repos, une énergie :
 ?
 ![[image-20230309091728899.png]]
+<!--SR:!2023-09-08,1,230-->
 
 Conséquence : Si le système (au repos) échange de l'énergie avec le milieu extérieur, (par rayonnement ou par transfert thermique par exemple), sa variation d'énergie ∆E et sa variation de masse ∆m sont liées par la relation :
 $$\Delta E = \Delta m.c2$$
@@ -26,6 +27,7 @@ Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On
 utilise plutôt à cette échelle l'électron volt (noté eV)
 
 1u :: unite de masse unifie ou unite de masse atomique 
+<!--SR:!2023-09-08,1,230-->
 ?
 $\simeq$ masse d'un nucleon
 $\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$ 
@@ -47,7 +49,9 @@ $$\large{E_{l}=(\sum_{}^{}m_{nucleons}-m_{noyau})c^{2}=\Delta mc^{2}}$$
 
 Un noyau est d'autant plus stable que son énergie de liaison par nucleon est grande.
 La fusion :: c'est l'association de 2 noyaux legers pour donner un noyau plus lourd et plus stable avec une energie de liaison par nucleon plus grande, avec liberation d'energion.
+<!--SR:!2023-09-08,1,230-->
 La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une énergie de liaison par nucleon plus grande, il y aura liberation d'énergie
+<!--SR:!2023-09-08,1,230-->
 
 ![[image-20230314094627178.png]]
 

@@ -13,4 +13,4 @@ $$n=\frac{N}{N_{A}}$$
 $n$ = nombre de moles
 $N$ = nombre de molécules
 $N_{A}$ = nombre d'Avogardo
-<!--SR:!2023-04-02,53,230-->
+<!--SR:!2023-10-23,46,210-->

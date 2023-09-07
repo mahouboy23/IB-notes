@@ -12,6 +12,7 @@ Created: 2023-06-12
 
    
    Quand il y a des frottement, la réaction est:: inclinée
+<!--SR:!2023-09-08,1,230-->
 
   Représentations des deux cas:
   ?

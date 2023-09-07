@@ -11,7 +11,7 @@ $$R=\frac{\delta V}{I}$$
 R = en Ohm
 V = en volte 
 I = en ampere 
-<!--SR:!2023-02-16,8,230-->
+<!--SR:!2023-10-08,31,210-->
 
 La resistance d'un fil conducteur depend de :
 ?
@@ -21,7 +21,7 @@ La resistance d'un fil conducteur depend de :
 $$R=\frac{\rho l}{A} \hspace{2mm} OU \hspace{2mm} \rho =\frac{RA}{l}$$ R = en ohm 
 $\rho$ = en ohm m 
 A = en $m^2$ 
-<!--SR:!2023-02-13,5,228-->
+<!--SR:!2023-10-01,24,208-->
 
 
 
@@ -30,10 +30,10 @@ $U=aI$
 $U=RI$ 
 
 **Loi d'Ohm** :: A temperature constante tension et l'intensite aux bornes d'un conducteurs sont proportionnelles 
-<!--SR:!2023-03-13,33,248-->
+<!--SR:!2023-10-16,39,228-->
 
 **Un conducteur ohmique** :: est un conducteur qui obéit a la loi d'Ohm 
-<!--SR:!2023-03-31,51,290-->
+<!--SR:!2023-09-28,21,230-->
 
 ## Association de resistors 
 
@@ -75,13 +75,13 @@ Si on remplace la resistance de 50$\ohm$ par un de 100$\ohm$ I devient
 ?
 un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe.
 ![[POTENTIOMETRE]]
-<!--SR:!2023-01-25,2,228-->
+<!--SR:!2023-10-06,29,230-->
 
 - **le rheostat**
 ?
 Le rhéostat est un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.
 ![[Le rheostat]]
-<!--SR:!2023-02-11,3,208-->
+<!--SR:!2023-10-04,27,188-->
 
 *Caractéristique d'un Montage potentiométrique* :
 ?
@@ -90,4 +90,4 @@ $$\large{U_{ac}=\frac{R_{ac}}{R_{ac}+R_{cb}}U_{ab}=\frac{R_{ac}}{R_{ab}} \hspace
 -si C est en A $R_{ac}=R_{aa}=0$ /  $U_{ac}=0$
 -si C est en B $R_{ac}=R_{ab}$  /  $U_{ac}=\frac{\cancel{R}_{ab}}{\cancel{R}_{ab}}=U_{e}=U_{e}$ 
 -si C est entre A et B; $0<=U_s<=U_e$ 
-<!--SR:!2023-02-09,1,170-->
+<!--SR:!2023-09-30,23,230-->

@@ -4,7 +4,7 @@ tags : mod TOK
 `Created: 2022-11-30 
 
 what is history :: “History is **an area of knowledge that studies the recorded past**. It raises knowledge questions such as whether it is possible to talk meaningfully about a historical fact and what such a fact might be, or how far we can speak with certainty about anything in the past.
-<!--SR:!2023-01-25,7,210-->
+<!--SR:!2023-10-12,35,190-->
 
 History as an area of knowledge **deals with human actions in time whether by individuals or communities** so it is considered a “human science” for the most part, and the approach to the study of it is a “scientific” one.
 

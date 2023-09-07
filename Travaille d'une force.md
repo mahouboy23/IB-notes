@@ -21,6 +21,7 @@ $$W_{a \rightarrow b}(\vec f) = \vec{F} * \vec{AB} = f * AB * \cos\theta$$
 - $W < 0$ travail resistant 
 - $W = 0$ quand $f = 0$ ou $\cos\theta = 0$ avec $\theta = 90\degree$  
 **Consequence** : Le travail de la force centripète est nul
+<!--SR:!2023-09-08,1,230-->
 
 ### Application  (BOOK)
 
@@ -64,6 +65,7 @@ $\Delta t$ durée de ce déplacement.
 **Puissance** :: travail par unite de temps
 Formule de la Puissance :
 ?
+<!--SR:!2023-09-08,1,230-->
 
 $$P=\frac{|W_{A \rightarrow B} \hspace 1mm (\vec F) |}{\Delta t}$$
 $P$ = Watts
@@ -73,3 +75,4 @@ $\Delta t$ = seconde
 #### Puissance instantanee
 ?
 $$W_{A \rightarrow B} \hspace 1mm (\vec F) = \vec{F}* \vec{AB} $$
+<!--SR:!2023-09-08,1,230-->
