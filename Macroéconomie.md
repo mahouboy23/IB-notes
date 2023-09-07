@@ -8,7 +8,7 @@ Basic concept en Economie:
 
 ##  Parte 1 :  Mesurer l'Activité Economique et Illustrer ses Variations
 1. [[Flux circulaire de revenus]] 
-2. [[]]
+2. [[Pib]] 
 
 [[TD economie]] 
 

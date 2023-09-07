@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Pib.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Pib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Pib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Pib.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Pib.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +264,9 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Flux circulaire de revenus.md",
     "Macroéconomie.md",
+    "Flux circulaire de revenus.md",
+    "Pib.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
     "Microéconomie.md",
@@ -289,7 +290,6 @@
     "test correction.md",
     "personal knowledge.md",
     "TOK WORK 5.md",
-    "Learn/Blender.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
