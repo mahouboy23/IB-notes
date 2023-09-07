@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pib.md",
+                "file": "Méthode des dépenses (demande).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38e9d8c4850c530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthode de sortie (production).md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pib.md",
+                "file": "Méthode des dépenses (demande).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pib.md",
+                "file": "Méthode des dépenses (demande).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pib.md"
+                "file": "Méthode des dépenses (demande).md"
               }
             }
           },
@@ -213,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pib.md",
+                "file": "Méthode des dépenses (demande).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +276,11 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Macroéconomie.md",
     "Pib.md",
+    "Méthode des dépenses (demande).md",
+    "Macroéconomie.md",
+    "Méthode de sortie (production).md",
+    "Méthode du revenu.md",
     "Flux circulaire de revenus.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -287,9 +302,6 @@
     "Tools and methods.md",
     "Natural sciences.md",
     "Mathematics.md",
-    "test correction.md",
-    "personal knowledge.md",
-    "TOK WORK 5.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
