@@ -13,10 +13,11 @@ Postulat d’Einstein : Un système de masse m possède lorsqu'il est au repos, 
 <!--SR:!2023-09-08,1,230-->
 
 Conséquence : Si le système (au repos) échange de l'énergie avec le milieu extérieur, (par rayonnement ou par transfert thermique par exemple), sa variation d'énergie ∆E et sa variation de masse ∆m sont liées par la relation :
+?
 $$\Delta E = \Delta m.c2$$
-
-
-
+- E = énergie du système en joules (J)
+- m = masse du système en kilogrammes (kg)
+- c = vitesse de la lumière dans le vide ($3\cdot 10^{8} ms^{-1}$)
 
 Remarque :
 - Si la masse du système diminue : le système fournit de l'énergie au milieu extérieur.
