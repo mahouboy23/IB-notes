@@ -59,6 +59,26 @@ $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\
 $$\Large{\Delta m=\sum\limits m_{\text{réactifs}}-\sum\limits m_{\text{produits}}}$$
 $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réactifs})}}$$
 (Noter que $m$ est exprimée en $u$)
+
+## Energie de liaison
+?
+L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
+
+Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
+?
+$$\Large{E_{l}=\Delta mc^{2}}$$
+- $E_{l}$ = énergie de liaison du noyau (en MeV)
+- $\Delta m$ =  défaut de masse du noyau (en kg)
+- $c$ = célérité de la lumière dans le vide (en $ms^{-1}$)
+
+L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
+?
+$$\large{E_{A}=\frac{E_{l}}{A}}$$
+- $E_{A}$ = énergie de liaison par nucléon (en MeV/nucléon)
+- $E_{l}$ = énergie de liaison du noyau (en MeV)
+- A = nombre de nucléons du noyau
+
+- L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
 ## Courbe d'Aston-Stabilite des noyaux
 
 Un noyau est d'autant plus stable que son énergie de liaison par nucleon est grande.

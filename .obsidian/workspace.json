@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mesure d'incertitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mesure d'incertitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mesure d'incertitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "Mesure d'incertitude.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mesure d'incertitude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,10 +276,10 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Energie Discrete et radioactivite.md",
-    "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
     "La tension électrique ou difference de potentiel électrique.md",
     "L'intensité du courant électrique.md",
