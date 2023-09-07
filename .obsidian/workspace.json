@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "325615fca046fbb4",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Untitled.loom"
+              }
+            }
+          },
+          {
             "id": "d10b9dca80aadcdf",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universitie's.md",
+                "file": "Untitled.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universitie's.md",
+                "file": "Untitled.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universitie's.md"
+                "file": "Untitled.loom"
               }
             }
           },
@@ -230,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Universitie's.md",
+                "file": "Untitled.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,13 +286,15 @@
       "omnisearch:Omnisearch": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f37b91cca33e13e7",
+  "active": "325615fca046fbb4",
   "lastOpenFiles": [
-    "IB overview.md",
     "Universitie's.md",
+    "Untitled.loom",
+    "IB overview.md",
     "hl subjects/Computer science.md",
     "Computer science exploration.md",
     "Méthode de sortie (production).md",
@@ -306,7 +318,6 @@
     "Taxes.md",
     "formule élasticites.md",
     "introduction.md",
-    "Definition Elasticite.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
@@ -326,7 +337,6 @@
     "assets/Travaille d'une force/image-20230615082950257.png",
     "assets/Travaille d'une force/Pasted image 20230615082356.png",
     "assets/TOK EXHIBITION DRAFT/image-20230614091611233.png",
-    "assets/Poussée d'Archimede",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
