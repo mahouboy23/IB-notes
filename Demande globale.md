@@ -15,8 +15,9 @@ $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 
 Forme de la courbe de demande globale:
 ?
+![[image-20230907113014867.png]]
 
 
 Trois raisons expliquent la pente négative de la courbe de demande globale :
 ?
--
+-[[Effet richesse]] 
