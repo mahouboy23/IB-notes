@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Flux circulaire de revenus.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Flux circulaire de revenus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +264,8 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Basic Macroéconomie.md",
     "Macroéconomie.md",
+    "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
     "Microéconomie.md",
     "Computer science exploration.md",
