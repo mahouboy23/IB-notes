@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
+                "file": "formule élasticites.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
+                "file": "formule élasticites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
+                "file": "formule élasticites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md"
+                "file": "formule élasticites.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
+                "file": "formule élasticites.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,34 +276,34 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Mécanique.md",
-    "Notion de cinématique.md",
+    "Microéconomie.md",
+    "formule élasticites.md",
+    "introduction.md",
+    "Definition Elasticite.md",
+    "Taxes.md",
+    "Définition élasticités offre.md",
+    "Déterminants de l'élasticité-prix de l'offre.md",
+    "Période considérée (offre).md",
+    "Possibilité de stocker des stocks.md",
+    "Capacité inutilisée.md",
+    "Prix maximum.md",
+    "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
+    "Il promeut la création de marchés (noirs) parallèles.md",
+    "Cela génère un problème de rationnement.md",
+    "Cela produit des pénuries.md",
+    "Il y a des conséquences pour les acteurs du marché..md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "Contrôles des prix planchers.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Impôts indirects.md",
+    "Subvention.md",
+    "Externalités.md",
+    "ressources communes.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Les equation de la cinématique a une dimension equation SUVAT.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
-    "sl subjects/Physics.md",
-    "Mesure d'incertitude.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
-    "Energie Discrete et radioactivite.md",
-    "Electricité et magnétisme.md",
-    "La tension électrique ou difference de potentiel électrique.md",
-    "L'intensité du courant électrique.md",
-    "Piles électrique.md",
-    "la résistance électrique.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Le Champ de gravitation.md",
-    "La loi de gravitation universelle de Newton.md",
-    "Champ électrique.md",
-    "rappels d'électrostatique.md",
-    "Application.md",
-    "Definition.md",
-    "Loi de Coulomb.md",
-    "Physique thermique.md",
-    "La loi des gas parfaits.md",
-    "La mole.md",
-    "loi d'avogrado ampere.md",
-    "equation des gas parfait.md",
-    "Modelisation.md",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
     "assets/Chaleur massique, capacité calorifique",
     "Chaleur et energie interne",
