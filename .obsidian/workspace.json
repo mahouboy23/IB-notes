@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "Loi de la demande.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "determinant non prix de l'offre.md"
+                "file": "Loi de la demande.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "determinant non prix de l'offre.md",
+                "file": "Loi de la demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,9 +276,14 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Mouvement et déplacement de l'offre.md",
+    "Effet de substitution.md",
+    "Loi de la demande.md",
+    "Loi d'utilité marginale décroissante.md",
     "Microéconomie.md",
+    "écriture mathématique de la demande.md",
     "Mouvement et déplacement de la demande.md",
+    "Mouvement et déplacement de l'offre.md",
+    "Determinant non prix de l'offre.md",
     "écriture mathématique.md",
     "determinant prix de l'offre.md",
     "Notion d'efficacite.md",
@@ -297,11 +302,6 @@
     "Possibilité de stocker des stocks.md",
     "Capacité inutilisée.md",
     "Prix maximum.md",
-    "Elle élimine l'efficacité allocative et génère une perte de bien-être.md",
-    "Il promeut la création de marchés (noirs) parallèles.md",
-    "Cela génère un problème de rationnement.md",
-    "Cela produit des pénuries.md",
-    "Il y a des conséquences pour les acteurs du marché..md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",

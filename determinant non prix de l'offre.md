@@ -1,8 +1,7 @@
 ---
 tags : mod economie
 ---
-# Determinant non prix de l'offre
-Created: {{date}}
+
 
 Plusieurs facteur peuvent affecter l'offre en dehors du prix: 
 - [[Les couts de productions]]
