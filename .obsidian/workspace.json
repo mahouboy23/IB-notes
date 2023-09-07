@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiment.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,10 +262,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1251329edb1ce792",
+  "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "IB overview.md",
+    "Basic Macroéconomie.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "Microéconomie.md",
     "Computer science exploration.md",
+    "Externalités.md",
+    "Externalité négative.md",
+    "ressources communes.md",
+    "IB overview.md",
+    "Experiment.md",
     "hl subjects/Computer science.md",
     "New version EE.md",
     "common core/EE.md",
@@ -283,14 +290,6 @@
     "TOK WORK 5.md",
     "Learn/Blender.md",
     "12concepts.md",
-    "knowers and knowing.md",
-    "TOK Essay.md",
-    "History.md",
-    "who is the knower.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "sl subjects/Economie.md",
-    "Macroéconomie.md",
-    "Flux circulaire de revenus.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
