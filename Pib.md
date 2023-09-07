@@ -17,3 +17,11 @@ Le PIB essaie de mesurer la valeur de tout ce qui est produit dans un pays au co
 -  Ne tient pas compte de la disparité dans la répartition des revenus
 - Contient des inexactitudes
 - Ne tient pas compte des améliorations de la qualité de la production
+
+Les trois méthodes de calculer le PIB sont:  
+?
+- [[Methodes de sortie]]
+
+Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:  
+?  
+Revenu = Production = Dépenses
