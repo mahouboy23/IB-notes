@@ -12,6 +12,13 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ![[Pasted image 20230324092736.png]]
 
+### Symboles en macro-économie
+- T =:: Taxes
+- S =:: Epargnes
+- M =:: Importations
+- G =:: Dépenses gouvernementales
+- I =:: Investissements
+- X =:: Exportations
 ## **PIB** 
 ?
 Le PIB est la valeur monétaire totale de tous les biens et services finaux produits dans une économie au cours d'une période donnée.
@@ -21,9 +28,25 @@ Le PIB essaie de mesurer la valeur de tout ce qui est produit dans un pays au co
 - Permet d'evaluer la sante économique d'un pays
 - Informer les décideurs
 - Donner une idee du nouveau de vie (**PIB/h**)
-
 #### Inconveniant
 - Surestime la qualité de vie
-- 
+
+### Formules
+Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)  
+Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
+
+#### FuiteS ET INJECTIONs
+
+- Si fuites = injections alors :: on est dans une économie équilibrée
+- Si fuites < injections alors:: on est dans une économie prospère
+
+#### Conditions
+
+- Si T < G :: Défaut budgétaire
+- Si T > G :: Excédent budgétaire
+- Si S < I :: Il faut emprunter
+- Si S > I :: Excédent d'épargnes
+- Si X < M :: Défaut de la balance commerciale
+- SI X > M :: Balance commerciale excédent
 
 **PNB** :: Il s'agit de la valeur monétaire totale de tous les biens et services finaux produits par les facteurs détenus par les citoyens du pays au cours d'une période donnée.
