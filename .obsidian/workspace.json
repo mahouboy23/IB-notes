@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Universitie's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Universitie's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Universitie's.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Universitie's.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,10 +290,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "325615fca046fbb4",
+  "active": "f37b91cca33e13e7",
   "lastOpenFiles": [
-    "Universitie's.md",
     "University shortlist.loom",
+    "Universitie's.md",
     "Untitled 5.md",
     "assets/Untitled 5",
     "IB overview.md",
