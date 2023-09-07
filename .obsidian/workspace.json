@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "rappels d'électrostatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "rappels d'électrostatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "rappels d'électrostatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chaleur latente.md"
+                "file": "rappels d'électrostatique.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "rappels d'électrostatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,10 +276,18 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Chaleur echanger lors d'un changement d'etat.md",
-    "Physique thermique.md",
-    "Modelisation.md",
+    "Loi de Coulomb.md",
+    "rappels d'électrostatique.md",
+    "Electricité et magnétisme.md",
+    "Champ électrique.md",
     "sl subjects/Physics.md",
+    "Physique thermique.md",
+    "La loi des gas parfaits.md",
+    "La mole.md",
+    "loi d'avogrado ampere.md",
+    "equation des gas parfait.md",
+    "Modelisation.md",
+    "Chaleur échanger lors d'un changement d'etat.md",
     "Chaleur latente.md",
     "changement d'etat.md",
     "Théorie moléculaire des solides, des liquides et des gaz.md",
@@ -297,14 +305,6 @@
     "Mécanique.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
-    "Energie Discrete et radioactivite.md",
-    "IB overview.md",
-    "Macroéconomie.md",
-    "sl subjects/Economie.md",
-    "Le Champ de gravitation.md",
-    "TD economie.md",
-    "Determinant des composantes de la demande globale.md",
-    "Confiance.md",
     "assets/Determinant des composantes de la demande globale/image-20230907114534215.png",
     "assets/Determinant des composantes de la demande globale",
     "assets/Demande globale/image-20230907113014867.png",
