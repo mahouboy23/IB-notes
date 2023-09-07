@@ -1,5 +1,9 @@
 ---
-tags : mod cs
+tags:
+  - mod
+  - cs
+aliases:
+  - Exploration
 ---
 Created: 2023-09-07
 
