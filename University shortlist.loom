@@ -138,7 +138,7 @@
         "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "index": 1,
         "creationTime": 1694118920456,
-        "lastEditedTime": 1694123146818
+        "lastEditedTime": 1694123521961
       }
     ],
     "footerRows": [
@@ -332,7 +332,7 @@
         "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
         "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "4",
         "tagIds": []
       },
       {
