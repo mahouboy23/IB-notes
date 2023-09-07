@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pib.md",
+                "file": "Demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pib.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pib.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pib.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pib.md",
+                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,9 +276,12 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Méthode des dépenses (demande).md",
-    "Pib.md",
     "Macroéconomie.md",
+    "Demande globale.md",
+    "Pib.md",
+    "assets/Pib/image-20230907111621841.png",
+    "assets/Pib",
+    "Méthode des dépenses (demande).md",
     "Méthode de sortie (production).md",
     "Méthode du revenu.md",
     "Flux circulaire de revenus.md",
@@ -301,7 +304,6 @@
     "Ethics.md",
     "Tools and methods.md",
     "Natural sciences.md",
-    "Mathematics.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
@@ -317,11 +319,9 @@
     "assets/Tension d'un fil",
     "assets/Réaction d'un support/image-20230612213846847.png",
     "assets/Réaction d'un support",
-    "assets/Travaille d'une force/image-20230612164314064.png",
     "assets/Travaille d'une force",
     "assets/Application",
     "assets/Scope",
-    "assets/Raisonnement par anticipation",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

@@ -10,6 +10,10 @@ Basic concept en Economie:
 1. [[Flux circulaire de revenus]] 
 2. [[Pib]] 
 
+## Parte 2: Variation de L'activite Economique — Demande globale et offre globale 
+1. [[Demande globale]] 
+ 
+
 [[TD economie]] 
 
 
