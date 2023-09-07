@@ -81,6 +81,7 @@ lumière monochromatique :: constituée d'une seule $\lambda$
 <!--SR:!2023-09-08,1,230-->
 
 - **spectre continu** :: Dans un spectre continu les différents longueur d'onde de la lumière sont très proches et on ne peut pas les différencier.
+<!--SR:!2023-09-10,3,257-->
 - **spectre de raies d** ' **absorption** :: Un spectre de raies d'absorption diffère d'un spectre continu en ce que certaines des longueurs d'onde de la lumière visible sont manquantes, représentées par les lignes noires sur le fond coloré.
 - **spectre de raies d** ' **émission** :: Un spectre de raies d'émission est caractérisé par des raies colorées sur un fond noir, seul quelques couleurs sont présentent.
 

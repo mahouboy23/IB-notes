@@ -11,12 +11,8 @@
             "id": "4064df0df1aa4843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sl subjects/Economie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -58,24 +54,6 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c9b2d27782dbc6b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6a18f837eb611ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Le Champ de gravitation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,7 +217,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Champ de gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,10 +265,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c6a18f837eb611ca",
+  "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
     "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "Le Champ de gravitation.md",
     "TD economie.md",
     "Determinant des composantes de la demande globale.md",
     "Confiance.md",
@@ -325,7 +299,6 @@
     "hl subjects/Computer science.md",
     "New version EE.md",
     "common core/EE.md",
-    "Perspective.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
