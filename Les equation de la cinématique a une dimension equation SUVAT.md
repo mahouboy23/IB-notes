@@ -26,9 +26,25 @@ aire entre la courbe de a en fonction de t et l'axe des temps t est $=\Delta{v}$
 
 ![[image-20230330154850103.png]]
 
+# Mouvement rectiligne uniforme
+Les 5 variables SUVAT:
+?
+- $\Delta$x = déplacement en $m$
+- u = vitesse initiale en $ms^{-1}$
+- v = vitesse finale en $ms^{-1}$
+- a = accélération en $ms^{-2}$
+- t = intervalle de temps en $s$
+
+4 formules SUVAT :
+?
+- $$\Large{v=u+at}$$
+- $$\Large{\Delta x=\frac{u+v}{2}t}$$
+- $$\Large{\Delta x=ut+\frac{1}{2}at^{2}}=ut\text{ (si a=0)}$$
+- $$\Large{v^{2}=u^{2}+2a\Delta x}$$
 ![[image-20230330170146114.png]]
 
-
+Les équations SUVAT sont dérivées de ce graphe suivant:
+?
 
 ![[image-20230328092624940.png]]
 
