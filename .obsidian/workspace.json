@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effet richesse.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,8 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
-    "Demande globale.md",
     "Effet richesse.md",
+    "Demande globale.md",
     "assets/Demande globale/image-20230907113014867.png",
     "assets/Demande globale",
     "Macroéconomie.md",
