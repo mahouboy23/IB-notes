@@ -21,6 +21,7 @@ Cela peut se faire de deux manières différentes :
 ?
 Lorsque cela se produit, **le bénéfice social marginal de la consommation (MSB) est supérieur au bénéfice privé marginal (MPB)** , car la demande du bien ou du service ne prend pas en considération les effets externes positifs qu'il a sur la société dans son ensemble, mais seulement les bénéfices pour le particulier qui le consomme.
 ![[Pasted image 20230210095012.png]]
+<!--SR:!2023-09-10,3,250-->
 
 Les solutions visent maintenant à ce que le gouvernement incite les gens à consommer ces biens. Cela peut être fait en utilisant différentes méthodes :
 ?

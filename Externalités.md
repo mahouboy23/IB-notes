@@ -11,9 +11,11 @@ Il y a deux types d'externalité:
 ?
 - [[Externalité négative]] 
 - [[Externalité positive]]
+<!--SR:!2023-09-08,1,230-->
 
 #### NB:
 - CMP :: Coût marginal privée
 - BMP :: Bénéfice marginal privée
+<!--SR:!2023-09-08,1,230-->
 - CMS :: Coût marginal social
 - BMS :: Bénéfice marginal social

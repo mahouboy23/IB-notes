@@ -11,5 +11,5 @@ $Q_d$ = Quantité demandé
 $P$ = Prix
 $a$ = [[Pente]] (exprime [[Loi de la demande]]) (négatif)
 $b$ = Constante (exprime les [[Déterminants hors-prix de la demande]] hors-prix)
-<!--SR:!2023-03-16,59,230-->
+<!--SR:!2023-10-28,51,210-->
 

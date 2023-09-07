@@ -14,7 +14,9 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ### Symboles en macro-économie
 - T =:: Taxes
+<!--SR:!2023-09-08,1,230-->
 - S =:: Epargnes
+<!--SR:!2023-09-08,1,230-->
 - M =:: Importations
 - G =:: Dépenses gouvernementales
 - I =:: Investissements
@@ -44,7 +46,9 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si T < G :: Défaut budgétaire
 - Si T > G :: Excédent budgétaire
 - Si S < I :: Il faut emprunter
+<!--SR:!2023-09-08,1,230-->
 - Si S > I :: Excédent d'épargnes
+<!--SR:!2023-09-08,1,230-->
 - Si X < M :: Défaut de la balance commerciale
 - SI X > M :: Balance commerciale excédent
 
