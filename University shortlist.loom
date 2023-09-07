@@ -132,7 +132,13 @@
         "id": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "index": 0,
         "creationTime": 1694115720222,
-        "lastEditedTime": 1694118823651
+        "lastEditedTime": 1694118912996
+      },
+      {
+        "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "index": 1,
+        "creationTime": 1694118920456,
+        "lastEditedTime": 1694118920456
       }
     ],
     "footerRows": [
@@ -227,7 +233,7 @@
         "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
-        "markdown": "",
+        "markdown": " Bachelor of Computer Science",
         "tagIds": []
       },
       {
@@ -264,6 +270,78 @@
         "rowId": "a43aa5d6-0adb-451e-b3f1-c2490cb9d598",
         "dateTime": null,
         "markdown": "https://uwaterloo.ca",
+        "tagIds": []
+      },
+      {
+        "id": "0b44c6b5-b984-48a9-9b38-620900b63763",
+        "isExternalLink": false,
+        "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "ad96c3f4-8049-474a-acde-8244217e4673",
+        "isExternalLink": false,
+        "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "afe8e11b-10f5-49f3-a23c-a7fd5999d00b",
+        "isExternalLink": false,
+        "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "487b8881-7434-45a8-a2f4-3939a11d2a32",
+        "isExternalLink": false,
+        "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "cc02581e-2c11-4c87-a41e-c492c99afe4f",
+        "isExternalLink": false,
+        "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "2cd6d0e3-fe73-4fcf-8769-4175f834cc6a",
+        "isExternalLink": false,
+        "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "19d9e113-010e-40ec-9e00-3fc5737f281e",
+        "isExternalLink": false,
+        "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "4e0d0974-8923-4dee-8fc6-a46658855602",
+        "isExternalLink": false,
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+        "rowId": "38251db8-7c1f-477f-b408-1eb29decafd5",
+        "dateTime": null,
+        "markdown": "",
         "tagIds": []
       }
     ],
