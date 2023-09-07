@@ -32,16 +32,15 @@ Le PIB essaie de mesurer la valeur de tout ce qui est produit dans un pays au co
 - Surestime la qualité de vie
 
 ### Formules
+
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)  
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
 #### FuiteS ET INJECTIONs
-
 - Si fuites = injections alors :: on est dans une économie équilibrée
 - Si fuites < injections alors:: on est dans une économie prospère
 
 #### Conditions
-
 - Si T < G :: Défaut budgétaire
 - Si T > G :: Excédent budgétaire
 - Si S < I :: Il faut emprunter

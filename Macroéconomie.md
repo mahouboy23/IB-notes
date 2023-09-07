@@ -7,7 +7,8 @@ Basic concept en Economie:
 [[Basic Macroéconomie]] 
 
 ##  Parte 1 :  Mesurer l'Activité Economique et Illustrer ses Variations
-[[Flux circulaire de revenus]] 
+1. [[Flux circulaire de revenus]] 
+2. [[]]
 
 [[TD economie]] 
 

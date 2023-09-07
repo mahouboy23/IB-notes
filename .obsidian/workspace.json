@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flux circulaire de revenus.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Flux circulaire de revenus.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,6 +264,7 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
+    "Flux circulaire de revenus.md",
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -289,7 +290,6 @@
     "personal knowledge.md",
     "TOK WORK 5.md",
     "Learn/Blender.md",
-    "12concepts.md",
     "Learn/assets/Blender/image-20230628131644441.png",
     "Learn/assets/Blender",
     "Learn/assets",
