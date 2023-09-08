@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,15 +290,16 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "Tension d'un ressort.md",
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
-    "Travaille d'une force.md",
-    "Force et Lois de Newton (Exemples de force).md",
-    "Mécanique.md",
-    "Les lois de Newton.md",
-    "Application des loi de Newton.md",
     "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
+    "Application.md",
+    "Mécanique.md",
+    "Force et Lois de Newton (Exemples de force).md",
+    "Tension d'un ressort.md",
+    "Travaille d'une force.md",
+    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
+    "Les lois de Newton.md",
+    "Application des loi de Newton.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
@@ -324,7 +325,6 @@
     "Microéconomie.md",
     "Méthode de sortie (production).md",
     "assets/Untitled 5",
-    "Computer science exploration.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
