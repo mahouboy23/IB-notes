@@ -21,6 +21,7 @@ Basic concept en Economie:
 ## Parte 3: Objectifs Macroéconomiques
 1. [[Croissance économique à court et à long terme]] 
 2. [[Faible taux de chômage]] 
+3. [[Causes du chômage, coûts et solutions]] 
 
 [[TD economie]] 
 
