@@ -81,4 +81,13 @@ $$W_{A \rightarrow B} \hspace 1mm (\vec F) = \vec{F}* \vec{AB} $$
 ## Travail d'une force variable (selon l'axe des x)
 
 #### Graph force-deplacement
+![[Drawing 2023-09-08 10.31.38.excalidraw]]
+
+Aire entre la courbe representant la force en fonction de la position et l'axe des position entre $x_a$ et $x_b$ représentent le travail de la force variable $F$ entre  $x_a$ et $x_b$ 
+
+**Formule** :
+$$\text{Aire} = \frac{b+B}{Z}*h$$
+$$= \frac{F_{A}+F_{B}}{Z}*(x_{B}-x_{A})$$
+
+#### calcule du travail effectuer par un ressort
 
