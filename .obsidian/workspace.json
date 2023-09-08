@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Croissance économique à court et à long terme.md",
+                "file": "Faible taux de chômage.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Croissance économique à court et à long terme.md",
+                "file": "Faible taux de chômage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Croissance économique à court et à long terme.md",
+                "file": "Faible taux de chômage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Croissance économique à court et à long terme.md"
+                "file": "Faible taux de chômage.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Croissance économique à court et à long terme.md",
+                "file": "Faible taux de chômage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,11 +279,12 @@
   },
   "active": "4064df0df1aa4843",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Faible taux de chômage.md",
+    "Croissance économique à court et à long terme.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
     "assets/Croissance économique à court et à long terme",
-    "Macroéconomie.md",
-    "Croissance économique à court et à long terme.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Microéconomie.md",
@@ -324,7 +325,6 @@
     "Learn/assets/Blender",
     "assets/Travaille d'une force/image-20230615084814820.png",
     "assets/Travaille d'une force/image-20230615082950257.png",
-    "assets/Travaille d'une force/Pasted image 20230615082356.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
