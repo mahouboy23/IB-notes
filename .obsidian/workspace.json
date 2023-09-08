@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Causes du chômage, coûts et solutions.md",
+                "file": "Chômage de déséquilibre.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Causes du chômage, coûts et solutions.md",
+                "file": "Chômage de déséquilibre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Causes du chômage, coûts et solutions.md",
+                "file": "Chômage de déséquilibre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Causes du chômage, coûts et solutions.md"
+                "file": "Chômage de déséquilibre.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Causes du chômage, coûts et solutions.md",
+                "file": "Chômage de déséquilibre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,15 +280,18 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "Taux de chômage naturel.md",
+    "assets/Chômage de déséquilibre/image-20230908093218162.png",
+    "assets/Chômage de déséquilibre/image-20230908093108745.png",
+    "assets/Chômage de déséquilibre",
     "Causes du chômage, coûts et solutions.md",
+    "Taux de chômage naturel.md",
     "Chômage de déséquilibre.md",
+    "Universitie's.md",
+    "University shortlist.loom",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "hl subjects/Computer science.md",
-    "University shortlist.loom",
-    "Universitie's.md",
     "Faible taux de chômage.md",
     "Untitled 5.md",
     "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
@@ -310,7 +313,6 @@
     "Mouvement et déplacement de l'offre.md",
     "Determinant non prix de l'offre.md",
     "écriture mathématique.md",
-    "determinant prix de l'offre.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
@@ -323,9 +325,7 @@
     "assets/Pib/image-20230907111621841.png",
     "assets/Pib",
     "Learn/assets/Blender/image-20230628131644441.png",
-    "Learn/assets/Blender",
     "assets/Travaille d'une force/image-20230615084814820.png",
-    "assets/Travaille d'une force/image-20230615082950257.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
