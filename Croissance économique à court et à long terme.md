@@ -11,3 +11,4 @@ Created: 2023-09-08
 
 ### Augmentation de la production réelle
 ![[ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif]]
+**Figure 1.** PPC montrant deux manières d’illustrer la croissance économique.
