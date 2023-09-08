@@ -27,7 +27,7 @@ Une atome est constitue d'un noyau positive contenant z proton autour du qu'elle
 #### Inconvenient de ce modele:
 ?
 tout particules électrisés anime de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tombe sur le noyau. 
-<!--SR:!2023-09-08,1,217-->
+<!--SR:!2023-09-10,2,217-->
 
 **Composition du noyau** : Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse
 Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre de charges.

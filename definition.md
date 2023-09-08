@@ -22,4 +22,4 @@ v = vecteur vitesse
 ω = vitesse angulaire 
 T = Période 
 En utilisant la formule $F = ma$, dans le mouvement circulaire uniforme, la force centripète $F$  est égale a:: $$F = \frac{mv^2} r = mω^2r$$
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-09,1,210-->
