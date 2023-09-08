@@ -160,7 +160,7 @@ La décroissance radioactive est un phénomène aléatoire on peut pas prédire 
 $$d_{p}=\lambda \hspace0.5mm dt$$
 $$\lambda = \frac{dp}{dt} \hspace8mm en \hspace2mm s^{-1}$$
 $\lambda$ :: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps 
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-09,1,210-->
 Le nombre de noyaux désintégrés 
 
 - Le nombre de noyaux désintègres dN ($\Delta N=N_f-N_i$) $\alpha$N et a la probabilité de désintégration.
