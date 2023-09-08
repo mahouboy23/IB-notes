@@ -38,7 +38,7 @@ Le nombre de proton d'un noyau est note Z on l'appele numéro atomique ou nombre
 
 *NB*: 
 **Des isotopes** :: ce sont des atomes (ou noyaux) ayant le meme nombre de protons mais un nombre de neutrons (ou de nucleons) $\neq$ 
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-10,2,230-->
 -Ils ont les meme propriétés chimiques mais de propriétés physiques different (ex: la masse, la radioactivités)
 
 ### Interaction forte 
@@ -76,7 +76,7 @@ $$E=\frac{hc}{\lambda}$$
 ### **.**     **Spectres de raies continues, d'émission et d'absorption**
 
 lumière polychromatique :: constitue de plusieurs couleurs
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-11,3,250-->
 lumière monochromatique :: constituée d'une seule $\lambda$ 
 <!--SR:!2023-09-08,1,230-->
 
@@ -101,7 +101,7 @@ Les spectres d'emission et d'absorption de raie est une preuve experimental des 
 - Les atomes ne peuvent exister que dans quelque état d'énergie bien définie caractériser par un niveau d'énergie
 - La atome ne peut absorber ou émettre que des radiation lumineuse de fréquence données 
 en effet la lumière absorber ou émisse est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie qu'entre deux niveaux
-<!--SR:!2023-09-08,1,218-->
+<!--SR:!2023-09-09,1,198-->
 
 #### Spectre de l'atome d'hydrogen (complement de la feuille) 
 ![[image-20230209085425119.png]]

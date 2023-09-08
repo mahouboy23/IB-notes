@@ -21,7 +21,7 @@ $$W_{a \rightarrow b}(\vec f) = \vec{F} * \vec{AB} = f * AB * \cos\theta$$
 - $W < 0$ travail resistant 
 - $W = 0$ quand $f = 0$ ou $\cos\theta = 0$ avec $\theta = 90\degree$  
 **Consequence** : Le travail de la force centripète est nul
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-10,2,230-->
 
 ### Application  (BOOK)
 

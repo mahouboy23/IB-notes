@@ -8,7 +8,7 @@ Created: 2023-06-12
  - Chaque ressort a une constante qui montre sa capacité de déformation notée :: $k$.
 <!--SR:!2023-09-09,2,248-->
  - La tension d'un ressort s'oppose a:: sa déformation.
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-09,1,210-->
 
 
  Formule:
