@@ -18,4 +18,4 @@ $$\sum \vec F_{ext} = m\vec a$$
 - **Troisième loi de Newton**
 ?
 Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppose a la force que exerce l'autre sur l'un.
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-10,2,230-->
