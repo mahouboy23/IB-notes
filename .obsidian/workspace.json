@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Tension d'un ressort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Travaille d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Travaille d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Travaille d'une force.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Travaille d'une force.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,15 +278,19 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "949d7785c3267fb0",
+  "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "Mouvement circulaire uniforme et gravitation.md",
+    "Tension d'un ressort.md",
+    "Force et Lois de Newton (Exemples de force).md",
+    "Mécanique.md",
+    "Les lois de Newton.md",
+    "Application des loi de Newton.md",
     "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
     "Travaille d'une force.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
-    "Mécanique.md",
     "Chômage de déséquilibre.md",
     "University shortlist.loom",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
@@ -311,10 +315,6 @@
     "assets/Untitled 5",
     "Computer science exploration.md",
     "Loi de la demande.md",
-    "Nature et comportement humain.md",
-    "Effet de substitution.md",
-    "Loi d'utilité marginale décroissante.md",
-    "écriture mathématique de la demande.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
