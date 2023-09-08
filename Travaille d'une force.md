@@ -77,3 +77,5 @@ $\Delta t$ = seconde
 ?
 $$W_{A \rightarrow B} \hspace 1mm (\vec F) = \vec{F}* \vec{AB} $$
 <!--SR:!2023-09-08,1,230-->
+
+## 
