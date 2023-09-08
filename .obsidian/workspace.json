@@ -57,8 +57,12 @@
             "id": "5af37e9dd5b51238",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Causes du chômage, coûts et solutions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Causes du chômage, coûts et solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Causes du chômage, coûts et solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Causes du chômage, coûts et solutions.md"
+              }
             }
           },
           {
@@ -220,6 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Causes du chômage, coûts et solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,21 +280,23 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
+    "Taux de chômage naturel.md",
     "Causes du chômage, coûts et solutions.md",
+    "Chômage de déséquilibre.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "hl subjects/Computer science.md",
     "University shortlist.loom",
     "Universitie's.md",
-    "Macroéconomie.md",
     "Faible taux de chômage.md",
     "Untitled 5.md",
     "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
-    "sl subjects/Economie.md",
     "TD economie.md",
     "Croissance économique à court et à long terme.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
     "assets/Croissance économique à court et à long terme",
-    "IB overview.md",
     "Microéconomie.md",
     "Méthode de sortie (production).md",
     "assets/Untitled 5",
@@ -300,7 +311,6 @@
     "Determinant non prix de l'offre.md",
     "écriture mathématique.md",
     "determinant prix de l'offre.md",
-    "Notion d'efficacite.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
