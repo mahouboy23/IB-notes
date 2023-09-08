@@ -100,3 +100,11 @@ $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
 ## Energie cinétique
 
 #### Energie cinetique de translation
+L'énergie cinétique c'est l'énergie que possède un objet du au fait de son mouvement 
+$$E_c=\frac{1}{2}mv^{2}$$
+$E_c$ en $J$ 
+$m$ en $kg$
+$V^{2}$ en $ms^{-1}$ 
+#### Theorem de l'energie cinetique 
+Dans un révérenciel galiléen la variation d'énergie cinétique d'un solide pendant une durée donnée est égal a la somme des travaux des forces extérieurs applique au solide.
+$$\Delta E_{c}=E_{c_{2}} - E_{c_{1}} = \sum\limits W_{1-2} (\vec{F}) $$
