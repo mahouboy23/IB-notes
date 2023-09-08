@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "d10b9dca80aadcdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5af37e9dd5b51238",
             "type": "leaf",
             "state": {
@@ -62,6 +50,16 @@
                 "file": "Travaille d'une force.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "949d7785c3267fb0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md"
               }
             }
           }
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md"
               }
             }
           },
@@ -228,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,10 +276,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5af37e9dd5b51238",
+  "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Mécanique.md",
+    "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
     "Travaille d'une force.md",
+    "Mécanique.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Chômage de déséquilibre.md",
@@ -313,7 +312,6 @@
     "Loi d'utilité marginale décroissante.md",
     "écriture mathématique de la demande.md",
     "Mouvement et déplacement de la demande.md",
-    "Mouvement et déplacement de l'offre.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",

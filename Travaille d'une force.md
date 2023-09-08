@@ -78,4 +78,7 @@ $\Delta t$ = seconde
 $$W_{A \rightarrow B} \hspace 1mm (\vec F) = \vec{F}* \vec{AB} $$
 <!--SR:!2023-09-08,1,230-->
 
-## 
+## Travail d'une force variable (selon l'axe des x)
+
+#### Graph force-deplacement
+
