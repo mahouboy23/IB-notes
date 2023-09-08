@@ -136,7 +136,7 @@ $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hs
 ?
 ![[image-20230214080414405.png]]
 $$^A_ZX \rightarrow ^0_{1}e + ^A_{Z-1}Y+^0_0V \hspace{2mm} (neutrino)$$
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-11,3,250-->
 
 ![[image-20230214081921777.png]]
 
