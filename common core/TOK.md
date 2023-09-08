@@ -22,7 +22,7 @@
 - [[Natural sciences]]
 - [[Human sciences]]
 - [[The arts]] 
-<!--SR:!2023-09-08,1,237-->
+<!--SR:!2023-09-10,2,237-->
 
 ## **Part 4 :** Assessment
 1. [[TOK Exhibition]]  $\rightarrow$ 950 word, ***optional introduction and conclusion***; __35__ prompts; **1/3 of the grade** 1
