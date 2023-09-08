@@ -12,3 +12,8 @@ Il est exprimer par le nombre de chômeurs en pourcentage de la **population ac
 Le taux de chômage est le pourcentage de la population active qui recherche activement du travail mais qui est sans emploi et est calculé par la formule suivante :
 ?
 $$\text{Taux de chômage}=\frac{\text{Nombre de chômeurs}}{\text{Population active totale}}*100$$ 
+## Difficultés de mesurer le chômage
+1. **Chômage caché**
+2. **Travailleurs découragés**
+3. **Disparités régionales, ethniques, d'âge et de sexe**
+4. **Économie informelle**
