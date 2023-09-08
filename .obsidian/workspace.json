@@ -57,15 +57,14 @@
             "id": "d10b9dca80aadcdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faible taux de chômage.md"
+                "file": "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md"
               }
             }
           },
@@ -227,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,10 +276,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4064df0df1aa4843",
+  "active": "d10b9dca80aadcdf",
   "lastOpenFiles": [
-    "Macroéconomie.md",
     "Faible taux de chômage.md",
+    "Macroéconomie.md",
+    "Excalidraw/Drawing 2023-09-08 08.36.37.excalidraw.md",
+    "Untitled 5.md",
+    "TD economie.md",
     "Croissance économique à court et à long terme.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
@@ -292,7 +294,6 @@
     "hl subjects/Computer science.md",
     "University shortlist.loom",
     "Universitie's.md",
-    "Untitled 5.md",
     "assets/Untitled 5",
     "Computer science exploration.md",
     "Loi de la demande.md",
@@ -308,8 +309,6 @@
     "Notion d'efficacite.md",
     "Efficacité productive.md",
     "Changements de prix et boucles de rétroaction.md",
-    "Surplus du producteur.md",
-    "Implication PED pour les politiques gouvernementales.md",
     "assets/Notion de cinématique/Pasted image 20230907163115.png",
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
