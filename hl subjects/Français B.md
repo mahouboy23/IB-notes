@@ -45,6 +45,6 @@ racisme.
 [[Work FR 1]]  
 
 ## **Theme 5 :** Organisation sociale
-#### Principe directeur
+#### Principe directeur: **Explorer les difficultes que rencontrent les individus et les communautes, aini que les possibilite qui s'offrent a eux dans le monde moderne**
 #### Sujets recommandes
 #### Questions possibles
