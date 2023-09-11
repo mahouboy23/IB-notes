@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,13 +288,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "325615fca046fbb4",
+  "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
+    "University shortlist.loom",
     "Universitie's.md",
     "hl subjects/Français B.md",
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
-    "University shortlist.loom",
     "Oral presentation.md",
     "The interactionist Theory.md",
     "pl.md",
@@ -320,7 +320,6 @@
     "Taux de chômage naturel.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "hl subjects/Computer science.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
     "assets/Croissance économique à court et à long terme",

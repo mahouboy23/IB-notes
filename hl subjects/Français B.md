@@ -46,5 +46,6 @@ racisme.
 
 ## **Theme 5 :** Organisation sociale
 #### Principe directeur: **Explorer les difficultes que rencontrent les individus et les communautes, aini que les possibilite qui s'offrent a eux dans le monde moderne**
-#### Sujets recommandes: **Environnement-Droits de l'homme-Paix et conflits-Egalite-Mondialisation**
-#### Questions possibles
+#### Sujets recommandes: **Environnement-Droits de l'homme-Paix et conflits-Egalite-Mondialisation-Ethique-environnements urbains et ruraux**
+#### Questions possibles: 
+1. Quels problemes environnementaux et sociaux presentent des difficultes a l'echrllr mondiale et comment ces difficultes peuvent-elles etre sur
