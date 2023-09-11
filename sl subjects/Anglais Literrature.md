@@ -139,4 +139,4 @@ Analyze the intended audience and purpose of the communication. Consider how lan
 6. Examine visual elements if applicable
 If analyzing visual texts pay attention to visual elements such as images, colors, layout and design's. These can carry cultural meaning and messages.
 7. Evaluate stereotypes and bias
-Asses whether the text perpetuates stereotypes or biases related to culture ethnicity, gender or other social factors
+Asses whether the text perpetuates stereotypes or biases related to culture ethnicity, gender or other social factors. Analyse how these stereotypes reflect and challenge these cultural norms
