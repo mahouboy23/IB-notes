@@ -137,3 +137,6 @@ Look for cultural references, symbols, or allusions whiten the text. These can i
 5. Audience and purpose
 Analyze the intended audience and purpose of the communication. Consider how language and content are tailored to resonate with this specific audience
 6. Examine visual elements if applicable
+If analyzing visual texts pay attention to visual elements such as images, colors, layout and design's. These can carry cultural meaning and messages.
+7. Evaluate stereotypes and bias
+Asses whether the text perpetuates stereotypes or biases related to culture ethnicity, gender or other social factors
