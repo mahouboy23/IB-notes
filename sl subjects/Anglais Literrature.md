@@ -122,3 +122,11 @@ It is explained in the prologue that Toundi dies so the reader already knows. Th
 
 1/ Analyzing various forms of literary and non literary texts
 2/ Explore cultural significance to gain deeper understanding
+
+### literary and non literary texts
+1. Identify the text
+In identifying the text you have, we have to determine the type of communication you're analyzing ex:
+***Ex: _Advertisement, speech, social media, post, public signage_***
+Understand the genre and purpose is crucial for the context.
+2. Contextualize the text :
+To contextualize the text explore the historical social and cultural context in which the text was created. Consider the time period, location and relevant events and mouvement. For most of the time the authors 
