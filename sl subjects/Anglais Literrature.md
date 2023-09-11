@@ -120,3 +120,5 @@ It is explained in the prologue that Toundi dies so the reader already knows. Th
 
 [[Oral presentation]] 
 
+1/ Analyzing various forms of literary and non literary texts
+2/ Explore cultural significance to gain deeper understanding
