@@ -145,4 +145,4 @@ Identify and analyze cultural norms and values reflected in the text. And consid
 9. Analyze the impact
 Consider the impact of the communication on the audience and society. Reflect on how the text influences attitude behavior's or perception related to culture.
 10. Draw conclusions
-To draw conclusions we generally talk about how the language and content of the non-literary text reflect and contribute to cultural norms and values. Reflect on how your own cultural background and experiences may influence your interpretation of the text as well as recognize potential biases and assumptions.3a\szw //////////////////
+To draw conclusions we generally talk about how the language and content of the non-literary text reflect and contribute to cultural norms and values. Reflect on how your own cultural background and experiences may influence your interpretation of the text as well as recognize potential biases and assumptions.
