@@ -129,4 +129,11 @@ In identifying the text you have, we have to determine the type of communication
 ***Ex: _Advertisement, speech, social media, post, public signage***
 Understand the genre and purpose is crucial for the context.
 2. Contextualize the text :
-To contextualize the text explore the historical social and cultural context in which the text was created. Consider the time period, location and relevant events and mouvement. For most of the time the authors 
+To contextualize the text explore the historical social and cultural context in which the text was created. Consider the time period, location and relevant events and mouvement. 
+3. Language choices 
+Examine the language used in the text, including vocabularies, tone, style and rhetoric. Pay attention as well to any culturally specific words, phrases or expressions.
+4. Identify cultural references
+Look for cultural references, symbols, or allusions whiten the text. These can include references to historical figures, myths, religious' symbols or cultural icons
+5. Audience and purpose
+Analyze the intended audience and purpose of the communication. Consider how language and content are tailored to resonate with this specific audience
+6. Examine visual elements if applicable
