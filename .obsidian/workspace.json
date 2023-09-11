@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Français B.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,13 +290,13 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "University shortlist.loom",
+    "IB overview.md",
     "sl subjects/Anglais Literrature.md",
+    "University shortlist.loom",
     "Oral presentation.md",
     "The interactionist Theory.md",
     "pl.md",
     "Compare and contrast.md",
-    "IB overview.md",
     "Travaille d'une force.md",
     "High level Essay.md",
     "sl subjects/Physics.md",
