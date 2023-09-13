@@ -26,7 +26,12 @@ De nombreuses conséquences économiques du chômage sont assez évidentes :
 
 ### Coûts personnels du chômage
 De nombreuses conséquences personnel du chômage sont assez évidentes :
+?
 1. **Augmentation de l’endettement, du sans-abrisme et de l’éclatement des familles**
 2. **Niveaux de stress accrus :**
 
 ### Coûts sociaux du chômage
+De nombreuses conséquences sociaux du chômage sont assez évidentes :
+?
+1. **Augmentation du taux de criminalité**
+2. **Risques accrus pour la santé**
