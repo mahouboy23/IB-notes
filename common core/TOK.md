@@ -47,5 +47,4 @@
 [[TOK WORK 4]] 
 [[TOK WORK 5]] 
 
-string quartet number 8
 
