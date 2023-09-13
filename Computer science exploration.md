@@ -28,7 +28,7 @@ Critères de réussite :
 
 ----
 
-Creation d'une app web qui permet de montrer/afficher et organiser les info, leçon et devoir envoyer par des profs sur Gmail mais aussi de téléverser et télécharger des fichier dans un google drive commun a travers l'app web pour les eleves d'une classe
+Creation d'une app web qui permet de montrer/afficher et organiser les info, leçon et devoir envoyer par des profs sur Gmail mais aussi de téléverser et télécharger des fichier dans un google drive commun a travers l'app web pour les élèves d'une classe
 
 Problème : Les élèves d'une classe rencontrent des difficultés pour organiser et accéder aux informations, aux leçons et aux devoirs envoyés par leurs professeurs via Gmail. Ils souhaitent une solution qui simplifie la gestion de ces informations et facilite le partage de fichiers au sein de leur classe.
 
