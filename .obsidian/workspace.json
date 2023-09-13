@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -224,6 +224,16 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "5e5931746b22ea33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -238,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,13 +298,16 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "325615fca046fbb4",
+  "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
-    "University shortlist.loom",
+    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
+    "Computer science exploration.md",
+    "hl subjects/Computer science.md",
     "Universitie's.md",
-    "IB overview.md",
+    "University shortlist.loom",
     "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
     "Oral presentation.md",
     "The interactionist Theory.md",
     "pl.md",
@@ -307,7 +320,6 @@
     "Mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Tension d'un ressort.md",
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
     "Les lois de Newton.md",
     "Application des loi de Newton.md",
     "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
@@ -319,7 +331,6 @@
     "Causes du chômage, coûts et solutions.md",
     "Taux de chômage naturel.md",
     "Macroéconomie.md",
-    "sl subjects/Economie.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
     "assets/Croissance économique à court et à long terme",
