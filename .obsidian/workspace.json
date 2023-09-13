@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context of Interpretation or reception.md",
+                "file": "Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Context of Interpretation or reception.md",
+                "file": "Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Context of Interpretation or reception.md",
+                "file": "Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Context of Interpretation or reception.md"
+                "file": "Structure.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Context of Interpretation or reception.md",
+                "file": "Structure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,6 +299,8 @@
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
     "sl subjects/Anglais Literrature.md",
+    "Structure.md",
+    "Style.md",
     "Context of Interpretation or reception.md",
     "Context of Interpretation/reception.md",
     "Context of Interpretation",
@@ -329,8 +331,6 @@
     "University shortlist.loom",
     "hl subjects/Français B.md",
     "Oral presentation.md",
-    "The interactionist Theory.md",
-    "pl.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",

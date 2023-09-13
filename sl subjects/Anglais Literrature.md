@@ -160,5 +160,5 @@ Analyzing texts: 5 keys considerations ?
 - [[Content]]
 - [[Context of Interpretation or reception]]
 - [[Structure]]
-- Style
+- [[Style]] 
 - [[Context of composition or production]] 
