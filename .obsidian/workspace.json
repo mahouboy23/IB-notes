@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,6 +298,7 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
+    "common core/TOK.md",
     "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
@@ -330,7 +331,6 @@
     "hl subjects/Computer science.md",
     "University shortlist.loom",
     "hl subjects/Français B.md",
-    "Oral presentation.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
