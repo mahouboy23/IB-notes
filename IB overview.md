@@ -18,4 +18,4 @@ tags : ib
 - [[EE]] 📑
 
 ## extracurricular activities
-- [[Universitie's]]  
+- [[University]]  

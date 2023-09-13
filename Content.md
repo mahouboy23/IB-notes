@@ -8,3 +8,5 @@ Created: 2023-09-13
 - What is the writer's message?
 - What is the writer's attitude (the tone)?
 - How does that affect your reading of the text (the mood)?
+
+### Context of composition/production

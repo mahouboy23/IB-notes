@@ -158,7 +158,7 @@ Analysis :: means to break down in order to bring out the essential element or s
 Analyzing texts: 5 keys considerations ?
 
 - [[Content]]
-- Context of Interpretation/reception
-- Structure
+- [[Context of Interpretation or reception]]
+- [[Structure]]
 - Style
-- Context of composition/production
+- [[Context of composition or production]] 

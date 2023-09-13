@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content.md",
+                "file": "Context of Interpretation or reception.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Can a work of art meaning on which",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
+                "file": "Context of Interpretation or reception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content.md",
+                "file": "Context of Interpretation or reception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content.md"
+                "file": "Context of Interpretation or reception.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Content.md",
+                "file": "Context of Interpretation or reception.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,9 +298,19 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
-    "Content.md",
     "sl subjects/Anglais Literrature.md",
+    "Context of Interpretation or reception.md",
+    "Context of Interpretation/reception.md",
+    "Context of Interpretation",
+    "Context of composition or production.md",
+    "University.md",
+    "IB overview.md",
+    "Context of composition/production 2.md",
+    "Context of composition/production 1.md",
+    "Context of composition/production.md",
+    "Context of composition",
+    "Content.md",
+    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "L'inflation et ses causes.md",
     "Macroéconomie.md",
     "Causes du chômage, coûts et solutions.md",
@@ -312,8 +322,6 @@
     "assets/Taux de chômage naturel",
     "Faible taux de chômage.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "Universitie's.md",
     "Computer science exploration.md",
     "sl subjects/Physics.md",
     "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
@@ -323,12 +331,6 @@
     "Oral presentation.md",
     "The interactionist Theory.md",
     "pl.md",
-    "Compare and contrast.md",
-    "Travaille d'une force.md",
-    "High level Essay.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Application.md",
-    "Mécanique.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
@@ -341,9 +343,7 @@
     "assets/Notion de cinématique",
     "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
     "assets/Chaleur massique, capacité calorifique",
-    "Chaleur et energie interne",
     "assets/Determinant des composantes de la demande globale/image-20230907114534215.png",
-    "assets/Determinant des composantes de la demande globale",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
