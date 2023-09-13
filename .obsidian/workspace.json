@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f37b91cca33e13e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'inflation et ses causes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "325615fca046fbb4",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'inflation et ses causes.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -248,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,10 +286,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f37b91cca33e13e7",
+  "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
-    "Macroéconomie.md",
     "L'inflation et ses causes.md",
+    "Macroéconomie.md",
     "Causes du chômage, coûts et solutions.md",
     "Chômage de déséquilibre.md",
     "Taux de chômage naturel.md",

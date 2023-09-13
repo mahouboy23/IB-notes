@@ -13,4 +13,4 @@ Created: 2022-11-07
 - Analysis on text 2 
 - Comparison of texts 1 and 2 
 - Tie back to thesis statement
-<!--SR:!2023-01-26,3,270-->
+<!--SR:!2023-12-22,100,270-->

@@ -17,7 +17,7 @@ The key features of a story are:
 >[[Climax]] 
 >[[falling action]] 
 >[[Denouement]] 
-<!--SR:!2023-02-05,13,190-->
+<!--SR:!2023-12-22,100,190-->
 
 -**Conflicts :** In every story, there is conflict. Type of conflicts (C) : C vs others, C vs circumstances, C vs him/herself, C vs another people. 
 -**Character :** Every stories need a character. We can mention 2 types of characters : the antagonist and the protagonist. 
