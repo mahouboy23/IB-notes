@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,6 +60,16 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e5ddb79c5076aea7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md"
               }
             }
           }
@@ -145,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Content.md"
               }
             }
           },
@@ -236,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Content.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,6 +298,9 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
+    "Content.md",
+    "sl subjects/Anglais Literrature.md",
     "L'inflation et ses causes.md",
     "Macroéconomie.md",
     "Causes du chômage, coûts et solutions.md",
@@ -302,7 +315,6 @@
     "IB overview.md",
     "Universitie's.md",
     "Computer science exploration.md",
-    "sl subjects/Anglais Literrature.md",
     "sl subjects/Physics.md",
     "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
     "hl subjects/Computer science.md",
@@ -317,8 +329,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "Application.md",
     "Mécanique.md",
-    "Force et Lois de Newton (Exemples de force).md",
-    "Tension d'un ressort.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
