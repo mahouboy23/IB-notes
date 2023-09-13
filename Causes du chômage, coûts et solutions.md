@@ -13,6 +13,9 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 ?
 Les coûts du chômage sont importants et provoquent des problèmes économiques, personnels et sociaux.
 
+Il existe trois types de coût du chômage ::  *Coûts économiques, Coûts personnels du chômage, Coûts sociaux du chômage*
+
+### Coûts économiques
 De nombreuses conséquences économiques du chômage sont assez évidentes :
 ?
 1. **Perte de PIB**
@@ -20,3 +23,10 @@ De nombreuses conséquences économiques du chômage sont assez évidentes :
 3. **Augmentation du coût des allocations de chômage**
 4. **Perte de revenus pour les particuliers**
 5. **De plus grandes disparités dans la répartition des revenus**
+
+### Coûts personnels du chômage
+De nombreuses conséquences personnel du chômage sont assez évidentes :
+1. **Augmentation de l’endettement, du sans-abrisme et de l’éclatement des familles**
+2. **Niveaux de stress accrus :**
+
+### Coûts sociaux du chômage
