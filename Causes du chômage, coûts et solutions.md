@@ -35,3 +35,6 @@ De nombreuses conséquences sociaux du chômage sont assez évidentes :
 ?
 1. **Augmentation du taux de criminalité**
 2. **Risques accrus pour la santé**
+
+## Des solutions au chômage
+Il existe deux angles sous lesquels un gouvernement peut aborder le problème du chômage et sa réponse politique dépendra du type de chômage auquel il est confronté.
