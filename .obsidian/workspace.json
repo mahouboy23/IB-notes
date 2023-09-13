@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Structure.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,6 +298,7 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
+    "Content.md",
     "sl subjects/Anglais Literrature.md",
     "Structure.md",
     "Style.md",
@@ -311,7 +312,6 @@
     "Context of composition/production 1.md",
     "Context of composition/production.md",
     "Context of composition",
-    "Content.md",
     "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "L'inflation et ses causes.md",
     "Macroéconomie.md",

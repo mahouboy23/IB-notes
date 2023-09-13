@@ -162,3 +162,9 @@ Analyzing texts: 5 keys considerations ?
 - [[Structure]]
 - [[Style]] 
 - [[Context of composition or production]] 
+#### Key terms
+- Stylistic
+- Devices - tools that an author uses to achieve an intended effect, for example, metaphor or rhetoric.
+- Audiences - The intended readership of a text.
+- Purpose - what the text sets out to achieve, why the text is created.
+- Mood - The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
