@@ -25,3 +25,5 @@ Critères de réussite :
 4. **Personnalisation :** La web app doit permettre à l'utilisateur de personnaliser son expérience en fonction de ses besoins spécifiques en matière de révision et de gestion des leçons.
    
 5. **Suivi des Progrès :** Elle doit fournir des outils pour suivre les progrès de l'utilisateur, lui permettant de voir comment sa productivité et ses performances de révision évoluent au fil du temps.
+
+Creation d'une app web qui permet de montrer/afficher et organiser les info, leçon et devoir envoyer par des profs sur Gmail mais aussi de téléverser et télécharger des fichier dans un google drive commun a travers l'app web pour les eleves d'une classe

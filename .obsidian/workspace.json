@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,14 +297,15 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "949d7785c3267fb0",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
-    "Computer science exploration.md",
-    "hl subjects/Computer science.md",
     "Universitie's.md",
-    "University shortlist.loom",
+    "Computer science exploration.md",
     "sl subjects/Anglais Literrature.md",
+    "sl subjects/Physics.md",
+    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
+    "hl subjects/Computer science.md",
+    "University shortlist.loom",
     "IB overview.md",
     "hl subjects/Français B.md",
     "Oral presentation.md",
@@ -314,7 +314,6 @@
     "Compare and contrast.md",
     "Travaille d'une force.md",
     "High level Essay.md",
-    "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Application.md",
     "Mécanique.md",
