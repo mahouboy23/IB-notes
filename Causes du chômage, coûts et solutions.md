@@ -38,3 +38,5 @@ De nombreuses conséquences sociaux du chômage sont assez évidentes :
 
 ## Des solutions au chômage
 Il existe deux angles sous lesquels un gouvernement peut aborder le problème du chômage et sa réponse politique dépendra du type de chômage auquel il est confronté.
+![[image-20230913110701802.png]]
+
