@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taux de chômage naturel.md",
+                "file": "Causes du chômage, coûts et solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taux de chômage naturel.md",
+                "file": "Causes du chômage, coûts et solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taux de chômage naturel.md",
+                "file": "Causes du chômage, coûts et solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taux de chômage naturel.md"
+                "file": "Causes du chômage, coûts et solutions.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Taux de chômage naturel.md",
+                "file": "Causes du chômage, coûts et solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,12 +300,12 @@
   },
   "active": "f37b91cca33e13e7",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Causes du chômage, coûts et solutions.md",
+    "Taux de chômage naturel.md",
     "assets/Taux de chômage naturel/image-20230913103134897.png",
     "assets/Taux de chômage naturel",
-    "Causes du chômage, coûts et solutions.md",
-    "Macroéconomie.md",
     "Faible taux de chômage.md",
-    "Taux de chômage naturel.md",
     "Chômage de déséquilibre.md",
     "sl subjects/Economie.md",
     "IB overview.md",
@@ -345,7 +345,6 @@
     "assets/Determinant des composantes de la demande globale",
     "assets/Demande globale/image-20230907113014867.png",
     "assets/Demande globale",
-    "assets/Pib/image-20230907111621841.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
