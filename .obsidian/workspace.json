@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universitie's.md",
+                "file": "Taux de chômage naturel.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Taux de chômage naturel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Taux de chômage naturel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "Taux de chômage naturel.md"
               }
             }
           },
@@ -247,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Taux de chômage naturel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,8 +298,17 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1251329edb1ce792",
+  "active": "f37b91cca33e13e7",
   "lastOpenFiles": [
+    "assets/Taux de chômage naturel/image-20230913103134897.png",
+    "assets/Taux de chômage naturel",
+    "Causes du chômage, coûts et solutions.md",
+    "Macroéconomie.md",
+    "Faible taux de chômage.md",
+    "Taux de chômage naturel.md",
+    "Chômage de déséquilibre.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
     "Universitie's.md",
     "Computer science exploration.md",
     "sl subjects/Anglais Literrature.md",
@@ -306,7 +316,6 @@
     "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
     "hl subjects/Computer science.md",
     "University shortlist.loom",
-    "IB overview.md",
     "hl subjects/Français B.md",
     "Oral presentation.md",
     "The interactionist Theory.md",
@@ -319,17 +328,10 @@
     "Mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Tension d'un ressort.md",
-    "Les lois de Newton.md",
-    "Application des loi de Newton.md",
-    "Excalidraw/Drawing 2023-09-08 10.31.38.excalidraw.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
-    "Chômage de déséquilibre.md",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
     "assets/Chômage de déséquilibre",
-    "Causes du chômage, coûts et solutions.md",
-    "Taux de chômage naturel.md",
-    "Macroéconomie.md",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
     "assets/Croissance économique à court et à long terme",
@@ -344,7 +346,6 @@
     "assets/Demande globale/image-20230907113014867.png",
     "assets/Demande globale",
     "assets/Pib/image-20230907111621841.png",
-    "assets/Pib",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
