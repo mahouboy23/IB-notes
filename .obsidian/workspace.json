@@ -20,24 +20,24 @@
             }
           },
           {
+            "id": "949d7785c3267fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faible taux de chômage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "325615fca046fbb4",
             "type": "leaf",
             "state": {
               "type": "dataloom",
               "state": {
                 "file": "University shortlist.loom"
-              }
-            }
-          },
-          {
-            "id": "949d7785c3267fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique thermique.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "Faible taux de chômage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "Faible taux de chômage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique thermique.md"
+                "file": "Faible taux de chômage.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physique thermique.md",
+                "file": "Faible taux de chômage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,13 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Equilibre thermique et principe de thermomètre.md",
+    "Computer science exploration.md",
+    "Faible taux de chômage.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
     "Physique thermique.md",
+    "Equilibre thermique et principe de thermomètre.md",
     "Chaleur massique, capacité calorifique.md",
     "sl subjects/Physics.md",
     "Mécanique.md",
@@ -286,7 +291,6 @@
     "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "University shortlist.loom",
     "Electricité et magnétisme.md",
-    "IB overview.md",
     "common core/TOK.md",
     "TOK Essay.md",
     "sl subjects/Anglais Literrature.md",
@@ -300,11 +304,7 @@
     "University.md",
     "Context of composition/production 2.md",
     "Context of composition/production 1.md",
-    "Context of composition/production.md",
     "Context of composition",
-    "L'inflation et ses causes.md",
-    "Macroéconomie.md",
-    "Causes du chômage, coûts et solutions.md",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
     "assets/Causes du chômage, coûts et solutions",
     "assets/Taux de chômage naturel/image-20230913103134897.png",
