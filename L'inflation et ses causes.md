@@ -13,4 +13,4 @@ Created: 2023-09-13
 $$\text{IPC}=\frac{\text{Valeur du panier n}}{\text{Valeur du panier de l'année de base}}*100$$
 
 2019 : IPC = 100 / Taux d'inflation = 0
-2020 : IPC = 
+2020 : IPC = 3408 / Taux d'inflation =
