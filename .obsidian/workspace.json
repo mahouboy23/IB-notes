@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Physique thermique.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Physique thermique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Physique thermique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "Physique thermique.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Physique thermique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +276,15 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
-    "Travaille d'une force.md",
-    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
-    "Mécanique.md",
-    "University shortlist.loom",
+    "Equilibre thermique et principe de thermomètre.md",
+    "Physique thermique.md",
+    "Chaleur massique, capacité calorifique.md",
     "sl subjects/Physics.md",
+    "Mécanique.md",
+    "Travaille d'une force.md",
+    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
+    "University shortlist.loom",
     "Electricité et magnétisme.md",
     "IB overview.md",
     "common core/TOK.md",
@@ -302,13 +305,10 @@
     "L'inflation et ses causes.md",
     "Macroéconomie.md",
     "Causes du chômage, coûts et solutions.md",
-    "Chômage de déséquilibre.md",
-    "Taux de chômage naturel.md",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
     "assets/Causes du chômage, coûts et solutions",
     "assets/Taux de chômage naturel/image-20230913103134897.png",
     "assets/Taux de chômage naturel",
-    "Faible taux de chômage.md",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
