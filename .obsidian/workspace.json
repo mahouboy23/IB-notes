@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "L'inflation et ses causes.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cho",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "L'inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "L'inflation et ses causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faible taux de chômage.md"
+                "file": "L'inflation et ses causes.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Faible taux de chômage.md",
+                "file": "L'inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,9 +276,13 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Computer science exploration.md",
-    "Faible taux de chômage.md",
     "Macroéconomie.md",
+    "Causes du chômage, coûts et solutions.md",
+    "Taux de chômage naturel.md",
+    "Chômage de déséquilibre.md",
+    "L'inflation et ses causes.md",
+    "Faible taux de chômage.md",
+    "Computer science exploration.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Physique thermique.md",
@@ -299,11 +303,7 @@
     "Structure.md",
     "Context of Interpretation or reception.md",
     "Content.md",
-    "Context of Interpretation/reception.md",
     "Context of Interpretation",
-    "University.md",
-    "Context of composition/production 2.md",
-    "Context of composition/production 1.md",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
     "assets/Causes du chômage, coûts et solutions",
