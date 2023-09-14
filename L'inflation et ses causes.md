@@ -13,4 +13,6 @@ Created: 2023-09-13
 $$\text{IPC}=\frac{\text{Valeur du panier n}}{\text{Valeur du panier de l'année de base}}*100$$
 
 2019 : IPC = 100 / Taux d'inflation = 0
-2020 : IPC = 3408 / Taux d'inflation =
+2020 : IPC = 92 / Taux d'inflation = -8
+2021: IPC = 104 / taux d'inflaton = 4
+2022 : IPC = 122 / Taux d'inflation = 22
