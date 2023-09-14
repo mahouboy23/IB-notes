@@ -94,8 +94,8 @@ $$= \frac{F_{A}+F_{B}}{Z}*(x_{B}-x_{A})$$
 
 
 
-
-
+![[Drawing 2023-09-08 10.53.02.excalidraw]]
+##### formule:
 $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
 ## Energie cinétique
 

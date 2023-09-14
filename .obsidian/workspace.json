@@ -30,24 +30,12 @@
             }
           },
           {
-            "id": "5af37e9dd5b51238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travaille d'une force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "949d7785c3267fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Travaille d'une force.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,16 +48,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e5ddb79c5076aea7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md"
               }
             }
           }
@@ -296,16 +274,18 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5af37e9dd5b51238",
+  "active": "949d7785c3267fb0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
+    "Travaille d'une force.md",
+    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "Mécanique.md",
+    "University shortlist.loom",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
-    "Travaille d'une force.md",
     "IB overview.md",
     "common core/TOK.md",
     "TOK Essay.md",
-    "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
     "Style.md",
@@ -329,8 +309,6 @@
     "assets/Taux de chômage naturel/image-20230913103134897.png",
     "assets/Taux de chômage naturel",
     "Faible taux de chômage.md",
-    "sl subjects/Economie.md",
-    "University shortlist.loom",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
