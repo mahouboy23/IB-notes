@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Travaille d'une force.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Travaille d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Travaille d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "Travaille d'une force.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "Travaille d'une force.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,11 +298,14 @@
   },
   "active": "5af37e9dd5b51238",
   "lastOpenFiles": [
+    "Mécanique.md",
+    "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
+    "Travaille d'une force.md",
+    "IB overview.md",
+    "common core/TOK.md",
     "TOK Essay.md",
     "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
-    "sl subjects/Physics.md",
-    "common core/TOK.md",
-    "IB overview.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
     "Style.md",
@@ -327,9 +330,6 @@
     "assets/Taux de chômage naturel",
     "Faible taux de chômage.md",
     "sl subjects/Economie.md",
-    "Computer science exploration.md",
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
-    "hl subjects/Computer science.md",
     "University shortlist.loom",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
