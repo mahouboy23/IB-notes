@@ -11,3 +11,5 @@ Created: 2023-09-13
 **indice des prix à la consommation (IPC)** ::Un panier pondéré de biens et services typiques achetés dans l’économie par une famille type, utilisé pour mesurer les variations de l’inflation.
 ### formule 
 $$\text{TPC}=\frac{\text{Valeur du panier n}}{\text{Valeur du panier de l'année de base}}*100$$
+
+2019 : 
