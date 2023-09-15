@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bin",
+                "query": "force conservative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "Energie potentielles et énergie mécanique.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,10 +278,12 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Mécanique.md",
+    "force conservative.md",
     "Energie potentielles et énergie mécanique.md",
-    "sl subjects/Physics.md",
     "IB overview.md",
+    "Mécanique.md",
+    "Travaille d'une force.md",
+    "sl subjects/Physics.md",
     "Architecture des ordinateurs.md",
     "les parties prenantes.md",
     "Notion de système.md",
@@ -301,10 +303,8 @@
     "Physique thermique.md",
     "Equilibre thermique et principe de thermomètre.md",
     "Chaleur massique, capacité calorifique.md",
-    "Travaille d'une force.md",
     "Excalidraw/Drawing 2023-09-13 13.37.11.excalidraw.md",
     "University shortlist.loom",
-    "Electricité et magnétisme.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
