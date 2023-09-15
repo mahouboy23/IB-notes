@@ -18,5 +18,5 @@ Created: 2023-03-28
 ## Travail, puissance et énergie
 
 1. [[Travaille d'une force]]
-2. 
+2. [[Energie potentielles et énergie mécanique]] 
 
