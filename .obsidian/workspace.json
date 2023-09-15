@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'inflation et ses causes.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,13 +278,20 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
+    "les parties prenantes.md",
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
+    "Architecture des ordinateurs.md",
+    "Réseaux.md",
+    "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "L'inflation et ses causes.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Faible taux de chômage.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
     "Computer science exploration.md",
-    "L'inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
     "Taux de chômage naturel.md",
     "Chômage de déséquilibre.md",
@@ -298,13 +305,6 @@
     "University shortlist.loom",
     "Electricité et magnétisme.md",
     "common core/TOK.md",
-    "TOK Essay.md",
-    "sl subjects/Anglais Literrature.md",
-    "Context of composition or production.md",
-    "Style.md",
-    "Structure.md",
-    "Context of Interpretation or reception.md",
-    "Content.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
