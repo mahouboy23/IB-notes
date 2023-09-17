@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "0d1c1caa60ab8349",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "325615fca046fbb4",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +274,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "949d7785c3267fb0",
+  "active": "0d1c1caa60ab8349",
   "lastOpenFiles": [
     "sl subjects/Physics.md",
     "Mécanique.md",
