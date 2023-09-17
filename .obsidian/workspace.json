@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Energie potentielles et énergie mécanique.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,8 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "IB overview.md",
     "Mécanique.md",
+    "IB overview.md",
     "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
