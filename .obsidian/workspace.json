@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,16 +274,16 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0d1c1caa60ab8349",
+  "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
+    "IB overview.md",
     "Mécanique.md",
+    "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
     "force conservative.md",
-    "IB overview.md",
     "Architecture des ordinateurs.md",
     "les parties prenantes.md",
     "Notion de système.md",
