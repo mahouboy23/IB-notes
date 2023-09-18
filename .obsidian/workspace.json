@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approches to non-literary text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approches to non-literary text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Approches to non-literary text.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Approches to non-literary text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,14 +269,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "949d7785c3267fb0",
+  "active": "0d1c1caa60ab8349",
   "lastOpenFiles": [
+    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of Interpretation or reception.md",
     "Context of composition or production.md",
     "Structure.md",
     "Content.md",
-    "Approches to non-literary text.md",
     "IB overview.md",
     "Energie potentielles et énergie mécanique.md",
     "Mécanique.md",
