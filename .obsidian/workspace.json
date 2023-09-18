@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie potentielles et énergie mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie potentielles et énergie mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie potentielles et énergie mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie potentielles et énergie mécanique.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie potentielles et énergie mécanique.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,13 +276,15 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Mécanique.md",
+    "Approches to non-literary text.md",
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "Energie potentielles et énergie mécanique.md",
+    "Mécanique.md",
     "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Travaille d'une force.md",
-    "Energie potentielles et énergie mécanique.md",
     "force conservative.md",
     "Architecture des ordinateurs.md",
     "les parties prenantes.md",
@@ -300,8 +302,6 @@
     "Causes du chômage, coûts et solutions.md",
     "Taux de chômage naturel.md",
     "Chômage de déséquilibre.md",
-    "Physique thermique.md",
-    "Equilibre thermique et principe de thermomètre.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
