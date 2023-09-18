@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Approches to non-literary text.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,12 @@
   },
   "active": "949d7785c3267fb0",
   "lastOpenFiles": [
-    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
+    "Context of Interpretation or reception.md",
+    "Context of composition or production.md",
+    "Structure.md",
+    "Content.md",
+    "Approches to non-literary text.md",
     "IB overview.md",
     "Energie potentielles et énergie mécanique.md",
     "Mécanique.md",
@@ -298,10 +302,6 @@
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
-    "Computer science exploration.md",
-    "Causes du chômage, coûts et solutions.md",
-    "Taux de chômage naturel.md",
-    "Chômage de déséquilibre.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
