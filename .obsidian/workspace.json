@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operations fondamentales et operations composees.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operations fondamentales et operations composees.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operations fondamentales et operations composees.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operations fondamentales et operations composees.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operations fondamentales et operations composees.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +278,8 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Operations fondamentales et operations composees.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "Operations fondamentales d'un ordinateur.md",
     "Computer science exploration.md",
     "Approches to non-literary text.md",

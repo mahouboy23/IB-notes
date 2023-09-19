@@ -39,3 +39,4 @@ Created: 2023-03-31
 ### **Language de programmation**
 1. [[Operations fondamentales d'un ordinateur]] 
 2. [[Operations fondamentales et operations composees]] 
+3. [[Caractéristiques essentielles d'un language informatique]]
