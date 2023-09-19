@@ -164,16 +164,17 @@ Analyzing texts: 5 keys considerations ?
 - [[Style]] 
 - [[Context of composition or production]] 
 #### Key terms
-- Stylistic
-- Devices - tools that an author uses to achieve an intended effect, for example, metaphor or rhetoric.
-- Audiences - The intended readership of a text.
-- Purpose - what the text sets out to achieve, why the text is created.
-- Mood - The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
-- Semantic fields - A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home.
+?
+- Stylistic :
+- Devices :: - tools that an author uses to achieve an intended effect, for example, metaphor or rhetoric.
+- Audiences :: - The intended readership of a text.
+- Purpose :: - what the text sets out to achieve, why the text is created.
+- Mood :: - The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
+- Semantic fields :: - A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home.
 
-- Lexical sers - a group of words that are related to each other in meaning, for example leaf, green, trunk, bark and branch would all be part of the same lexical set in relation to the word `tree`  
-- Diction - The word chosen in a text.
-- Tone - The attitude of the writer or speaker towards his or her subject.
-- Figurative language - language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal.
+- Lexical sers :: - a group of words that are related to each other in meaning, for example leaf, green, trunk, bark and branch would all be part of the same lexical set in relation to the word `tree`  
+- Diction :: - The word chosen in a text.
+- Tone :: - The attitude of the writer or speaker towards his or her subject.
+- Figurative language :: - language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal.
 
 1. [[Approches to non-literary text]] 

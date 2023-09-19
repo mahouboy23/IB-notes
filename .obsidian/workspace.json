@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New version EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New version EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New version EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New version EE.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New version EE.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,12 +278,12 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "EE NEW.md",
+    "IB overview.md",
     "New version EE.md",
+    "EE NEW.md",
     "Experiment.md",
     "Possible structure.md",
     "common core/EE.md",
-    "IB overview.md",
     "Caractéristiques essentielles d'un language informatique.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
