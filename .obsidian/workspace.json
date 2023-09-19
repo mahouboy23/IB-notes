@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Caractéristiques essentielles d'un language informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Caractéristiques essentielles d'un language informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Caractéristiques essentielles d'un language informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "Caractéristiques essentielles d'un language informatique.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Caractéristiques essentielles d'un language informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +278,9 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Operations fondamentales et operations composees.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Caractéristiques essentielles d'un language informatique.md",
+    "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
     "Computer science exploration.md",
     "Approches to non-literary text.md",
@@ -303,7 +304,6 @@
     "les parties prenantes.md",
     "Notion de système.md",
     "Réseaux.md",
-    "L'inflation et ses causes.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
