@@ -50,9 +50,27 @@
                 "file": "University shortlist.loom"
               }
             }
+          },
+          {
+            "id": "086ab43e4d9e8d3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f9b2cb334625424",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md"
+              }
             }
           },
           {
@@ -220,6 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,8 +292,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0d1c1caa60ab8349",
+  "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
     "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of Interpretation or reception.md",
@@ -295,8 +320,6 @@
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Faible taux de chômage.md",
     "Macroéconomie.md",
-    "sl subjects/Economie.md",
-    "Excalidraw/Drawing 2023-09-08 10.53.02.excalidraw.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
