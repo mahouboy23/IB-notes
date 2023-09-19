@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristiques essentielles d'un language informatique.md",
+                "file": "New version EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristiques essentielles d'un language informatique.md",
+                "file": "New version EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristiques essentielles d'un language informatique.md",
+                "file": "New version EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristiques essentielles d'un language informatique.md"
+                "file": "New version EE.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristiques essentielles d'un language informatique.md",
+                "file": "New version EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,14 +278,19 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
+    "EE NEW.md",
+    "New version EE.md",
+    "Experiment.md",
+    "Possible structure.md",
+    "common core/EE.md",
+    "IB overview.md",
     "Caractéristiques essentielles d'un language informatique.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
     "Computer science exploration.md",
     "Approches to non-literary text.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
     "Untitled 6.md",
     "sl subjects/Anglais Literrature.md",
@@ -299,11 +304,6 @@
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Travaille d'une force.md",
-    "force conservative.md",
-    "Architecture des ordinateurs.md",
-    "les parties prenantes.md",
-    "Notion de système.md",
-    "Réseaux.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
