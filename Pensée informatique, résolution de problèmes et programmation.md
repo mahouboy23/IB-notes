@@ -34,3 +34,7 @@ Created: 2023-03-31
  Comparaison d'algorithmes
 
 [[Exo info]] 
+
+## Introduction a la programmation
+### **Language de programmation**
+1. [[Operations fondamentales d'un ordinateur]] 

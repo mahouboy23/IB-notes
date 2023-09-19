@@ -63,9 +63,11 @@
             "id": "4f9b2cb334625424",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md"
+                "file": "Operations fondamentales d'un ordinateur.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
+                "file": "Operations fondamentales d'un ordinateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
+                "file": "Operations fondamentales d'un ordinateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md"
+                "file": "Operations fondamentales d'un ordinateur.md"
               }
             }
           },
@@ -242,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
+                "file": "Operations fondamentales d'un ordinateur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,15 +296,18 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Untitled 6.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Operations fondamentales d'un ordinateur.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
+    "Untitled 6.md",
     "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of Interpretation or reception.md",
     "Context of composition or production.md",
     "Structure.md",
     "Content.md",
-    "IB overview.md",
     "Energie potentielles et énergie mécanique.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
@@ -313,13 +318,10 @@
     "Architecture des ordinateurs.md",
     "les parties prenantes.md",
     "Notion de système.md",
-    "hl subjects/Computer science.md",
     "Réseaux.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "L'inflation et ses causes.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Faible taux de chômage.md",
-    "Macroéconomie.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
