@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Approches to non-literary text.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,6 +278,9 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "poetry.md",
+    "Approches to non-literary text.md",
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
     "New version EE.md",
     "EE NEW.md",
@@ -289,11 +292,9 @@
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
     "Computer science exploration.md",
-    "Approches to non-literary text.md",
     "hl subjects/Computer science.md",
     "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
     "Untitled 6.md",
-    "sl subjects/Anglais Literrature.md",
     "Context of Interpretation or reception.md",
     "Context of composition or production.md",
     "Structure.md",
@@ -303,7 +304,6 @@
     "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
-    "Travaille d'une force.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
