@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "0d1c1caa60ab8349",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
             "id": "325615fca046fbb4",
             "type": "leaf",
             "state": {
@@ -52,27 +42,19 @@
             }
           },
           {
-            "id": "086ab43e4d9e8d3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4f9b2cb334625424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operations fondamentales d'un ordinateur.md",
+                "file": "Operations fondamentales et operations composees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operations fondamentales d'un ordinateur.md",
+                "file": "Operations fondamentales et operations composees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operations fondamentales d'un ordinateur.md",
+                "file": "Operations fondamentales et operations composees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operations fondamentales d'un ordinateur.md"
+                "file": "Operations fondamentales et operations composees.md"
               }
             }
           },
@@ -244,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operations fondamentales d'un ordinateur.md",
+                "file": "Operations fondamentales et operations composees.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,12 +279,14 @@
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
     "Pensée informatique, résolution de problèmes et programmation.md",
+    "Operations fondamentales et operations composees.md",
     "Operations fondamentales d'un ordinateur.md",
+    "Computer science exploration.md",
+    "Approches to non-literary text.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
     "Untitled 6.md",
-    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of Interpretation or reception.md",
     "Context of composition or production.md",
@@ -320,8 +304,6 @@
     "Notion de système.md",
     "Réseaux.md",
     "L'inflation et ses causes.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
-    "Faible taux de chômage.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
