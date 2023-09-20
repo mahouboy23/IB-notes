@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Approches to non-literary text.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +275,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4f9b2cb334625424",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "poetry.md",
-    "Approches to non-literary text.md",
-    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "Computer science exploration.md",
+    "Approches to non-literary text.md",
+    "poetry.md",
+    "sl subjects/Anglais Literrature.md",
     "New version EE.md",
     "EE NEW.md",
     "Experiment.md",
@@ -291,7 +291,6 @@
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
-    "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
     "Untitled 6.md",
