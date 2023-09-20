@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Approches to non-literary text.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Approches to non-literary text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,9 +277,9 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
     "IB overview.md",
-    "sl subjects/Anglais Literrature.md",
     "Style.md",
     "Context of Interpretation or reception.md",
     "Approches to non-literary text.md",
