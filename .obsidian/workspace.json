@@ -47,13 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "L'inflation et ses causes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "L'inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "L'inflation et ses causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "L'inflation et ses causes.md"
               }
             }
           },
@@ -225,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "L'inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,13 +276,25 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1251329edb1ce792",
+  "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "L'inflation et ses causes.md",
+    "Faible taux de chômage.md",
+    "Causes du chômage, coûts et solutions.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
-    "Computer science exploration.md",
     "Approches to non-literary text.md",
-    "poetry.md",
     "sl subjects/Anglais Literrature.md",
+    "drama.md",
+    "prose non-fiction.md",
+    "prose fiction.md",
+    "Context of composition or production.md",
+    "Context of Interpretation or reception.md",
+    "Content.md",
+    "Style.md",
+    "Computer science exploration.md",
+    "poetry.md",
     "New version EE.md",
     "EE NEW.md",
     "Experiment.md",
@@ -291,18 +304,6 @@
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
-    "hl subjects/Computer science.md",
-    "Excalidraw/Drawing 2023-09-19 07.54.16.excalidraw.md",
-    "Untitled 6.md",
-    "Context of Interpretation or reception.md",
-    "Context of composition or production.md",
-    "Structure.md",
-    "Content.md",
-    "Energie potentielles et énergie mécanique.md",
-    "Mécanique.md",
-    "sl subjects/Physics.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
