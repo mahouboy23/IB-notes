@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'inflation et ses causes.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,25 +275,26 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4f9b2cb334625424",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "Macroéconomie.md",
+    "Context of composition or production.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Style.md",
+    "Context of Interpretation or reception.md",
+    "Approches to non-literary text.md",
+    "Structure.md",
+    "poetry.md",
+    "Content.md",
     "L'inflation et ses causes.md",
+    "Macroéconomie.md",
     "Faible taux de chômage.md",
     "Causes du chômage, coûts et solutions.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "Approches to non-literary text.md",
-    "sl subjects/Anglais Literrature.md",
     "drama.md",
     "prose non-fiction.md",
     "prose fiction.md",
-    "Context of composition or production.md",
-    "Context of Interpretation or reception.md",
-    "Content.md",
-    "Style.md",
     "Computer science exploration.md",
-    "poetry.md",
     "New version EE.md",
     "EE NEW.md",
     "Experiment.md",
@@ -303,7 +303,6 @@
     "Caractéristiques essentielles d'un language informatique.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
-    "Operations fondamentales d'un ordinateur.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
