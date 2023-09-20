@@ -23,3 +23,4 @@ To explore a knowledge question you need to
 - Apply the 12 Tok concepts and ideas as you see fit.
 - Think thew the impaction's of an argument or conclusion and what follows.
 
+## My Tok essay outline

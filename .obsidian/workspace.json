@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Approches to non-literary text.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,12 +277,15 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "TOK Essay.md",
+    "TOK Exhibition.md",
+    "IB overview.md",
+    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
-    "IB overview.md",
     "Style.md",
     "Context of Interpretation or reception.md",
-    "Approches to non-literary text.md",
     "Structure.md",
     "poetry.md",
     "Content.md",
@@ -300,9 +303,6 @@
     "Experiment.md",
     "Possible structure.md",
     "common core/EE.md",
-    "Caractéristiques essentielles d'un language informatique.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "Opérations fondamentales et opérations composées.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
