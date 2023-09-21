@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La loi des gas parfaits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b53dad2d12d96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les equation de la cinématique a une dimension equation SUVAT.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La loi des gas parfaits.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La loi des gas parfaits.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La loi des gas parfaits.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -237,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La loi des gas parfaits.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,16 +277,23 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "Causes du chômage, coûts et solutions.md",
+    "Chômage de déséquilibre.md",
+    "Macroéconomie.md",
+    "L'inflation et ses causes.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
+    "loi d'avogrado ampere.md",
     "Physique thermique.md",
+    "La loi des gas parfaits.md",
     "sl subjects/Physics.md",
     "Physics AI.md",
     "temperature et echelle de temperature.md",
     "Energie interne.md",
     "Equilibre thermique et principe de thermomètre.md",
     "equation des gas parfait.md",
-    "La loi des gas parfaits.md",
     "La mole.md",
-    "loi d'avogrado ampere.md",
     "Mécanique.md",
     "Energie potentielles et énergie mécanique.md",
     "force conservative.md",
@@ -308,14 +303,7 @@
     "Electricité et magnétisme.md",
     "University shortlist.loom",
     "Notion de cinématique.md",
-    "IB overview.md",
     "Techniques graphiques.md",
-    "Mesure d'incertitude.md",
-    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Erreurs et incertitudes.md",
-    "Précision et exactitude.md",
-    "Chiffres significatifs.md",
-    "Grandeurs physiques fondamentales.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",

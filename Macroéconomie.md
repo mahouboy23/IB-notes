@@ -23,6 +23,7 @@ Basic concept en Economie:
 2. [[Faible taux de chômage]] 
 3. [[Causes du chômage, coûts et solutions]] 
 4. [[L'inflation et ses causes]] 
+5. [[Inflation et ses]]
 
 [[TD economie]] 
 
