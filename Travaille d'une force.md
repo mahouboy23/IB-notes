@@ -73,10 +73,11 @@ $P$ = Watts
 $|W_{A \rightarrow B} \hspace 1mm (\vec F) |$ = Joule
 $\Delta t$ = seconde
 
-#### Puissance instantanee
+#### Puissance instantanée
+Formules (3: vectorielle(2) et scalaire(1)):
 ?
-$$W_{A \rightarrow B} \hspace 1mm (\vec F) = \vec{F}* \vec{AB} $$
-<!--SR:!2023-09-08,1,230-->
+$$\Large{P_{\text{instant}}=\vec{F}\cdot\frac{\vec{AB}}{\Delta t}=\vec{F}\cdot\vec{v}=Fv\cos\theta}$$
+- $\theta$ = $\angle(\vec{F},\vec{v})$
 
 ## Travail d'une force variable (selon l'axe des x)
 
