@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "Energie potentielles et énergie mécanique.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Energie potentielles et énergie mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,10 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "force conservative.md",
+    "Energie potentielles et énergie mécanique.md",
     "Mécanique.md",
+    "Travaille d'une force.md",
     "Notion de cinématique.md",
     "sl subjects/Physics.md",
     "IB overview.md",
@@ -300,9 +303,6 @@
     "poetry.md",
     "Content.md",
     "L'inflation et ses causes.md",
-    "Macroéconomie.md",
-    "Faible taux de chômage.md",
-    "Causes du chômage, coûts et solutions.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
