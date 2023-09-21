@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Techniques graphiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Techniques graphiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Techniques graphiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "Techniques graphiques.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Techniques graphiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,10 +277,18 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "common core/TOK.md",
-    "TOK Essay.md",
-    "TOK Exhibition.md",
+    "Mesure d'incertitude.md",
+    "Techniques graphiques.md",
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+    "Erreurs et incertitudes.md",
+    "Précision et exactitude.md",
+    "Chiffres significatifs.md",
+    "Grandeurs physiques fondamentales.md",
     "IB overview.md",
+    "sl subjects/Physics.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
+    "TOK Exhibition.md",
     "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
@@ -295,14 +303,6 @@
     "Causes du chômage, coûts et solutions.md",
     "sl subjects/Economie.md",
     "drama.md",
-    "prose non-fiction.md",
-    "prose fiction.md",
-    "Computer science exploration.md",
-    "New version EE.md",
-    "EE NEW.md",
-    "Experiment.md",
-    "Possible structure.md",
-    "common core/EE.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
