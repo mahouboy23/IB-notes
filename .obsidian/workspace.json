@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,12 +277,16 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
     "Mécanique.md",
     "Energie potentielles et énergie mécanique.md",
-    "force conservative.md",
     "Travaille d'une force.md",
+    "Les equation de la cinématique a une dimension equation SUVAT.md",
+    "Approches to non-literary text.md",
+    "University shortlist.loom",
+    "force conservative.md",
     "Notion de cinématique.md",
-    "sl subjects/Physics.md",
     "IB overview.md",
     "Techniques graphiques.md",
     "Mesure d'incertitude.md",
@@ -294,16 +298,12 @@
     "TOK Essay.md",
     "common core/TOK.md",
     "TOK Exhibition.md",
-    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
     "Context of composition or production.md",
     "Style.md",
     "Context of Interpretation or reception.md",
     "Structure.md",
     "poetry.md",
-    "Content.md",
-    "L'inflation et ses causes.md",
-    "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
