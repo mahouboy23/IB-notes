@@ -44,7 +44,7 @@ Le travaille du Poids est indépendant du chemin suivi, il depend des altitudes 
 
 $V_{A}-V_{B} = U_{AB} =$ *DDP entre A et B*
 
-**DDP** = difference de potentielle électrique
+**DDP** :: difference de potentielle électrique
 
 $W_{A \rightarrow B}(\vec F_{e})$
 
