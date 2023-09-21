@@ -17,7 +17,7 @@ H2 : La température à l'intérieur d'une chambre avec un toit en Bois est sign
 
 Variables :
 
-Variable indépendante : Matériau du toit (zinc, bois, brique de ciment)  
+Variable indépendante : Resistance thermique
 Variable dépendante : Température à l'intérieur de la chambre
 
 Méthodologie :
