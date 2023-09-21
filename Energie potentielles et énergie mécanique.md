@@ -30,3 +30,4 @@ L'énergie mécanique d'un solide sous mis qu'a des force conservative se conser
 $$E_{M}=0$$
 $$E_{M_{B}}-E_{M_{A}}=0$$
 $$E_{M_{B}}=E_{M_{A}}$$
+### Non conservation de l'énergie mécanique
