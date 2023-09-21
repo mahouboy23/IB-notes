@@ -31,3 +31,6 @@ $$E_{M}=0$$
 $$E_{M_{B}}-E_{M_{A}}=0$$
 $$E_{M_{B}}=E_{M_{A}}$$
 ### Non conservation de l'énergie mécanique
+La variation d'énergie mécanique entre deux instant d'un solide soumit a des force non conservatif est egal a la somme des travaux des forces non conservatif
+$$\large{E_{M}= E_{M_{2}}-E_{M_{1}}=\sum\limits W_{1 \rightarrow2}\vec{f_{\text{non conservatives}}}}$$
+On 
