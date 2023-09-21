@@ -27,6 +27,6 @@ Basic concept en Economie:
 
 [[TD economie]] 
 
-
+![[Effet inflation sur chômage]] 
 
 

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "f24f31ad252e1bcc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Effet inflation sur chômage.md"
+              }
+            }
+          },
+          {
             "id": "949d7785c3267fb0",
             "type": "leaf",
             "state": {
@@ -53,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Excalidraw/Effet inflation sur chômage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Excalidraw/Effet inflation sur chômage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Excalidraw/Effet inflation sur chômage.md"
               }
             }
           },
@@ -224,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Excalidraw/Effet inflation sur chômage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,10 +285,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1251329edb1ce792",
+  "active": "f24f31ad252e1bcc",
   "lastOpenFiles": [
-    "Inflation et ses causes.md",
     "Macroéconomie.md",
+    "Excalidraw/Effet inflation sur chômage.md",
+    "Inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
     "Chômage de déséquilibre.md",
     "L'inflation et ses causes.md",
@@ -302,7 +314,6 @@
     "Les equation de la cinématique a une dimension equation SUVAT.md",
     "Electricité et magnétisme.md",
     "University shortlist.loom",
-    "Notion de cinématique.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
