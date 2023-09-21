@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,8 +285,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f24f31ad252e1bcc",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
+    "Raisonnement procédural.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "Macroéconomie.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Inflation et ses causes.md",
@@ -294,7 +298,6 @@
     "Chômage de déséquilibre.md",
     "L'inflation et ses causes.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "hl subjects/Français B.md",
     "loi d'avogrado ampere.md",
     "Physique thermique.md",
@@ -310,9 +313,6 @@
     "Energie potentielles et énergie mécanique.md",
     "force conservative.md",
     "Travaille d'une force.md",
-    "Approches to non-literary text.md",
-    "Les equation de la cinématique a une dimension equation SUVAT.md",
-    "Electricité et magnétisme.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
