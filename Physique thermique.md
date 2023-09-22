@@ -23,3 +23,7 @@ b) [[La loi des gas parfaits]]
 a) [[equation des gas parfait]] 
 b) [[loi d'avogrado ampere]] 
 
+#### Theorie cinetique
+
+
+

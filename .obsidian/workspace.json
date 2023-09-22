@@ -13,29 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f24f31ad252e1bcc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md"
-              }
-            }
-          },
-          {
-            "id": "949d7785c3267fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macroéconomie.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -236,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,20 +263,23 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "949d7785c3267fb0",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
-    "IB overview.md",
     "Physique thermique.md",
+    "sl subjects/Physics.md",
+    "Mécanique.md",
+    "Travaille d'une force.md",
+    "Energie potentielles et énergie mécanique.md",
+    "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Excalidraw/Effet inflation sur chômage.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
     "Chaleur.md",
     "temperature et echelle de temperature.md",
-    "sl subjects/Physics.md",
     "Approches to non-literary text.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Raisonnement procédural.md",
     "hl subjects/Computer science.md",
-    "Macroéconomie.md",
-    "Excalidraw/Effet inflation sur chômage.md",
     "Inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
     "Chômage de déséquilibre.md",
@@ -311,9 +291,6 @@
     "Energie interne.md",
     "Equilibre thermique et principe de thermomètre.md",
     "equation des gas parfait.md",
-    "La mole.md",
-    "Mécanique.md",
-    "Energie potentielles et énergie mécanique.md",
     "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
