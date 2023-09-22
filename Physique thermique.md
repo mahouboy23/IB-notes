@@ -23,5 +23,5 @@ b) [[La loi des gas parfaits]]
 a) [[equation des gas parfait]] 
 b) [[loi d'avogrado ampere]] 
 
-#### Theorie cinetique des gaz parfaits ($\noq$ reel)
+#### Theorie cinetique des gaz parfaits ($\not =$ reel)
 a) [[Revision]] 
