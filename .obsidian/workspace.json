@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physique thermique.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physique thermique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physique thermique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Physique thermique.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physique thermique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,8 +265,8 @@
   },
   "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "Physique thermique.md",
     "sl subjects/Physics.md",
+    "Physique thermique.md",
     "Mécanique.md",
     "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
