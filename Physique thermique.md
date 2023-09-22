@@ -24,7 +24,4 @@ a) [[equation des gas parfait]]
 b) [[loi d'avogrado ampere]] 
 
 #### Theorie cinetique des gaz parfaits ($\noq$ reel)
-
-Un gas parfait est un model simplifier du gaz reel ou les atomes et les molecules n'interragiste pas. Les seul interaction considerer sont les rares choques entre les molecules et les choques élastique entre les molecule et la paroi.
-
-La pression c'est la force par unite de surface qu'exercent les molecules sur la paroi
+a) [[Revision]] 
