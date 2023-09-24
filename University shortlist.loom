@@ -156,7 +156,7 @@
         "id": "e87cd61d-1d49-4c21-8cd0-bcd805d8c2c0",
         "index": 4,
         "creationTime": 1695585247861,
-        "lastEditedTime": 1695585247861
+        "lastEditedTime": 1695585591495
       }
     ],
     "footerRows": [
@@ -512,7 +512,7 @@
         "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
         "rowId": "e87cd61d-1d49-4c21-8cd0-bcd805d8c2c0",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "University of Illinois Urbana-Champaign",
         "tagIds": []
       },
       {
