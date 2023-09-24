@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'inflation et ses causes.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,12 +264,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "325615fca046fbb4",
+  "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "IB overview.md",
+    "L'inflation et ses causes.md",
     "Revision.md",
+    "University shortlist.loom",
     "Physique thermique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "equation des gas parfait.md",
     "loi d'avogrado ampere.md",
     "La loi des gas parfaits.md",
@@ -291,10 +293,7 @@
     "Inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
     "Chômage de déséquilibre.md",
-    "L'inflation et ses causes.md",
     "hl subjects/Français B.md",
-    "Physics AI.md",
-    "University shortlist.loom",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
