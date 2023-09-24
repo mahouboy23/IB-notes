@@ -144,7 +144,7 @@
         "id": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "index": 2,
         "creationTime": 1695583944612,
-        "lastEditedTime": 1695584074108
+        "lastEditedTime": 1695584234418
       }
     ],
     "footerRows": [
@@ -383,7 +383,7 @@
         "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
         "rowId": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "Computer Science Program",
         "tagIds": []
       },
       {
