@@ -144,7 +144,13 @@
         "id": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "index": 2,
         "creationTime": 1695583944612,
-        "lastEditedTime": 1695584234418
+        "lastEditedTime": 1695584430655
+      },
+      {
+        "id": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "index": 3,
+        "creationTime": 1695584442837,
+        "lastEditedTime": 1695584497668
       }
     ],
     "footerRows": [
@@ -392,7 +398,7 @@
         "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
         "rowId": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "60510",
         "tagIds": []
       },
       {
@@ -401,7 +407,7 @@
         "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
         "rowId": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "Canada/Toronto",
         "tagIds": []
       },
       {
@@ -410,7 +416,7 @@
         "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
         "rowId": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "4",
         "tagIds": []
       },
       {
@@ -418,6 +424,78 @@
         "isExternalLink": false,
         "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
         "rowId": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
+        "dateTime": null,
+        "markdown": "https://www.artsci.utoronto.ca/",
+        "tagIds": []
+      },
+      {
+        "id": "ade0e639-a746-40df-83af-1ba7f010897a",
+        "isExternalLink": false,
+        "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "University of California, Berkeley",
+        "tagIds": []
+      },
+      {
+        "id": "a10bb00f-6633-4df5-ab28-624481124a2f",
+        "isExternalLink": false,
+        "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "d14651f6-364b-49bb-a7d7-4c96ac4ee939",
+        "isExternalLink": false,
+        "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "24bef73d-9e3f-473d-8bae-70019f1dfd05",
+        "isExternalLink": false,
+        "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "f461ce64-e0a5-4cf1-9ae1-27a091443575",
+        "isExternalLink": false,
+        "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "d46f92ce-807a-45b9-b9de-056cc9cad745",
+        "isExternalLink": false,
+        "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "bfc19893-51f7-4a22-819a-09735dbf3a46",
+        "isExternalLink": false,
+        "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "b2f0f0f4-c287-4eac-9170-9589058bec74",
+        "isExternalLink": false,
+        "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+        "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
         "dateTime": null,
         "markdown": "",
         "tagIds": []
