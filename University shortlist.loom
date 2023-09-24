@@ -150,7 +150,7 @@
         "id": "30d18ca6-307d-4e34-9225-6e0106c704ea",
         "index": 3,
         "creationTime": 1695584442837,
-        "lastEditedTime": 1695584747894
+        "lastEditedTime": 1695584919669
       }
     ],
     "footerRows": [
@@ -461,7 +461,7 @@
         "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
         "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "Computer Science",
         "tagIds": []
       },
       {
