@@ -150,7 +150,7 @@
         "id": "30d18ca6-307d-4e34-9225-6e0106c704ea",
         "index": 3,
         "creationTime": 1695584442837,
-        "lastEditedTime": 1695584497668
+        "lastEditedTime": 1695584598143
       }
     ],
     "footerRows": [
@@ -443,7 +443,7 @@
         "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
         "rowId": "30d18ca6-307d-4e34-9225-6e0106c704ea",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "-  3.4 GPA \n- 35 IB score",
         "tagIds": []
       },
       {
