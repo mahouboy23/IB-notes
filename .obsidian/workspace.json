@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "New version EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "New version EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "New version EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetorical devices.md"
+                "file": "New version EE.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "d13a06cb4474056d",
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "New version EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,11 +266,13 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
+    "common core/EE.md",
+    "New version EE.md",
+    "IB overview.md",
     "Rhetorical devices.md",
+    "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "Content.md",
-    "IB overview.md",
     "L'inflation et ses causes.md",
     "Revision.md",
     "University shortlist.loom",
@@ -293,8 +295,6 @@
     "temperature et echelle de temperature.md",
     "Raisonnement procédural.md",
     "hl subjects/Computer science.md",
-    "Inflation et ses causes.md",
-    "Causes du chômage, coûts et solutions.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
