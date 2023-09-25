@@ -29,7 +29,7 @@ Created: 2022-10-12
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
 <!--SR:!2023-10-19,36,190-->
 10. Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. For example, referring to someone as "Romeo" is an allusion to Shakespeare's character.
-11. Irony :: A contrast between expectation and reality. Types of irony include dramatic irony (when the audience knows something the characters do not), situational irony (when there is a contrast between what is expected to happen and what actually happens), and verbal irony (when a character says something but they mean something something else)
+11. Irony :: A contrast between expectation and reality. Types of irony include dramatic irony (when the audience knows something the characters do not), situational irony (when there is a contrast between what is expected to happen and what actually happens), and verbal irony (when a character says something but they mean something else)
 
 >[!CLASS WORK:]
 Try writing your own speech for 5 to 8 minutes about any topic 
