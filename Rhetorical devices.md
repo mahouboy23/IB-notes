@@ -28,6 +28,7 @@ Created: 2022-10-12
 <!--SR:!2023-01-30,12,210-->
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
 <!--SR:!2023-10-19,36,190-->
+10. Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. For example, referring to someone as "Romeo" is an allusion to Shakespeare's character.
 
 >[!CLASS WORK:]
 Try writing your own speech for 5 to 8 minutes about any topic 

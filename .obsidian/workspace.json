@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Rhetorical devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Rhetorical devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Rhetorical devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "Rhetorical devices.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "Rhetorical devices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +266,10 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "Rhetorical devices.md",
+    "Approches to non-literary text.md",
+    "Content.md",
     "IB overview.md",
     "L'inflation et ses causes.md",
     "Revision.md",
@@ -287,13 +291,10 @@
     "sl subjects/Economie.md",
     "Chaleur.md",
     "temperature et echelle de temperature.md",
-    "Approches to non-literary text.md",
     "Raisonnement procédural.md",
     "hl subjects/Computer science.md",
     "Inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
-    "Chômage de déséquilibre.md",
-    "hl subjects/Français B.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
