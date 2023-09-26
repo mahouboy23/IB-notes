@@ -35,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New version EE.md",
+                "file": "EE NEW.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New version EE.md",
+                "file": "Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New version EE.md",
+                "file": "Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New version EE.md"
+                "file": "Revision.md"
               }
             }
           },
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New version EE.md",
+                "file": "Revision.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,10 +263,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4f9b2cb334625424",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "common core/EE.md",
+    "EE NEW.md",
     "New version EE.md",
+    "common core/EE.md",
     "IB overview.md",
     "Rhetorical devices.md",
     "sl subjects/Anglais Literrature.md",
@@ -294,7 +294,6 @@
     "Chaleur.md",
     "temperature et echelle de temperature.md",
     "Raisonnement procédural.md",
-    "hl subjects/Computer science.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
