@@ -24,3 +24,6 @@ To explore a knowledge question you need to
 - Think thew the impaction's of an argument or conclusion and what follows.
 
 ## My Tok essay outline
+
+
+## TOK essay Introduction
