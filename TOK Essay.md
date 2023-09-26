@@ -3,9 +3,10 @@ tags : mod TOK
 ---
 Created: 2023-09-06 
 
-# Prescribed essay title :
+# Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
-# Methodology Essay writing
+Areas of knowledge
+## Methodology Essay writing
 
 Writing a TOK essay is not so much about answering a question's, rather it is about shedding light on a knowledge question. That is what you are trying to do. We are unlikely to come up with a definite solution.
 Because the TOK essay deals with open ended and contestable question's, there is an important personal element to it. while you may be able to learn from similar explorations made by other's, it is important that your essay voices your opinions and arguments and that you acknowledge your own perspective and assumption's as a Knower.
