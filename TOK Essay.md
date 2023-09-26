@@ -3,6 +3,8 @@ tags : mod TOK
 ---
 Created: 2023-09-06 
 
+# Prescribed essay title :
+
 # Methodology Essay writing
 
 Writing a TOK essay is not so much about answering a question's, rather it is about shedding light on a knowledge question. That is what you are trying to do. We are unlikely to come up with a definite solution.
@@ -27,4 +29,3 @@ To explore a knowledge question you need to
 
 
 ## TOK essay Introduction
-Introduce your topic accurately and state your thesis statement for the essay carefully.  A thesis statement is like a teaser to your entire essay wherein you define your key terms and introduce your interpretation of the question. Make sure that you do not reword the prescribed title in your thesis. Instead, it needs to, as the word says, INTRODUCE your readers to what your essay is about. A strong introduction allows the reader to deduce what knowledge question(s) you are trying to answer.
