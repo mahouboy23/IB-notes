@@ -51,4 +51,4 @@ Johann Wolfgang von Goethe's timeless words resonate. This inquiry compels us to
 "Art is not a matter of taste, but involves the very deepest feelings of human nature. It is a matter of depth. Art is not a matter of aesthetic likings, but of what one may call cognitive values. But in order to see these values, we must be taught to see through the eyes of others, to utilize their emotions and experiences. That is where art enters the picture. Art is not a matter of taste, but a matter of taste training."
 **art historian Ernst Gombrich:**
 
-"All experience are subjective" - Gregory Bateson
+"All experience are subjective" - **Gregory Bateson**
