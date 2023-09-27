@@ -43,3 +43,7 @@ Our journey will take us through the realms of the natural sciences, where we re
 
 Quote: "In the pursuit of knowledge, the newest is not always the truest." - Johann Wolfgang von Goethe
 Johann Wolfgang von Goethe's timeless words resonate. This inquiry compels us to scrutinize the dynamics of evidence in the areas of natural sciences and history. In an era driven by a relentless quest for innovation and novelty, it's all too common to equate 'new' with 'superior.' However, as we journey through these domains of knowledge, we shall unveil the intricate nuances concealed beneath the surface of this assumption. Our quest is to unearth the authentic potency of evidence, transcending the allure of immediacy.
+
+
+“One of the deepest impulses in man is the impulse to record, to scratch a drawing on a tusk or keep a diary… The enduring value of the past is, one might say, the very basis of civilisation.”  
+**John Jay Chapman, American author (1862-1933)**
