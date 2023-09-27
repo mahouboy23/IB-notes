@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,16 +266,22 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Excalidraw/Effet inflation sur chômage.md",
+    "common core/TOK.md",
+    "TOK Essay.md",
+    "IB overview.md",
+    "Inflation et ses causes.md",
     "Macroéconomie.md",
+    "Causes du chômage, coûts et solutions.md",
+    "Faible taux de chômage.md",
+    "Chômage de déséquilibre.md",
+    "Croissance économique à court et à long terme.md",
+    "Taux de chômage naturel.md",
+    "sl subjects/Economie.md",
+    "Excalidraw/Effet inflation sur chômage.md",
     "L'equilibre a court terme.md",
     "L'equilibre a long terme.md",
     "L'offre globale.md",
-    "sl subjects/Economie.md",
-    "IB overview.md",
     "EE NEW.md",
-    "TOK Essay.md",
-    "common core/TOK.md",
     "Revision.md",
     "New version EE.md",
     "common core/EE.md",
@@ -287,14 +293,8 @@
     "University shortlist.loom",
     "Physique thermique.md",
     "sl subjects/Physics.md",
-    "equation des gas parfait.md",
-    "loi d'avogrado ampere.md",
-    "La loi des gas parfaits.md",
-    "La mole.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
-    "Mécanique.md",
-    "Travaille d'une force.md",
     "Context of Interpretation",
     "Context of composition",
     "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
