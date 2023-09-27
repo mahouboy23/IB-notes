@@ -47,3 +47,8 @@ Johann Wolfgang von Goethe's timeless words resonate. This inquiry compels us to
 
 “One of the deepest impulses in man is the impulse to record, to scratch a drawing on a tusk or keep a diary… The enduring value of the past is, one might say, the very basis of civilisation.”  
 **John Jay Chapman, American author (1862-1933)**
+
+"Art is not a matter of taste, but involves the very deepest feelings of human nature. It is a matter of depth. Art is not a matter of aesthetic likings, but of what one may call cognitive values. But in order to see these values, we must be taught to see through the eyes of others, to utilize their emotions and experiences. That is where art enters the picture. Art is not a matter of taste, but a matter of taste training."
+**art historian Ernst Gombrich:**
+
+"All experience are subjective" - Gregory Bateson
