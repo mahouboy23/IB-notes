@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "University shortlist.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "University shortlist.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "University shortlist.loom"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "University shortlist.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,11 +264,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4f9b2cb334625424",
+  "active": "325615fca046fbb4",
   "lastOpenFiles": [
+    "IB overview.md",
+    "University shortlist.loom",
+    "Travaille d'une force.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "TOK Essay.md",
     "common core/TOK.md",
     "Inflation et ses causes.md",
@@ -290,9 +292,6 @@
     "Rhetorical devices.md",
     "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
-    "Content.md",
-    "L'inflation et ses causes.md",
-    "University shortlist.loom",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
