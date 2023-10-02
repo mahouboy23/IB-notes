@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +98,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SPECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SPECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SPECS.md"
+              }
             }
           },
           {
@@ -206,6 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SPECS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +224,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -0.5,
+                  "textFadeMultiplier": -2,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -228,7 +232,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.33776654713198895,
+                  "scale": 0.4844323823123684,
                   "close": true
                 }
               }
@@ -238,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +259,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0d18875780f11421",
+  "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
     "SPECS.md",
     "University shortlist.loom",
-    "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "IB overview.md",
     "hl subjects/Math AA.md",

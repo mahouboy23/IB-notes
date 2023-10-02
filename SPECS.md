@@ -21,3 +21,5 @@ Dive into a detailed analysis of the chosen analysis. Explore the literary techn
 Place the passage and your analysis within the broader context of the entire text. Discuss of these specific passage fits into the narrative, theme or character. Consider the historical, cultural or societal context in which the text was written and how it might influence the interpretation. 
 
 In your conclusion summaries the key points of your analysis and reiterate the significance of the chosen passage and it's contribution to the text as a whole. Reflect on the broader implications of your analysis including any thematic that emerge form your examination
+
+### Example
