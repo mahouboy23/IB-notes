@@ -28,9 +28,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d18875780f11421",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SPECS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +206,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SPECS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,10 +255,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "0d18875780f11421",
   "lastOpenFiles": [
-    "University shortlist.loom",
     "SPECS.md",
+    "University shortlist.loom",
     "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "IB overview.md",
