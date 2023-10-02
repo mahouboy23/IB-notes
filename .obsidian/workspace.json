@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "SPECS.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,12 +262,12 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
     "Statistique et Probabilité.md",
     "hl subjects/Math AA.md",
     "SPECS.md",
     "University shortlist.loom",
-    "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "Géométrie et Trigonométrie.md",
     "Identités trigonométriques.md",
