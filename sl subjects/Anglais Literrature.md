@@ -177,3 +177,11 @@ Analyzing texts: 5 keys considerations ?
 - Figurative language :: - language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal.
 
 1. [[Approches to non-literary text]] 
+
+## SPECS Acronyme
+?
+**S** = Start with the source
+**P** = Point to the passage
+**E** = Examine the evidence
+**C** = Contextualise the content
+**S** = Summaries your points
