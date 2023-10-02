@@ -3,13 +3,13 @@ tags : mod Math subject
 ---
 ### **Theme 1:** [[Nombre et Algèbre]]  
 
-### **Theme 2:** [[les equation quadratique]] 
+### **Theme 2:** [[Fonctions]] 
 
-### **Theme 3:**
+### **Theme 3:** [[Géométrie et Trigonométrie]] 
 
-### **Theme 4:** [[Puissance-Exponentielles-Logarithm]] 
+### **Theme 4:** [[Statistique et Probabilité]] 
 
-### **Theme 5:** [[Fonctions et Transformation]]  
+### **Theme 5:** [[Puissance-Exponentielles-Logarithm]] 
 
 [[EXO MATH]] 
 

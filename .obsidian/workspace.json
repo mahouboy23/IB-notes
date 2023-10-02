@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9b2cb334625424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarithmes.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithmes.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -204,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,35 +241,41 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "4f9b2cb334625424",
+  "active": "1251329edb1ce792",
   "lastOpenFiles": [
-    "Nombre et Algèbre.md",
-    "Logarithmes.md",
+    "Statistique et Probabilité.md",
     "hl subjects/Math AA.md",
+    "Géométrie et Trigonométrie.md",
+    "Identités trigonométriques.md",
+    "Cercle trigonométrique.md",
+    "Lois des sinus et cosinus.md",
+    "Angles.md",
+    "Fonctions.md",
+    "Position relative parabole et droite.md",
+    "Formules de Viète.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "assets/Etude graphique des fonctions quadratiques/Pasted image 20231002064237.jpg",
+    "assets/Etude graphique des fonctions quadratiques",
+    "Fonctions quadratiques.md",
+    "les equation quadratique.md",
+    "Nombre et Algèbre.md",
+    "Nombres complexes.md",
+    "assets/Nombres complexes/Pasted image 20231002063707.png",
+    "assets/Nombres complexes",
+    "image-20230504104418313.png.md",
+    "Théorème Binomial.md",
+    "Séries et Séquences.md",
+    "Logarithmes.md",
+    "assets/Logarithmes/Pasted image 20231002063300.png",
+    "assets/Logarithmes",
     "IB overview.md",
+    "TOK Essay.md",
+    "image-20230428202937182.png.md",
     "University.md",
     "sl subjects/Physics.md",
     "Mesure d'incertitude.md",
     "sl subjects/Anglais Literrature.md",
-    "Microéconomie.md",
-    "sl subjects/Economie.md",
-    "Notion de système.md",
-    "hl subjects/Computer science.md",
-    "hl subjects/Français B.md",
-    "template/math-.md",
-    "template/physique-.md",
-    "Travaille d'une force.md",
-    "template/Untitled.md",
-    "Notion de fonction.md",
-    "Fonctions et Transformation.md",
     "University shortlist.loom",
-    "Mécanique.md",
-    "TOK Essay.md",
-    "common core/TOK.md",
-    "Inflation et ses causes.md",
-    "Macroéconomie.md",
-    "Causes du chômage, coûts et solutions.md",
-    "Faible taux de chômage.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
@@ -296,12 +289,6 @@
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
     "assets/Chômage de déséquilibre",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
-    "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f.gif",
-    "assets/Croissance économique à court et à long terme",
-    "assets/Untitled 5",
-    "assets/Notion de cinématique/Pasted image 20230907163115.png",
-    "assets/Notion de cinématique",
-    "assets/Chaleur massique, capacité calorifique/image-20230907154846054.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
