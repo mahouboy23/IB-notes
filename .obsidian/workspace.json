@@ -37,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPECS.md",
+                "file": "University shortlist.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPECS.md",
+                "file": "University shortlist.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPECS.md"
+                "file": "University shortlist.loom"
               }
             }
           },
@@ -210,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SPECS.md",
+                "file": "University shortlist.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,11 +259,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "2e0d2dbbf23a4db5",
   "lastOpenFiles": [
-    "IB overview.md",
     "SPECS.md",
     "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
     "University shortlist.loom",
     "Approches to non-literary text.md",
     "hl subjects/Math AA.md",
