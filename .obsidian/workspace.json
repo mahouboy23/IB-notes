@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Nombre et Algèbre.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Nombre et Algèbre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Nombre et Algèbre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "Nombre et Algèbre.md"
               }
             }
           },
@@ -203,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Nombre et Algèbre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,16 +256,26 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "template/Untitled.md",
-    "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
+    "IB overview.md",
+    "University.md",
+    "sl subjects/Physics.md",
+    "Mesure d'incertitude.md",
+    "sl subjects/Anglais Literrature.md",
+    "Microéconomie.md",
+    "sl subjects/Economie.md",
+    "Notion de système.md",
+    "hl subjects/Computer science.md",
+    "hl subjects/Français B.md",
+    "Nombre et Algèbre.md",
+    "template/math-.md",
+    "template/physique-.md",
+    "Travaille d'une force.md",
+    "template/Untitled.md",
     "Notion de fonction.md",
     "Fonctions et Transformation.md",
-    "IB overview.md",
     "University shortlist.loom",
-    "Travaille d'une force.md",
     "Mécanique.md",
-    "sl subjects/Physics.md",
     "TOK Essay.md",
     "common core/TOK.md",
     "Inflation et ses causes.md",
@@ -272,16 +283,6 @@
     "Causes du chômage, coûts et solutions.md",
     "Faible taux de chômage.md",
     "Chômage de déséquilibre.md",
-    "Croissance économique à court et à long terme.md",
-    "Taux de chômage naturel.md",
-    "sl subjects/Economie.md",
-    "Excalidraw/Effet inflation sur chômage.md",
-    "L'equilibre a court terme.md",
-    "L'equilibre a long terme.md",
-    "L'offre globale.md",
-    "EE NEW.md",
-    "Revision.md",
-    "New version EE.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
