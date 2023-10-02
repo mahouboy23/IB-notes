@@ -3,7 +3,7 @@ tags : mod Math
 ---
 Created: 2023-10-02
 
-## Experience aléatoire événements
+## Experience aléatoire événements  
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 On appelle événement:: toute partie de l'univers (sous-ensemble)
