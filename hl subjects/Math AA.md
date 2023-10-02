@@ -1,15 +1,15 @@
 ---
 tags : mod Math subject
 ---
-### **Chapitre 1:** [[Notion de fonction]] 
+### **Theme 1:** [[Notion de fonction]] 
 
-### **Chapitre 2:** [[les equation quadratique]] 
+### **Theme 2:** [[les equation quadratique]] 
 
-### **Chapitre 3:**
+### **Theme 3:**
 
-### **Chapitre 4:** [[Puissance-Exponentielles-Logarithm]] 
+### **Theme 4:** [[Puissance-Exponentielles-Logarithm]] 
 
-### **Chapitre 5:** [[Fonctions et Transformation]]  
+### **Theme 5:** [[Fonctions et Transformation]]  
 
 [[EXO MATH]] 
 
