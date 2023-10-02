@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1251329edb1ce792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sl subjects/Anglais Literrature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e0d2dbbf23a4db5",
             "type": "leaf",
             "state": {
@@ -28,8 +16,21 @@
                 "file": "University shortlist.loom"
               }
             }
+          },
+          {
+            "id": "c8065f5bcfb4d8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPECS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "SPECS.md"
               }
             }
           },
@@ -201,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "SPECS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,9 +252,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1251329edb1ce792",
+  "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
     "University shortlist.loom",
+    "SPECS.md",
     "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "IB overview.md",
@@ -284,7 +286,6 @@
     "assets/Logarithmes",
     "TOK Essay.md",
     "image-20230428202937182.png.md",
-    "University.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",

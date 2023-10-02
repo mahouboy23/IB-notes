@@ -178,10 +178,4 @@ Analyzing texts: 5 keys considerations ?
 
 1. [[Approches to non-literary text]] 
 
-## SPECS Acronyme
-?
-**S** = Start with the source
-**P** = Point to the passage
-**E** = Examine the evidence
-**C** = Contextualise the content
-**S** = Summaries your points
+### 1. [[SPECS]] 
