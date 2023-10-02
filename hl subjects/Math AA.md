@@ -1,7 +1,7 @@
 ---
 tags : mod Math subject
 ---
-### **Theme 1:** [[Notion de fonction]] 
+### **Theme 1:** [[Nombre et Algèbre]]  
 
 ### **Theme 2:** [[les equation quadratique]] 
 

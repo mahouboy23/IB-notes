@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "325615fca046fbb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hl subjects/Math AA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +92,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Travaille d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Travaille d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Travaille d'une force.md"
               }
             }
           },
@@ -216,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Travaille d'une force.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,10 +253,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "325615fca046fbb4",
+  "active": "4f9b2cb334625424",
   "lastOpenFiles": [
-    "Fonctions et Transformation.md",
+    "template/Untitled.md",
+    "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
+    "Notion de fonction.md",
+    "Fonctions et Transformation.md",
     "IB overview.md",
     "University shortlist.loom",
     "Travaille d'une force.md",
@@ -292,9 +282,6 @@
     "EE NEW.md",
     "Revision.md",
     "New version EE.md",
-    "common core/EE.md",
-    "Rhetorical devices.md",
-    "sl subjects/Anglais Literrature.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
