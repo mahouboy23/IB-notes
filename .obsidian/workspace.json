@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombre et Algèbre.md",
+                "file": "Logarithmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombre et Algèbre.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombre et Algèbre.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombre et Algèbre.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombre et Algèbre.md",
+                "file": "Logarithmes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +256,8 @@
   },
   "active": "4f9b2cb334625424",
   "lastOpenFiles": [
+    "Nombre et Algèbre.md",
+    "Logarithmes.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "University.md",
@@ -267,7 +269,6 @@
     "Notion de système.md",
     "hl subjects/Computer science.md",
     "hl subjects/Français B.md",
-    "Nombre et Algèbre.md",
     "template/math-.md",
     "template/physique-.md",
     "Travaille d'une force.md",
@@ -282,7 +283,6 @@
     "Macroéconomie.md",
     "Causes du chômage, coûts et solutions.md",
     "Faible taux de chômage.md",
-    "Chômage de déséquilibre.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
