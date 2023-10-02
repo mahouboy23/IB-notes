@@ -98,7 +98,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -261,11 +262,11 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
     "SPECS.md",
+    "sl subjects/Anglais Literrature.md",
     "University shortlist.loom",
     "Approches to non-literary text.md",
-    "IB overview.md",
     "hl subjects/Math AA.md",
     "Statistique et Probabilité.md",
     "Géométrie et Trigonométrie.md",
