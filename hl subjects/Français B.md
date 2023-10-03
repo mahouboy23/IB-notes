@@ -67,6 +67,10 @@ racisme.
    e) un dispositif de récupération
    f) indubitablement
 
-4. a) 
-   b)
+4. a) iii
+   b) iv
+   c) v
+
+5. a) Faux
+   b) Vrai
    c)
