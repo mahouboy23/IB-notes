@@ -52,3 +52,4 @@ racisme.
 2. Quelles question éthiques sont soulevées par la vie dans le monde moderne et quelles solutions pouvons-nous apporter?
 3. Quelles difficultés et quels avantages la mondialisation présente-t-elle?
 4. Quelles difficultes et quels avantages resultent des transformations des environnements urbains et ruraux?
+
