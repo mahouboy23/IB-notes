@@ -102,3 +102,4 @@ racisme.
    e) Sion ne nettoie pas derrière un frigo, sa consommation en électricité doublera.
 
 8. Une classification dans la série A indique un produit d’électroménager économe en énergie.
+2
