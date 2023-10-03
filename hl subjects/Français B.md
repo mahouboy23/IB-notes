@@ -70,7 +70,7 @@ racisme.
 
 4. a) iii
    b) iv
-   c) v
+   c) vi
 
 5. a) Faux
    b) Vrai
