@@ -48,6 +48,6 @@ Les dépenses totales des consommateurs=>::Dépend du DEP
 Recettes du gouvernement=>::Augmente
 
 Excédent communautaire=>::Diminue
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-10-07,4,210-->
 
 
