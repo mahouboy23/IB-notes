@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,8 +272,9 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
     "hl subjects/Français B.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
@@ -311,7 +312,6 @@
     "assets/Nombres complexes",
     "image-20230504104418313.png.md",
     "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "assets/Logarithmes/Pasted image 20231002063300.png",
     "assets/Logarithmes",
     "assets/Revision/image-20230922133318074.png",

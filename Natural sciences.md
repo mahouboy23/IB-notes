@@ -11,7 +11,7 @@ Created: 2023-01-18
 ##  Introduction
 
 *What is science* :: Science is both a body of knowledge and process of discovery. It explores the natural world from subatomic particules through the galaxies that make our universe, and everything that falls in-between.
-<!--SR:!2023-10-03,26,210-->
+<!--SR:!2023-10-17,14,190-->
 The natural sciences explore and try's to understand the natura world around us in essence, this is the physical world and the forces acting upon it. Under the umbrella of the natural sciences come the life sciences, which are the branches of biology, and the physical sciences, which include disciplines such as chemistry, physics and the earth sciences.
 
 #### Activity: Real life situation 
@@ -23,7 +23,7 @@ Scientifique knowledge is based on observation and experimentation, along with t
 
 #### Key words
 - **Empirical** :: based on and verified by observation and experience
-<!--SR:!2023-10-02,25,210-->
+<!--SR:!2023-10-18,15,190-->
 - **Polymath** :: a person with expertise in several field of knowledge
 <!--SR:!2023-10-07,30,230-->
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
