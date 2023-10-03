@@ -77,3 +77,19 @@ racisme.
    c) Vrai
 
 ##### Text C
+1. a) Le 1er bon réflexe à enseigner aux enfants
+   b) Éclairage
+   c) Réfrigérateur
+   d) Electroménager
+   e) Entretien de la maison
+   f) Consommation passive
+
+2. A
+
+3. a) iii
+   b) i
+   c) viii
+   d) ix
+   e) x
+
+4. 

@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/french1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/french1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Excalidraw/french1.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/french1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,13 +270,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "cc3d2f7591a12148",
   "lastOpenFiles": [
+    "Excalidraw/assets/french1/Pasted Image 20231003085740_545.png",
+    "hl subjects/Français B.md",
     "hl subjects/assets/Français B/image-20231003083001741.png",
     "hl subjects/assets/Français B",
     "hl subjects/assets",
     "Excalidraw/french1.md",
-    "hl subjects/Français B.md",
     "Excalidraw/assets/french1/Pasted Image 20231003082256_753.png",
     "Excalidraw/assets/french1",
     "Le Cid.md",
@@ -317,7 +318,6 @@
     "assets/Taux de chômage naturel/image-20230913103134897.png",
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
-    "assets/Chômage de déséquilibre/image-20230908093108745.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
