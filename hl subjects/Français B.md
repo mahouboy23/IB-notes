@@ -66,3 +66,7 @@ racisme.
    d) sensibiliser
    e) un dispositif de récupération
    f) indubitablement
+
+4. a) 
+   b)
+   c)
