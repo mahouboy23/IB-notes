@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,19 +272,20 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
     "Excalidraw/french1.md",
     "Excalidraw/assets/french1/Pasted Image 20231003085740_545.png",
-    "hl subjects/Français B.md",
     "hl subjects/assets/Français B/image-20231003083001741.png",
     "hl subjects/assets/Français B",
     "hl subjects/assets",
     "Excalidraw/assets/french1/Pasted Image 20231003082256_753.png",
     "Excalidraw/assets/french1",
     "Le Cid.md",
-    "IB overview.md",
     "SPECS.md",
     "sl subjects/Anglais Literrature.md",
     "Statistique et Probabilité.md",
@@ -317,7 +318,6 @@
     "assets/Revision",
     "Context of Interpretation",
     "Context of composition",
-    "assets/Causes du chômage, coûts et solutions/image-20230913110701802.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

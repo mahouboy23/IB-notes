@@ -99,6 +99,6 @@ racisme.
 
 7. c) Il faut éliminer de façon régulière la glace qui s'accumule dans un frigo. 
    d) Une classification dans la série A indique un produit d’électroménager économe en énergie. 
-   e) Sion ne nettoie pas derrière un frigo, sa consommation en électricité doublera.
+   e) Si on ne nettoie pas derrière un frigo, sa consommation en électricité doublera.
 
 8. Une classification dans la série A indique un produit d’électroménager économe en énergie.
