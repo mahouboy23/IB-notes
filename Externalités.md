@@ -11,7 +11,7 @@ Il y a deux types d'externalité:
 ?
 - [[Externalité négative]] 
 - [[Externalité positive]]
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-12-13,71,250-->
 
 #### NB:
 - CMP :: Coût marginal privée

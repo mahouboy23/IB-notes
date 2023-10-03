@@ -3,10 +3,10 @@ tags : mod economie
 ---
 Created: 2023-01-24
 
-## Definition
+## Definition d'Impôts indirects
 ?
 Les impôts indirects désignent les impôts sur les dépenses. Ils ne sont pas prélevés **directement** sur les revenus ou le patrimoine des personnes. Ils sont payés **indirectement** par les consommateurs lorsqu'ils achètent un bien, car les impôts indirects sont inclus dans le prix du bien.
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-09-08,1,220-->
 
 Les objectifs de impôts indirects sont généralement de:
 ?
