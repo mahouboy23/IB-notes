@@ -18,6 +18,14 @@ Le logo ^N6xw4LVH
 
 Produit ^Bymx0HoN
 
+développement 
+durable  ^0jaz1eHh
+
+aux besoins  ^n3LnjFGf
+
+ la vie humaine 
+ les écosystèmes,  ^Ls3pOW6C
+
 
 # Embedded files
 6ad0f82e38d1fddc86a74b08b734f05a6f454581: [[Pasted Image 20231003082256_753.png]]
@@ -269,6 +277,111 @@ Produit ^Bymx0HoN
 				1,
 				1
 			]
+		},
+		{
+			"id": "0jaz1eHh",
+			"type": "text",
+			"x": 14.094883130944368,
+			"y": 156.7161954796832,
+			"width": 109.54493575590494,
+			"height": 37.47589907438855,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 48099789,
+			"version": 37,
+			"versionNonce": 1780266925,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696323540179,
+			"link": null,
+			"locked": false,
+			"text": "développement \ndurable ",
+			"rawText": "développement \ndurable ",
+			"fontSize": 15.374727825390169,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32.47589907438855,
+			"containerId": null,
+			"originalText": "développement \ndurable "
+		},
+		{
+			"id": "n3LnjFGf",
+			"type": "text",
+			"x": 24.001472804857485,
+			"y": 223.77645044741416,
+			"width": 91,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1851996685,
+			"version": 24,
+			"versionNonce": 665095363,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696323578938,
+			"link": null,
+			"locked": false,
+			"text": "aux besoins ",
+			"rawText": "aux besoins ",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "aux besoins "
+		},
+		{
+			"id": "Ls3pOW6C",
+			"type": "text",
+			"x": 16.38094163977587,
+			"y": 285.70292748622376,
+			"width": 106,
+			"height": 28,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 630979683,
+			"version": 101,
+			"versionNonce": 1206805389,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696323632615,
+			"link": null,
+			"locked": false,
+			"text": " la vie humaine \n les écosystèmes, ",
+			"rawText": " la vie humaine \n les écosystèmes, ",
+			"fontSize": 12.791371261033003,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": " la vie humaine \n les écosystèmes, "
 		}
 	],
 	"appState": {
