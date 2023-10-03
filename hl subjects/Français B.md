@@ -51,7 +51,10 @@ racisme.
 1. Quels problèmes environnementaux et sociaux présentent des difficultés a l'echrllr mondiale et comment ces difficultés peuvent elles être surmontées?
 2. Quelles question éthiques sont soulevées par la vie dans le monde moderne et quelles solutions pouvons-nous apporter?
 3. Quelles difficultés et quels avantages la mondialisation présente-t-elle?
-4. Quelles difficultes et quels avantages resultent des transformations des environnements urbains et ruraux?
+4. Quelles difficultés et quels avantages résultent des transformations des environnements urbains et ruraux?
 
 #### Exo Oxford: Theme 5
 ###### Pages 175 et 182 a 185
+
+**Questions de compréhension** 
+1. A
