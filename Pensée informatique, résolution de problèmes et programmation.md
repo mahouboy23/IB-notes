@@ -42,4 +42,8 @@ Created: 2023-03-31
 3. [[Caractéristiques essentielles d'un language informatique]]
 
 ### **Utilisation**
-1. [[]]
+
+```python
+Annee = int(input("donne un nombre"))
+if mod 400 == 0
+```
