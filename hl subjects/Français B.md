@@ -53,3 +53,5 @@ racisme.
 3. Quelles difficultés et quels avantages la mondialisation présente-t-elle?
 4. Quelles difficultes et quels avantages resultent des transformations des environnements urbains et ruraux?
 
+#### Exo Oxford: Theme 5
+###### Pages 175 et 182 a 185
