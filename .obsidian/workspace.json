@@ -36,9 +36,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cc3d2f7591a12148",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md"
               }
             }
           },
@@ -210,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,10 +270,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "cc3d2f7591a12148",
   "lastOpenFiles": [
-    "Le Cid.md",
+    "Excalidraw/assets/Drawing 2023-10-03 08.22.46.excalidraw/Pasted Image 20231003082256_753.png",
+    "Excalidraw/assets/Drawing 2023-10-03 08.22.46.excalidraw",
+    "Excalidraw/Drawing 2023-10-03 08.22.46.excalidraw.md",
     "hl subjects/Français B.md",
+    "Le Cid.md",
     "IB overview.md",
     "SPECS.md",
     "sl subjects/Anglais Literrature.md",
@@ -291,10 +304,8 @@
     "image-20230504104418313.png.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "assets/Logarithmes/Pasted image 20231002063300.png",
     "assets/Logarithmes",
-    "TOK Essay.md",
     "assets/Revision/image-20230922133318074.png",
     "assets/Revision",
     "Context of Interpretation",
@@ -306,7 +317,6 @@
     "assets/Travaille d'une force/image-20230908104050717.png",
     "assets/Chômage de déséquilibre/image-20230908093218162.png",
     "assets/Chômage de déséquilibre/image-20230908093108745.png",
-    "assets/Chômage de déséquilibre",
     "assets/Croissance économique à court et à long terme/ibdp.econfe2022.book.3.3.1.aw.01.3d668af59f51fe404f7f 1.gif",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
