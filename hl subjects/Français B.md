@@ -56,7 +56,8 @@ racisme.
 #### Exo Oxford: Theme 5
 ###### Pages 175 et 182 a 185
 
-**Questions de compréhension** 
+**Questions de compréhension**: 
+##### Text B
 1. B
 2. ![[image-20231003083001741.png]]
 
@@ -73,4 +74,6 @@ racisme.
 
 5. a) Faux
    b) Vrai
-   c)
+   c) Vrai
+
+##### Text C
