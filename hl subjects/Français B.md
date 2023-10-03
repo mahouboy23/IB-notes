@@ -58,4 +58,11 @@ racisme.
 
 **Questions de compréhension** 
 1. B
-2. 
+2. ![[image-20231003083001741.png]]
+
+3. a) 
+   b)
+   c)
+   d)
+   e)
+   f)
