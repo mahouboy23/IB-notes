@@ -60,9 +60,9 @@ racisme.
 1. B
 2. ![[image-20231003083001741.png]]
 
-3. a) 
-   b)
-   c)
-   d)
-   e)
-   f)
+3. a) acier
+   b) essentiellement
+   c) sigle
+   d) sensibiliser
+   e) un dispositif de récupération
+   f) indubitablement
