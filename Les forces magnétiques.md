@@ -1,7 +1,7 @@
 ---
 tags : mod Physique
 ---
-Created: 2023-10-05
+l;plCreated: 2023-10-05
 
 ## Forces magnétique s'exercant sur une particule  chargée en mouvement (loi de Lorentz)
 ### **Définition du magnétisme**
