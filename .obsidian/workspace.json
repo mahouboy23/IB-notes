@@ -33,8 +33,12 @@
             "id": "0d18875780f11421",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Champ électrique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -272,16 +276,17 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "Champ électrique.md",
     "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "IB overview.md",
     "Les forces magnétiques.md",
     "Piles électrique.md",
     "Champ magnétique.md",
-    "sl subjects/Physics.md",
     "Physique thermique.md",
     "Théorie cinétique des gaz parfaits.md",
     "Revision.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "IB overview.md",
     "Statistique et Probabilité.md",
     "Contrôle des ressources et multitâche.md",
     "hl subjects/Math AA.md",
@@ -307,7 +312,6 @@
     "Géométrie et Trigonométrie.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
-    "Lois des sinus et cosinus.md",
     "assets/Etude graphique des fonctions quadratiques/Pasted image 20231002064237.jpg",
     "assets/Etude graphique des fonctions quadratiques",
     "assets/Nombres complexes/Pasted image 20231002063707.png",

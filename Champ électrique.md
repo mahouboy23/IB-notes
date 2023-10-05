@@ -54,4 +54,4 @@ Ce sont des courbes tangentes au vecteur champs électrique en chacun des points
 -Elles sont dirigées dans le sens du champ.
 <!--SR:!2023-10-05,28,230-->
 
-### Lignes de champ électriques de 2 plaques conductrices portees a iddp ($ \ $)
+### Lignes de champ électriques de 2 plaques conductrices portees a iddp ($/$)
