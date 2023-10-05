@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistique et Probabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistique et Probabilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statistique et Probabilité.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,7 +216,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Statistique et Probabilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,8 +265,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "0d18875780f11421",
   "lastOpenFiles": [
+    "Contrôle des ressources et multitâche.md",
+    "Statistique et Probabilité.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Impôts indirects.md",
@@ -291,7 +288,6 @@
     "Le Cid.md",
     "SPECS.md",
     "sl subjects/Anglais Literrature.md",
-    "Statistique et Probabilité.md",
     "University shortlist.loom",
     "Approches to non-literary text.md",
     "Géométrie et Trigonométrie.md",
@@ -311,7 +307,6 @@
     "Nombres complexes.md",
     "assets/Nombres complexes/Pasted image 20231002063707.png",
     "assets/Nombres complexes",
-    "image-20230504104418313.png.md",
     "assets/Logarithmes/Pasted image 20231002063300.png",
     "assets/Logarithmes",
     "assets/Revision/image-20230922133318074.png",
