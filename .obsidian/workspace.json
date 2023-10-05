@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Champ de gravitation.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,18 +276,19 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "Le Champ de gravitation.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
-    "Les forces magnétiques.md",
     "Champ électrique.md",
+    "Les forces magnétiques.md",
+    "Statistique et Probabilité.md",
     "IB overview.md",
     "Piles électrique.md",
     "Champ magnétique.md",
     "Physique thermique.md",
     "Théorie cinétique des gaz parfaits.md",
     "Revision.md",
-    "Statistique et Probabilité.md",
     "Contrôle des ressources et multitâche.md",
     "hl subjects/Math AA.md",
     "Impôts indirects.md",
@@ -311,7 +312,6 @@
     "Approches to non-literary text.md",
     "Géométrie et Trigonométrie.md",
     "Identités trigonométriques.md",
-    "Cercle trigonométrique.md",
     "assets/Etude graphique des fonctions quadratiques/Pasted image 20231002064237.jpg",
     "assets/Etude graphique des fonctions quadratiques",
     "assets/Nombres complexes/Pasted image 20231002063707.png",
