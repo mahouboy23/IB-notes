@@ -10,4 +10,8 @@ Une particule chargée q se déplaçant a la vitesse $\vec{v}$ dans un champ mag
 Formule:
 ?
 $$F=|q|vB\sin{\theta}$$
+$F$ en $N$
+$|q|$ en $C$
+$v$ rn $ms^{-1}$ 
+$B$ en $T$(Tesla) 
 Le sens et la direction de la force est donnée par la règle de la paume de la main droite.
