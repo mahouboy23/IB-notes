@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,12 +272,15 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "Electricité et magnétisme.md",
+    "Les forces magnétiques.md",
+    "Piles électrique.md",
+    "Champ magnétique.md",
+    "sl subjects/Physics.md",
     "Physique thermique.md",
     "Théorie cinétique des gaz parfaits.md",
     "Revision.md",
-    "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "Electricité et magnétisme.md",
     "IB overview.md",
     "Statistique et Probabilité.md",
     "Contrôle des ressources et multitâche.md",
@@ -305,9 +308,6 @@
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
-    "Angles.md",
-    "Fonctions.md",
-    "Position relative parabole et droite.md",
     "assets/Etude graphique des fonctions quadratiques/Pasted image 20231002064237.jpg",
     "assets/Etude graphique des fonctions quadratiques",
     "assets/Nombres complexes/Pasted image 20231002063707.png",

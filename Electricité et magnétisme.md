@@ -18,3 +18,6 @@ Les différentes méthodes d'électrisation:
 3) [[la résistance électrique]] 
 5) [[Piles électrique]] 
 
+### PARTE 3: **Magnétisme**
+1) [[Champ magnétique]] 
+2) [[Les forces magnétiques]] 
