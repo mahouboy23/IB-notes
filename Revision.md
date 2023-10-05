@@ -17,4 +17,4 @@ La temperature est une mesure de l'énergie cinétique moyenne des molecules
 
 $K_{b} \hspace2mm \text{constante de Boltzmann}$ 
 
-U = énergie interne = somme de la chaleur ($E_c$) + énergie potentielle
+U = énergie interne =:: somme de la chaleur ($E_c$) + énergie potentielle

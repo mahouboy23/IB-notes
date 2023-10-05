@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistique et Probabilité.md",
+                "file": "Théorie cinétique des gaz parfaits.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Théorie cinétique des gaz parfaits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Théorie cinétique des gaz parfaits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Théorie cinétique des gaz parfaits.md"
+              }
             }
           },
           {
@@ -216,6 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Théorie cinétique des gaz parfaits.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,12 +270,18 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0d18875780f11421",
+  "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "Contrôle des ressources et multitâche.md",
-    "Statistique et Probabilité.md",
-    "hl subjects/Math AA.md",
+    "Physique thermique.md",
+    "Théorie cinétique des gaz parfaits.md",
+    "Revision.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Electricité et magnétisme.md",
     "IB overview.md",
+    "Statistique et Probabilité.md",
+    "Contrôle des ressources et multitâche.md",
+    "hl subjects/Math AA.md",
     "Impôts indirects.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "hl subjects/Computer science.md",
@@ -297,14 +308,8 @@
     "Angles.md",
     "Fonctions.md",
     "Position relative parabole et droite.md",
-    "Formules de Viète.md",
-    "Etude graphique des fonctions quadratiques.md",
     "assets/Etude graphique des fonctions quadratiques/Pasted image 20231002064237.jpg",
     "assets/Etude graphique des fonctions quadratiques",
-    "Fonctions quadratiques.md",
-    "les equation quadratique.md",
-    "Nombre et Algèbre.md",
-    "Nombres complexes.md",
     "assets/Nombres complexes/Pasted image 20231002063707.png",
     "assets/Nombres complexes",
     "assets/Logarithmes/Pasted image 20231002063300.png",
