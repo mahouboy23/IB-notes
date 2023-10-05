@@ -11,6 +11,7 @@ Formule:
 ?
 $$F_{m}=|q|vB\sin{\theta}$$
 $F$ en $N$
+
 $|q|$ en $C$
 $v$ rn $ms^{-1}$ 
 $B$ en $T$(Tesla) 
