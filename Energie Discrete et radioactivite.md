@@ -76,7 +76,7 @@ $$E=\frac{hc}{\lambda}$$
 ### **.**     **Spectres de raies continues, d'émission et d'absorption**
 
 lumière polychromatique :: constitue de plusieurs couleurs
-<!--SR:!2023-09-11,3,250-->
+<!--SR:!2023-10-10,5,230-->
 lumière monochromatique :: constituée d'une seule $\lambda$ 
 <!--SR:!2023-09-08,1,230-->
 
