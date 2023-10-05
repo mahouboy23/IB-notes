@@ -9,7 +9,7 @@ Une particule chargée q se déplaçant a la vitesse $\vec{v}$ dans un champ mag
 
 Formule:
 ?
-$$F=|q|vB\sin{\theta}$$
+$$F_{m}=|q|vB\sin{\theta}$$
 $F$ en $N$
 $|q|$ en $C$
 $v$ rn $ms^{-1}$ 
