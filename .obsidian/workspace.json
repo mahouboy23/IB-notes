@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Le Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Le Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les forces magnétiques.md"
+                "file": "Le Champ de gravitation.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Le Champ de gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +276,12 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "Champ électrique.md",
-    "Electricité et magnétisme.md",
-    "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "IB overview.md",
+    "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
     "Les forces magnétiques.md",
+    "Champ électrique.md",
+    "IB overview.md",
     "Piles électrique.md",
     "Champ magnétique.md",
     "Physique thermique.md",

@@ -15,3 +15,5 @@ $|q|$ en $C$
 $v$ rn $ms^{-1}$ 
 $B$ en $T$(Tesla) 
 Le sens et la direction de la force est donnée par la règle de la paume de la main droite.
+
+### **Mouvement d'une particule charge dans un champs magnétique (appli du T6)**
