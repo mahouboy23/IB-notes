@@ -28,5 +28,17 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - $P(A)+P(A')$=:: 1 
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
 - $P(A/B)$=:: $\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
-- $P(A\cap B)$=:: $P(A)\times P(B/A)$ ou $P(B)\times P(A/B)$
-- Si deux événements sont indépendants alors $P(A/B)$=:: $P(A)$ 
+- 
+- ## Événements dépendants
+Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
+
+Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
+
+## Probabilité conditionnelle
+Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
+
+Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
+
+Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
+
+$P(A\cap B')$=::$P(A)-P(A\cap B)$

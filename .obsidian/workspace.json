@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
-                "mode": "preview",
+                "file": "Statistique et Probabilité.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Statistique et Probabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Statistique et Probabilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md"
+                "file": "Statistique et Probabilité.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sujets informatiques d'importance sociale et éthique.md",
+                "file": "Statistique et Probabilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,16 +276,20 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "Intégrité.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
     "Sujets informatiques d'importance sociale et éthique.md",
+    "Sécurité.md",
     "Propriété intellectuelle.md",
+    "Personnes et machines.md",
+    "Mondialisation et diversité culturelle.md",
+    "Intégrité.md",
     "Fiabilité.md",
     "Sécurité de l'information.md",
     "Notion de système.md",
     "La surveillance.md",
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
-    "IB overview.md",
     "Pib.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -298,10 +302,6 @@
     "Statistique et Probabilité.md",
     "Piles électrique.md",
     "Champ magnétique.md",
-    "Physique thermique.md",
-    "Théorie cinétique des gaz parfaits.md",
-    "Revision.md",
-    "Contrôle des ressources et multitâche.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
