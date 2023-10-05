@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistique et Probabilité.md",
+                "file": "Energie Discrete et radioactivite.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Champ de gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "force conservative",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistique et Probabilité.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistique et Probabilité.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistique et Probabilité.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Statistique et Probabilité.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,12 +274,19 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "0d18875780f11421",
   "lastOpenFiles": [
-    "Cercle trigonométrique.md",
-    "Statistique et Probabilité.md",
-    "hl subjects/Math AA.md",
+    "Electricité et magnétisme.md",
+    "Champ magnétique.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "Le Champ de gravitation.md",
+    "Energie Discrete et radioactivite.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
+    "Statistique et Probabilité.md",
+    "Cercle trigonométrique.md",
+    "hl subjects/Math AA.md",
     "Sujets informatiques d'importance sociale et éthique.md",
     "Sécurité.md",
     "Propriété intellectuelle.md",
@@ -295,13 +302,6 @@
     "Pib.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "Les forces magnétiques.md",
-    "Le Champ de gravitation.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "sl subjects/Physics.md",
-    "Electricité et magnétisme.md",
-    "Champ électrique.md",
-    "Piles électrique.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
