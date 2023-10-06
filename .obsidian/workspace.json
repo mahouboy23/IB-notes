@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les forces magnétiques.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +276,13 @@
   },
   "active": "0d18875780f11421",
   "lastOpenFiles": [
+    "common core/CAS.md",
+    "IB overview.md",
+    "Les forces magnétiques.md",
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
-    "Les forces magnétiques.md",
     "hl subjects/Math AA.md",
     "Statistique et Probabilité.md",
-    "IB overview.md",
     "Energie Discrete et radioactivite.md",
     "sl subjects/Physics.md",
     "Le Champ de gravitation.md",
@@ -301,7 +302,6 @@
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
     "Pib.md",
-    "Macroéconomie.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
