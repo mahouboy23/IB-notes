@@ -76,7 +76,7 @@ racisme.
    b) Vrai
    c) Vrai
 
-##### Text d
+##### Text B
 1. a) Le 1er bon réflexe à enseigner aux enfants
    b) Éclairage
    c) Réfrigérateur
