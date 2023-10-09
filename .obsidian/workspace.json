@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "EE NEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "EE NEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "EE NEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "EE NEW.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "EE NEW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,11 +266,14 @@
   },
   "active": "0d18875780f11421",
   "lastOpenFiles": [
-    "Approches to non-literary text.md",
+    "New version EE.md",
+    "common core/EE.md",
+    "IB overview.md",
+    "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
+    "Approches to non-literary text.md",
     "High level Essay.md",
     "Comparative essay.md",
-    "IB overview.md",
     "Statistique et Probabilité.md",
     "Excalidraw/Drawing 2023-10-06 13.26.22.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006143022_339.png",
@@ -289,14 +292,11 @@
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
     "Energie Discrete et radioactivite.md",
-    "sl subjects/Physics.md",
     "Le Champ de gravitation.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Cercle trigonométrique.md",
     "Sujets informatiques d'importance sociale et éthique.md",
-    "Sécurité.md",
-    "Propriété intellectuelle.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",

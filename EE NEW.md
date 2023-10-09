@@ -22,3 +22,22 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 ### Algorithmes génétiques
 
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
+
+Create a captivating 2D anime warrior character inspired by the design elements of Augus's outfit from 'Asura's Wrath.' The character should possess a unique and distinct appearance that reflects their warrior nature and god-like abilities.
+
+Upper Body:
+
+- The warrior should wear an elaborate and ornate upper body armor reminiscent of ancient Japanese samurai armor. The armor should consist of overlapping plates made of gleaming, non-metallic material, intricately adorned with patterns and designs.
+- Their chest plate should feature a striking, symmetrical design with engraved motifs and a large, prominent insignia at the center, representing their personal symbol or allegiance.
+- The warrior's armor should include impressive, pauldron-like shoulder guards that provide additional protection and contribute to their imposing stature.
+- Beneath the armor, they should wear a sleeveless, high-collared robe or tunic that flows freely, giving them an air of regal elegance.
+Lower Body:
+- The character's lower body attire should include fitted pants or leggings made from durable, flexible material, allowing for ease of movement in combat.
+- These pants may be tucked into knee-high, armored boots that match the rest of their ensemble, providing stability and protection.
+Weapons:
+- The character should wield a magnificent katana with a dragon-themed hilt, fastened to their back hip. The katana's blade should be finely crafted, exuding both grace and power. The hilt should be an artwork in itself, with intricate engravings, dragon motifs, or symbols of their god-like status.
+Color Scheme:
+- The character's color palette should predominantly feature regal and powerful hues, including deep gold, crimson, and metallic silver. These colors should emphasize their status as a formidable and revered warrior.
+Overall Presence:
+- The character's outfit should exude an air of timeless authority, blending elements of traditional Japanese samurai armor with fantastical and otherworldly elements that reflect their god-like abilities. Their imposing stature and battle-worn appearance should add to their aura of strength and dominance.
+Create a character design that captures the essence of Augus's outfit while infusing it with uniqueness and charisma, ensuring that the character reflects both their warrior nature and god-like abilities.
