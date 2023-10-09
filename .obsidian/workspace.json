@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparative essay.md"
+                "file": "sl subjects/Anglais Literrature.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/Anglais Literrature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4844323823123684,
+                  "scale": 0.6287801953417921,
                   "close": true
                 }
               }
@@ -266,7 +266,10 @@
   },
   "active": "0d18875780f11421",
   "lastOpenFiles": [
+    "Approches to non-literary text.md",
     "sl subjects/Anglais Literrature.md",
+    "High level Essay.md",
+    "Comparative essay.md",
     "IB overview.md",
     "Statistique et Probabilité.md",
     "Excalidraw/Drawing 2023-10-06 13.26.22.excalidraw.md",
@@ -294,9 +297,6 @@
     "Sujets informatiques d'importance sociale et éthique.md",
     "Sécurité.md",
     "Propriété intellectuelle.md",
-    "Personnes et machines.md",
-    "Mondialisation et diversité culturelle.md",
-    "Intégrité.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
