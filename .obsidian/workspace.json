@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE NEW.md",
+                "file": "hl subjects/Français B.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE NEW.md",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE NEW.md",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE NEW.md"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EE NEW.md",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,9 +266,10 @@
   },
   "active": "0d18875780f11421",
   "lastOpenFiles": [
+    "IB overview.md",
+    "EE NEW.md",
     "New version EE.md",
     "common core/EE.md",
-    "IB overview.md",
     "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
@@ -296,7 +297,6 @@
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "Cercle trigonométrique.md",
-    "Sujets informatiques d'importance sociale et éthique.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
