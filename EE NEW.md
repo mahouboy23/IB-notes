@@ -23,7 +23,7 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
 
-Create a captivating 2D anime warrior character inspired by the design elements of Augus's outfit from 'Asura's Wrath.' The character should possess a unique and distinct appearance that reflects their warrior nature and god-like abilities. (Only on character design)
+Create a captivating 2D anime warrior character with a katana at the back of his hip inspired by the design elements of Augus's outfit from 'Asura's Wrath.' The character should possess a unique and distinct appearance that reflects their warrior nature and god-like abilities. (Only on character design)
 
 Upper Body:
 He is shirtless but has red tattoos
@@ -34,3 +34,5 @@ Weapons:
 - The character should wield a magnificent katana with a dragon-themed hilt, fastened to their back hip. The katana's blade should be finely crafted, exuding both grace and power. The hilt should be an artwork in itself, with intricate engravings, dragon motifs, or symbols of their god-like status.
 Color Scheme:
 - The character's color palette should predominantly feature regal and powerful hues, including deep gold, crimson, and metallic silver. These colors should emphasize their status as a formidable and revered warrior.
+Overall Presence:
+- The character's outfit should exude an air of timeless authority, blending elements of traditional Japanese samurai armor with fantastical and otherworldly elements that reflect their god-like abilities. Their imposing stature and battle-worn appearance should add to their aura of strength and dominance.
