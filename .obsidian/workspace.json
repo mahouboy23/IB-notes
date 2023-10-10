@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cd9922adf04447e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md"
               }
             }
           },
@@ -214,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +274,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0d18875780f11421",
+  "active": "0cd9922adf04447e",
   "lastOpenFiles": [
+    "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
+    "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
+    "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
+    "hl subjects/Français B.md",
     "IB overview.md",
     "EE NEW.md",
     "New version EE.md",
@@ -294,9 +308,6 @@
     "Champ magnétique.md",
     "Energie Discrete et radioactivite.md",
     "Le Champ de gravitation.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
-    "Cercle trigonométrique.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
@@ -311,7 +322,6 @@
     "assets/Nombres complexes",
     "assets/Logarithmes",
     "assets/Revision",
-    "Context of Interpretation",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
