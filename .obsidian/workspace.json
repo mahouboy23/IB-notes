@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/CAS.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/CAS.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/CAS.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/CAS.md"
+                "file": "Grandeurs physiques fondamentales.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/CAS.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,12 @@
   },
   "active": "0cd9922adf04447e",
   "lastOpenFiles": [
+    "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
+    "assets/Grandeurs physiques fondamentales",
+    "Mesure d'incertitude.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "common core/CAS.md",
     "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
@@ -287,7 +292,6 @@
     "EE NEW.md",
     "New version EE.md",
     "common core/EE.md",
-    "sl subjects/Physics.md",
     "sl subjects/Anglais Literrature.md",
     "Approches to non-literary text.md",
     "High level Essay.md",
@@ -302,7 +306,6 @@
     "Excalidraw/french1.md",
     "hl subjects/Math AA.md",
     "7 objectifs d'apprentissage CAS.md",
-    "common core/CAS.md",
     "Composantes CAS.md",
     "Attributs du profil de l'apprenant.md",
     "Expériences et projets CAS.md",
@@ -310,7 +313,6 @@
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
     "Energie Discrete et radioactivite.md",
-    "Le Champ de gravitation.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
@@ -322,7 +324,6 @@
     "assets/Etude graphique des fonctions quadratiques",
     "assets/Nombres complexes",
     "assets/Logarithmes",
-    "assets/Revision",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
