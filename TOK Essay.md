@@ -4,7 +4,7 @@ tags:
   - TOK
 excalidraw-plugin: parsed
 ---
-`qCreated: 2023-09-06 
+Created: 2023-09-06 
 
 # Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
