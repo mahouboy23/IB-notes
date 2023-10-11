@@ -35,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Macroéconomie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47f86191bc2d6d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La relation entre égalité et équité.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "La relation entre égalité et équité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "La relation entre égalité et équité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "La relation entre égalité et équité.md"
               }
             }
           },
@@ -226,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "La relation entre égalité et équité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,21 +288,30 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0cd9922adf04447e",
+  "active": "47f86191bc2d6d21",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "La relation entre égalité et équité.md",
+    "Faible taux de chômage.md",
+    "Croissance économique à court et à long terme.md",
+    "Basic Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "Microéconomie.md",
+    "Commentaire d'economie.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
+    "Précision et exactitude.md",
     "Mesure d'incertitude.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "common core/CAS.md",
     "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
-    "hl subjects/Français B.md",
     "EE NEW.md",
     "New version EE.md",
     "common core/EE.md",
@@ -305,15 +326,6 @@
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006133714_830.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006132628_755.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw",
-    "Excalidraw/french1.md",
-    "hl subjects/Math AA.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "Composantes CAS.md",
-    "Attributs du profil de l'apprenant.md",
-    "Expériences et projets CAS.md",
-    "Les forces magnétiques.md",
-    "Electricité et magnétisme.md",
-    "Champ magnétique.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",

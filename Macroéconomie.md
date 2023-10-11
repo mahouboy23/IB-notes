@@ -26,6 +26,10 @@ Basic concept en Economie:
 4. [[L'inflation et ses causes]] 
 5. [[Inflation et ses causes]] 
 
+## Parte 4: ÉCONOMIE DES INÉGALITÉS ET DE LA PAUVRETÉ
+1. [[La relation entre égalité et équité]] 
+
+
 [[TD economie]] 
 
 ![[Effet inflation sur chômage]] 
