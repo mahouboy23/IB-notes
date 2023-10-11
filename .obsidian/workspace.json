@@ -45,9 +45,11 @@
             "id": "0cd9922adf04447e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md"
+                "file": "common core/CAS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
+                "file": "common core/CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
+                "file": "common core/CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md"
+                "file": "common core/CAS.md"
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
+                "file": "common core/CAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +278,12 @@
   },
   "active": "0cd9922adf04447e",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
-    "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
     "EE NEW.md",
     "New version EE.md",
     "common core/EE.md",
@@ -313,7 +315,6 @@
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
     "Excalidraw/assets/french1/Pasted Image 20231003085740_545.png",
-    "hl subjects/assets/Français B/image-20231003083001741.png",
     "hl subjects/assets/Français B",
     "hl subjects/assets",
     "Excalidraw/assets/french1",
