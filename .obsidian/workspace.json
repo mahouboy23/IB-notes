@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "Précision et exactitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "Précision et exactitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "Précision et exactitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chiffres significatifs.md"
+                "file": "Précision et exactitude.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "Précision et exactitude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,6 +279,7 @@
   "active": "0cd9922adf04447e",
   "lastOpenFiles": [
     "Mesure d'incertitude.md",
+    "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
@@ -313,7 +314,6 @@
     "Les forces magnétiques.md",
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
-    "Energie Discrete et radioactivite.md",
     "hl subjects/assets/Français B/image-20231003090123458.png",
     "hl subjects/assets/Français B/image-20231003090107942.png",
     "hl subjects/assets/Français B/image-20231003090056449.png",
