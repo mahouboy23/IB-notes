@@ -52,3 +52,14 @@ Johann Wolfgang von Goethe's timeless words resonate. This inquiry compels us to
 **art historian Ernst Gombrich:**
 
 "All experience are subjective" - **Gregory Bateson**
+
+Guiding Ideas
+ - Who is "we"
+ - technological advancement 
+ - Does sense  
+ - Professional vs Unprofessional
+ - How do we know
+ - How can does it impact society
+ - numerical data vs physical
+ - Production of Knowledge
+ - Examples and esses ot
