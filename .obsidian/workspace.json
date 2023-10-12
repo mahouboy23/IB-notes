@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "Application de la conservation de P.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "Application de la conservation de P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "Application de la conservation de P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md"
+                "file": "Application de la conservation de P.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "Application de la conservation de P.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,12 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "assets/Application de la conservation de P/image-20231012122545353.png",
+    "assets/Application de la conservation de P",
     "Mécanique.md",
+    "Application de la conservation de P.md",
+    "Application de la conservation de $/vec{P}$.md",
+    "Application de la conservation de $",
     "Conservation de la quantité de mouvement.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
@@ -301,9 +306,6 @@
     "Faible taux de chômage.md",
     "Croissance économique à court et à long terme.md",
     "Basic Macroéconomie.md",
-    "sl subjects/Economie.md",
-    "Microéconomie.md",
-    "Commentaire d'economie.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
@@ -322,8 +324,6 @@
     "Excalidraw/assets/french1",
     "University shortlist.loom",
     "assets/Etude graphique des fonctions quadratiques",
-    "assets/Nombres complexes",
-    "assets/Logarithmes",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
