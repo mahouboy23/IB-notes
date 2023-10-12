@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Conservation de la quantité de mouvement.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Conservation de la quantité de mouvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Conservation de la quantité de mouvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électrique.md"
+                "file": "Conservation de la quantité de mouvement.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électrique.md",
+                "file": "Conservation de la quantité de mouvement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6287801953417921,
+                  "scale": 0.7197736450432172,
                   "close": true
                 }
               }
@@ -278,9 +278,11 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "Electricité et magnétisme.md",
-    "sl subjects/Physics.md",
     "Mécanique.md",
+    "Conservation de la quantité de mouvement.md",
+    "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
+    "Piles électrique.md",
     "Nouvelle expression de la deuxième loi de Newton.md",
     "Définition de momentum.md",
     "Energie potentielles et énergie mécanique.md",
@@ -302,8 +304,6 @@
     "sl subjects/Economie.md",
     "Microéconomie.md",
     "Commentaire d'economie.md",
-    "hl subjects/Français B.md",
-    "Mesure d'incertitude.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
