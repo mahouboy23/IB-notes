@@ -23,19 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d18875780f11421",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK Essay.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -238,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,10 +278,14 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
+    "Les forces magnétiques.md",
+    "TOK Essay.md",
+    "Mécanique.md",
+    "IB overview.md",
     "common core/TOK.md",
     "Tools and methods.md",
-    "TOK Essay.md",
-    "IB overview.md",
     "hl subjects/Math AA.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
@@ -312,15 +304,11 @@
     "Grandeurs physiques fondamentales.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
-    "sl subjects/Physics.md",
     "common core/CAS.md",
     "Excalidraw/Drawing 2023-10-10 08.20.21.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
-    "EE NEW.md",
-    "New version EE.md",
-    "common core/EE.md",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006143022_339.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006142828_893.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006133714_830.png",
