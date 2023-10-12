@@ -21,5 +21,6 @@ Created: 2023-03-28
 2. [[Energie potentielles et énergie mécanique]] 
 
 ## Quantité de mouvement (momentum)
-1. [[Defintion momentum]] 
+1. [[Définition de momentum]] 
+2. [[Nouvelle expression de la deuxieme loi de Newton]] 
 

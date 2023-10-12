@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defintion momentum.md",
+                "file": "Nouvelle expression de la deuxieme loi de Newton.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defintion momentum.md",
+                "file": "Nouvelle expression de la deuxieme loi de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defintion momentum.md",
+                "file": "Nouvelle expression de la deuxieme loi de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defintion momentum.md"
+                "file": "Nouvelle expression de la deuxieme loi de Newton.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Defintion momentum.md",
+                "file": "Nouvelle expression de la deuxieme loi de Newton.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,8 @@
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
     "Mécanique.md",
-    "Defintion momentum.md",
+    "Définition de momentum.md",
+    "Nouvelle expression de la deuxieme loi de Newton.md",
     "Energie potentielles et énergie mécanique.md",
     "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
@@ -303,7 +304,6 @@
     "Commentaire d'economie.md",
     "hl subjects/Français B.md",
     "Mesure d'incertitude.md",
-    "Chiffres significatifs.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
