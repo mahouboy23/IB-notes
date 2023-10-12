@@ -1,7 +1,7 @@
 ---
 tags : mod Physique
 ---
-Created: 2022-12-20
+\Created: 2022-12-20
 
 Une Piles converti l'énergie chimique en énergie électrique avec dissipation d'énergie sous forme de chaleur. 
 Une pile est caractérise par sa [[Fem]] (Force electromotive) e et sa resistance interne r
