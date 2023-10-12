@@ -33,11 +33,9 @@
             "id": "47f86191bc2d6d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "La relation entre égalité et équité.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md"
               }
             }
           },
@@ -54,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application de la conservation de P.md"
+                "file": "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md"
               }
             }
           },
@@ -226,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,12 +274,17 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c8065f5bcfb4d8b2",
+  "active": "47f86191bc2d6d21",
   "lastOpenFiles": [
+    "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
+    "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
+    "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
+    "La relation entre égalité et équité.md",
+    "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
+    "Application de la conservation de P.md",
     "assets/Application de la conservation de P/image-20231012122545353.png",
     "assets/Application de la conservation de P",
     "Mécanique.md",
-    "Application de la conservation de P.md",
     "Application de la conservation de $/vec{P}$.md",
     "Application de la conservation de $",
     "Conservation de la quantité de mouvement.md",
@@ -301,11 +304,9 @@
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "Précision et exactitude.md",
-    "La relation entre égalité et équité.md",
     "Macroéconomie.md",
     "Faible taux de chômage.md",
     "Croissance économique à court et à long terme.md",
-    "Basic Macroéconomie.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
@@ -317,13 +318,10 @@
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw/Pasted Image 20231006132628_755.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw",
     "hl subjects/assets/Français B/image-20231003090123458.png",
-    "hl subjects/assets/Français B/image-20231003090107942.png",
-    "hl subjects/assets/Français B/image-20231003090056449.png",
     "hl subjects/assets/Français B",
     "hl subjects/assets",
     "Excalidraw/assets/french1",
     "University shortlist.loom",
-    "assets/Etude graphique des fonctions quadratiques",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
