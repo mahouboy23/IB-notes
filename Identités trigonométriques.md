@@ -8,6 +8,7 @@ Created: 2023-10-02
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
+<!--SR:!2023-10-16,3,250-->
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$

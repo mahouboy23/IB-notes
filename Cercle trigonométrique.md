@@ -35,8 +35,10 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
+<!--SR:!2023-10-14,1,230-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
+<!--SR:!2023-10-14,1,230-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
 - $\sin(x+2k\pi)=$::$\sin(x)$
@@ -46,6 +48,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-14,1,230-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
 - $\tan(-\theta)=$::$-\tan(\theta)$
+<!--SR:!2023-10-16,3,250-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
