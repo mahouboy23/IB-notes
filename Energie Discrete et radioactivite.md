@@ -128,7 +128,7 @@ Une particules $\alpha$ sont très ionisantes elles transforment la matières en
 #### Beta$^-$ 
 ?
 ![[image-20230209093957460.png]]
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-10-18,5,210-->
 
 $$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
