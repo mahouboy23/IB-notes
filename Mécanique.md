@@ -26,4 +26,3 @@ Created: 2023-03-28
 3. [[Conservation de la quantité de mouvement]] 
 4. [[Application de la conservation de P]] 
 
-$\vec{v}$
