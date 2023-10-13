@@ -21,6 +21,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 - $\Large{\cos 90}=$::$0$
+<!--SR:!2023-10-14,1,230-->
 
 ---
 ### Autour de $\pi$
