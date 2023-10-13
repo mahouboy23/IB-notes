@@ -4,6 +4,7 @@ tags : mod Math
 Created: 2023-10-02
 
 Expression réduite::$$ax^2+bx+c\,,\;a\neq0$$
+<!--SR:!2023-10-16,3,270-->
 
 Expression sous la forme canonique::$$a(x-h)^2+k=0$$
 
