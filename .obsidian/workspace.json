@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application de la conservation de P.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7197736450432172,
+                  "scale": 0.6182465741349256,
                   "close": true
                 }
               }
@@ -276,16 +276,17 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Mécanique.md",
+    "Application de la conservation de P.md",
     "Nouvelle expression de la deuxième loi de Newton.md",
     "Définition de momentum.md",
-    "Application de la conservation de P.md",
     "University shortlist.loom",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
     "EE NEW.md",
     "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
     "New version EE.md",
