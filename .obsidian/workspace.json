@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Le Cid.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Le Cid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Le Cid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Le Cid.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Le Cid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,9 +276,10 @@
   },
   "active": "c8065f5bcfb4d8b2",
   "lastOpenFiles": [
-    "Mouvement circulaire uniforme et gravitation.md",
-    "sl subjects/Physics.md",
+    "hl subjects/Français B.md",
     "IB overview.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
     "Mécanique.md",
     "Application de la conservation de P.md",
     "Nouvelle expression de la deuxième loi de Newton.md",
@@ -308,7 +309,6 @@
     "Energie potentielles et énergie mécanique.md",
     "la résistance électrique.md",
     "Les forces magnétiques.md",
-    "TOK Essay.md",
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
