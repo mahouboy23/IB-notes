@@ -26,8 +26,7 @@ Ex2:
 
 3. Les languages de haut niveau doit être traduit car le language de haut utilise le vocabulaire (syntax) humain mais le machine ne pas utiliser et comprendre se language donc on doit traduit le languages de haut niveau on language que la machine peut comprendre pour qu'il puisse executer le code.
 
-4.  
-
+4. La traduction d'une language de haut en code executable se fait en en traduisant le language de haut niveau en utilisant un interpréteur qui traduit en code source ou l'ordinatuer peut lire et comprendre puis execute le code ligne par ligne ou un compiler qui traduit en code source ou l'ordinatuer peut lire et comprendre tout le code d'abord puis execute le code.
 Ex 3:
 | SEARCHVAL | FOUND | MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? | MIDPOS | ARR[MIDPOS] | Output | | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  
   | | | | | | | | | | | | | | | | | | | | | | | | | | |
