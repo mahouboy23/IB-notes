@@ -28,8 +28,7 @@ Ex2:
 
 4. La traduction d'une language de haut en code executable se fait en en traduisant le language de haut niveau en utilisant un interpréteur qui traduit en code source ou l'ordinatuer peut lire et comprendre puis execute le code ligne par ligne ou un compiler qui traduit en code source ou l'ordinatuer peut lire et comprendre tout le code d'abord puis execute le code.
 Ex 3:
-| SEARCHVAL | FOUND | MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? | MIDPOS | ARR[MIDPOS] | Output | | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  
-  | | | | | | | | | | | | | | | | | | | | | | | | | | |
+![[image-20231017115158258.png]]
 
 Ex 4:
 a) Non il n'est pas correct
