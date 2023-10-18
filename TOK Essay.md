@@ -36,7 +36,7 @@ To explore a knowledge question you need to
 
 ## TOK essay Introduction
 Picture this: you're at a crossroads, where the Knowledge of the past meets the discoveries of today. It's a place where we ponder a timeless question: Does new always mean better? and how does this relate to the evidence. We will explore two areas of Knowledge, the natural sciences and history.
-We've all felt the pull of the "latest and greatest." In an era of instant information and rapid progress, the appeal of fresh evidence is hard to resist. But, as we'll soon discover, there's more to this. We're embarking on a quest to uncover the true power of evidence.
+We've all felt the pull of the "latest and greatest." In an era of instant information and rapid progress, the appeal of fresh evidence is hard to resist. But, as we'll soon discover, there's more to this.
 Our journey will take us through the realms of the natural sciences, where we rely on what we see and test, and history, where the past sheds light on our present. Along the way, we'll uncover the hidden complexities of this assumption. We'll peel back the surface to reveal the subtle ideas and important implications that often go unnoticed when we favor the "latest."
 
 Quote: "In the pursuit of knowledge, the newest is not always the truest." - Johann Wolfgang von Goethe
