@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "2cc4355007514653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK Essay draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b5d4994517a11c50",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -212,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,15 +274,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "TOK Essay.md",
+    "TOK Essay draft.md",
     "University shortlist.loom",
     "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
     "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
     "IB overview.md",
     "Macroéconomie.md",
-    "TOK Essay.md",
     "sl subjects/Economie.md",
     "Energie Discrete et radioactivite.md",
     "Le Cid.md",
