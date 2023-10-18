@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -269,7 +269,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6182465741349256,
+                  "scale": 0.0078125,
                   "close": true
                 }
               }
@@ -298,6 +298,8 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Computer science classwork.md",
     "assets/Computer science classwork/image-20231017115158258.png",
     "assets/Computer science classwork/image-20231017113451896.png",
     "assets/Computer science classwork/image-20231017113432760.png",
@@ -305,7 +307,6 @@
     "assets/Computer science classwork/image-20231017113420923.png",
     "assets/Computer science classwork",
     "Excalidraw/Drawing 2023-10-17 11.21.13.excalidraw.md",
-    "Computer science classwork.md",
     "Excalidraw/Drawing 2023-10-17 11.12.33.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
     "Raisonnement par anticipation.md",
@@ -313,7 +314,6 @@
     "Réseaux.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Architecture des ordinateurs.md",
-    "IB overview.md",
     "Le Cid.md",
     "hl subjects/Français B.md",
     "sl subjects/Physics.md",
@@ -339,7 +339,6 @@
     "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
-    "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082031_997.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw",
     "hl subjects/assets/Français B",
