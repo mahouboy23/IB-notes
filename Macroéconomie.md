@@ -32,6 +32,13 @@ Basic concept en Economie:
 
 [[TD economie]] 
 
-![[Effet inflation sur chômage]] 
+![[Effet inflation sur chômage]]
 
 
+
+
+
+| ezrzrzerzerze              | zerzdrze    |
+| -------------------------- | ----------- |
+| **1- Indicateurs uniques** | **Contenu** |
+| $\LARGE \cdot$ Seuil de pauvreté international <br> $\LARGE \cdot$ Taux de natalité et de dépendance <br> $\LARGE \cdot$ Dépendance à l'égard du secteur primaire <br> $\LARGE \cdot$ La grande économie informelle <br> $\LARGE \cdot$ Normes de revenu minimum                           |             |
