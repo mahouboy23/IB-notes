@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Anglais Literrature.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,13 +298,14 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
     "Comparative essay.md",
     "Peace act.md",
     "point.md",
     "Excalidraw/Drawing 2023-10-17 11.21.13.excalidraw.md",
-    "sl subjects/Anglais Literrature.md",
     "King Lear Correction.md",
-    "IB overview.md",
     "Computer science classwork.md",
     "assets/Computer science classwork/image-20231017115158258.png",
     "assets/Computer science classwork/image-20231017113451896.png",
@@ -330,7 +331,6 @@
     "University shortlist.loom",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
