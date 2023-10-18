@@ -33,7 +33,43 @@ To explore a knowledge question you need to
 
 ## My Tok essay outline
 
+I want you to know start writing the first part of the body with a claim and then after relate it to the tok prescribed essay title. you can use one of the guiding ideas, also here is abit of information: 
+ToK Essay May 2024 Title 6: Recent evidence & pursuit of
+knowledge.
+Clarifying the terms of the Q: The key TOK concept here - 'evidence' - underlines a key
+focus for writing the essay: the use (or misused) of evidence in the process of accepting
+or rejecting knowledge claims or distinguishing between old and new knowledge.
+'Recent', and its opposite 'earlier' or 'outdated', indicates the time factor in the process of
+gathering evidence. ...
+Developing the Q: Before you engage with the title, ensure you know the difference
+between 'evidence' and 'proof. In terms of logic, to 'prove' something involves a
+reasoning process - making an inference - from starting premises to a conclusion which
+makes a knowledge claim. And knowers make inferences about all sorts of things but in
+different ways. Inferential thinking or proof can be categorised in at least these three
+ways of reasoning: inductive. deductive and abductive .
+Theme Connections: The politicians making the policies that govern society require
+them to be evidence-based; that is, based on empirical data and research. When
+policymakers use evidence-based policies (OT4)...
+Knowledge Questions: How far is the most recent evidence the strongest only because
+it's freshest in our memories? Who is too quick to assume the most recent evidence is
+the strongest?
+Perspectives
+N Sciences: There have been numerous cases in which NS experts have been quick to
+jump to conclusions based on recent evidence and had to change their minds. In 1996,
+researchers claimed to have discovered evidence of life on Mars when they examined a
+Martian meteorite found in Antarctica, known as ALH 84001. They found tiny structures
+and chemical compounds that they argued could only be explained by the presence of
+ancient Martian microorganisms...
 
+Guiding Ideas
+ - Who is "we"
+ - technological advancement 
+ - Does sense  
+ - Professional vs Unprofessional
+ - How do we know
+ - How can does it impact society
+ - numerical data vs physical
+ - Production of Knowledge
 ## TOK essay Introduction draft
 Picture this: you're at a crossroads, where the Knowledge of the past meets the discoveries of today. It's a place where we ponder a timeless question: Does new always mean better? and how does this relate to the evidence. We will explore two areas of Knowledge, the natural sciences and history.
 We've all felt the pull of the "latest and greatest." In an era of instant information and rapid progress, the appeal of fresh evidence is hard to resist. But, as we'll soon discover, there's more to this.
