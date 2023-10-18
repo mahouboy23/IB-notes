@@ -34,7 +34,7 @@ To explore a knowledge question you need to
 ## My Tok essay outline
 
 
-## TOK essay Introduction
+## TOK essay Introduction draft
 Picture this: you're at a crossroads, where the Knowledge of the past meets the discoveries of today. It's a place where we ponder a timeless question: Does new always mean better? and how does this relate to the evidence. We will explore two areas of Knowledge, the natural sciences and history.
 We've all felt the pull of the "latest and greatest." In an era of instant information and rapid progress, the appeal of fresh evidence is hard to resist. But, as we'll soon discover, there's more to this.
 Our journey will take us through the realms of the natural sciences, where we rely on what we see and test, and history, where the past sheds light on our present. Along the way, we'll uncover the hidden complexities of this assumption. We'll peel back the surface to reveal the subtle ideas and important implications that often go unnoticed when we favor the "latest."
@@ -62,3 +62,4 @@ Guiding Ideas
 
 "Art is not a matter of taste, but involves the very deepest feelings of human nature. It is a matter of depth. Art is not a matter of aesthetic likings, but of what one may call cognitive values. But in order to see these values, we must be taught to see through the eyes of others, to utilize their emotions and experiences. That is where art enters the picture. Art is not a matter of taste, but a matter of taste training."
 **art historian Ernst Gombrich:**
+
