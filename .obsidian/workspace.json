@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distribution binomiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distribution binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distribution binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrète.md"
+                "file": "Distribution binomiale.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distribution binomiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,6 +277,8 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Statistique et Probabilité.md",
+    "Distribution binomiale.md",
+    "Distributions discrètes.md",
     "Probabilité discrète.md",
     "hl subjects/Math AA.md",
     "Puissance-Exponentielles-Logarithm.md",
@@ -307,8 +309,6 @@
     "Excalidraw/Drawing 2023-10-17 11.12.33.excalidraw.md",
     "Raisonnement par anticipation.md",
     "hl subjects/Computer science.md",
-    "Réseaux.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
