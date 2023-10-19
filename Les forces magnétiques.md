@@ -24,7 +24,7 @@ Le sens et la direction de la force est donnée par la règle de la paume de la 
 ![[image-20231019111840540.png]]
 
 Le sens de la force varie avec $\vec{B}$ la tige est soumise a un force magnétique.
-$$F_{mg} = Bil\sin{\theta}$$
+$$F_{mg} = BIl\sin{\theta}$$
 le sens de $F_{mg}$ est donne par la règle de la paume.
 - les doigts indiquant le sens et la direction de I
 - la paume indique le sens d $\vec B$ 
