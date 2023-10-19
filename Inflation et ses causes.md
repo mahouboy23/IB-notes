@@ -45,8 +45,8 @@ Les deux principaux types d’inflation sont:
 ?
 L’inflation tirée par la demande se produit lorsqu’il y a une augmentation de la demande globale dans l’économie. Afin de fournir le nombre croissant de biens et de services désormais requis, des prix plus élevés sont nécessaires.
 
-- Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-- Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
+- Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[Pasted image 20231019085527.png]]
+- Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[Pasted image 20231019085603.png]]
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
 
 - Selon la théorie keynésienne, ce n’est que lorsque les ressources sont pleinement utilisées ou presque, et doivent être réparties entre des utilisations concurrentes, que les prix:: augmentent.
@@ -65,8 +65,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 
 Graphique avec explications
 ?
-![[image-20230921082031502.png]]
-
+![[Pasted image 20231019085628.png]]
 ### Spirale inflationniste salaires-prix
 
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs
@@ -74,8 +73,7 @@ Graphique avec explications
 
 Graphique
 ?
-![[image-20230921082320448.png]]
-
+![[Pasted image 20231019085718.png]]
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.

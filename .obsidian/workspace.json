@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "L'inflation et ses causes.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "L'inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "L'inflation et ses causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "L'inflation et ses causes.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "L'inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,6 +277,13 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Macroéconomie.md",
+    "Inflation et ses causes.md",
+    "assets/Inflation et ses causes/Pasted image 20231019085718.png",
+    "image-20230921082320448.png.md",
+    "assets/Inflation et ses causes/Pasted image 20231019085628.png",
+    "assets/Inflation et ses causes/Pasted image 20231019085603.png",
+    "assets/Inflation et ses causes/Pasted image 20231019085527.png",
+    "assets/Inflation et ses causes",
     "L'inflation et ses causes.md",
     "Causes du chômage, coûts et solutions.md",
     "Faible taux de chômage.md",
@@ -290,14 +297,10 @@
     "assets/L'équilibre a court terme/Pasted image 20231019085145.png",
     "assets/L'équilibre a court terme/Pasted image 20231019085108.png",
     "assets/L'équilibre a court terme/Pasted image 20231019085002.png",
-    "assets/L'équilibre a court terme/Pasted image 20231019084949.png",
     "assets/L'équilibre a court terme",
     "L'offre globale.md",
     "Changement dans les institutions.md",
-    "assets/L'offre globale/Pasted image 20231019084707.png",
-    "assets/L'offre globale/Pasted image 20231019084655.png",
     "Keynésienne.md",
-    "assets/Keynésienne/Pasted image 20231019084605.png",
     "assets/Keynésienne",
     "Néo-classique (monétariste).md",
     "assets/Néo-classique (monétariste)",
@@ -314,14 +317,10 @@
     "Conservation de la quantité de mouvement.md",
     "Application de la conservation de P.md",
     "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Le Champ de gravitation.md",
-    "Recueil de données.md",
     "University shortlist.loom",
     "assets/Computer science classwork",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
     "assets/Application de la conservation de P",
-    "Application de la conservation de $",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
