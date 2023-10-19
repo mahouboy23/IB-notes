@@ -32,3 +32,6 @@ le sens de $F_{mg}$ est donne par la règle de la paume.
 
 ## Action mutuelle de deux courants rectiligne parallèle
 Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées 
+$$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$
+$$F_{\frac{1}{2}}=2*10^{-7}*\frac{I_{1}I_{2}}{d}l$$
+$M_{0}$ perméabilité magnétique du vide
