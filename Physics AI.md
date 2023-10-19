@@ -34,3 +34,5 @@ Limitations :
 
 Le modèle de simulation ignore d'autres variables qui peuvent affecter la température à l'intérieur de la chambre, telles que le vent et l'humidité.  
 Le modèle ne teste que l'effet du matériau et de l'épaisseur/dimension du toit sur la température à l'intérieur de la chambre et ignore l'impact d'autres facteurs tels que les murs et le sol.
+
+-------
