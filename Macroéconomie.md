@@ -27,7 +27,9 @@ Basic concept en Economie:
 
 ## Parte 4: ÉCONOMIE DES INÉGALITÉS ET DE LA PAUVRETÉ
 1. [[La relation entre égalité et équité]] 
-2. 
+2. [[Mesurer les inégalités économiques]]
+3. [[Signification de la pauvreté et comment la mesurer]] 
+4. [[Les inégalités économiques et de pauvreté]] 
 
 
 [[TD economie]] 

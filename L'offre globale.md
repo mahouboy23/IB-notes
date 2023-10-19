@@ -29,7 +29,6 @@ Le changement les coûts de production.
 
 # Offre globale a long terme et facteurs de production
 Alors que la courbe OGCT se déplace en raison de facteurs qui modifient les coûts de production, le OGLT représente:: la capacité potentielle des facteurs de production d'une économie.
-<!--SR:!2023-10-25,23,130-->
 
 Qu'est-ce qui déplace la courbe OGLT ?
 ?

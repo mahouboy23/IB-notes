@@ -1,5 +1,7 @@
 ---
-tags : mod Physique
+tags:
+  - mod
+  - economie
 ---
 Created: 2023-10-19
 
