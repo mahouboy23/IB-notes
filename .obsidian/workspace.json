@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "L'equilibre a long terme.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "L'equilibre a long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "L'equilibre a long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keynésienne.md"
+                "file": "L'equilibre a long terme.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "L'equilibre a long terme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,14 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Macroéconomie.md",
     "L'offre globale.md",
+    "Changement dans les institutions.md",
+    "assets/L'offre globale/Pasted image 20231019084707.png",
+    "assets/L'offre globale/Pasted image 20231019084655.png",
     "Keynésienne.md",
+    "assets/Keynésienne/Pasted image 20231019084605.png",
+    "assets/Keynésienne",
     "Néo-classique (monétariste).md",
     "assets/Néo-classique (monétariste)/Pasted image 20231019084230.png",
     "assets/Néo-classique (monétariste)/Pasted image 20231019084218.png",
@@ -285,7 +291,6 @@
     "image-20230505092449721.png.md",
     "assets/L'offre globale/Pasted image 20231019084024.png",
     "assets/L'offre globale",
-    "Macroéconomie.md",
     "Determinant des composantes de la demande globale.md",
     "Demande globale.md",
     "Effet solde net.md",
@@ -306,22 +311,17 @@
     "Distribution binomiale.md",
     "Distributions discrètes.md",
     "Probabilité discrète.md",
-    "Puissance-Exponentielles-Logarithm.md",
     "University shortlist.loom",
     "assets/Computer science classwork/image-20231017115158258.png",
     "assets/Computer science classwork/image-20231017113451896.png",
     "assets/Computer science classwork/image-20231017113432760.png",
     "assets/Computer science classwork/image-20231017113426456.png",
-    "assets/Computer science classwork/image-20231017113420923.png",
     "assets/Computer science classwork",
-    "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
-    "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
     "assets/Application de la conservation de P",
     "Application de la conservation de $",
     "assets/Grandeurs physiques fondamentales",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
-    "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
