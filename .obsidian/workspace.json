@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement circulaire uniforme et gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement circulaire uniforme et gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement circulaire uniforme et gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Mouvement circulaire uniforme et gravitation.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement circulaire uniforme et gravitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.0078125,
+                  "scale": 0.18912478823359138,
                   "close": true
                 }
               }
@@ -274,9 +274,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "1ea2cb0a21f14309",
   "lastOpenFiles": [
     "sl subjects/Physics.md",
+    "Electricité et magnétisme.md",
+    "Champ magnétique.md",
+    "Mécanique.md",
+    "Force et Lois de Newton (Exemples de force).md",
+    "Poussée d'Archimede.md",
+    "Tension d'un fil.md",
+    "Application des loi de Newton.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Physics AI.md",
     "IB overview.md",
     "TOK Essay draft.md",
     "Macroéconomie.md",
@@ -296,13 +305,10 @@
     "assets/Mesurer les inégalités économiques",
     "La relation entre égalité et équité.md",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
-    "image-20230921082320448.png.md",
     "assets/Inflation et ses causes/Pasted image 20231019085628.png",
     "assets/Inflation et ses causes/Pasted image 20231019085603.png",
     "assets/Inflation et ses causes/Pasted image 20231019085527.png",
     "assets/Inflation et ses causes",
-    "Causes du chômage, coûts et solutions.md",
-    "Croissance économique à court et à long terme.md",
     "assets/L'equilibre a long terme/Pasted image 20231019085318.png",
     "assets/L'equilibre a long terme/Pasted image 20231019085307.png",
     "assets/L'equilibre a long terme/Pasted image 20231019085253.png",
@@ -312,13 +318,7 @@
     "assets/L'équilibre a court terme",
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
-    "image-20230505092449721.png.md",
     "assets/L'offre globale",
-    "Determinant des composantes de la demande globale.md",
-    "Demande globale.md",
-    "Effet solde net.md",
-    "Effet taux d'intérêt.md",
-    "Effet richesse.md",
     "University shortlist.loom",
     "assets/Computer science classwork",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
