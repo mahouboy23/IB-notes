@@ -27,6 +27,7 @@ Basic concept en Economie:
 
 ## Parte 4: ÉCONOMIE DES INÉGALITÉS ET DE LA PAUVRETÉ
 1. [[La relation entre égalité et équité]] 
+2. 
 
 
 [[TD economie]] 
