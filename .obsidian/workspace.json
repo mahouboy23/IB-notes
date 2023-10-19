@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'offre globale.md",
+                "file": "Keynésienne.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'offre globale.md",
+                "file": "Keynésienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'offre globale.md",
+                "file": "Keynésienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'offre globale.md"
+                "file": "Keynésienne.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'offre globale.md",
+                "file": "Keynésienne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,16 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "Macroéconomie.md",
     "L'offre globale.md",
+    "Keynésienne.md",
+    "Néo-classique (monétariste).md",
+    "assets/Néo-classique (monétariste)/Pasted image 20231019084230.png",
+    "assets/Néo-classique (monétariste)/Pasted image 20231019084218.png",
+    "assets/Néo-classique (monétariste)",
+    "image-20230505092449721.png.md",
+    "assets/L'offre globale/Pasted image 20231019084024.png",
+    "assets/L'offre globale",
+    "Macroéconomie.md",
     "Determinant des composantes de la demande globale.md",
     "Demande globale.md",
     "Effet solde net.md",
@@ -299,9 +307,6 @@
     "Distributions discrètes.md",
     "Probabilité discrète.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "Nombre et Algèbre.md",
-    "TOK Essay.md",
-    "TOK Essay draft.md",
     "University shortlist.loom",
     "assets/Computer science classwork/image-20231017115158258.png",
     "assets/Computer science classwork/image-20231017113451896.png",
@@ -312,16 +317,11 @@
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
-    "assets/Application de la conservation de P/image-20231012122545353.png",
     "assets/Application de la conservation de P",
     "Application de la conservation de $",
-    "assets/Grandeurs physiques fondamentales/Pasted image 20231011090240.png",
     "assets/Grandeurs physiques fondamentales",
-    "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw/Pasted Image 20231010082558_439.png",
     "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
     "Excalidraw/assets/Drawing 2023-10-06 13.26.22.excalidraw",
-    "hl subjects/assets/Français B",
-    "hl subjects/assets",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
