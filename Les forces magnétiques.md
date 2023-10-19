@@ -29,3 +29,6 @@ le sens de $F_{mg}$ est donne par la règle de la paume.
 - les doigts indiquant le sens et la direction de I
 - la paume indique le sens d $\vec B$ 
 - le pouce $\rightarrow \vec{F}_{mg}$ 
+
+## Action mutuelle de deux courants rectiligne parallèle
+Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées 
