@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "L'offre globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "L'offre globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "L'offre globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "L'offre globale.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "L'offre globale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,11 +276,23 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "L'offre globale.md",
+    "Determinant des composantes de la demande globale.md",
+    "Demande globale.md",
+    "Effet solde net.md",
+    "Effet taux d'intérêt.md",
+    "Effet richesse.md",
+    "L'equilibre a court terme.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Mécanique.md",
+    "Conservation de la quantité de mouvement.md",
+    "Application de la conservation de P.md",
     "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Le Champ de gravitation.md",
     "Recueil de données.md",
-    "IB overview.md",
     "hl subjects/Math AA.md",
     "Statistique et Probabilité.md",
     "Distribution binomiale.md",
@@ -291,18 +303,6 @@
     "TOK Essay.md",
     "TOK Essay draft.md",
     "University shortlist.loom",
-    "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
-    "Comparative essay.md",
-    "sl subjects/Anglais Literrature.md",
-    "Macroéconomie.md",
-    "sl subjects/Economie.md",
-    "Energie Discrete et radioactivite.md",
-    "Le Cid.md",
-    "common core/TOK.md",
-    "Peace act.md",
-    "point.md",
-    "Excalidraw/Drawing 2023-10-17 11.21.13.excalidraw.md",
-    "King Lear Correction.md",
     "assets/Computer science classwork/image-20231017115158258.png",
     "assets/Computer science classwork/image-20231017113451896.png",
     "assets/Computer science classwork/image-20231017113432760.png",
