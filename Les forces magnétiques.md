@@ -20,3 +20,7 @@ Le sens et la direction de la force est donnée par la règle de la paume de la 
 ### **Mouvement d'une particule charge dans un champs magnétique (appli du T6)**
 
 ## Forces magnétique s'exercant sur un courant électrique placer dans un champs magnétique (loi de Laplace)
+
+![[image-20231019111840540.png]]
+
+Le sens de ka force varie avec $\vec{B}$ la tige est soumise a un force magnétique
