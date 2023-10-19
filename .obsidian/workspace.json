@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Physics AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Physics AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Physics AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Physics AI.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Physics AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,10 +274,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "Les inégalités économiques et de pauvreté.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "TOK Essay draft.md",
     "Macroéconomie.md",
+    "Les inégalités économiques et de pauvreté.md",
     "Signification de la pauvreté et comment la mesurer.md",
     "L'equilibre a long terme.md",
     "L'équilibre a court terme.md",
@@ -316,9 +319,6 @@
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
-    "sl subjects/Economie.md",
-    "IB overview.md",
-    "Mécanique.md",
     "University shortlist.loom",
     "assets/Computer science classwork",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
