@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,10 +274,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "Les forces magnétiques.md",
+    "assets/Les forces magnétiques/image-20231019120452559.png",
+    "assets/Les forces magnétiques/image-20231019120441534.png",
     "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+    "Les forces magnétiques.md",
     "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
     "Application de la conservation de P.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
@@ -304,7 +306,6 @@
     "L'équilibre a court terme.md",
     "L'offre globale.md",
     "Changement dans les institutions.md",
-    "Néo-classique (monétariste).md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
@@ -314,7 +315,6 @@
     "assets/Inflation et ses causes",
     "assets/L'equilibre a long terme/Pasted image 20231019085318.png",
     "assets/L'equilibre a long terme/Pasted image 20231019085307.png",
-    "assets/L'equilibre a long terme/Pasted image 20231019085253.png",
     "assets/L'equilibre a long terme",
     "assets/L'équilibre a court terme",
     "assets/Keynésienne",
