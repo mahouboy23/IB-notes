@@ -18,3 +18,5 @@ $B$ en $T$(Tesla)
 Le sens et la direction de la force est donnée par la règle de la paume de la main droite.
 
 ### **Mouvement d'une particule charge dans un champs magnétique (appli du T6)**
+
+## Forces magnétique s'exercant sur un courant électrique placer dans un champs magnétique (loi de Laplace)

@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement circulaire uniforme et gravitation.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18912478823359138,
+                  "scale": 0.6016476942203861,
                   "close": true
                 }
               }
@@ -274,17 +274,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ea2cb0a21f14309",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
     "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Le Champ de gravitation.md",
     "Champ magnétique.md",
     "Mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Poussée d'Archimede.md",
     "Tension d'un fil.md",
     "Application des loi de Newton.md",
-    "Mouvement circulaire uniforme et gravitation.md",
     "Physics AI.md",
     "IB overview.md",
     "TOK Essay draft.md",
@@ -303,7 +304,6 @@
     "Mesurer les inégalités économiques.md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
-    "La relation entre égalité et équité.md",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
     "assets/Inflation et ses causes/Pasted image 20231019085628.png",
     "assets/Inflation et ses causes/Pasted image 20231019085603.png",
