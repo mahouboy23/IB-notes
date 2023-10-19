@@ -7,4 +7,4 @@ Created: 2023-10-13
 - $P(X=x)$=::${\binom n x}p^{x}(1-p)^{x}$      
 - $E(x)$=::$np$
 - $\text{var}(x)$=::$E(x)(1-p)=np(1-p)$ 
-- 
+- $\rho$ =:: $\sqrt{var(x)} =\sqrt{np(1-p)}$ 
