@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'equilibre a long terme.md",
+                "file": "Inflation et ses causes.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'equilibre a long terme.md",
+                "file": "Inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'equilibre a long terme.md",
+                "file": "Inflation et ses causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'equilibre a long terme.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'equilibre a long terme.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,6 +277,21 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Macroéconomie.md",
+    "L'inflation et ses causes.md",
+    "Causes du chômage, coûts et solutions.md",
+    "Faible taux de chômage.md",
+    "Croissance économique à court et à long terme.md",
+    "L'equilibre a long terme.md",
+    "assets/L'equilibre a long terme/Pasted image 20231019085318.png",
+    "assets/L'equilibre a long terme/Pasted image 20231019085307.png",
+    "assets/L'equilibre a long terme/Pasted image 20231019085253.png",
+    "assets/L'equilibre a long terme",
+    "L'équilibre a court terme.md",
+    "assets/L'équilibre a court terme/Pasted image 20231019085145.png",
+    "assets/L'équilibre a court terme/Pasted image 20231019085108.png",
+    "assets/L'équilibre a court terme/Pasted image 20231019085002.png",
+    "assets/L'équilibre a court terme/Pasted image 20231019084949.png",
+    "assets/L'équilibre a court terme",
     "L'offre globale.md",
     "Changement dans les institutions.md",
     "assets/L'offre globale/Pasted image 20231019084707.png",
@@ -285,18 +300,14 @@
     "assets/Keynésienne/Pasted image 20231019084605.png",
     "assets/Keynésienne",
     "Néo-classique (monétariste).md",
-    "assets/Néo-classique (monétariste)/Pasted image 20231019084230.png",
-    "assets/Néo-classique (monétariste)/Pasted image 20231019084218.png",
     "assets/Néo-classique (monétariste)",
     "image-20230505092449721.png.md",
-    "assets/L'offre globale/Pasted image 20231019084024.png",
     "assets/L'offre globale",
     "Determinant des composantes de la demande globale.md",
     "Demande globale.md",
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
-    "L'equilibre a court terme.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Mécanique.md",
@@ -306,22 +317,11 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "Le Champ de gravitation.md",
     "Recueil de données.md",
-    "hl subjects/Math AA.md",
-    "Statistique et Probabilité.md",
-    "Distribution binomiale.md",
-    "Distributions discrètes.md",
-    "Probabilité discrète.md",
     "University shortlist.loom",
-    "assets/Computer science classwork/image-20231017115158258.png",
-    "assets/Computer science classwork/image-20231017113451896.png",
-    "assets/Computer science classwork/image-20231017113432760.png",
-    "assets/Computer science classwork/image-20231017113426456.png",
     "assets/Computer science classwork",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
     "assets/Application de la conservation de P",
     "Application de la conservation de $",
-    "assets/Grandeurs physiques fondamentales",
-    "Excalidraw/assets/Drawing 2023-10-10 08.20.21.excalidraw",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

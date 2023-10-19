@@ -12,12 +12,11 @@ Basic concept en Economie:
 2. [[Pib]] 
 
 ## Parte 2: Variation de L'activite Economique — Demande globale et offre globale 
-1. [[Demande globale]] 
+ 1. [[Demande globale]] 
  2. [[Determinant des composantes de la demande globale]] 
  3. [[L'offre globale]] 
  4. [[L'equilibre a long terme]]
- 5. [[L'equilibre a court terme]]
- 6. 
+ 5. [[L'équilibre a court terme]]
 
 ## Parte 3: Objectifs Macroéconomiques
 1. [[Croissance économique à court et à long terme]] 
