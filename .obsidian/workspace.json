@@ -47,12 +47,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les forces magnétiques.md"
+                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,20 +274,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "b5d4994517a11c50",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+    "Les forces magnétiques.md",
     "Application de la conservation de P.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
     "Mécanique.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Macroéconomie.md",
-    "Les forces magnétiques.md",
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
     "assets/Les forces magnétiques/image-20231019111840540.png",
     "assets/Les forces magnétiques",
-    "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-17 11.21.13.excalidraw.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Le Champ de gravitation.md",
@@ -304,7 +305,6 @@
     "L'offre globale.md",
     "Changement dans les institutions.md",
     "Néo-classique (monétariste).md",
-    "Keynésienne.md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
