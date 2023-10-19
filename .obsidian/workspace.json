@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Probabilité discrète.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Probabilité discrète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Probabilité discrète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "Probabilité discrète.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Probabilité discrète.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,13 +276,18 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "TOK Essay draft.md",
+    "Statistique et Probabilité.md",
+    "Probabilité discrète.md",
+    "hl subjects/Math AA.md",
+    "Puissance-Exponentielles-Logarithm.md",
+    "Nombre et Algèbre.md",
+    "IB overview.md",
     "TOK Essay.md",
+    "TOK Essay draft.md",
     "University shortlist.loom",
     "Excalidraw/Drawing 2023-10-12 14.30.58.excalidraw.md",
     "Comparative essay.md",
     "sl subjects/Anglais Literrature.md",
-    "IB overview.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Energie Discrete et radioactivite.md",
@@ -304,11 +309,6 @@
     "hl subjects/Computer science.md",
     "Réseaux.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "Architecture des ordinateurs.md",
-    "hl subjects/Français B.md",
-    "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Mécanique.md",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143220_662.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw/Pasted Image 20231012143108_397.png",
     "Excalidraw/assets/Drawing 2023-10-12 14.30.58.excalidraw",
