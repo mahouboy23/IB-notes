@@ -45,14 +45,16 @@
             "id": "b5d4994517a11c50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md"
+                "file": "Macroéconomie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les forces magnétiques.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,18 +276,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "b5d4994517a11c50",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
+    "Application de la conservation de P.md",
+    "Les forces magnétiques.md",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
-    "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
-    "Les forces magnétiques.md",
     "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
-    "Application de la conservation de P.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Macroéconomie.md",
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
@@ -314,7 +317,6 @@
     "assets/Inflation et ses causes/Pasted image 20231019085527.png",
     "assets/Inflation et ses causes",
     "assets/L'equilibre a long terme/Pasted image 20231019085318.png",
-    "assets/L'equilibre a long terme/Pasted image 20231019085307.png",
     "assets/L'equilibre a long terme",
     "assets/L'équilibre a court terme",
     "assets/Keynésienne",

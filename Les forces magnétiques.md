@@ -43,3 +43,4 @@ $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$
 $$F_{\frac{1}{2}}=2*10^{-7}*\frac{I_{1}I_{2}}{d}l$$
 $M_{0}$ perméabilité magnétique du vide
 
+
