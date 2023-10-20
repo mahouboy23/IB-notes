@@ -47,14 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Les inégalités économiques et de pauvreté.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "University shortlist.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "University shortlist.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "University shortlist.loom"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "University shortlist.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,20 +275,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2e0d2dbbf23a4db5",
   "lastOpenFiles": [
+    "Les forces magnétiques.md",
+    "Application de la conservation de P.md",
+    "Les inégalités économiques et de pauvreté.md",
+    "Macroéconomie.md",
+    "Signification de la pauvreté et comment la mesurer.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
-    "Application de la conservation de P.md",
-    "Les forces magnétiques.md",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
     "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "Macroéconomie.md",
     "Electricité et magnétisme.md",
     "Champ magnétique.md",
     "assets/Les forces magnétiques/image-20231019111840540.png",
@@ -303,8 +304,6 @@
     "Application des loi de Newton.md",
     "Physics AI.md",
     "TOK Essay draft.md",
-    "Les inégalités économiques et de pauvreté.md",
-    "Signification de la pauvreté et comment la mesurer.md",
     "L'equilibre a long terme.md",
     "L'équilibre a court terme.md",
     "L'offre globale.md",
