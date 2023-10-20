@@ -21,12 +21,8 @@
             "id": "2f9452336f18a028",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les forces magnétiques.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -35,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Mademba.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Mademba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Mademba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application de la conservation de P.md"
+                "file": "Mademba.md"
               }
             }
           },
@@ -226,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Mademba.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,15 +274,20 @@
   },
   "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "Les forces magnétiques.md",
+    "IB overview.md",
+    "Identités trigonométriques.md",
+    "Géométrie et Trigonométrie.md",
+    "Lois des sinus et cosinus.md",
+    "hl subjects/Math AA.md",
+    "Application de la conservation de P.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Les couts de productions.md",
     "Determinant non prix de l'offre.md",
     "Mouvement et déplacement de l'offre.md",
-    "Les forces magnétiques.md",
     "Electricité et magnétisme.md",
-    "Application de la conservation de P.md",
     "Les attentes futurs.md",
     "Microéconomie.md",
     "écriture mathématique.md",
@@ -305,11 +306,6 @@
     "Champ magnétique.md",
     "assets/Les forces magnétiques/image-20231019111840540.png",
     "assets/Les forces magnétiques",
-    "Excalidraw/Drawing 2023-10-17 11.21.13.excalidraw.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Le Champ de gravitation.md",
-    "Force et Lois de Newton (Exemples de force).md",
-    "Poussée d'Archimede.md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
