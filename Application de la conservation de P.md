@@ -20,3 +20,9 @@ Le système $A$ et $B$ était isolé, appliquons la conservation de la quantité
 \Large{\vec{P_i}}&\Large{=\vec{P_f}} \\
 \Large{m_{A}\vec v_{A}}&\Large{=(m_{A}+m_{B})\vec{v}} \end{align} $$
 
+#### Choc elastique 
+On conservation de la quantité de mouvement et de l'énergie cinétique **(voir exo)**
+
+#### Choc inelastique
+On a conservation de la quantité de mouvement mais pas de l'énergie cinétique **(voir exo)**
+##### Voir fusée
