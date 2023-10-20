@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Les couts de productions.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Les couts de productions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Les couts de productions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Les couts de productions.md"
               }
             }
           },
@@ -225,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Les couts de productions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,15 +276,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e0d2dbbf23a4db5",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "Determinant non prix de l'offre.md",
+    "Les attentes futurs.md",
+    "Mouvement et déplacement de l'offre.md",
+    "Microéconomie.md",
+    "écriture mathématique.md",
+    "l'offre.md",
+    "La demande.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
     "Les forces magnétiques.md",
     "Application de la conservation de P.md",
+    "University shortlist.loom",
     "Les inégalités économiques et de pauvreté.md",
     "Macroéconomie.md",
     "Signification de la pauvreté et comment la mesurer.md",
-    "sl subjects/Economie.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
@@ -301,13 +310,6 @@
     "Force et Lois de Newton (Exemples de force).md",
     "Poussée d'Archimede.md",
     "Tension d'un fil.md",
-    "Application des loi de Newton.md",
-    "Physics AI.md",
-    "TOK Essay draft.md",
-    "L'equilibre a long terme.md",
-    "L'équilibre a court terme.md",
-    "L'offre globale.md",
-    "Changement dans les institutions.md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
@@ -321,7 +323,6 @@
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
     "assets/L'offre globale",
-    "University shortlist.loom",
     "assets/Computer science classwork",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
