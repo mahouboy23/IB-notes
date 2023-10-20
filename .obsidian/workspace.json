@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les couts de productions.md",
+                "file": "Application de la conservation de P.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Application de la conservation de P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Application de la conservation de P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les forces magnétiques.md"
+                "file": "Application de la conservation de P.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les forces magnétiques.md",
+                "file": "Application de la conservation de P.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,23 +276,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "Electricité et magnétisme.md",
-    "sl subjects/Physics.md",
     "Mécanique.md",
-    "Application de la conservation de P.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
     "Les couts de productions.md",
     "Determinant non prix de l'offre.md",
-    "Les attentes futurs.md",
     "Mouvement et déplacement de l'offre.md",
+    "Les forces magnétiques.md",
+    "Electricité et magnétisme.md",
+    "Application de la conservation de P.md",
+    "Les attentes futurs.md",
     "Microéconomie.md",
     "écriture mathématique.md",
     "l'offre.md",
     "La demande.md",
     "sl subjects/Economie.md",
-    "Les forces magnétiques.md",
     "University shortlist.loom",
     "Les inégalités économiques et de pauvreté.md",
     "Macroéconomie.md",
