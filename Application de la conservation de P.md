@@ -11,7 +11,7 @@ $$\vec{P_{i}} = \vec{0}=m\vec{v}+M\vec{v}_{recul}$$
 $$m\vec{v}+M\vec{v}_{recul} = \vec{0}$$
 $$M\vec{v}_{recul}=m\vec{v}$$
 $$v_{recul}=\frac{m}{M}v$$
-### Collision ou chocs
+## Collision ou chocs
 
 #### Choc parfait inélastique 
 Un object de ma masse $m_a$ se déplaçant à la vitesse $\vec v_a$ heurte un objet de masse $m_B$ (Immobile) puis les 2 objets se réunissent et se déplacent à la vitesse $\vec v$ ![[image-20231019112008613.png]]

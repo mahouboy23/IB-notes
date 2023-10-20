@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les couts de productions.md",
+                "file": "Les forces magnétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les couts de productions.md",
+                "file": "Les forces magnétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les couts de productions.md"
+                "file": "Les forces magnétiques.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les couts de productions.md",
+                "file": "Les forces magnétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,8 +276,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
+    "Mécanique.md",
+    "Application de la conservation de P.md",
+    "IB overview.md",
+    "Les couts de productions.md",
     "Determinant non prix de l'offre.md",
     "Les attentes futurs.md",
     "Mouvement et déplacement de l'offre.md",
@@ -286,9 +292,7 @@
     "l'offre.md",
     "La demande.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Les forces magnétiques.md",
-    "Application de la conservation de P.md",
     "University shortlist.loom",
     "Les inégalités économiques et de pauvreté.md",
     "Macroéconomie.md",
@@ -298,9 +302,6 @@
     "assets/Les forces magnétiques/image-20231019120441534.png",
     "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
-    "Mécanique.md",
-    "sl subjects/Physics.md",
-    "Electricité et magnétisme.md",
     "Champ magnétique.md",
     "assets/Les forces magnétiques/image-20231019111840540.png",
     "assets/Les forces magnétiques",
@@ -309,7 +310,6 @@
     "Le Champ de gravitation.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Poussée d'Archimede.md",
-    "Tension d'un fil.md",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
