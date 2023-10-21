@@ -21,8 +21,12 @@
             "id": "2f9452336f18a028",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Définition de momentum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -31,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mademba.md",
+                "file": "Les forces magnétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,32 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les inégalités économiques et de pauvreté.md",
+                "file": "Energie potentielles et énergie mécanique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b79ccce83e57007f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "bf6839eadc1afe7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1bc0c093db1acd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cercle trigonométrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Définition de momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Définition de momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cercle trigonométrique.md"
+                "file": "Définition de momentum.md"
               }
             }
           },
@@ -240,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Définition de momentum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,37 +288,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bc0c093db1acd1e",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "Mademba.md",
-    "hl subjects/Français B.md",
-    "Les forces magnétiques.md",
+    "Definition.md",
+    "Excalidraw/Drawing 2023-10-21 11.51.39.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
+    "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
+    "Définition de momentum.md",
+    "Mécanique.md",
+    "Travaille d'une force.md",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Application.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "Les forces magnétiques.md",
+    "Energie potentielles et énergie mécanique.md",
+    "Electricité et magnétisme.md",
+    "Les inégalités économiques et de pauvreté.md",
+    "Champ magnétique.md",
+    "Champ électrique.md",
+    "Mademba.md",
+    "force conservative.md",
+    "Application de la conservation de P.md",
+    "University shortlist.loom",
+    "Cercle trigonométrique.md",
+    "hl subjects/Français B.md",
     "Identités trigonométriques.md",
     "Géométrie et Trigonométrie.md",
     "Lois des sinus et cosinus.md",
     "hl subjects/Math AA.md",
-    "Application de la conservation de P.md",
-    "Mécanique.md",
-    "sl subjects/Physics.md",
     "Les couts de productions.md",
-    "Determinant non prix de l'offre.md",
-    "Mouvement et déplacement de l'offre.md",
-    "Electricité et magnétisme.md",
-    "Les attentes futurs.md",
-    "Microéconomie.md",
-    "écriture mathématique.md",
-    "l'offre.md",
-    "La demande.md",
-    "sl subjects/Economie.md",
-    "University shortlist.loom",
-    "Les inégalités économiques et de pauvreté.md",
-    "Macroéconomie.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "Excalidraw/Drawing 2023-10-19 11.54.34.excalidraw.md",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
-    "Excalidraw/Drawing 2023-10-19 11.09.45.excalidraw.md",
     "assets/Application de la conservation de P/image-20231019112008613.png",
     "assets/Les forces magnétiques/image-20231019111840540.png",
     "assets/Les forces magnétiques",
@@ -331,13 +330,11 @@
     "assets/Inflation et ses causes/Pasted image 20231019085603.png",
     "assets/Inflation et ses causes/Pasted image 20231019085527.png",
     "assets/Inflation et ses causes",
-    "assets/L'equilibre a long terme/Pasted image 20231019085318.png",
     "assets/L'equilibre a long terme",
     "assets/L'équilibre a court terme",
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
     "assets/L'offre globale",
-    "assets/Computer science classwork",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
