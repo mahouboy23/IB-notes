@@ -37,7 +37,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-10-14,1,230-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-- $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
+- $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
 <!--SR:!2023-10-14,1,230-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$

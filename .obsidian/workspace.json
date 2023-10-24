@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Cercle trigonométrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Cercle trigonométrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Cercle trigonométrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Cercle trigonométrique.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Cercle trigonométrique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,9 +291,9 @@
   "active": "b79ccce83e57007f",
   "lastOpenFiles": [
     "Géométrie et Trigonométrie.md",
-    "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
+    "Identités trigonométriques.md",
     "Angles.md",
     "hl subjects/Math AA.md",
     "Nombre et Algèbre.md",
