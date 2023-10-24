@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définition de momentum.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définition de momentum.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Définition de momentum.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Définition de momentum.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,11 +288,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "b79ccce83e57007f",
   "lastOpenFiles": [
-    "Mécanique.md",
-    "Définition de momentum.md",
+    "Géométrie et Trigonométrie.md",
+    "Identités trigonométriques.md",
+    "Cercle trigonométrique.md",
+    "Lois des sinus et cosinus.md",
+    "Angles.md",
+    "hl subjects/Math AA.md",
+    "Nombre et Algèbre.md",
+    "Nombres complexes.md",
+    "Fonctions.md",
+    "Formules de Viète.md",
+    "IB overview.md",
     "Definition.md",
+    "Définition de momentum.md",
+    "Mécanique.md",
     "Excalidraw/Drawing 2023-10-21 11.51.39.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
@@ -300,7 +311,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "Application.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Les forces magnétiques.md",
     "Energie potentielles et énergie mécanique.md",
     "Electricité et magnétisme.md",
@@ -308,16 +318,7 @@
     "Champ magnétique.md",
     "Champ électrique.md",
     "Mademba.md",
-    "force conservative.md",
-    "Application de la conservation de P.md",
     "University shortlist.loom",
-    "Cercle trigonométrique.md",
-    "hl subjects/Français B.md",
-    "Identités trigonométriques.md",
-    "Géométrie et Trigonométrie.md",
-    "Lois des sinus et cosinus.md",
-    "hl subjects/Math AA.md",
-    "Les couts de productions.md",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
     "assets/Application de la conservation de P/image-20231019112008613.png",
