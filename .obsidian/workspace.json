@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,9 +290,11 @@
   },
   "active": "b79ccce83e57007f",
   "lastOpenFiles": [
-    "Mouvement circulaire uniforme et gravitation.md",
-    "sl subjects/Physics.md",
+    "common core/CAS.md",
     "IB overview.md",
+    "common core/TOK.md",
+    "sl subjects/Physics.md",
+    "Mouvement circulaire uniforme et gravitation.md",
     "hl subjects/Math AA.md",
     "Théorème Binomial.md",
     "Nombre et Algèbre.md",
@@ -316,8 +318,6 @@
     "Energie potentielles et énergie mécanique.md",
     "Electricité et magnétisme.md",
     "Les inégalités économiques et de pauvreté.md",
-    "Champ magnétique.md",
-    "Champ électrique.md",
     "University shortlist.loom",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
