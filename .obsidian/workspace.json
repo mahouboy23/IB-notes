@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorème Binomial.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,10 +290,13 @@
   },
   "active": "b79ccce83e57007f",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "hl subjects/Math AA.md",
+    "Théorème Binomial.md",
     "Nombre et Algèbre.md",
     "Nombres complexes.md",
-    "hl subjects/Math AA.md",
-    "IB overview.md",
     "Cercle trigonométrique.md",
     "Géométrie et Trigonométrie.md",
     "Lois des sinus et cosinus.md",
@@ -308,16 +311,13 @@
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "Travaille d'une force.md",
-    "Mouvement circulaire uniforme et gravitation.md",
     "Application.md",
-    "sl subjects/Physics.md",
     "Les forces magnétiques.md",
     "Energie potentielles et énergie mécanique.md",
     "Electricité et magnétisme.md",
     "Les inégalités économiques et de pauvreté.md",
     "Champ magnétique.md",
     "Champ électrique.md",
-    "Mademba.md",
     "University shortlist.loom",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
