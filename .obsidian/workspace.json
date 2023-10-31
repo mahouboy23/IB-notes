@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Probabilité discrète.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Probabilité discrète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Probabilité discrète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md"
+                "file": "Probabilité discrète.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Probabilité discrète.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,13 +290,15 @@
   },
   "active": "b79ccce83e57007f",
   "lastOpenFiles": [
+    "Statistique et Probabilité.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
-    "IB overview.md",
     "common core/TOK.md",
     "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "hl subjects/Math AA.md",
     "Théorème Binomial.md",
     "Nombre et Algèbre.md",
     "Nombres complexes.md",
@@ -316,8 +318,6 @@
     "Travaille d'une force.md",
     "Application.md",
     "Les forces magnétiques.md",
-    "Energie potentielles et énergie mécanique.md",
-    "Electricité et magnétisme.md",
     "University shortlist.loom",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",

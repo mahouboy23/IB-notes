@@ -48,3 +48,5 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$>)
+
+$A\Delta B$ =: $(A \cap B') \cup (A' \cap B)$ 
