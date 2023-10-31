@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "Attributs du profil de l'apprenant.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,6 +291,7 @@
   "active": "b79ccce83e57007f",
   "lastOpenFiles": [
     "common core/CAS.md",
+    "7 objectifs d'apprentissage CAS.md",
     "IB overview.md",
     "common core/TOK.md",
     "sl subjects/Physics.md",
@@ -317,7 +318,6 @@
     "Les forces magnétiques.md",
     "Energie potentielles et énergie mécanique.md",
     "Electricité et magnétisme.md",
-    "Les inégalités économiques et de pauvreté.md",
     "University shortlist.loom",
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
