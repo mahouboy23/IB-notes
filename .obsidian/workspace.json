@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,20 +288,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "b5d4994517a11c50",
   "lastOpenFiles": [
-    "assets/Individual Oral/image-20231106085911074.png",
-    "assets/Individual Oral",
-    "Approches to non-literary text.md",
-    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
-    "Travaille d'une force.md",
-    "Individual Oral.md",
-    "Oral presentation.md",
-    "La loi de gravitation universelle de Newton.md",
+    "Mécanique.md",
+    "Application.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
-    "Mécanique.md",
+    "Approches to non-literary text.md",
+    "Definition.md",
+    "Individual Oral.md",
+    "assets/Individual Oral/image-20231106085911074.png",
+    "assets/Individual Oral",
+    "sl subjects/Anglais Literrature.md",
+    "Travaille d'une force.md",
+    "Oral presentation.md",
+    "La loi de gravitation universelle de Newton.md",
     "Commentaire d'economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
@@ -316,7 +318,6 @@
     "temperature.md",
     "temperature et echelle de temperature.md",
     "Energie interne.md",
-    "Application de la conservation de P.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "University shortlist.loom",
@@ -330,7 +331,6 @@
     "assets/Inflation et ses causes/Pasted image 20231019085718.png",
     "assets/Inflation et ses causes/Pasted image 20231019085628.png",
     "assets/Inflation et ses causes/Pasted image 20231019085603.png",
-    "assets/Inflation et ses causes/Pasted image 20231019085527.png",
     "assets/Inflation et ses causes",
     "assets/L'equilibre a long terme",
     "assets/L'équilibre a court terme",
