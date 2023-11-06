@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Chaleur massique, capacité calorifique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "energie thermi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,11 +127,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5033760070801
+    "width": 270.5033760070801
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Définition de momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Définition de momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application de la conservation de P.md"
+                "file": "Définition de momentum.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application de la conservation de P.md",
+                "file": "Définition de momentum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,16 +288,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b79ccce83e57007f",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Chaleur massique, capacité calorifique.md",
+    "Physique thermique.md",
+    "Chaleur échanger lors d'un changement d'etat.md",
+    "Théorie moléculaire des solides, des liquides et des gaz.md",
+    "changement d'etat.md",
+    "Chaleur latente.md",
+    "IB overview.md",
+    "Chaleur.md",
+    "temperature.md",
+    "temperature et echelle de temperature.md",
+    "Energie interne.md",
+    "sl subjects/Physics.md",
     "Mécanique.md",
+    "Application de la conservation de P.md",
     "Nouvelle expression de la deuxième loi de Newton.md",
     "Définition de momentum.md",
-    "Application de la conservation de P.md",
     "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
     "Les forces magnétiques.md",
     "Conservation de la quantité de mouvement.md",
     "Probabilité discrète.md",
@@ -306,16 +316,6 @@
     "Attributs du profil de l'apprenant.md",
     "common core/CAS.md",
     "7 objectifs d'apprentissage CAS.md",
-    "common core/TOK.md",
-    "Mouvement circulaire uniforme et gravitation.md",
-    "Théorème Binomial.md",
-    "Nombre et Algèbre.md",
-    "Nombres complexes.md",
-    "Cercle trigonométrique.md",
-    "Géométrie et Trigonométrie.md",
-    "Lois des sinus et cosinus.md",
-    "Identités trigonométriques.md",
-    "Angles.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "University shortlist.loom",
