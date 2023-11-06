@@ -5,7 +5,7 @@ Created: 2023-01-17
 
 ## La loi de gravitation universelle
 ?
-Deux masse ponctuelles et $m_1$ et $m_2$ exercent l'une sur l'autre des forces opposées $\vec{f_{2/1}}=-\vec{f_{1/2}}$ / $f_{1/2}=f_{2/1}$ . Cette est Force est proportionnelle est produit de 2 masses et inversement au carre de la distance séparant ces deux masses et inversement proportionnelle au carré de la distance séparant ces qui les séparent.
+Deux masse ponctuelles et $m_1$ et $m_2$ exercent l'une sur l'autre des forces opposées $\vec{f_{2/1}}=-\vec{f_{1/2}}$ / $f_{1/2}=f_{2/1}$ . Cette est Force est proportionnelle au produit de 2 masses et inversement au carre de la distance séparant ces deux masses et inversement proportionnelle au carré de la distance séparant ces qui les séparent.
 <!--SR:!2023-10-11,34,210-->
 
 ![[image-20230117082537266.png]]
