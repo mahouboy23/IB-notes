@@ -64,10 +64,7 @@ Procedure:
 6. Analyze relationship between viscous resistance and rate of laminar flow
     
 
-This experiment directly examines how viscosity affects laminar flow according to Poiseuille's Law. The controlled simulation setup fulfills all IA criteria while studying a core concept from the syllabus.
-
-Let me know if you need any part of the proposal explained further or if you would like an alternative suggested.
-
+This experiment directly examines how viscosity affects laminar flow according to Poiseuille's Law. 
 ### **Topic:** Comment la viscosité d'un fluide affecte-t-elle le débit laminaire à travers un tube ?
 
 En rapport avec le sous-thème 2.2 - Forces 
@@ -95,6 +92,5 @@ Procédure :
 6. Analyser la relation entre la résistance visqueuse et le débit laminaire
     
 
-Cette expérience examine directement comment la viscosité affecte l'écoulement laminaire selon la loi de Poiseuille. La configuration de la simulation contrôlée répond à tous les critères de l'AI tout en permettant d'étudier un concept essentiel du programme d'études.
+Cette expérience examine directement comment la viscosité affecte l'écoulement laminaire selon la loi de Poiseuille. 
 
-Faites-moi savoir si vous avez besoin d'explications supplémentaires sur une partie de la proposition ou si vous souhaitez qu'une alternative soit suggérée.
