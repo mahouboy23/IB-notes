@@ -45,7 +45,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\tan(x+k\pi)=$::$\tan(x)$
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
-<!--SR:!2023-10-14,1,230-->
+<!--SR:!2024-01-11,66,250-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2023-10-16,3,250-->
