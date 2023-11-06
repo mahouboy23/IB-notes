@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La loi de gravitation universelle de Newton.md",
+                "file": "Individual Oral.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La loi de gravitation universelle de Newton.md",
+                "file": "Individual Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La loi de gravitation universelle de Newton.md",
+                "file": "Individual Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La loi de gravitation universelle de Newton.md"
+                "file": "Individual Oral.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La loi de gravitation universelle de Newton.md",
+                "file": "Individual Oral.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,9 +290,13 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "sl subjects/Anglais Literrature.md",
+    "Individual Oral.md",
+    "Oral presentation.md",
+    "IB overview.md",
+    "La loi de gravitation universelle de Newton.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Mécanique.md",
     "Commentaire d'economie.md",
     "Microéconomie.md",
@@ -312,10 +316,6 @@
     "Nouvelle expression de la deuxième loi de Newton.md",
     "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
-    "Les forces magnétiques.md",
-    "Conservation de la quantité de mouvement.md",
-    "Probabilité discrète.md",
-    "Statistique et Probabilité.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "University shortlist.loom",
