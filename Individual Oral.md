@@ -8,3 +8,5 @@ Created: 2023-11-06
 
 
 ### Non-Literary work extract
+![[image-20231106085911074.png]]
+
