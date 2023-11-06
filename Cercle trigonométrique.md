@@ -6,7 +6,7 @@ Created: 2023-10-02
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
-<!--SR:!2023-10-16,3,250-->
+<!--SR:!2023-12-09,33,250-->
 
 ---
 ### Angles remarquables
@@ -35,10 +35,10 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-10-14,1,230-->
+<!--SR:!2023-11-09,3,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
-<!--SR:!2023-10-14,1,230-->
+<!--SR:!2023-11-09,3,210-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
 - $\sin(x+2k\pi)=$::$\sin(x)$
