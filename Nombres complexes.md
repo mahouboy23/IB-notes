@@ -61,3 +61,4 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[Pasted image 20231002063707.png]]
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
+<!--SR:!2023-11-08,2,246-->
