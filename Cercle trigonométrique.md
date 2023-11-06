@@ -21,7 +21,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 - $\Large{\cos 90}=$::$0$
-<!--SR:!2023-10-14,1,230-->
+<!--SR:!2023-12-06,30,230-->
 
 ---
 ### Autour de $\pi$
@@ -48,7 +48,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2024-01-11,66,250-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
 - $\tan(-\theta)=$::$-\tan(\theta)$
-<!--SR:!2023-10-16,3,250-->
+<!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
