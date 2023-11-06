@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application.md",
+                "file": "Application de la conservation de P.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application de la conservation de P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application de la conservation de P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Application de la conservation de P.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application de la conservation de P.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,17 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
-    "Mesure d'incertitude.md",
     "Mécanique.md",
-    "Electricité et magnétisme.md",
+    "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
-    "Physique nucléaire, atomique et des particules.md",
-    "Physics AI.md",
-    "IB overview.md",
     "Application.md",
+    "Physics AI.md",
+    "Mesure d'incertitude.md",
+    "Electricité et magnétisme.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "IB overview.md",
     "Approches to non-literary text.md",
     "Definition.md",
     "Individual Oral.md",
