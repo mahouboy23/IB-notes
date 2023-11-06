@@ -67,3 +67,34 @@ Procedure:
 This experiment directly examines how viscosity affects laminar flow according to Poiseuille's Law. The controlled simulation setup fulfills all IA criteria while studying a core concept from the syllabus.
 
 Let me know if you need any part of the proposal explained further or if you would like an alternative suggested.
+
+### **Topic:** Comment la viscosité d'un fluide affecte-t-elle le débit laminaire à travers un tube ?
+
+En rapport avec le sous-thème 2.2 - Forces 
+
+*Dispositif expérimental* : Une simulation modélise l'écoulement laminaire à travers un tube de diamètre constant. Elle permet d'ajuster la viscosité du fluide et de mesurer le débit.
+
+*Variable indépendante Viscosité du fluide
+
+*Variables contrôlées* : Diamètre du tube, température (maintenue constante dans la simulation)
+
+*Variable dépendante : diamètre du tube, température (maintenue constante dans la simulation) Débit du fluide dans le tube
+
+Procédure :
+
+1. Installer le tube et le fluide à une température fixe dans le simulateur.
+    
+2. Augmenter systématiquement la viscosité du fluide
+    
+3. Mesurer le débit et le temps de passage d'un volume fixe.
+    
+4. Enregistrer la viscosité et le débit
+    
+5. Tracer le graphique de la viscosité en fonction du débit
+    
+6. Analyser la relation entre la résistance visqueuse et le débit laminaire
+    
+
+Cette expérience examine directement comment la viscosité affecte l'écoulement laminaire selon la loi de Poiseuille. La configuration de la simulation contrôlée répond à tous les critères de l'AI tout en permettant d'étudier un concept essentiel du programme d'études.
+
+Faites-moi savoir si vous avez besoin d'explications supplémentaires sur une partie de la proposition ou si vous souhaitez qu'une alternative soit suggérée.
