@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Approches to non-literary text.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Approches to non-literary text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Approches to non-literary text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral.md"
+                "file": "Approches to non-literary text.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Approches to non-literary text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,12 +288,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
     "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "Travaille d'une force.md",
     "Individual Oral.md",
     "Oral presentation.md",
-    "IB overview.md",
     "La loi de gravitation universelle de Newton.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "sl subjects/Physics.md",
@@ -314,7 +315,6 @@
     "Energie interne.md",
     "Application de la conservation de P.md",
     "Nouvelle expression de la deuxième loi de Newton.md",
-    "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
