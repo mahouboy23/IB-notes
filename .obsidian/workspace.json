@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Application.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Application.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "Mouvement circulaire uniforme et gravitation.md",
+    "Le Champ de gravitation.md",
+    "La loi de gravitation universelle de Newton.md",
+    "sl subjects/Physics.md",
     "Mécanique.md",
+    "Physics AI.md",
     "Application des loi de Newton.md",
     "Application de la conservation de P.md",
-    "sl subjects/Physics.md",
-    "Mouvement circulaire uniforme et gravitation.md",
     "Application.md",
-    "Physics AI.md",
     "Mesure d'incertitude.md",
     "Electricité et magnétisme.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -309,7 +311,6 @@
     "sl subjects/Anglais Literrature.md",
     "Travaille d'une force.md",
     "Oral presentation.md",
-    "La loi de gravitation universelle de Newton.md",
     "Commentaire d'economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
@@ -317,7 +318,6 @@
     "Chaleur massique, capacité calorifique.md",
     "Physique thermique.md",
     "Chaleur échanger lors d'un changement d'etat.md",
-    "Théorie moléculaire des solides, des liquides et des gaz.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "University shortlist.loom",
