@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Le Champ de gravitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New version EE.md",
+                "file": "Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New version EE.md",
+                "file": "Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New version EE.md"
+                "file": "Definition.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New version EE.md",
+                "file": "Definition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,26 +288,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b79ccce83e57007f",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "common core/EE.md",
-    "IB overview.md",
-    "Chaleur massique, capacité calorifique.md",
-    "University shortlist.loom",
     "Application.md",
-    "Mouvement circulaire uniforme et gravitation.md",
+    "Definition.md",
     "Le Champ de gravitation.md",
+    "Mouvement circulaire uniforme et gravitation.md",
     "La loi de gravitation universelle de Newton.md",
     "sl subjects/Physics.md",
-    "Mécanique.md",
+    "Electricité et magnétisme.md",
+    "IB overview.md",
     "Physics AI.md",
+    "New version EE.md",
+    "common core/EE.md",
+    "Chaleur massique, capacité calorifique.md",
+    "University shortlist.loom",
+    "Mécanique.md",
     "Application des loi de Newton.md",
     "Application de la conservation de P.md",
     "Mesure d'incertitude.md",
-    "Electricité et magnétisme.md",
     "Physique nucléaire, atomique et des particules.md",
     "Approches to non-literary text.md",
-    "Definition.md",
     "Individual Oral.md",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
@@ -318,7 +319,6 @@
     "Microéconomie.md",
     "sl subjects/Economie.md",
     "Définition de momentum.md",
-    "Physique thermique.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "assets/Les forces magnétiques/image-20231019120452559.png",
