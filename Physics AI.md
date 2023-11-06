@@ -37,3 +37,33 @@ Le modèle ne teste que l'effet du matériau et de l'épaisseur/dimension du toi
 
 -------
 
+### **Topic:** How does the viscosity of a fluid affect laminar flow rate through a tube?
+
+Relates to subtopic 2.2 - Forces 
+
+*Experimental Setup*: A simulation models laminar flow through a constant diameter tube. It allows adjustment of fluid viscosity and measurement of flow rate.
+
+*Independent Variable*: Viscosity of the fluid
+
+*Controlled Variables*: Tube diameter, temperature (kept constant in simulation)
+
+*Dependent Variable*: Flow rate of fluid through the tube
+
+Procedure:
+
+1. Set up tube and fluid at a fixed temperature in simulator
+    
+2. Systematically increase the viscosity of the fluid
+    
+3. Measure flow rate time for a fixed volume to pass through
+    
+4. Record viscosity and flow rate
+    
+5. Plot graph of viscosity vs flow rate
+    
+6. Analyze relationship between viscous resistance and rate of laminar flow
+    
+
+This experiment directly examines how viscosity affects laminar flow according to Poiseuille's Law. The controlled simulation setup fulfills all IA criteria while studying a core concept from the syllabus.
+
+Let me know if you need any part of the proposal explained further or if you would like an alternative suggested.
