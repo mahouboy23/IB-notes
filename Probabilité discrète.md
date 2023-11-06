@@ -31,7 +31,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - $P(0)$=:: 0
 - $P(A)+P(A')$=:: 1 
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
-<!--SR:!2023-10-16,3,270-->
+<!--SR:!2023-12-08,32,270-->
 - $P(A/B)$=:: $\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
 - 
 - ## Événements dépendants
