@@ -27,4 +27,4 @@ On conservation de la quantité de mouvement et de l'énergie cinétique **(voir
 On a conservation de la quantité de mouvement mais pas de l'énergie cinétique **(voir exo)**
 ##### Voir fusée
 
-## Complement $T_{2}$ (Etat de pesanteur (poids apparent))
+## Complement $T_{2}$ (Etat de pesanteur (poids apparent) dans le mouvement de chute libre et orbital)
