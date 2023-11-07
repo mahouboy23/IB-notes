@@ -16,11 +16,13 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
+<!--SR:!2023-11-10,3,264-->
 - $\Large{\sin 90}=$::$1$
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-11-10,3,264-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
+<!--SR:!2023-11-10,3,264-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 - $\Large{\cos 90}=$::$0$
 <!--SR:!2023-12-06,30,230-->
@@ -45,6 +47,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
 - $\sin(x+2k\pi)=$::$\sin(x)$
+<!--SR:!2023-11-10,3,264-->
 - $\tan(x+k\pi)=$::$\tan(x)$
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
@@ -57,4 +60,5 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
+<!--SR:!2023-11-08,1,224-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$

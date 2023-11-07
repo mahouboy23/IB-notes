@@ -5,6 +5,7 @@ Created: 2023-10-02
 
 ## Experience aléatoire événements  
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
+<!--SR:!2023-11-10,3,282-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-01-23,78,290-->
 On appelle événement :: toute partie de l'univers (sous-ensemble)
