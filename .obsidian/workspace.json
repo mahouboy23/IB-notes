@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distributions discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distributions discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distributions discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrète.md"
+                "file": "Distributions discrètes.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrète.md",
+                "file": "Distributions discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,6 +291,7 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Statistique et Probabilité.md",
+    "Probabilité discrète.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Exploration francais.md",
@@ -316,7 +317,6 @@
     "Mesure d'incertitude.md",
     "Physique nucléaire, atomique et des particules.md",
     "Approches to non-literary text.md",
-    "Individual Oral.md",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",

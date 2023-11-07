@@ -56,4 +56,4 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$>)
 
-$A\Delta B$ =: $(A \cap B') \cup (A' \cap B)$ 
+$A\Delta B$ (difference symetrique)=: $(A \cap B') \cup (A' \cap B)$ 
