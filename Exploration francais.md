@@ -11,3 +11,4 @@ _Page 9 extraite de Mademba, Khadi Fall_
 
 ### Analyse/commentaire
 
+L'extrait de ce text proviens de l'oeuvre de Khadi Fall, "Mademba". Khadi Fall 
