@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Probabilité discrète.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Probabilité discrète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Probabilité discrète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "Probabilité discrète.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Probabilité discrète.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,11 +290,13 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
+    "Statistique et Probabilité.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
     "Exploration francais.md",
+    "hl subjects/Français B.md",
     "Le Cid.md",
     "Mademba.md",
-    "IB overview.md",
     "Definition.md",
     "Travaille d'une force.md",
     "Mécanique.md",
@@ -317,8 +319,6 @@
     "Individual Oral.md",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
-    "sl subjects/Anglais Literrature.md",
-    "Oral presentation.md",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "assets/Les forces magnétiques/image-20231019120452559.png",
