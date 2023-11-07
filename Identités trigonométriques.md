@@ -6,6 +6,7 @@ Created: 2023-10-02
 ## Identité fondamentale
 - $\cos^{2}x+\sin^{2}x=$::$1$
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
+<!--SR:!2023-11-08,1,228-->
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
 <!--SR:!2023-12-10,34,250-->
