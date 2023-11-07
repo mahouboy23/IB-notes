@@ -11,4 +11,4 @@ _Page 9 extraite de Mademba, Khadi Fall_
 
 ### Analyse/commentaire
 
-L'extrait de ce text proviens de l'oeuvre de Khadi Fall, "Mademba". Khadi Fall 
+L'extrait de ce text proviens de l'oeuvre "Mademba". Khadi Fall l'auteur de cette oeuvre 
