@@ -11,4 +11,4 @@ _Page 9 extraite de Mademba, Khadi Fall_
 
 ### Analyse/commentaire
 
-L'extrait de ce text proviens de l'oeuvre "Mademba". Khadidjatou Fall l'auteur de cette oeuvre était née a Dakar d'où l'oeuvre est basée en 1948. Elle a grandi dans une grande famille musulmane et a étudier dans des université en France comme l'universite de Toulouse et l'universite de Strasbourg, c'est durant cette période qu'elle écriva "Mademba". "Mademba" est une oeuvre qui raconte l'histoire d'un jeune gracon
+L'extrait de ce text proviens de l'oeuvre "Mademba". Khadidjatou Fall l'auteur de cette oeuvre était née a Dakar d'où l'oeuvre est basée en 1948. Elle a grandi dans une grande famille musulmane et a étudier dans des université en France comme l'universite de Toulouse et l'universite de Strasbourg, c'est durant cette période qu'elle écriva "Mademba". "Mademba" est une oeuvre qui raconte l'histoire d'un jeune garcon de 
