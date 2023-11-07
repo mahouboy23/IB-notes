@@ -31,3 +31,4 @@ $$\LARGE{\frac{u_{1}}{1-r},|r|<1}$$
 $FV$=
 ?
 $$\LARGE{PV\times\left(1+ \frac{r}{100k}\right)^{kn}}$$
+<!--SR:!2023-11-08,1,230-->
