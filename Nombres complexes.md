@@ -5,6 +5,7 @@ Created: 2023-10-02
 
 # Nombres complexes
 $\sqrt{-1}$=::$i$
+<!--SR:!2023-11-08,1,226-->
 
 $$\LARGE{z=a+bi}$$
 - Re($z$) =:: $a$

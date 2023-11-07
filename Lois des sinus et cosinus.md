@@ -9,3 +9,4 @@ Created: 2023-10-02
 <!--SR:!2023-11-09,3,210-->
 
 - Air d'un triangle avec sinus=::$$\Large{\text{aire}=\frac{1}{2}bc\sin A}$$
+<!--SR:!2023-11-08,1,226-->
