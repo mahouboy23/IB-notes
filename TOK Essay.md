@@ -94,11 +94,56 @@ Guiding Ideas
  - Examples and esses ot
 
 
-“One of the deepest impulses in man is the impulse to record, to scratch a drawing on a tusk or keep a diary… The enduring value of the past is, one might say, the very basis of civilisation.”  
-**John Jay Chapman, American author (1862-1933)**
 
-"Art is not a matter of taste, but involves the very deepest feelings of human nature. It is a matter of depth. Art is not a matter of aesthetic likings, but of what one may call cognitive values. But in order to see these values, we must be taught to see through the eyes of others, to utilize their emotions and experiences. That is where art enters the picture. Art is not a matter of taste, but a matter of taste training."
-**art historian Ernst Gombrich:**
+## Introduction
+
+### Paragraph 1
+
+- Briefly state the prescribed title question and define key terms such as "evidence", "recent" and "strongest".
+- Provide a roadmap that you will explore this question in the natural sciences and history and discuss whether the most recent evidence is inevitably the strongest in these areas.
+
+## Body Part 1 - Natural Sciences
+
+### Paragraph 2
+
+- Claim: In the natural sciences, the most recent evidence is often assumed to be the strongest because it benefits from advanced technology and new discoveries that build on past research.
+- Example: Discuss how modern technology allows for more accurate data collection and analysis in fields like genetics and astronomy compared to the past.
+- Explain how this example supports the claim that recent evidence may be viewed as strongest in the natural sciences.
+
+### Paragraph 3
+
+- Counter-claim: However, the most established theories in the natural sciences were once challenged by new evidence that was later proven to be incorrect.
+- Example: Discuss Barbara McClintock's challenge to the established theory of genes and how her ideas were initially rejected despite being correct.
+- Explain how this example shows that the most recent evidence is not inevitably the strongest in the natural sciences.
+
+### Paragraph 4
+
+- Summarize the insights about whether recent evidence is strongest in the natural sciences based on the examples discussed. Reference could also be made to changing paradigms and theories over time.
+
+## Body Part 2 - History
+
+### Paragraph 5
+
+- Claim: In history, most recent evidence such as newly uncovered artifacts or documents is often viewed as providing the most accurate insights about the past.
+- Example: Discuss a specific example like a newly discovered papyrus that provides important historical evidence.
+- Explain how this supports the claim that recent evidence seems strongest in history.
+
+### Paragraph 6
+
+- Counter-claim: However, reinterpreting past evidence through different perspectives can challenge existing historical narratives.
+- Example: Discuss how historians have reinterpreted events like the fall of the Roman Empire through social or economic lenses rather than military explanations of the past.
+- Explain how this challenges the notion that recent evidence is inevitably the strongest in history.
+
+### Paragraph 7
+
+- Summarize insights about whether recent evidence is strongest in history based on examples discussed and how evidence can be reinterpreted.
+
+## Conclusion
+
+### Paragraph 8
+
+- Synthesize the major insights from both areas of knowledge discussed in relation to the prescribed title question. Consider which counter-arguments were most compelling.
+- Discuss the implications of when recent evidence should and should not be assumed the strongest based on the discussion. Consider different perspectives and limitations of the arguments.
 
 # TOK essay introduction: 
 "In the pursuit of knowledge, the newest is not always the truest," wisely cautioned Johann Wolfgang von Goethe. With these words as our guide, let's embark on a journey that takes us through the realms of the natural sciences and history, as we seek to answer a fundamental question: "Are we too quick to assume that the most recent evidence is inevitably the strongest?"
