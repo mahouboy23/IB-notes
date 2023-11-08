@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Mouvement harmonique simple.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Mouvement harmonique simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Mouvement harmonique simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscillation et Onde.md"
+                "file": "Mouvement harmonique simple.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Mouvement harmonique simple.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,8 +280,11 @@
   },
   "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
     "Oscillation et Onde.md",
+    "Mouvement harmonique simple.md",
+    "sl subjects/Physics.md",
+    "Mécanique.md",
+    "Mesure d'incertitude.md",
     "IB overview.md",
     "Application.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
@@ -307,9 +310,6 @@
     "hl subjects/Math AA.md",
     "Exploration francais.md",
     "hl subjects/Français B.md",
-    "Le Cid.md",
-    "Mademba.md",
-    "Definition.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
