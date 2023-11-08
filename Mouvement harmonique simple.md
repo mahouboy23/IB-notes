@@ -17,3 +17,5 @@ Un mouvement Oscillatoire qui s'effectue de par et d'autre d'une position d'equi
 - **L'amplitude ( $x_{0}$ ou $x_{max}$)** :: Représente le déplacement maximum d'un système oscillant par rapport a la position d'equilibre. 
 
 ## Condition d'un mouvement harmonique simple 
+
+Dans un mouvement harmonique simple l'acceleration est pro
