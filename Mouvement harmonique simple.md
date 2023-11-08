@@ -18,4 +18,4 @@ Un mouvement Oscillatoire qui s'effectue de par et d'autre d'une position d'equi
 
 ## Condition d'un mouvement harmonique simple 
 
-Dans un mouvement harmonique simple l'acceleration est pro
+Dans un mouvement harmonique simple l'acceleration est proportionnelle a l'oppose du déplacement donc : $a \hspace2mm \alpha \hspace2mm (-x)$ 
