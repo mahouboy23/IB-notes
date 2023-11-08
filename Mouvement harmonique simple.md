@@ -7,7 +7,7 @@ Created: 2023-11-08
 ?
 Un mouvement Oscillatoire qui s'effectue de par et d'autre d'une position d'equilibre.
 
-*Exemple:* Le pendule simple (masse fixée a un fil inextensible)
+*Exemple:* Le pendule simple (masse fixée a un fil inextensible) et un ressort
 
 
 ## Definition de grandeurs
