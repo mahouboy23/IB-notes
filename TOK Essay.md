@@ -145,6 +145,68 @@ Guiding Ideas
 - Synthesize the major insights from both areas of knowledge discussed in relation to the prescribed title question. Consider which counter-arguments were most compelling.
 - Discuss the implications of when recent evidence should and should not be assumed the strongest based on the discussion. Consider different perspectives and limitations of the arguments.
 
+
+Here is a proposed structure for the TOK essay on the title "Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and history":
+
+## Introduction
+
+Paragraph 1:
+
+- Introduce the essay title and note how it raises questions about the relationship between recency of evidence and strength of evidence.
+    
+- Define key terms like "evidence" and "strongest" evidence.
+    
+- Provide an overview of the areas of knowledge to be discussed (natural sciences and history) and the approach to be taken in the essay.
+    
+
+## Body
+
+Paragraph 2 (Natural Sciences Claim):
+
+- In the natural sciences, there can be a tendency to assume the most recent evidence is the strongest.
+    
+- Provide an example of when this assumption has proved faulty in the natural sciences.
+    
+- Explain how the example supports the claim.
+    
+
+Paragraph 3 (Natural Sciences Counterclaim):
+
+- However, the most recent evidence in the natural sciences often builds incrementally on prior knowledge.
+    
+- Provide an example of when the most recent natural science evidence did build on previous evidence.
+    
+- Explain how the example supports the counterclaim.
+    
+
+Paragraph 4 (History Claim):
+
+- In history, new evidence can lead to dramatic shifts in historical interpretations.
+    
+- Provide an example of new historical evidence leading to revised understandings.
+    
+- Explain how the example supports the claim.
+    
+
+Paragraph 5 (History Counterclaim):
+
+- However, new evidence in history may simply confirm previous historical accounts.
+    
+- Provide an example of corroborating evidence in history.
+    
+- Explain how the example supports the counterclaim.
+    
+
+## Conclusion
+
+Paragraph 6:
+
+- Synthesize the main insights about the title from the natural sciences and history exploration.
+    
+- Discuss implications and significance of these insights.
+    
+- Acknowledge limitations or other perspectives if applicable.
+
 # TOK essay introduction: 
 "In the pursuit of knowledge, the newest is not always the truest," wisely cautioned Johann Wolfgang von Goethe. With these words as our guide, let's embark on a journey that takes us through the realms of the natural sciences and history, as we seek to answer a fundamental question: "Are we too quick to assume that the most recent evidence is inevitably the strongest?"
 
