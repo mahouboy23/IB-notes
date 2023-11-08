@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,10 +288,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "common core/TOK.md",
     "TOK Essay.md",
+    "common core/TOK.md",
     "Travaille d'une force.md",
     "Physics AI.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
