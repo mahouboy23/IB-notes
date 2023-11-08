@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "common core/TOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +260,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 7.058782472052711,
+                  "scale": 0.8273559097575685,
                   "close": true
                 }
               }
@@ -287,17 +287,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "1ea2cb0a21f14309",
   "lastOpenFiles": [
     "common core/TOK.md",
-    "TOK Essay.md",
     "IB overview.md",
+    "Mouvement harmonique simple.md",
+    "TOK Essay.md",
     "Politique monétaire.md",
     "Macroéconomie.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
     "Physics AI.md",
     "Travaille d'une force.md",
-    "Mouvement harmonique simple.md",
     "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
