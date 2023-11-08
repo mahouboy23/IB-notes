@@ -94,7 +94,7 @@ Guiding Ideas
  - Examples and esses ot
 
 
-
+structure you made
 ## Introduction
 
 ### Paragraph 1
@@ -146,8 +146,8 @@ Guiding Ideas
 - Discuss the implications of when recent evidence should and should not be assumed the strongest based on the discussion. Consider different perspectives and limitations of the arguments.
 
 
-Here is a proposed structure for the TOK essay on the title "Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and history":
 
+Structure i made
 ## Introduction
 
 Paragraph 1:
@@ -167,7 +167,7 @@ Paragraph 2 (Natural Sciences Claim):
     
 - Provide an example of when this assumption has proved faulty in the natural sciences.
     
-- Explain how the example supports the claim.
+- Explain how the example supports the claim and relate it to the essay title.
     
 
 Paragraph 3 (Natural Sciences Counterclaim):
@@ -176,7 +176,7 @@ Paragraph 3 (Natural Sciences Counterclaim):
     
 - Provide an example of when the most recent natural science evidence did build on previous evidence.
     
-- Explain how the example supports the counterclaim.
+- Explain how the example supports the counterclaim and relate it to the essay title.
     
 
 Paragraph 4 (History Claim):
@@ -185,7 +185,7 @@ Paragraph 4 (History Claim):
     
 - Provide an example of new historical evidence leading to revised understandings.
     
-- Explain how the example supports the claim.
+- Explain how the example supports the claim and relate it to the essay title.
     
 
 Paragraph 5 (History Counterclaim):
@@ -194,7 +194,7 @@ Paragraph 5 (History Counterclaim):
     
 - Provide an example of corroborating evidence in history.
     
-- Explain how the example supports the counterclaim.
+- Explain how the example supports the counterclaim and relate it to the essay title.
     
 
 ## Conclusion
