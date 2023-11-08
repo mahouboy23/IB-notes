@@ -6,6 +6,6 @@ Created: 2023-10-13
 - Notation:: $X\sim B(n,P)$
 - $P(X=x)$=::${\binom n x}p^{x}(1-p)^{x}$      
 - $E(x)$=::$np$
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-10,2,230-->
 - $\text{var}(x)$=::$E(x)(1-p)=np(1-p)$ 
 - $\rho$ =:: $\sqrt{var(x)} =\sqrt{np(1-p)}$ 

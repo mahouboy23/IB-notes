@@ -61,5 +61,5 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
-<!--SR:!2023-11-08,1,224-->
+<!--SR:!2023-11-10,2,224-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
