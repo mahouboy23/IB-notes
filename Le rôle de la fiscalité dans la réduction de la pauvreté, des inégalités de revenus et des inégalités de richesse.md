@@ -15,4 +15,6 @@ Il existe trois systèmes principaux d'imposition des revenus :
 ## Impôts directs
  1. Impôt sur le revenu
  2. Impôt sur les société
- 3. 
+ 3. Impôt sur la fortune
+
+## 
