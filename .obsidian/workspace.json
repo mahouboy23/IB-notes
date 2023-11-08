@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travaille d'une force.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,11 +288,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "TOK Essay draft.md",
     "TOK Essay.md",
-    "common core/TOK.md",
     "Travaille d'une force.md",
+    "common core/TOK.md",
     "Physics AI.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "IB overview.md",
@@ -325,7 +326,6 @@
     "Déflation, désinflation et ses coûts.md",
     "assets/Déflation, désinflation et ses coûts/Pasted image 20231108093406.png",
     "assets/Déflation, désinflation et ses coûts",
-    "Inflation et ses causes.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
