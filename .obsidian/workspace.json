@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,10 +287,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "TOK Essay draft.md",
     "TOK Essay.md",
+    "TOK Essay draft.md",
     "Travaille d'une force.md",
     "common core/TOK.md",
     "Physics AI.md",
