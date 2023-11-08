@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Déflation, désinflation et ses coûts.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Déflation, désinflation et ses coûts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Déflation, désinflation et ses coûts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "Déflation, désinflation et ses coûts.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Déflation, désinflation et ses coûts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,6 +280,8 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Macroéconomie.md",
+    "Déflation, désinflation et ses coûts.md",
+    "Inflation et ses causes.md",
     "Politique monétaire.md",
     "IB overview.md",
     "sl subjects/Economie.md",
@@ -303,8 +305,6 @@
     "Electricité et magnétisme.md",
     "Physics AI.md",
     "New version EE.md",
-    "common core/EE.md",
-    "Chaleur massique, capacité calorifique.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
