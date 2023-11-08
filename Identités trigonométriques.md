@@ -27,5 +27,5 @@ Pour $\cos(2a)$, les 3 formules sont:
 ---
 - $\sin(2a)=$::$2\sin a\cos a$
 - $\tan(2a)=$::$\frac{2\tan a}{1-\tan^{2}a}$
-<!--SR:!2023-11-08,1,228-->
+<!--SR:!2023-11-10,2,228-->
 
