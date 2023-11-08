@@ -31,6 +31,10 @@ Basic concept en Economie:
 3. [[Signification de la pauvreté et comment la mesurer]] 
 4. [[Les inégalités économiques et de pauvreté]] 
 
+## Parte 5: Gestion de la demande (politiques axées sur la demande) – politique monétaire
+1. [[Politique monétaire]] 
+
+
 
 [[TD economie]] 
 

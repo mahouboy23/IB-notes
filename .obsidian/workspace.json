@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e0d2dbbf23a4db5",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "University shortlist.loom"
-              }
-            }
-          },
-          {
             "id": "2f9452336f18a028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Politique monétaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Politique monétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribution binomiale.md"
+                "file": "Politique monétaire.md"
               }
             }
           },
@@ -238,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Politique monétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +264,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
@@ -284,17 +272,22 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "notion-like-tables:Create new loom": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Politique monétaire.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Distribution binomiale.md",
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
     "Probabilité discrète.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Exploration francais.md",
     "hl subjects/Français B.md",
     "Le Cid.md",
@@ -313,10 +306,6 @@
     "common core/EE.md",
     "Chaleur massique, capacité calorifique.md",
     "University shortlist.loom",
-    "Application des loi de Newton.md",
-    "Application de la conservation de P.md",
-    "Mesure d'incertitude.md",
-    "Physique nucléaire, atomique et des particules.md",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw/Pasted Image 20231021115153_148.png",
