@@ -33,6 +33,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - $P(U)$=:: 1 
 <!--SR:!2023-12-12,36,270-->
 - $P(0)$=:: 0
+<!--SR:!2023-11-11,3,283-->
 - $P(A)+P(A')$=:: 1 
 <!--SR:!2023-11-10,3,262-->
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
@@ -53,6 +54,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-11-11,3,262-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
+<!--SR:!2023-11-09,1,243-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$>)
 
