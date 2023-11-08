@@ -13,4 +13,4 @@ Created: 2023-10-13
 - $u$ peut être écrit:: $E(x)$
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-11,3,250-->
