@@ -9,9 +9,12 @@ Deux méthodes qui tentent de mesurer les inégalités économiques:: la courbe 
 
 Courbe de Lorenz (graphe et tableau):  
 ?  
-![image-20231013082051866.png]
-![image-20231013082101896.png]
+![[image-20231108093816187.png]]
+![[Pasted image 20231108093833.png]]
+
+
 
 Calcule du coefficient de Gini (graphe) avec formule:  
 ?
-![[Pasted image 20231019090244.png]]
+![[Pasted image 20231019090244.png]]Pour calculer le coefficient de Gini, il faut utiliser la formule suivante :
+$$\text{Gini coefficient}=\frac{A}{A+B}$$

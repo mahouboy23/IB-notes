@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesurer les inégalités économiques.md",
+                "file": "Signification de la pauvreté et comment la mesurer.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesurer les inégalités économiques.md",
+                "file": "Signification de la pauvreté et comment la mesurer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesurer les inégalités économiques.md",
+                "file": "Signification de la pauvreté et comment la mesurer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mesurer les inégalités économiques.md"
+                "file": "Signification de la pauvreté et comment la mesurer.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mesurer les inégalités économiques.md",
+                "file": "Signification de la pauvreté et comment la mesurer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6016476942203861,
+                  "scale": 7.058782472052711,
                   "close": true
                 }
               }
@@ -280,6 +280,9 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Macroéconomie.md",
+    "Mesurer les inégalités économiques.md",
+    "assets/Mesurer les inégalités économiques/Pasted image 20231108093833.png",
+    "assets/Mesurer les inégalités économiques/image-20231108093816187.png",
     "La relation entre égalité et équité.md",
     "Coûts relatifs du chômage par rapport à l'inflation.md",
     "Déflation, désinflation et ses coûts.md",
@@ -306,7 +309,6 @@
     "Le Champ de gravitation.md",
     "Application.md",
     "La loi de gravitation universelle de Newton.md",
-    "Electricité et magnétisme.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
@@ -319,8 +321,6 @@
     "assets/Les forces magnétiques",
     "assets/Mesurer les inégalités économiques/Pasted image 20231019090244.png",
     "assets/Mesurer les inégalités économiques",
-    "assets/Inflation et ses causes/Pasted image 20231019085718.png",
-    "assets/Inflation et ses causes/Pasted image 20231019085628.png",
     "assets/Inflation et ses causes",
     "assets/L'equilibre a long terme",
     "assets/L'équilibre a court terme",

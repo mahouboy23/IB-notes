@@ -12,7 +12,6 @@ Les pays qui ne souffrent pas de pauvreté absolue devront définir un niveau de
 ## Mesurer la pauvreté
 
 Les deux types d'indicateurs sont:: les indicateurs uniques et composites.
-
 ### Indicateurs uniques
 
 Ils sont (5):  
@@ -21,8 +20,7 @@ Ils sont (5):
 - [[Taux de natalité et des taux de dépendance élevés]]
 - [[Dépendance à l’égard du secteur primaire]]
 - [[Grande économie informelle]]
-- Normes de revenu minimum
-
+- [[Normes de revenu minimum]]
 ### Indicateurs composites
 ?  
 Un indicateur composite fait référence à un certain nombre d’indicateurs uniques compilés pour former un indice permettant de mesurer des concepts multidimensionnels tels que la pauvreté.
