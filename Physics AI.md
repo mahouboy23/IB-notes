@@ -75,7 +75,7 @@ En rapport avec le sous-thème 2.2 - Forces
 
 *Variables contrôlées* : Diamètre du tube, température (maintenue constante dans la simulation)
 
-*Variable dépendante : diamètre du tube, température (maintenue constante dans la simulation) Débit du fluide dans le tube
+*Variable dépendante* : diamètre du tube, température (maintenue constante dans la simulation) Débit du fluide dans le tube
 
 Procédure :
 

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New version EE.md",
+                "file": "Physics AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -280,15 +280,18 @@
   },
   "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "Travaille d'une force.md",
+    "Physics AI.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "New version EE.md",
+    "Mouvement harmonique simple.md",
     "assets/Mouvement harmonique simple/image-20231108104514148.png",
     "assets/Mouvement harmonique simple/image-20231108104423238.png",
     "assets/Mouvement harmonique simple",
     "Oscillation et Onde.md",
-    "Mouvement harmonique simple.md",
-    "sl subjects/Physics.md",
     "Mécanique.md",
     "Mesure d'incertitude.md",
-    "IB overview.md",
     "Application.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
     "Macroéconomie.md",
@@ -310,8 +313,6 @@
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
     "Probabilité discrète.md",
-    "hl subjects/Math AA.md",
-    "Exploration francais.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
@@ -320,7 +321,6 @@
     "assets/Les forces magnétiques/image-20231019120452559.png",
     "assets/Les forces magnétiques/image-20231019120441534.png",
     "assets/Application de la conservation de P/image-20231019112008613.png",
-    "assets/Les forces magnétiques/image-20231019111840540.png",
     "assets/Les forces magnétiques",
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes",
