@@ -47,7 +47,7 @@
 [[TOK WORK 4]] 
 [[TOK WORK 5]] 
 
-I also made a structure for my tok essay so i want you to take aspect from both to create a final structure using the st of both the structures.
+I also made a structure for my TOK essay so i want you to take aspect from both to create a final structure using the strength of both the structures.
 
 structure you made
 ## Introduction
