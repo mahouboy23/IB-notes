@@ -11,3 +11,5 @@ La déflation est la diminution du niveau moyen des prix au fil du temps
 
 ## Causes de la déflation
 
+1. la déflation provoquée par une amélioration de la productivité :
+![[Pasted image 20231108093406.png]]

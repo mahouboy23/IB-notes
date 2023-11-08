@@ -25,6 +25,7 @@ Basic concept en Economie:
 4. [[L'inflation et ses causes]] 
 5. [[Inflation et ses causes]] 
 6. [[Déflation, désinflation et ses coûts]] 
+7. [[Coûts relatifs du chômage par rapport à l'inflation]] 
 
 ## Parte 4: ÉCONOMIE DES INÉGALITÉS ET DE LA PAUVRETÉ
 1. [[La relation entre égalité et équité]] 
