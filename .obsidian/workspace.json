@@ -54,6 +54,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4773a71bbcffad5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "03cf071d1b8f0116",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -281,11 +299,12 @@
   "active": "2cc4355007514653",
   "lastOpenFiles": [
     "Travaille d'une force.md",
+    "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
+    "Mouvement harmonique simple.md",
     "Physics AI.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "New version EE.md",
-    "Mouvement harmonique simple.md",
     "assets/Mouvement harmonique simple/image-20231108104514148.png",
     "assets/Mouvement harmonique simple/image-20231108104423238.png",
     "assets/Mouvement harmonique simple",
@@ -312,7 +331,6 @@
     "Distribution binomiale.md",
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
-    "Probabilité discrète.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
