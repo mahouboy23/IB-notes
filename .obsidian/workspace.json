@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/TOK.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,23 +287,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "TOK Essay.md",
     "common core/TOK.md",
+    "TOK Essay.md",
     "Travaille d'une force.md",
+    "Physics AI.md",
+    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "IB overview.md",
     "Mouvement harmonique simple.md",
     "Politique monétaire.md",
     "Macroéconomie.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
-    "Physics AI.md",
     "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
     "assets/Mouvement harmonique simple/image-20231108112456958.png",
     "Untitled 7.md",
-    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "sl subjects/Physics.md",
     "New version EE.md",
     "assets/Mouvement harmonique simple/image-20231108104514148.png",
