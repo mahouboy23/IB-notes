@@ -26,6 +26,7 @@ $$\LARGE{u_{1}\frac{r^{n}-1}{r-1}=u_{1}\frac{1-r^{n}}{1-r}}$$
 $S_{\infty}$=
 ?
 $$\LARGE{\frac{u_{1}}{1-r},|r|<1}$$
+<!--SR:!2023-11-10,2,246-->
 
 ## Intérêt composé
 $FV$=
