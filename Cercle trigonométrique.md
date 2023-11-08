@@ -18,12 +18,15 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-11-10,3,264-->
 - $\Large{\sin 90}=$::$1$
+<!--SR:!2023-11-11,3,264-->
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-11-10,3,264-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
+<!--SR:!2023-11-11,3,264-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-11-10,3,264-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
+<!--SR:!2023-11-11,3,264-->
 - $\Large{\cos 90}=$::$0$
 <!--SR:!2023-12-06,30,230-->
 
@@ -46,6 +49,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-09,3,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
+<!--SR:!2023-11-09,1,224-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
 <!--SR:!2023-11-09,3,210-->
 ## Périodicité
