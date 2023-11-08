@@ -32,4 +32,6 @@ Dans un mouvement harmonique simple l'acceleration est proportionnelle a l'oppos
 
 ## Changement d'énergie au cours d'un mouvement harmonique simple (MHS)
 
-### Changement avec la position
+### Changement avec la position 
+![[image-20231108112456958.png]]
+

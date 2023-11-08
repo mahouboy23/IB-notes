@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement harmonique simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement harmonique simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Mouvement harmonique simple.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Mouvement harmonique simple.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,10 +288,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b79ccce83e57007f",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
-    "Untitled 7.md",
+    "assets/Mouvement harmonique simple/image-20231108112456958.png",
     "Physics AI.md",
+    "Untitled 7.md",
     "Mouvement harmonique simple.md",
     "Travaille d'une force.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
@@ -322,7 +323,6 @@
     "Inflation et ses causes.md",
     "Politique monétaire.md",
     "sl subjects/Economie.md",
-    "Distribution binomiale.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
