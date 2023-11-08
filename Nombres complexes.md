@@ -57,6 +57,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
+<!--SR:!2023-11-10,2,246-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?

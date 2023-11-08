@@ -17,6 +17,7 @@ Created: 2023-10-02
 <!--SR:!2023-12-04,28,230-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
 - $\tan(a-b)=$::$\frac{\tan a-\tan b}{1+\tan a\tan b}$
+<!--SR:!2023-11-09,1,225-->
 ## Formules de multiplication
 Pour $\cos(2a)$, les 3 formules sont:
 ?
