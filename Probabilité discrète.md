@@ -50,7 +50,7 @@ Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et
 <!--SR:!2024-01-21,76,290-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
-<!--SR:!2023-11-08,1,242-->
+<!--SR:!2023-11-11,3,262-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 
