@@ -56,25 +56,17 @@
             }
           },
           {
-            "id": "4773a71bbcffad5b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "03cf071d1b8f0116",
+            "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Physics AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Physics AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement harmonique simple.md"
+                "file": "Physics AI.md"
               }
             }
           },
@@ -246,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Physics AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,12 +288,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "b79ccce83e57007f",
   "lastOpenFiles": [
-    "Travaille d'une force.md",
-    "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
-    "Mouvement harmonique simple.md",
+    "Untitled 7.md",
     "Physics AI.md",
+    "Mouvement harmonique simple.md",
+    "Travaille d'une force.md",
+    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "New version EE.md",
@@ -329,8 +323,6 @@
     "Politique monétaire.md",
     "sl subjects/Economie.md",
     "Distribution binomiale.md",
-    "Statistique et Probabilité.md",
-    "Distributions discrètes.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231106085911074.png",
     "assets/Individual Oral",
