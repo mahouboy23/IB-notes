@@ -47,5 +47,5 @@
 [[TOK WORK 4]] 
 [[TOK WORK 5]] 
 
-I want you to create a structure for my Tok essay based on my prescribed title : "Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge." and the two areas of knowledge are natural sciences that was given to us
+I want you to create a structure for my Tok essay based on my prescribed title : "Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge." and the two areas of knowledge are natural sciences that was given to us and history. Use the 
 
