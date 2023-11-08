@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Politique monétaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Politique monétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Politique monétaire.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Politique monétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,6 +289,7 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Macroéconomie.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
     "Physics AI.md",
     "Travaille d'une force.md",
@@ -309,7 +310,6 @@
     "Mécanique.md",
     "Mesure d'incertitude.md",
     "Application.md",
-    "Macroéconomie.md",
     "Le rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
     "Les inégalités économiques et de pauvreté.md",
     "Signification de la pauvreté et comment la mesurer.md",
