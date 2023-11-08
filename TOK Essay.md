@@ -94,118 +94,56 @@ Guiding Ideas
  - Examples and esses ot
 
 
-structure you made
-## Introduction
-
-### Paragraph 1
-
-- Briefly state the prescribed title question and define key terms such as "evidence", "recent" and "strongest".
-- Provide a roadmap that you will explore this question in the natural sciences and history and discuss whether the most recent evidence is inevitably the strongest in these areas.
-
-## Body Part 1 - Natural Sciences
-
-### Paragraph 2
-
-- Claim: In the natural sciences, the most recent evidence is often assumed to be the strongest because it benefits from advanced technology and new discoveries that build on past research.
-- Example: Discuss how modern technology allows for more accurate data collection and analysis in fields like genetics and astronomy compared to the past.
-- Explain how this example supports the claim that recent evidence may be viewed as strongest in the natural sciences.
-
-### Paragraph 3
-
-- Counter-claim: However, the most established theories in the natural sciences were once challenged by new evidence that was later proven to be incorrect.
-- Example: Discuss Barbara McClintock's challenge to the established theory of genes and how her ideas were initially rejected despite being correct.
-- Explain how this example shows that the most recent evidence is not inevitably the strongest in the natural sciences.
-
-### Paragraph 4
-
-- Summarize the insights about whether recent evidence is strongest in the natural sciences based on the examples discussed. Reference could also be made to changing paradigms and theories over time.
-
-## Body Part 2 - History
-
-### Paragraph 5
-
-- Claim: In history, most recent evidence such as newly uncovered artifacts or documents is often viewed as providing the most accurate insights about the past.
-- Example: Discuss a specific example like a newly discovered papyrus that provides important historical evidence.
-- Explain how this supports the claim that recent evidence seems strongest in history.
-
-### Paragraph 6
-
-- Counter-claim: However, reinterpreting past evidence through different perspectives can challenge existing historical narratives.
-- Example: Discuss how historians have reinterpreted events like the fall of the Roman Empire through social or economic lenses rather than military explanations of the past.
-- Explain how this challenges the notion that recent evidence is inevitably the strongest in history.
-
-### Paragraph 7
-
-- Summarize insights about whether recent evidence is strongest in history based on examples discussed and how evidence can be reinterpreted.
-
-## Conclusion
-
-### Paragraph 8
-
-- Synthesize the major insights from both areas of knowledge discussed in relation to the prescribed title question. Consider which counter-arguments were most compelling.
-- Discuss the implications of when recent evidence should and should not be assumed the strongest based on the discussion. Consider different perspectives and limitations of the arguments.
-
-
-
-Structure i made
 ## Introduction
 
 Paragraph 1:
 
-- Introduce the essay title and note how it raises questions about the relationship between recency of evidence and strength of evidence.
-    
-- Define key terms like "evidence" and "strongest" evidence.
-    
-- Provide an overview of the areas of knowledge to be discussed (natural sciences and history) and the approach to be taken in the essay.
-    
+- Introduce the essay title and briefly define key terms such as "evidence", "recent", and "strongest". 
+- Provide an overview of the two areas of knowledge to be discussed (natural sciences and history) and the overall approach.  
 
-## Body
+## Body Part 1 - Natural Sciences
 
-Paragraph 2 (Natural Sciences Claim):
+Paragraph 2 (Claim):
 
-- In the natural sciences, there can be a tendency to assume the most recent evidence is the strongest.
-    
-- Provide an example of when this assumption has proved faulty in the natural sciences.
-    
-- Explain how the example supports the claim and relate it to the essay title.
-    
+- In the natural sciences, there can be a tendency to assume the most recent evidence is the strongest due to advantages like advanced technology.
+- Example: Discuss how modern technology allows more accurate data collection and analysis compared to the past in fields like genetics.
+- Explain how the example relates to the claim and title question.
 
-Paragraph 3 (Natural Sciences Counterclaim):
+Paragraph 3 (Counterclaim):
 
-- However, the most recent evidence in the natural sciences often builds incrementally on prior knowledge.
-    
-- Provide an example of when the most recent natural science evidence did build on previous evidence.
-    
-- Explain how the example supports the counterclaim and relate it to the essay title.
-    
+- However, the most established theories in natural sciences were once challenged by new evidence later proven incorrect.
+- Example: Discuss Barbara McClintock's initial rejection and later verification in genetics.
+- Explain how the example shows recent evidence is not inevitably the strongest.
 
-Paragraph 4 (History Claim):
+Paragraph 4 (Summary):
 
-- In history, new evidence can lead to dramatic shifts in historical interpretations.
-    
-- Provide an example of new historical evidence leading to revised understandings.
-    
-- Explain how the example supports the claim and relate it to the essay title.
-    
+- Summarize insights from natural sciences discussion on whether recent evidence is strongest, with reference to changing paradigms.
 
-Paragraph 5 (History Counterclaim):
+## Body Part 2 - History
 
-- However, new evidence in history may simply confirm previous historical accounts.
-    
-- Provide an example of corroborating evidence in history.
-    
-- Explain how the example supports the counterclaim and relate it to the essay title.
-    
+Paragraph 5 (Claim):
+
+- In history, new artifacts/documents are often viewed as providing most accurate insights into the past.
+- Example: Discuss a newly discovered historical artifact providing evidence.
+- Explain how example supports the claim for strength of recent history evidence. 
+
+Paragraph 6 (Counterclaim):
+
+- However, reinterpreting past history evidence through different lenses can challenge narratives.
+- Example: Discuss historians reinterpreting the fall of Rome through social lenses.
+- Explain how this challenges notion of recent evidence inevitably being strongest.
+
+Paragraph 7 (Summary):
+
+- Summarize insights from history discussion on whether recent evidence is strongest, with reference to reinterpretation over time.
 
 ## Conclusion
 
-Paragraph 6:
+Paragraph 8:
 
-- Synthesize the main insights about the title from the natural sciences and history exploration.
-    
-- Discuss implications and significance of these insights.
-    
-- Acknowledge limitations or other perspectives if applicable.
+- Synthesize major insights from both AOKs in relation to the title question.
+- Discuss implications of when recent evidence should/should not be assumed strongest.
+- Acknowledge limitations and consider other perspectives.
 
 # TOK essay introduction: 
 "In the pursuit of knowledge, the newest is not always the truest," wisely cautioned Johann Wolfgang von Goethe. With these words as our guide, let's embark on a journey that takes us through the realms of the natural sciences and history, as we seek to answer a fundamental question: "Are we too quick to assume that the most recent evidence is inevitably the strongest?"
