@@ -32,6 +32,7 @@ Basic concept en Economie:
 2. [[Mesurer les inégalités économiques]]
 3. [[Signification de la pauvreté et comment la mesurer]] 
 4. [[Les inégalités économiques et de pauvreté]] 
+5. [[Le rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse]] 
 
 ## Parte 5: Gestion de la demande (politiques axées sur la demande) – politique monétaire
 1. [[Politique monétaire]] 
