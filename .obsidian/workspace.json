@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "common core/TOK.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "common core/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,17 +288,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ea2cb0a21f14309",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "TOK Essay.md",
     "common core/TOK.md",
+    "Travaille d'une force.md",
     "IB overview.md",
     "Mouvement harmonique simple.md",
-    "TOK Essay.md",
     "Politique monétaire.md",
     "Macroéconomie.md",
     "D’autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
     "Physics AI.md",
-    "Travaille d'une force.md",
     "Excalidraw/Drawing 2023-11-08 10.59.55.excalidraw.md",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
