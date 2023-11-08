@@ -18,14 +18,16 @@
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
-    "showFileNameInFileLink": true,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "singlelineCardSeparator": "::",
-    "singlelineReversedCardSeparator": ":::",
+    "convertCurlyBracketsToClozes": false,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
       "#review",
       "#math",
@@ -43,13 +45,18 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.1,
     "maximumInterval": 100,
     "maxLinkFactor": 1,
-    "showDebugMessages": false
+    "showDebugMessages": false,
+    "showFileNameInFileLink": true,
+    "singlelineCardSeparator": "::",
+    "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-10-03",
-  "buryList": []
+  "buryDate": "2023-11-08",
+  "buryList": [],
+  "historyDeck": null
 }

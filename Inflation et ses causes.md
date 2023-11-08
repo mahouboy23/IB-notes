@@ -4,9 +4,6 @@ tags:
   - economie
 ---
 Created: 2023-09-21
-
-  
-
 ## Définition
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.

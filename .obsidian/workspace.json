@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Inflation et ses causes.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Inflation et ses causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politique monétaire.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -197,14 +197,6 @@
             }
           },
           {
-            "id": "a80d3dde672a47db",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "5e5931746b22ea33",
             "type": "leaf",
             "state": {
@@ -213,9 +205,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9f45c09cf629d01d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "d13a06cb4474056d",
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,24 +265,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "omnisearch:Omnisearch": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "Macroéconomie.md",
     "Politique monétaire.md",
-    "sl subjects/Economie.md",
     "IB overview.md",
+    "sl subjects/Economie.md",
     "Distribution binomiale.md",
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
