@@ -14,6 +14,4 @@ Created: 2023-11-06
 ## Global issue: **The consequences of war**
 
 ### Introduction
-What is the global issue and how have you narrowed it down
-
-what global issue is linked to holocaust
+What is the global issue and how have you narrowed it down?
