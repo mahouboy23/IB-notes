@@ -43,7 +43,7 @@ Basic concept en Economie:
 [[TD economie]] 
 
 ![[Effet inflation sur chômage]]
-
+ Une question ta dis quoi pour appréciez les inégalités au Nigeria
 
 
 
