@@ -15,3 +15,4 @@ Created: 2023-11-06
 
 ### Introduction
 What is the global issue and how have you narrowed it down?
+The global issue that is chose was the consequences of war. I narrowed it 
