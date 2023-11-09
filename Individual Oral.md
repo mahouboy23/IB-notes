@@ -13,3 +13,5 @@ Created: 2023-11-06
 ![[image-20231106085911074.png]]
  **Uncle Sam (U.S.A)**
 **_“I Want You for U.S. Army”_**
+
+## Global issue
