@@ -179,4 +179,4 @@ Analyzing texts: 5 keys considerations ?
 1. [[Approches to non-literary text]] 
 
 ### 1. [[SPECS]] 
-2. [[Individual Oral]] 
+# 2. [[Individual Oral]] 
