@@ -12,6 +12,7 @@ Created: 2023-10-13
 - Moyenne peut être aussi appelé:: Espérance.
 <!--SR:!2023-11-11,3,268-->
 - $u$ peut être écrit:: $E(x)$
+<!--SR:!2023-11-13,3,250-->
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 <!--SR:!2023-11-11,3,268-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$

@@ -5,7 +5,7 @@ Created: 2023-10-02
 
 ## Experience aléatoire événements  
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
-<!--SR:!2023-11-10,3,282-->
+<!--SR:!2023-11-22,12,302-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-01-23,78,290-->
 On appelle événement :: toute partie de l'univers (sous-ensemble)
@@ -16,7 +16,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - Evénement composé :: a plusieurs issues
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 - Evénement contraire a A noté A' :: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-11-10,3,262-->
+<!--SR:!2023-11-20,10,282-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-12-11,35,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue

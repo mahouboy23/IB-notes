@@ -4,7 +4,7 @@ tags : mod Math
 Created: 2023-10-02
 # Logarithmes
 - Si $a^{x}=b$ alors $\log_{a}(b)=$:: $x$
-<!--SR:!2023-11-10,3,268-->
+<!--SR:!2023-11-22,12,288-->
 
 Lois des logarithmes (addition, soustraction, multiplication)
 ?

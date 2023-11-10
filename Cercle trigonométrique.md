@@ -16,7 +16,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2023-11-10,3,264-->
+<!--SR:!2023-11-21,11,284-->
 - $\Large{\sin 90}=$::$1$
 <!--SR:!2023-11-11,3,264-->
 - $\Large{\cos 0}=$::$\Large{1}$
@@ -41,21 +41,21 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-11,1,204-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-10,2,246-->
+<!--SR:!2023-11-15,5,246-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-11,1,206-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-11-09,3,210-->
+<!--SR:!2023-11-17,7,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-09,1,224-->
+<!--SR:!2023-11-11,1,204-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
 - $\sin(x+2k\pi)=$::$\sin(x)$
-<!--SR:!2023-11-10,3,264-->
+<!--SR:!2023-11-20,10,264-->
 - $\tan(x+k\pi)=$::$\tan(x)$
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
@@ -67,7 +67,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
-<!--SR:!2023-11-10,2,246-->
+<!--SR:!2023-11-16,6,266-->
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2023-11-15,5,244-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
