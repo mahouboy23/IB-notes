@@ -15,6 +15,6 @@ $$ax^2+(b-m)x+c-p=0$$
 ### Pour $ax^2+(b-m)x+c-p=0$
 - Si $\Delta>0$,:: alors l'equation a deux solutions réelles et la droite et sécante par rapport a la parabole
 - Si $\Delta=0$,:: alors l'equation a une solution réelle et la droite et tangente par rapport a la parabole
-<!--SR:!2023-11-09,3,210-->
+<!--SR:!2023-11-16,6,210-->
 - Si $\Delta<0$,:: alors l'equation a aucune solution réelle et la droite et externe par rapport a la parabole
 <!--SR:!2023-11-09,2,246-->
