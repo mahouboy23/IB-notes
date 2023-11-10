@@ -34,8 +34,8 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 <!--SR:!2023-12-12,36,270-->
 - $P(0)$=:: 0
 <!--SR:!2023-11-11,3,283-->
-- $P(A)+P(A')$=:: 1 
-<!--SR:!2023-11-10,3,262-->
+- $P(A)+P(A')$=:: 1
+<!--SR:!2023-11-17,7,262-->
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-12-08,32,270-->
 - $P(A/B)$=:: $\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
