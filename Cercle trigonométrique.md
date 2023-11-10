@@ -12,7 +12,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-11-10,3,264-->
+<!--SR:!2023-11-21,11,284-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
