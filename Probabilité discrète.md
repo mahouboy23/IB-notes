@@ -20,14 +20,14 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-12-11,35,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2023-11-10,3,262-->
+<!--SR:!2023-11-21,11,282-->
 - Evénement certain :: toutes les issues
 - Evénement impossible :: aucune issue
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a :: équiprobabilité ou équi-répartition.
-<!--SR:!2023-11-10,3,282-->
+<!--SR:!2023-11-22,12,302-->
 
 ### Propriété
 - $P(U)$=:: 1 
@@ -44,7 +44,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
-<!--SR:!2023-11-10,3,262-->
+<!--SR:!2023-11-19,9,282-->
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
