@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaille d'une force.md",
+                "file": "Exploration francais.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New version EE.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New version EE.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New version EE.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New version EE.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,11 +300,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "2cc4355007514653",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "Le Cid.md",
+    "Mademba.md",
+    "IB overview.md",
+    "Travaille d'une force.md",
+    "New version EE.md",
+    "common core/EE.md",
     "EE NEW.md",
     "Mouvement harmonique simple.md",
-    "Travaille d'une force.md",
     "Mécanique.md",
     "Les lois de Newton.md",
     "Application des loi de Newton.md",
@@ -314,7 +320,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "Definition.md",
     "Individual Oral.md",
-    "IB overview.md",
     "TOK Essay.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
@@ -322,15 +327,10 @@
     "Oscillation et Onde.md",
     "Experiment.md",
     "sl subjects/Anglais Literrature.md",
-    "common core/EE.md",
-    "New version EE.md",
     "Possible structure.md",
     "Application de la conservation de P.md",
     "Chiffres significatifs.md",
     "Mesure d'incertitude.md",
-    "Définition de momentum.md",
-    "Energie potentielles et énergie mécanique.md",
-    "Macroéconomie.md",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
