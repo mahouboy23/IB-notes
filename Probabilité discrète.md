@@ -43,6 +43,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - 
 - ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
+<!--SR:!2023-11-16,3,267-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2023-11-19,9,282-->

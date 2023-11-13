@@ -25,6 +25,7 @@ Pour $\cos(2a)$, les 3 formules sont:
 - $\cos(2a)=\cos^{2}a-\sin^{2}a$
 - $\cos(2a)=2\cos^{2}a-1$
 - $\cos(2a)=1-2\sin^{2}a$
+<!--SR:!2023-11-14,1,229-->
 
 ---
 - $\sin(2a)=$::$2\sin a\cos a$

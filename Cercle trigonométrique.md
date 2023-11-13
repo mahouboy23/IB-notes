@@ -33,6 +33,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ---
 ### Autour de $\pi$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
+<!--SR:!2023-11-14,1,229-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
 - $\cos(\pi+\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-15,5,246-->

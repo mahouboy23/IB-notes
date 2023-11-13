@@ -11,6 +11,7 @@ Created: 2023-10-02
 <!--SR:!2024-01-15,70,270-->
 - $\frac{\pi}{3}$ radians =:: 60 degrés
 - $\frac{\pi}{4}$ radians =:: 45 degrés
+<!--SR:!2023-11-16,3,272-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés
 <!--SR:!2023-11-23,10,292-->
 
