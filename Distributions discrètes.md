@@ -10,10 +10,10 @@ Created: 2023-10-13
 <!--SR:!2023-11-20,10,270-->
 - Médiane de $X$ est:: la valeur de $x_{i}$ pour laquelle $P_{1}+P_{2}...+P_{i}\geq \frac{1}{2}$ pour la première fois.
 - Moyenne peut être aussi appelé:: Espérance.
-<!--SR:!2023-11-11,3,268-->
+<!--SR:!2023-11-24,11,288-->
 - $u$ peut être écrit:: $E(x)$
 <!--SR:!2023-11-24,11,270-->
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 <!--SR:!2023-11-11,3,268-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$
-<!--SR:!2023-11-11,3,250-->
+<!--SR:!2023-11-20,7,250-->
