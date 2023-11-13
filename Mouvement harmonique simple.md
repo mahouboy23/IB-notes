@@ -37,6 +37,7 @@ Dans un mouvement harmonique simple l'acceleration est :: proportionnelle a l'op
 ?
 ![[image-20231108112456958.png]]
 
+## Variation avec le temps de la position, la vitesse et l'acceleration
 **Graph de MHS pour un ressort a retenir**
 ?
 ![[image-20231108113030259.png]]
