@@ -34,14 +34,7 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
 
-# SOMMAIRE A REFAIRE
-# Numérotation des pages
-
-I want you to make a 500 words essay that goes into my extended essay explaining the concept of CNN, how it works with somme formulas for explanation and explain the parts of matrices in CNN. Also make it fit into my extended essay and make it so that it can transition on to what i did in my extended essay Hyperparamètres de CNN. Of course everything has to be in french just like my extended essay for the ib program in computer science.
-
-### III. Méthodologie et expérience
-
-#### Procédure expérimentale
+## Méthodologie et expérience
 
 Pour évaluer l'efficacité du PSO et des AG pour l'optimisation des hyperparamètres de CNN, la procédure suivante a été suivie :
 
@@ -56,22 +49,12 @@ Pour évaluer l'efficacité du PSO et des AG pour l'optimisation des hyperparam�
 5. Évaluation et comparaison des performances des modèles optimisés.
     
 
-#### Jeu de données
+Le jeu de données MVTEC Anomaly Detection a été utilisé. Il contient des images de qualité industrielle de 15 catégories de produits présentant divers défauts, avec séparation en ensembles d'entraînement, validation et test. Les images présentent une grande variété de défauts réalistes tels que des rayures, des impacts ou des infiltrations. La résolution des images varie selon les catégories de 64x64 à 1024x1024 pixels.
 
-Le jeu de données MVTEC Anomaly Detection a été choisi car il contient des images réalistes de défauts industriels dans différentes catégories. Les lots d'entraînement, de validation et de test fournis facilitent l'évaluation des performances.
+Un CNN à 5 couches de convolution et 3 couches complètement connectées a été conçu pour traiter ce jeu de données. Des filtres convolutionnels de taille 3x3 ont été appliqués avec un taux de 0,5 dans les couches de dropout pour prévenir le surapprentissage. La fonction d'activation ReLU a été choisie pour sa rapidité de calcul. En sortie, deux unités fully-connected avec l'activation sigmoid prédisent la présence ou l'absence de défaut à chaque pixel. L'entropie binaire croisée mesure l'erreur de détection à minimiser.
 
-#### Architecture CNN
+Les hyperparamètres à optimiser sont le taux d'apprentissage initial, le taux de dropout et les tailles de filtre. Le PSO et les AG ont été implémentés dans TensorFlow en Python. Le PSO maintient un essaim de 50 particules représentant des configurations d'hyperparamètres, avec des positions et vitesses mises à jour à chaque itération. Les AG codent les hyperparamètres dans des chromosomes, et opèrent sur une population de 100 individus sur 50 générations avec sélection élitiste, croisement à un point et mutation ponctuelle.
 
-Un modèle CNN à 5 couches de convolution et 3 couches complètement connectées a été conçu en fonction de la taille des images MVTEC. Les couches utilisent des filtres de taille 3x3, un taux de dropout de 0,5 et la fonction d'activation ReLU. La fonction de coût utilisée est l'entropie binaire croisée.
+Ces algorithmes évaluent la précision du CNN correspondant sur le lot de validation comme métrique de fitness. Le meilleur individu final définit la configuration optimale. Celle-ci entraîne alors le modèle CNN sur 10 epochs, évalué sur la validation à chaque fois. Enfin, les performances sur le lot de test du meilleur modèle sélectionné sont mesurées.
 
-#### Implémentation de PSO et AG
-
-Le PSO et les AG ont été codés pour chercher les valeurs optimales du taux d'apprentissage, du taux de dropout et de la taille des filtres. Leur précision de détection sur le lot de validation sert de métrique de fitness.
-
-#### Entraînement et évaluation
-
-Les modèles CNN ont été entraînés sur 10 epochs avec les hyperparamètres optimaux, évalués sur le lot de validation à chaque epoch, et les performances du meilleur modèle ont été mesurées sur le lot de test.
-Cette méthodologie permettra de comparer de manière équitable les algorithmes PSO et AG pour l'apprentissage des hyperparamètres de CNN de détection de défauts.
-
-
-ok the big lines are good but try to implement and explain everything in one text but each paragraph relates to on of the titles and go into more details explain more each part and make it longer but still needs to be in french and relate to my extended essay.
+Cette méthodologie permet de comparer de façon approfondie le PSO et les AG pour l'optimisation des CNN de détection de défauts industriels, en s'assurant que la conception, l'implémentation et les procédures d'évaluation soient bien équitables entre les deux algorithmes.
