@@ -5,7 +5,7 @@ Created: 2023-10-13
 
 - $\sum f(x)$=::$1$
 - $P(X=x)$=::$f(x)$
-<!--SR:!2023-11-13,3,230-->
+<!--SR:!2023-11-21,8,250-->
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
 <!--SR:!2023-11-20,10,270-->
 - Médiane de $X$ est:: la valeur de $x_{i}$ pour laquelle $P_{1}+P_{2}...+P_{i}\geq \frac{1}{2}$ pour la première fois.
@@ -14,6 +14,6 @@ Created: 2023-10-13
 - $u$ peut être écrit:: $E(x)$
 <!--SR:!2023-11-24,11,270-->
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
-<!--SR:!2023-11-11,3,268-->
+<!--SR:!2023-11-23,10,288-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$
 <!--SR:!2023-11-20,7,250-->
