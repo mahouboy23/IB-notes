@@ -13,6 +13,20 @@ Les CNN ont révolutionné la vision par ordinateur grâce à leur capacité à 
 
 ## Contexte
 
+Les réseaux neuronaux convolutifs (CNN) sont une approche d'apprentissage profond inspirée du fonctionnement du cortex visuel humain. Ils sont particulièrement efficaces pour la classification et la détection d'objets dans des images. Un CNN est composé de couches successives traitées de manière hiérarchique: des couches de convolution, de pooling et complètement connectées.
+
+Les couches de convolution appliquent des filtres (ou noyaux) de convolution qui extraient des caractéristiques telles que les contours, les textures et les formes. Chaque filtre est appliqué à toute la région d'entrée et produit une carte de caractéristiques en sortie. Mathématiquement, la convolution est définie par l'équation:
+
+y[i,j] = (x*w)[i,j] = ∑m ∑n x[m,n]w[i-m,j-n]
+
+Où x est l'entrée, w le filtre et y la sortie. Les filtres apprennent à identifier des motifs à travers l'ensemble d'entraînement.
+
+Les couches de pooling divisées les cartes de caractéristiques en régions et ne conservent que la valeur maximale dans chaque région, ce qui permet d'obtenir l'invariance par translation.
+
+Les couches complètement connectées appliquent une fonction d'activation non linéaire pour classifier les patterns extraits.
+
+En résumé, les CNN apprennent automatiquement des représentations hiérarchiques des données d'entrée grâce à leurs opérations convolutives et de pooling. Cette capacité à détecter des caractéristiques spatiales sans prétraitement manuel les rend particulièrement adaptés à la détection de défauts visuels, comme nous le verrons par la suite.
+
 ### Hyperparamètres de CNN
 
 Les CNN ont plusieurs hyperparamètres qui doivent être réglés, notamment le nombre et la taille des filtres, le nombre de couches, le taux d'abandon, la taille du lot, le taux d'apprentissage, etc. La configuration optimale de ces hyperparamètres peut avoir un impact significatif sur la capacité du CNN à apprendre des caractéristiques efficaces et à bien se généraliser. Le réglage manuel est inefficace et la recherche de la meilleure combinaison d'hyperparamètres est difficile en raison de l'étendue de l'espace de recherche. Les algorithmes d'optimisation sont donc bien adaptés à l'automatisation du processus de réglage des hyperparamètres du CNN.
