@@ -12,3 +12,11 @@ War. The word alone raises a range of emotions from horror to admiration. Some o
  _Lama Sabachthani (Why have you forsaken me?),_ 1943, Morris Kestelman
 
 ## Global issue: **The consequences of war**
+
+### Introduction
+1. What is the global issue and how have you narrowed it down?
+The global issue that is chose was the consequences of war. I narrowed it by choosing a literary text that interested me and talked about a survivor of the holocaust so that led me to talk a bout the bigger issue of WAR.
+
+2. What is the summary of the "whole" literary work you've chosen? 
+- the summary of the extract id about who put this together, i am a roof to the moon, an someone said, someone said. Ay bust it to the dame, Watch comme out like lamp hit stop, that a rap.
+- The description  
