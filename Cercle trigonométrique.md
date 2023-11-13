@@ -57,6 +57,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2023-11-20,10,264-->
 - $\tan(x+k\pi)=$::$\tan(x)$
+<!--SR:!2023-11-16,3,269-->
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-01-11,66,250-->
@@ -65,6 +66,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
+<!--SR:!2023-11-14,1,229-->
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 <!--SR:!2023-11-16,6,266-->
