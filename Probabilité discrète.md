@@ -54,7 +54,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-11-11,3,262-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-11-12,2,243-->
+<!--SR:!2023-11-18,5,243-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$>)
 
