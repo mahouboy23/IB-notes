@@ -39,3 +39,39 @@ Les AG sont basés sur le processus de sélection naturelle. Une population de s
 
 I want you to make a 500 words essay that goes into my extended essay explaining the concept of CNN, how it works with somme formulas for explanation and explain the parts of matrices in CNN. Also make it fit into my extended essay and make it so that it can transition on to what i did in my extended essay Hyperparamètres de CNN. Of course everything has to be in french just like my extended essay for the ib program in computer science.
 
+### III. Méthodologie et expérience
+
+#### Procédure expérimentale
+
+Pour évaluer l'efficacité du PSO et des AG pour l'optimisation des hyperparamètres de CNN, la procédure suivante a été suivie :
+
+1. Choix du jeu de données MVTEC contenant des images de produits industriels défectueux et non défectueux issues de 15 catégories.
+    
+2. Conception d'une architecture CNN pour la détection de défauts.
+    
+3. Implémentation du PSO et des AG pour chercher la configuration optimale des hyperparamètres à optimiser tels que le taux d'apprentissage et le taux de dropout.
+    
+4. Entraînement des modèles CNN avec les hyperparamètres optimaux.
+    
+5. Évaluation et comparaison des performances des modèles optimisés.
+    
+
+#### Jeu de données
+
+Le jeu de données MVTEC Anomaly Detection a été choisi car il contient des images réalistes de défauts industriels dans différentes catégories. Les lots d'entraînement, de validation et de test fournis facilitent l'évaluation des performances.
+
+#### Architecture CNN
+
+Un modèle CNN à 5 couches de convolution et 3 couches complètement connectées a été conçu en fonction de la taille des images MVTEC. Les couches utilisent des filtres de taille 3x3, un taux de dropout de 0,5 et la fonction d'activation ReLU. La fonction de coût utilisée est l'entropie binaire croisée.
+
+#### Implémentation de PSO et AG
+
+Le PSO et les AG ont été codés pour chercher les valeurs optimales du taux d'apprentissage, du taux de dropout et de la taille des filtres. Leur précision de détection sur le lot de validation sert de métrique de fitness.
+
+#### Entraînement et évaluation
+
+Les modèles CNN ont été entraînés sur 10 epochs avec les hyperparamètres optimaux, évalués sur le lot de validation à chaque epoch, et les performances du meilleur modèle ont été mesurées sur le lot de test.
+Cette méthodologie permettra de comparer de manière équitable les algorithmes PSO et AG pour l'apprentissage des hyperparamètres de CNN de détection de défauts.
+
+
+ok the big lines are good but try to implement and explain everything in one text but each paragraph relates to on of the titles and go into more details explain more each part and make it longer but still needs to be in french and relate to my extended essay.
