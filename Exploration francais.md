@@ -24,4 +24,4 @@ Cet extrait offre un aperçu significatif des thèmes du roman. Tout d'abord, on
 Son rêve contraste fortement avec sa condition présente et révèle ses aspirations profondes : l'aventure, l'exploration, la richesse, symboles de liberté. Cela illustre son aspiration à changer les normes sociaux face aux difficultés de la société sénégalaise.
 A travers ce texte, l'auteur donne les emotions du personnage et nous fait pénétrer dans ses rêves intimes. Le style descriptif crée une atmosphère propice à la rêverie.
 On perçoit la psychologie complexe de Mademba, retenu entre la résignation devant son destin et le désir de s'élever au-dessus de sa condition. 
-En somme, cet extrait offre un aperçu sur les principaux enjeux du roman, à savoir la solitude, la quête d'émancipation sociale et la volonté de s'affranchir des déterminismes par l'initiative individuelle. 
+En Conclusion, cet extrait offre un aperçu sur les principaux enjeux du roman, à savoir la solitude, la quête d'émancipation sociale et la volonté de s'affranchir des déterminismes par l'initiative individuelle. 
