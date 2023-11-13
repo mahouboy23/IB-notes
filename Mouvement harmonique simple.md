@@ -47,3 +47,12 @@ Dans un mouvement harmonique simple l'acceleration est :: proportionnelle a l'op
 ![[image-20231113103455763.png]]
 
 
+## Période d'un pendule simple et élastique
+
+**Pendule simple**
+?
+$T=2\pi\sqrt{\frac{l}{g}}$
+
+**Pendule élastique**
+?
+$T=2\pi\sqrt{\frac{m}{k}}$
