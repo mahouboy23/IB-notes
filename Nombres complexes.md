@@ -45,7 +45,7 @@ $$\Large{2a}$$
 $z-z^{*}$=
 ?
 $$\Large{2bi}$$
-<!--SR:!2023-11-11,1,226-->
+<!--SR:!2023-11-16,3,246-->
 
 $zz^{*}$=
 ?
@@ -68,4 +68,4 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[Pasted image 20231002063707.png]]
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2023-11-12,4,246-->
+<!--SR:!2023-11-24,11,246-->

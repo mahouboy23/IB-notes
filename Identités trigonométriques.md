@@ -16,7 +16,7 @@ Created: 2023-10-02
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 <!--SR:!2023-12-04,28,230-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
-<!--SR:!2023-11-11,3,265-->
+<!--SR:!2023-11-21,8,285-->
 - $\tan(a-b)=$::$\frac{\tan a-\tan b}{1+\tan a\tan b}$
 <!--SR:!2023-11-15,2,205-->
 ## Formules de multiplication
