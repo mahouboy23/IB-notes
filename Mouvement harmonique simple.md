@@ -51,8 +51,10 @@ Dans un mouvement harmonique simple l'acceleration est :: proportionnelle a l'op
 
 **Pendule simple**
 ?
+![[Pendulum.svg.png]]
 $T=2\pi\sqrt{\frac{l}{g}}$
 
 **Pendule élastique**
 ?
+![[image-20231113110230595.png]]
 $T=2\pi\sqrt{\frac{m}{k}}$
