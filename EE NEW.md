@@ -13,19 +13,8 @@ Les CNN ont révolutionné la vision par ordinateur grâce à leur capacité à 
 
 ## Contexte
 
-Les réseaux neuronaux convolutifs (CNN) sont une approche d'apprentissage profond inspirée du fonctionnement du cortex visuel humain. Ils sont particulièrement efficaces pour la classification et la détection d'objets dans des images. Un CNN est composé de couches successives traitées de manière hiérarchique: des couches de convolution, de pooling et complètement connectées.
+### Les réseaux neuronaux convolutifs (CNN) 
 
-Les couches de convolution appliquent des filtres (ou noyaux) de convolution qui extraient des caractéristiques telles que les contours, les textures et les formes. Chaque filtre est appliqué à toute la région d'entrée et produit une carte de caractéristiques en sortie. Mathématiquement, la convolution est définie par l'équation:
-
-y[i,j] = (x*w)[i,j] = ∑m ∑n x[m,n]w[i-m,j-n]
-
-Où x est l'entrée, w le filtre et y la sortie. Les filtres apprennent à identifier des motifs à travers l'ensemble d'entraînement.
-
-Les couches de pooling divisées les cartes de caractéristiques en régions et ne conservent que la valeur maximale dans chaque région, ce qui permet d'obtenir l'invariance par translation.
-
-Les couches complètement connectées appliquent une fonction d'activation non linéaire pour classifier les patterns extraits.
-
-En résumé, les CNN apprennent automatiquement des représentations hiérarchiques des données d'entrée grâce à leurs opérations convolutives et de pooling. Cette capacité à détecter des caractéristiques spatiales sans prétraitement manuel les rend particulièrement adaptés à la détection de défauts visuels, comme nous le verrons par la suite.
 
 ### Hyperparamètres de CNN
 
@@ -59,3 +48,5 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 ### Algorithmes génétiques
 
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
+
+
