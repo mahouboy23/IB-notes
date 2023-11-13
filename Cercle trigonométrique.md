@@ -49,7 +49,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-11,1,204-->
+<!--SR:!2023-11-14,1,184-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 ## Périodicité
