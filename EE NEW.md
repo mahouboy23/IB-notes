@@ -25,3 +25,5 @@ Les AG sont basés sur le processus de sélection naturelle. Une population de s
 
 # SOMMAIRE A REFAIRE
 # Numérotation des pages
+
+I want you to make a 500 words essay that goes into my extended essay explaining the concept of CNN, how it works with somme formulas for explanation and explain the parts of matrices in CNN. Also make it fit into my extended essay and make it so that it can transition on to what i did in my extended essay 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3bbd2e5bfd745e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Possible structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2cc4355007514653",
             "type": "leaf",
             "state": {
@@ -290,6 +302,8 @@
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
     "New version EE.md",
+    "Possible structure.md",
+    "EE NEW.md",
     "common core/EE.md",
     "IB overview.md",
     "Individual Oral.md",
@@ -314,8 +328,6 @@
     "common core/TOK.md",
     "Physics AI.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
-    "Mouvement harmonique simple.md",
-    "Politique monétaire.md",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
     "assets/Mouvement harmonique simple/image-20231108112456958.png",
