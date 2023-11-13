@@ -4,7 +4,8 @@ tags : mod englais
 Created: 2023-11-06
 
 ### Literary work extract
-Extract of the
+War. The word alone raises a range of emotions from horror to admiration. Some of us choose to avert our eyes as if the very act of remembering and thinking about war somehow brings it closer. Others of us are fascinated by it and can find in war excitement and glamour. As a historian I firmly believe that we have to include war in our study of human history if we are to make any sense of the past. War’s effects have been so profound that to leave it out is to ignore one of the great forces, along with geography, resources, economics, ideas, and social and political changes, which have shaped human development and changed history. If the Persians had defeated the Greek city-states in the fifth century b.c.; if the Incas had crushed Pizarro’s expedition in the sixteenth century; or if Hitler had won the Second World War, would the world have been different? We know that it would although we can only guess by how much.
+
 
 ### Non-Literary work extract
 ![[image-20231109090800680.png]]
