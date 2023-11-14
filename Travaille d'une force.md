@@ -64,10 +64,9 @@ $\Delta t$ durée de ce déplacement.
 
 **Puissance** :: travail par unite de temps
 <!--SR:!2023-09-09,2,244-->
+
 Formule de la Puissance :
 ?
-<!--SR:!2023-09-08,1,230-->
-
 $$P=\frac{|W_{A \rightarrow B} \hspace 1mm (\vec F) |}{\Delta t}$$
 $P$ = Watts
 $|W_{A \rightarrow B} \hspace 1mm (\vec F) |$ = Joule
