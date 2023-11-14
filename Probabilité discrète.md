@@ -41,6 +41,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-12-08,32,270-->
 - $P(A/B)$=:: $\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
+<!--SR:!2023-11-17,3,287-->
 - 
 - ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
