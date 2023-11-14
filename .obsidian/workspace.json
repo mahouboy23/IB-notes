@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "University.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "University.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,10 +301,10 @@
   },
   "active": "b5d4994517a11c50",
   "lastOpenFiles": [
-    "Opérations fondamentales et opérations composées.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Opérations fondamentales et opérations composées.md",
+    "hl subjects/Computer science.md",
     "Individual Oral.md",
     "Travaille d'une force.md",
     "Mécanique.md",
