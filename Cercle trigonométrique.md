@@ -58,6 +58,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-17,7,210-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
+<!--SR:!2023-11-17,3,268-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2023-11-20,10,264-->
 - $\tan(x+k\pi)=$::$\tan(x)$
