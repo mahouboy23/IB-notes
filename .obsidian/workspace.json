@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chiffres significatifs.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chiffres significatifs.md",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,8 +300,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bbd2e5bfd745e30",
+  "active": "91f2422dc317b946",
   "lastOpenFiles": [
+    "Chiffres significatifs.md",
     "Mesure d'incertitude.md",
     "sl subjects/Physics.md",
     "IB overview.md",
@@ -327,7 +328,6 @@
     "Mouvement circulaire uniforme et gravitation.md",
     "Definition.md",
     "Individual Oral.md",
-    "TOK Essay.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
