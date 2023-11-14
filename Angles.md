@@ -7,6 +7,7 @@ Created: 2023-10-02
 - $2\pi$ radians =:: 360 degrés
 <!--SR:!2024-01-12,67,250-->
 - $\pi$ radians =:: 180 degrés
+<!--SR:!2023-11-17,3,274-->
 - $\frac{\pi}{2}$ radians =:: 90 degrés
 <!--SR:!2024-01-15,70,270-->
 - $\frac{\pi}{3}$ radians =:: 60 degrés

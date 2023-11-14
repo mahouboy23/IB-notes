@@ -4,6 +4,7 @@ tags : mod Math
 Created: 2023-10-13
 
 - $\sum f(x)$=::$1$
+<!--SR:!2023-11-17,3,279-->
 - $P(X=x)$=::$f(x)$
 <!--SR:!2023-11-21,8,250-->
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
