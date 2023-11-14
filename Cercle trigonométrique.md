@@ -66,6 +66,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-01-11,66,250-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
+<!--SR:!2023-11-17,3,268-->
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
