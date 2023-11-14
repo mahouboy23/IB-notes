@@ -4,6 +4,7 @@ tags : mod Math
 Created: 2023-10-13
 
 - Notation:: $X\sim B(n,P)$
+<!--SR:!2023-11-15,1,223-->
 - $P(X=x)$=::${\binom n x}p^{x}(1-p)^{x}$
 <!--SR:!2023-11-15,2,208-->
 - $E(x)$=::$np$
