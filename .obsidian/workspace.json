@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Chiffres significatifs.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Probabilité discrète.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Chiffres significatifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Chiffres significatifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "Chiffres significatifs.md"
               }
             }
           },
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Chiffres significatifs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,23 +300,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cc4355007514653",
+  "active": "3bbd2e5bfd745e30",
   "lastOpenFiles": [
+    "Mesure d'incertitude.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Mouvement harmonique simple.md",
+    "Probabilité discrète.md",
+    "Statistique et Probabilité.md",
+    "Distributions discrètes.md",
+    "Distribution binomiale.md",
+    "hl subjects/Math AA.md",
+    "Exploration francais.md",
     "hl subjects/Français B.md",
     "Le Cid.md",
     "Mademba.md",
-    "IB overview.md",
     "Travaille d'une force.md",
     "New version EE.md",
     "common core/EE.md",
     "EE NEW.md",
-    "Mouvement harmonique simple.md",
     "Mécanique.md",
     "Les lois de Newton.md",
     "Application des loi de Newton.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Tension d'un fil.md",
-    "sl subjects/Physics.md",
     "Mouvement circulaire uniforme et gravitation.md",
     "Definition.md",
     "Individual Oral.md",
@@ -324,13 +331,6 @@
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
-    "Oscillation et Onde.md",
-    "Experiment.md",
-    "sl subjects/Anglais Literrature.md",
-    "Possible structure.md",
-    "Application de la conservation de P.md",
-    "Chiffres significatifs.md",
-    "Mesure d'incertitude.md",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
