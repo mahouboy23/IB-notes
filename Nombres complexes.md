@@ -32,7 +32,7 @@ $$\Large{a^{2}-b^{2}-i2ab}$$
 $(a+ib)(a-ib)$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2023-11-14,4,246-->
+<!--SR:!2023-11-25,11,266-->
 
 ---
 
@@ -64,11 +64,12 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-11-14,4,246-->
+<!--SR:!2023-11-22,8,246-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20231002063707.png]]
+<!--SR:!2023-11-17,3,252-->
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
 <!--SR:!2023-11-24,11,246-->

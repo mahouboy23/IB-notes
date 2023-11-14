@@ -35,10 +35,11 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-16,2,229-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
+<!--SR:!2023-11-16,2,248-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-15,5,246-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-14,1,204-->
+<!--SR:!2023-11-15,1,184-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-15,2,224-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
@@ -50,7 +51,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-14,1,184-->
+<!--SR:!2023-11-15,1,164-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 ## Périodicité

@@ -27,6 +27,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
+<!--SR:!2023-11-17,3,267-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a :: équiprobabilité ou équi-répartition.
 <!--SR:!2023-11-22,12,302-->
 
