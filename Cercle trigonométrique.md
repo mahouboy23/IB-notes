@@ -28,7 +28,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-11-19,9,284-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
-<!--SR:!2023-11-15,2,244-->
+<!--SR:!2023-11-22,7,264-->
 - $\Large{\cos 90}=$::$0$
 <!--SR:!2023-12-06,30,230-->
 
