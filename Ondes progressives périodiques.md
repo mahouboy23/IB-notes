@@ -31,3 +31,9 @@ ex:
 
 - Les ondes **longitudinales** sont :: celles dont les points de déplacement de celles-ci s'effectuent dans la **même direction** que celle de propagation : la perturbation a la même direction que celle de l’onde. . L’énergie est transférée parallèlement à la direction de propagation. Les ondes longitudinales se propagent dans les solides, liquides et gaz. 
 ex:
+
+
+### La célérité d'une onde progressive
+La célérité d'une onde progressive :: correspond à la **vitesse de propagation** de la perturbation qui caractérise une onde.
+
+## Périodicité temporelle, périodicité spatiale 
