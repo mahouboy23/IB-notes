@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Oscillation et Onde.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New version EE.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Oscillation et Onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Oscillation et Onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objectifs de la politique monétaire.md"
+                "file": "Oscillation et Onde.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Oscillation et Onde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,10 +301,14 @@
   },
   "active": "b5d4994517a11c50",
   "lastOpenFiles": [
-    "Macroéconomie.md",
-    "Objectifs de la politique monétaire.md",
-    "sl subjects/Economie.md",
+    "Mouvement harmonique simple.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "New version EE.md",
+    "Oscillation et Onde.md",
+    "Objectifs de la politique monétaire.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
     "University.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
@@ -312,10 +316,8 @@
     "Individual Oral.md",
     "Travaille d'une force.md",
     "Mécanique.md",
-    "sl subjects/Physics.md",
     "Mesure d'incertitude.md",
     "Chiffres significatifs.md",
-    "Mouvement harmonique simple.md",
     "Probabilité discrète.md",
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
@@ -325,8 +327,6 @@
     "hl subjects/Français B.md",
     "Le Cid.md",
     "Mademba.md",
-    "New version EE.md",
-    "common core/EE.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
