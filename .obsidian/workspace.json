@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Objectifs de la politique monétaire.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,6 +301,8 @@
   },
   "active": "b5d4994517a11c50",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Objectifs de la politique monétaire.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "University.md",
@@ -325,8 +327,6 @@
     "Mademba.md",
     "New version EE.md",
     "common core/EE.md",
-    "EE NEW.md",
-    "Les lois de Newton.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",

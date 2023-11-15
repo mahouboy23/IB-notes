@@ -37,7 +37,7 @@ Basic concept en Economie:
 
 ## Parte 5: Gestion de la demande (politiques axées sur la demande) – politique monétaire
 1. [[Politique monétaire]] 
-2. [[]]
+2. [[Objectifs de la politique monétaire]] 
 
 
 [[TD economie]] 
