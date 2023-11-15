@@ -7,3 +7,4 @@ Les objectives de la banque central sont :
 ?
 [[Taux d’inflation faible et stable]]
 [[Promouvoir un environnement économique stable pour une croissance à long terme]]
+[[Solde extérieur]] 
