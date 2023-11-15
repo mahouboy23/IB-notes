@@ -71,16 +71,7 @@ Guiding Ideas
  - How can does it impact society
  - numerical data vs physical
  - Production of Knowledge
-## TOK essay Introduction draft
-Picture this: you're at a crossroads, where the Knowledge of the past meets the discoveries of today. It's a place where we ponder a timeless question: Does new always mean better? and how does this relate to the evidence. We will explore two areas of Knowledge, the natural sciences and history.
-We've all felt the pull of the "latest and greatest." In an era of instant information and rapid progress, the appeal of fresh evidence is hard to resist. But, as we'll soon discover, there's more to this.
-Our journey will take us through the realms of the natural sciences, where we rely on what we see and test, and history, where the past sheds light on our present. Along the way, we'll uncover the hidden complexities of this assumption. We'll peel back the surface to reveal the subtle ideas and important implications that often go unnoticed when we favor the "latest."
-
-Quote: "In the pursuit of knowledge, the newest is not always the truest." - Johann Wolfgang von Goethe
-Johann Wolfgang von Goethe's timeless words resonate. This inquiry compels us to scrutinize the dynamics of evidence in the areas of natural sciences and history. In an era driven by a relentless quest for innovation and novelty, it's all too common to equate 'new' with 'superior.' However, as we journey through these domains of knowledge, we shall unveil the intricate nuances concealed beneath the surface of this assumption. Our quest is to unearth the authentic potency of evidence, transcending the allure of immediacy.
-
-I have always valued objectivity, truth, and clarity of knowledge, and I have therefore mostly
-gravitated towards natural sciences as a field of interest. When I chose courses for high school, I quickly settled on a schedule filled with math and natural science courses. I had been told on numerous occasions that the 'smart' students choose 'real' sciences rather than the 'easy' alternatives. Equally important, however, was the Norwegian government's emphasis on knowledge within the natural sciences. In Norway, you receive extra study credits for studying natural sciences, which indicates that the government believes natural sciences to be more important than most other fields of research. The threshold for information within natural sciences tends to be much higher than the human sciences, Thus, it can be more challenging for the average knower to gain a basic understanding of the natural sciences, thus contributing to the belief that natural sciences should be regarded more highly. The certainty of the knowledge found in natural sciences as well as the importance of many scientific innovations across time has led natural sciences to often be regarded more highly than many other areas of knowledge. In this essay, I will answer the question "to what extent is the notion that knowledge in natural sciences should be regarded more highly than human sciences justifiable?"
+## TOK essay Introduction draft (regarded more highly than human sciences justifiable?"
 
 Guiding Ideas
  - Who is "we"
