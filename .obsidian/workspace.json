@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ondes progressives périodiques.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,19 @@
                 "file": "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "6a70ff46c1e5855e",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "University shortlist.loom"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "University shortlist.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "University shortlist.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "University shortlist.loom"
               }
             }
           },
@@ -250,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "University shortlist.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,22 +310,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
-    "common core/TOK.md",
+    "University.md",
     "IB overview.md",
+    "Ondes progressives périodiques.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
     "Electricité et magnétisme.md",
     "sl subjects/Physics.md",
     "Physique thermique.md",
     "Mécanique.md",
     "Mouvement harmonique simple.md",
     "Oscillation et Onde.md",
-    "Ondes progressives périodiques.md",
     "New version EE.md",
     "Objectifs de la politique monétaire.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "University.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "hl subjects/Computer science.md",
@@ -327,7 +338,6 @@
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
     "Distribution binomiale.md",
-    "hl subjects/Math AA.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
