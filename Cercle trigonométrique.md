@@ -39,17 +39,17 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\pi-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-16,2,248-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-15,5,246-->
+<!--SR:!2023-11-27,12,246-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 <!--SR:!2023-11-17,2,184-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-19,4,224-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-15,5,246-->
+<!--SR:!2023-11-18,3,226-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
-<!--SR:!2023-11-15,2,226-->
+<!--SR:!2023-11-20,5,246-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-17,7,210-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
@@ -72,7 +72,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
-<!--SR:!2023-11-15,1,209-->
+<!--SR:!2023-11-17,2,209-->
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 <!--SR:!2023-11-16,6,266-->
