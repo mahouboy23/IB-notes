@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,7 +301,9 @@
   },
   "active": "b5d4994517a11c50",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "University.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "hl subjects/Computer science.md",
@@ -325,8 +327,6 @@
     "common core/EE.md",
     "EE NEW.md",
     "Les lois de Newton.md",
-    "Application des loi de Newton.md",
-    "Force et Lois de Newton (Exemples de force).md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
