@@ -24,3 +24,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
     _Une onde sonore produite par une enceinte de haut-parleur serait une onde à trois dimensions.
 
 ### Onde longitudinale et onde transversale
+On distingue aussi les ondes progressives selon la forme que prennent les points de déplacements liés à cette onde :
+
+- Les ondes **transversales** sont :: celles dont les points de déplacement de celles-ci se font **perpendiculairement** par rapport à la direction de propagation : la perturbation a une direction perpendiculaire à celle de l’onde. L’énergie est transférée perpendiculairement à la direction de propagation. se propagent dans les solides.
+- Les ondes **longitudinales** sont :: celles dont les points de déplacement de celles-ci s'effectuent dans la **même direction** que celle de propagation : la perturbation a la même direction que celle de l’onde. . L’énergie est transférée parallèlement à la direction de propagation. Les ondes longitudinales se propagent dans les solides, liquides et gaz. 
