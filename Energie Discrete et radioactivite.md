@@ -67,7 +67,7 @@ $$E=hf$$
 $$f=\frac{1}{T}$$
 $$E=\frac{hc}{\lambda}$$
 ![[image-20230207084222834.png]]
-<!--SR:!2023-10-17,4,217-->
+<!--SR:!2023-11-18,2,197-->
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé :: **lumière polychromatique**
 

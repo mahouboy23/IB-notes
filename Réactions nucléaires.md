@@ -10,7 +10,7 @@ En 1905, en élaborant la théorie de la relativité restreinte, Einstein postul
 Postulat d’Einstein : Un système de masse m possède lorsqu'il est au repos, une énergie :
 ?
 ![[image-20230309091728899.png]]
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2023-11-18,2,230-->
 
 Conséquence : Si le système (au repos) échange de l'énergie avec le milieu extérieur, (par rayonnement ou par transfert thermique par exemple), sa variation d'énergie ∆E et sa variation de masse ∆m sont liées par la relation :
 ?

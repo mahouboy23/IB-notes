@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Mécanique.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -259,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Mécanique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,18 +310,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "TOK Essay.md",
     "Individual Oral.md",
     "sl subjects/Anglais Literrature.md",
     "University.md",
-    "TOK Essay.md",
     "University shortlist.loom",
     "Ondes progressives périodiques.md",
     "common core/TOK.md",
     "Electricité et magnétisme.md",
-    "sl subjects/Physics.md",
     "Physique thermique.md",
     "Mécanique.md",
     "Mouvement harmonique simple.md",
