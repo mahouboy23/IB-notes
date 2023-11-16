@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energie thermi",
+                "query": "pib nominal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politique monétaire.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -260,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,9 +312,11 @@
   },
   "active": "2f9452336f18a028",
   "lastOpenFiles": [
+    "Politique monétaire.md",
+    "Pib.md",
+    "Méthode des dépenses (demande).md",
     "Macroéconomie.md",
     "Objectifs de la politique monétaire.md",
-    "Politique monétaire.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Mécanique.md",
@@ -337,8 +339,6 @@
     "Oscillation et Onde.md",
     "New version EE.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "Opérations fondamentales et opérations composées.md",
-    "hl subjects/Computer science.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
