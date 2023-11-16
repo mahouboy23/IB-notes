@@ -44,7 +44,7 @@ Created: 2023-03-31
 ### **Utilisation** 
 
 ```python
-Matiere1 = [Note1,Note2,Note]
+Matiere1 = [Note1,Note2,Note3]
 output "Donne moi les note de la premier Matiere"
 
 ```
