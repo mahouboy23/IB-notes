@@ -8,14 +8,13 @@ Created: 2023-06-12
 ## Travaille d'une force constante
 Le travail d'une force constante $\vec F$ dont le point d'application se déplace de A a B est :: $W_{a \rightarrow b}(\vec f)$ 
 ![[image-20230615082950257.png]]
-
-
 ?
 $$W_{a \rightarrow b}(\vec f) = \vec{F} * \vec{AB} = f * AB * \cos\theta$$
 -$W$ en $J$ 
 -$F$ en $N$ 
 -$AB$ en $M$ 
 
+Les différents effets du travails
 ?
 - $W > 0$  travail moteur
 - $W < 0$ travail resistant 
