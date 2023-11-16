@@ -35,9 +35,9 @@ Ils sont 5:
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.  
 Graphique  
 ?  
-![image-20231108093526578.png](app://383b559351816a1787818f810bbe4113db82/C:/Users/pc/OneDrive/Documents/virtual-plaza-main/assets/Politique%20mon%C3%A9taire/image-20231108093526578.png?1699437708000)
 
-Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![image-20231108093711743.png](app://383b559351816a1787818f810bbe4113db82/C:/Users/pc/OneDrive/Documents/virtual-plaza-main/assets/Politique%20mon%C3%A9taire/image-20231108093711743.png?1699437708000)
+
+Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 
