@@ -44,10 +44,8 @@ Created: 2023-03-31
 ### **Utilisation** 
 
 ```python
-input a
-input b
-input c
-input d 
-input
+Matiere1 = [Note1,Note2,Note]
+output "Donne moi les note de la premier Matiere"
+
 ```
 
