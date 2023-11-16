@@ -53,8 +53,8 @@ $$F=k\frac{q_{1}q_{2}}{r^{2}}$$
 Formule de la constante de Coulomb:
 ?
 $$k=\frac{1}{4\pi \epsilon_{0}}$$
-$\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$ 
-<!--SR:!2023-10-05,28,144-->
+$\epsilon_0$ = permittivité électrique relative du milieu = $8.85*10^{-12} \hspace{2mm} C^2N^{-1}m^{-2}$
+<!--SR:!2023-11-29,13,130-->
 
 
 
