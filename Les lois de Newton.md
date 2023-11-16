@@ -15,7 +15,8 @@ $$\sum \vec F_{ext} = \vec 0$$
 ?
 Dans un référentiel Galiléens la somme des forces extérieur est égale au produit de la masse et du vecteur acceleration.
 $$\sum \vec F_{ext} = m\vec a$$
+
 - **Troisième loi de Newton**
 ?
 Lorsque deux object son interaction la force qu'exerce l'un sur l'autre est oppose a la force que exerce l'autre sur l'un.
-<!--SR:!2023-09-10,2,230-->
+<!--SR:!2023-11-21,5,250-->
