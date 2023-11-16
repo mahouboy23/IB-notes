@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "Individual Oral.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Individual Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Individual Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Individual Oral.md"
               }
             }
           },
@@ -260,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Individual Oral.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,12 +309,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a70ff46c1e5855e",
+  "active": "b5d4994517a11c50",
   "lastOpenFiles": [
-    "University.md",
     "IB overview.md",
-    "Ondes progressives périodiques.md",
+    "Individual Oral.md",
+    "sl subjects/Anglais Literrature.md",
+    "University.md",
     "TOK Essay.md",
+    "University shortlist.loom",
+    "Ondes progressives périodiques.md",
     "common core/TOK.md",
     "Electricité et magnétisme.md",
     "sl subjects/Physics.md",
@@ -330,14 +332,12 @@
     "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "hl subjects/Computer science.md",
-    "Individual Oral.md",
     "Travaille d'une force.md",
     "Mesure d'incertitude.md",
     "Chiffres significatifs.md",
     "Probabilité discrète.md",
     "Statistique et Probabilité.md",
     "Distributions discrètes.md",
-    "Distribution binomiale.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
@@ -350,7 +350,6 @@
     "assets/Mouvement harmonique simple",
     "assets/Mesurer les inégalités économiques/Pasted image 20231108093833.png",
     "assets/Déflation, désinflation et ses coûts",
-    "University shortlist.loom",
     "assets/Individual Oral",
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "assets/Les forces magnétiques",

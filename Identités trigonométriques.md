@@ -5,7 +5,7 @@ Created: 2023-10-02
 
 ## Identité fondamentale
 - $\cos^{2}x+\sin^{2}x=$::$1$
-<!--SR:!2023-11-16,2,248-->
+<!--SR:!2023-11-22,6,268-->
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
 <!--SR:!2023-11-22,9,248-->
 ## Formules d'addition
@@ -14,7 +14,7 @@ Created: 2023-10-02
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 <!--SR:!2023-11-21,11,288-->
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
-<!--SR:!2023-11-16,2,248-->
+<!--SR:!2023-11-23,7,268-->
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 <!--SR:!2023-12-04,28,230-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
@@ -27,11 +27,11 @@ Pour $\cos(2a)$, les 3 formules sont:
 - $\cos(2a)=\cos^{2}a-\sin^{2}a$
 - $\cos(2a)=2\cos^{2}a-1$
 - $\cos(2a)=1-2\sin^{2}a$
-<!--SR:!2023-11-16,2,229-->
+<!--SR:!2023-11-20,4,229-->
 
 ---
 - $\sin(2a)=$::$2\sin a\cos a$
-<!--SR:!2023-11-16,1,208-->
+<!--SR:!2023-11-19,3,228-->
 - $\tan(2a)=$::$\frac{2\tan a}{1-\tan^{2}a}$
 <!--SR:!2023-11-18,3,208-->
 
