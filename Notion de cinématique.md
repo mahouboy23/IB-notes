@@ -31,10 +31,11 @@ $$\vec{V}_{1\rightarrow 2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}$$
 ?
 C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la tangente a la trajectoire a la date donnée**.
 
-Formule:
+Formule (vitesse instantanée):
 ?
 $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
 ![[image-20230328093633362.png]]
+
 #### L'acceleration
 ?
 C'est la variation de la vitesse au cour du temps
