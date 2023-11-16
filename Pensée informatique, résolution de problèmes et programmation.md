@@ -44,7 +44,10 @@ Created: 2023-03-31
 ### **Utilisation** 
 
 ```python
-Annee = int(input("donne un nombre"))
-if mod 400 == 0
+input a
+input b
+input c
+input d 
+input
 ```
 
