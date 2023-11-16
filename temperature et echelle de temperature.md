@@ -5,8 +5,8 @@ tags : mod Physique
 Created: 2022-10-04 
 
 ?
-La temperature est une mesure de l'énergie cinétique moyenne EDRC des molecules. 
-<!--SR:!2023-10-03,26,150-->
+La temperature est une mesure de l'énergie cinétique moyenne EDRC des molecules.
+<!--SR:!2023-11-30,14,130-->
 
 Conversion entre kelvin et Celsius: 
 
