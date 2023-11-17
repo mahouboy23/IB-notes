@@ -4,3 +4,4 @@ aola campus
 1 years
 16 weeks
 
+120 credits
