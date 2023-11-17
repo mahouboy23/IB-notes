@@ -8,58 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5d4994517a11c50",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "University shortlist.loom"
-              }
-            }
-          },
-          {
             "id": "2f9452336f18a028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bbd2e5bfd745e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travaille d'une force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc4355007514653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilité discrète.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b79ccce83e57007f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics AI.md",
+                "file": "Learn ee.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Learn ee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Learn ee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Learn ee.md"
               }
             }
           },
@@ -257,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Learn ee.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,12 +261,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5d4994517a11c50",
+  "active": "2f9452336f18a028",
   "lastOpenFiles": [
-    "Individual Oral.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
-    "hl subjects/Computer science.md",
+    "common core/EE.md",
+    "New version EE.md",
+    "REFERENCE.md",
+    "Extended essay draft final.md",
     "IB overview.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "University shortlist.loom",
+    "Travaille d'une force.md",
+    "Probabilité discrète.md",
+    "Physics AI.md",
+    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
+    "Individual Oral.md",
+    "hl subjects/Computer science.md",
     "Macroéconomie.md",
     "Politique monétaire.md",
     "Pib.md",
@@ -320,7 +283,6 @@
     "Objectifs de la politique monétaire.md",
     "sl subjects/Economie.md",
     "Mécanique.md",
-    "Travaille d'une force.md",
     "Energie potentielles et énergie mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Les equation de la cinématique a une dimension equation SUVAT.md",
@@ -328,14 +290,6 @@
     "sl subjects/Physics.md",
     "TOK Essay.md",
     "sl subjects/Anglais Literrature.md",
-    "University.md",
-    "University shortlist.loom",
-    "Ondes progressives périodiques.md",
-    "common core/TOK.md",
-    "Electricité et magnétisme.md",
-    "Physique thermique.md",
-    "Mouvement harmonique simple.md",
-    "Oscillation et Onde.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",

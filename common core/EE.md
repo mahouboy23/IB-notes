@@ -4,81 +4,50 @@ tags: EE
 
 # Extended essay
 
+***ENGLISH***
+## **Topic**: Comparing optimization algorithms for neural network hyperparameter tuning
 
-**Subject:** Computer science
- 
- **TOPIC:** Comparaison des deux algorithmes d'apprentissage automatique supervise de classification et de regression dans la recognition de condition medical.
- 
- >[!Research question:]
- >To what extent is the Logistic Regression algorithm precision and performance better than Linear Regression in the recognition of medical 
+### **Updated Research question:** How effective is particle swarm optimization compared to a genetic algorithm in optimizing the hyperparameters of a convolutional neural network for defect detection in industrial products?
 
-### *research question (French)*
-Dans quelle mesure la précision et la performance de l'algorithme de régression logistique est-elle meilleures que celles de la régression linéaire dans la reconnaissance de maladie d'apres leurs symptômes.
+The problem structure would be:
 
------ 
+1. Choose the MVTec AD dataset which contains high-resolution industrial product images with defect annotations. Divide it into training, validation and test sets.
+    
+2. Implement a convolutional neural network with appropriate layers for defect detection in the product images.
+    
+3. Define the hyperparameters to optimize: filter sizes, number of filters, dropout rate, learning rate, etc.
+    
+4. Implement the optimization algorithms:
 
-#### **The plan:** 
-1/ Introduction
+- Genetic algorithm
+- Particle swarm optimization
 
-Introduce the problem and the topic 
-  
-2/ Partie théorique
+5. For each algorithm:
 
--Define machine learning algorithms
+- Initialize the network with random hyperparameters
+- Train the network on the training set with the optimized hyperparameters
+- Calculate the validation accuracy on defect detection
 
--Classification machine learning algorithms
- a) Linear regression
- b) Logistic Regression
+6. Iterate the above steps for a fixed number of generations/iterations for both algorithms.
 
-3/ Méthodologie & Experience
+7. Analyze and compare:
 
-4/ Analyses & Conclusion 
+- The optimal hyperparameters found
+- The highest validation accuracy achieved for defect detection
+- The convergence speed of the two algorithms
 
-5/ Appendix
+8. Based on the analysis, determine whether particle swarm optimization is more effective than the genetic algorithm for optimizing the convolutional neural network for defect detection in the industrial product images. Explain any observed differences in performance.
 
-#### **The plan 2:** 
+***FRENCH***
+## **Sujet**: Comparaison d'algorithmes d'optimisation pour l'ajustement des hyperparamètres de réseau neuronal
 
-1.  [[Introduction draft]] :
+### **Question de recherche mise à jour:** Dans quelle mesure l'optimisation par essaim de particules est-elle efficace par rapport à un algorithme génétique pour optimiser les hyperparamètres d'un réseau neuronal convolutif pour la détection de défauts dans des produits industriels?
 
-  Briefly introduce the topic of medical data recognition and the importance of using machine learning algorithms for this task. 
-  Explain the purpose of the study and the research question.
-  Outline the structure of the essay
 
-2.  Background:
+## [[Learn ee]] 
 
--   Provide a brief overview of machine learning algorithms and their use in medical data recognition. [[background 1]]
--   Introduce Linear Regression and Logistic Regression as two commonly used algorithms for this task.
-  [[background 2]] 
--   Explain the key differences between these two algorithms and how they work.
-  [[background 3]] 
-3.  Methodology:
-[[Methodology]] 
--   Describe the data set used in the study, including the size and characteristics of the data.
--   Explain how the data was preprocessed and split into training and testing sets.
--   Describe the evaluation metrics used to measure the performance and precision of the algorithms.
+## [[Possible structure]] 
 
-4.  Results:
+## [[Experiment]] 
 
--   Present the results of the study, including the performance and precision of the Linear Regression and Logistic Regression algorithms on the medical data.
--   Discuss any trends or patterns observed in the results.
-
-5.  Discussion:
-
--   Interpret the results of the study and discuss the implications for the use of Linear Regression and Logistic Regression in medical data recognition.
--   Consider the limitations of the study and suggest directions for future research.
-
-6.  Conclusion:
-
--   Summarize the main findings of the study and restate the research question.
--   Discuss the extent to which the Linear Regression algorithm is more precise and performs better than Logistic Regression in the recognition of medical data
-
-### *NB* : Other potential algorithms to test :
-decision trees, random forests, and support vector machines.
-
-### [[REFERENCE]]
-
-[[Extended essay draft final]] 
-
-I am deeply interested in joining the Inspirit AI Scholars program because of my interest in artificial intelligence and its applications in various fields. The program provides a unique opportunity to learn from experts, which aligns perfectly with my goal to gain hands-on experience in this field. One of the primary reasons for my interest is my intrigue by the various applications of AI technology, such as the chatbot ChatGPT and Stable Diffusion, and I am excited to learn more about how they work. Additionally, I am pursuing studies in computer science and believe that the Inspirit AI Scholars program would provide me with valuable opportunities to develop my skills further. Although programming skills are not necessary for the program, I am eager to learn more about the technical aspects of AI.
-
-# [[New version EE]] 
+## [[EE NEW]] 
