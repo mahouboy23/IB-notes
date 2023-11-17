@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f9452336f18a028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn ee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
@@ -38,8 +26,41 @@
                 "file": "University shortlist.loom"
               }
             }
+          },
+          {
+            "id": "e486c675c7b3e07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EE NEW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "136fd182fc0bdc9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "723b4629c32f5cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concordia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
               "type": "markdown",
               "state": {
                 "file": "IB overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -120,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Concordia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Concordia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn ee.md"
+                "file": "Concordia.md"
               }
             }
           },
@@ -211,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learn ee.md",
+                "file": "Concordia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,15 +282,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9452336f18a028",
+  "active": "723b4629c32f5cef",
   "lastOpenFiles": [
+    "Concordia.md",
+    "EE NEW.md",
     "common core/EE.md",
+    "Learn ee.md",
+    "IB overview.md",
+    "University shortlist.loom",
     "New version EE.md",
     "REFERENCE.md",
     "Extended essay draft final.md",
-    "IB overview.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "University shortlist.loom",
     "Travaille d'une force.md",
     "Probabilité discrète.md",
     "Physics AI.md",
@@ -287,9 +311,6 @@
     "Force et Lois de Newton (Exemples de force).md",
     "Les equation de la cinématique a une dimension equation SUVAT.md",
     "Notion de cinématique.md",
-    "sl subjects/Physics.md",
-    "TOK Essay.md",
-    "sl subjects/Anglais Literrature.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
