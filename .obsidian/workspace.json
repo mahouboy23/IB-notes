@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Concordia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Concordia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Concordia.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Concordia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "723b4629c32f5cef",
   "lastOpenFiles": [
+    "Untitled.loom",
+    "Concordia.md",
+    "University shortlist.loom",
     "Notion de système.md",
     "Les méthodes de documentation.md",
     "exigences/Prérequis.md",
@@ -325,9 +328,6 @@
     "Architecture des ordinateurs.md",
     "Le cycle Fetch-Execute.md",
     "La mémoire RAM.md",
-    "La mémoire ROM.md",
-    "Le CPU.md",
-    "University shortlist.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
@@ -346,7 +346,6 @@
     "assets/Mesurer les inégalités économiques",
     "assets/Inflation et ses causes",
     "assets/L'equilibre a long terme",
-    "assets/L'équilibre a court terme",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
