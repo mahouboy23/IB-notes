@@ -21,9 +21,11 @@
             "id": "6a70ff46c1e5855e",
             "type": "leaf",
             "state": {
-              "type": "dataloom",
+              "type": "markdown",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "hl subjects/Computer science.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -60,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concordia.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concordia.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concordia.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -232,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concordia.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,14 +284,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723b4629c32f5cef",
+  "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
+    "IB overview.md",
+    "University shortlist.loom",
     "Concordia.md",
     "EE NEW.md",
     "common core/EE.md",
     "Learn ee.md",
-    "IB overview.md",
-    "University shortlist.loom",
     "New version EE.md",
     "REFERENCE.md",
     "Extended essay draft final.md",
@@ -310,7 +312,6 @@
     "Energie potentielles et énergie mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Les equation de la cinématique a une dimension equation SUVAT.md",
-    "Notion de cinématique.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
