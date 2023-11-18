@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,14 +287,15 @@
   },
   "active": "eadc6c669e6976c3",
   "lastOpenFiles": [
-    "Architecture des ordinateurs.md",
+    "La notion de problème.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
     "hl subjects/Computer science.md",
+    "Architecture des ordinateurs.md",
     "Notion de système.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "Protocoles et paquets de données.md",
     "Réseaux.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
@@ -302,7 +303,6 @@
     "Definition de L'abstraction.md",
     "Raisonnement simultané.md",
     "Raisonnement par abstraction.md",
-    "La notion de problème.md",
     "Langage de programmation.md",
     "Diagramme de flux; Organigramme.md",
     "Langue naturelle.md",
