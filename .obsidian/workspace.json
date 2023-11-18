@@ -23,8 +23,12 @@
             "id": "4cb9daf92ea89af1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mouvement harmonique simple.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -119,20 +123,21 @@
             }
           },
           {
-            "id": "91f2422dc317b946",
+            "id": "5b70e225457f9533",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IB overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mouvement harmonique simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mouvement harmonique simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mouvement harmonique simple.md"
+              }
             }
           },
           {
@@ -239,6 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Mouvement harmonique simple.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,6 +300,17 @@
   },
   "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
+    "Oscillation et Onde.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Cercle trigonométrique.md",
+    "Géométrie et Trigonométrie.md",
+    "hl subjects/Math AA.md",
+    "Puissance-Exponentielles-Logarithm.md",
+    "Excalidraw/montage tp 3.md",
+    "Excalidraw/montage tp.md",
+    "Excalidraw/Drawing 2022-11-18 09.09.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-18 12.21.56.excalidraw.md",
     "template/economie-.md",
     "Untitled 9.md",
     "Untitled 8.md",
@@ -303,19 +324,8 @@
     "Pensée informatique, résolution de problèmes et programmation.md",
     "La notion de problème.md",
     "Notion de système.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "Protocoles et paquets de données.md",
-    "Opérations fondamentales et opérations composées.md",
-    "Operations fondamentales d'un ordinateur.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
-    "L'abstraction et la programmation.md",
-    "Definition de L'abstraction.md",
-    "Raisonnement simultané.md",
-    "Raisonnement par abstraction.md",
-    "Langage de programmation.md",
-    "Diagramme de flux; Organigramme.md",
-    "Langue naturelle.md",
     "University shortlist.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
