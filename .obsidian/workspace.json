@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Réseaux.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4cb9daf92ea89af1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -63,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,8 +132,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,7 +239,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,17 +288,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eadc6c669e6976c3",
+  "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
-    "La notion de problème.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
+    "template/economie-.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Réseaux.md",
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
+    "Le cycle Fetch-Execute.md",
+    "La mémoire RAM.md",
+    "La mémoire ROM.md",
+    "Le CPU.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "La notion de problème.md",
     "Notion de système.md",
     "IB overview.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "Protocoles et paquets de données.md",
-    "Réseaux.md",
     "Opérations fondamentales et opérations composées.md",
     "Operations fondamentales d'un ordinateur.md",
     "TD- Pensée informatique résolution de problèmes et programmation.md",
@@ -306,14 +316,7 @@
     "Langage de programmation.md",
     "Diagramme de flux; Organigramme.md",
     "Langue naturelle.md",
-    "Notion de pseudocode.md",
     "University shortlist.loom",
-    "Concordia.md",
-    "EE NEW.md",
-    "common core/EE.md",
-    "Learn ee.md",
-    "New version EE.md",
-    "REFERENCE.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
