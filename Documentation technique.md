@@ -5,5 +5,5 @@ tags : mod cs
 Created: {{date}}
 
 ?
-Documentation du code, des algorithmes, des interfaces et des API. 
-<!--SR:!2022-11-30,8,230-->
+Documentation du code, des algorithmes, des interfaces et des API.
+<!--SR:!2023-12-05,17,230-->

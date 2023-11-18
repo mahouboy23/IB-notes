@@ -5,8 +5,8 @@ tags : mod cs
 Created: 9/27/22
 
 ?
-La documentation destinee aux utilisateur peut inclure une aide en ligne, une section FAQ sur le site web et des tutoriels video 
-<!--SR:!2022-11-26,4,210-->
+La documentation destinee aux utilisateur peut inclure une aide en ligne, une section FAQ sur le site web et des tutoriels video
+<!--SR:!2023-11-24,6,210-->
 
 
 Les 3 different type de documentation sont :

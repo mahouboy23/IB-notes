@@ -11,9 +11,11 @@
             "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md"
+                "file": "hl subjects/Computer science.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "Protocoles et paquets de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La notion de problème.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -234,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "La notion de problème.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,11 +285,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a70ff46c1e5855e",
+  "active": "eadc6c669e6976c3",
   "lastOpenFiles": [
-    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
+    "Notion de système.md",
     "IB overview.md",
+    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
+    "Protocoles et paquets de données.md",
+    "Réseaux.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "Opérations fondamentales et opérations composées.md",
+    "Operations fondamentales d'un ordinateur.md",
+    "TD- Pensée informatique résolution de problèmes et programmation.md",
+    "L'abstraction et la programmation.md",
+    "Definition de L'abstraction.md",
+    "Raisonnement simultané.md",
+    "Raisonnement par abstraction.md",
+    "La notion de problème.md",
+    "Langage de programmation.md",
+    "Diagramme de flux; Organigramme.md",
+    "Langue naturelle.md",
+    "Notion de pseudocode.md",
     "University shortlist.loom",
     "Concordia.md",
     "EE NEW.md",
@@ -296,22 +314,6 @@
     "Learn ee.md",
     "New version EE.md",
     "REFERENCE.md",
-    "Extended essay draft final.md",
-    "Travaille d'une force.md",
-    "Probabilité discrète.md",
-    "Physics AI.md",
-    "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
-    "Individual Oral.md",
-    "Macroéconomie.md",
-    "Politique monétaire.md",
-    "Pib.md",
-    "Méthode des dépenses (demande).md",
-    "Objectifs de la politique monétaire.md",
-    "sl subjects/Economie.md",
-    "Mécanique.md",
-    "Energie potentielles et énergie mécanique.md",
-    "Force et Lois de Newton (Exemples de force).md",
-    "Les equation de la cinématique a une dimension equation SUVAT.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
