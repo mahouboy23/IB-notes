@@ -5,7 +5,7 @@ tags : mod cs
 # Système
 ?
 Un système informatique est une entité dynamique, utilisée pour *résoudre des problèmes et interagir*
-<!--SR:!2022-11-29,7,210-->
+<!--SR:!2023-11-22,4,190-->
 
 ### composant d'un système : 
 ?
