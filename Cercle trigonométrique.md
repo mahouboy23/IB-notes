@@ -14,7 +14,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 0}=$::$0$
 <!--SR:!2023-11-21,11,284-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
-<!--SR:!2023-11-17,3,268-->
+<!--SR:!2023-11-27,9,288-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-11-17,3,268-->
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
@@ -45,20 +45,20 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-19,4,224-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-18,3,226-->
+<!--SR:!2023-11-20,2,206-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-20,5,246-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-11-17,7,210-->
+<!--SR:!2023-11-22,4,190-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-17,2,184-->
+<!--SR:!2023-11-22,4,184-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
-<!--SR:!2023-11-17,7,210-->
+<!--SR:!2023-11-22,4,190-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
-<!--SR:!2023-11-17,3,268-->
+<!--SR:!2023-11-28,10,288-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2023-11-20,10,264-->
 - $\tan(x+k\pi)=$::$\tan(x)$

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "La notion de problème.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "La notion de problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "La notion de problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "La notion de problème.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "La notion de problème.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,6 +286,8 @@
   },
   "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
     "University shortlist.loom",
     "Concordia.md",
@@ -295,13 +297,11 @@
     "New version EE.md",
     "REFERENCE.md",
     "Extended essay draft final.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Travaille d'une force.md",
     "Probabilité discrète.md",
     "Physics AI.md",
     "Excalidraw/Drawing 2023-11-08 11.19.58.excalidraw.md",
     "Individual Oral.md",
-    "hl subjects/Computer science.md",
     "Macroéconomie.md",
     "Politique monétaire.md",
     "Pib.md",

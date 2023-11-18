@@ -15,4 +15,4 @@ $$\LARGE{\frac{n!}{r!(n-r)!}}$$
 <!--SR:!2024-01-10,65,250-->
 
 $(1+x)^{n}$ avec $n$ négatif ou fractionnaire et $|x|<1$ =::$$\LARGE{\sum^\infty_{r=0}\binom{n}{r}x^{r}}$$
-<!--SR:!2023-11-18,3,208-->
+<!--SR:!2023-11-24,6,208-->

@@ -17,7 +17,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - Evénement composé :: a plusieurs issues
 <!--SR:!2023-11-17,3,287-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
-<!--SR:!2023-11-17,3,287-->
+<!--SR:!2023-11-27,9,287-->
 - Evénement contraire a A noté A' :: événement dont les issues n'appartiennent pas a A
 <!--SR:!2023-11-20,10,282-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
@@ -27,7 +27,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - Evénement certain :: toutes les issues
 <!--SR:!2023-11-17,3,287-->
 - Evénement impossible :: aucune issue
-<!--SR:!2023-11-17,3,287-->
+<!--SR:!2023-11-29,11,307-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
