@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Géométrie et Trigonométrie.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE NEW.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,8 +289,17 @@
   },
   "active": "eadc6c669e6976c3",
   "lastOpenFiles": [
-    "common core/EE.md",
+    "Géométrie et Trigonométrie.md",
+    "Cercle trigonométrique.md",
+    "Angles.md",
+    "Nombres complexes.md",
+    "Lois des sinus et cosinus.md",
+    "hl subjects/Math AA.md",
+    "Nombre et Algèbre.md",
     "IB overview.md",
+    "Mouvement harmonique simple.md",
+    "EE NEW.md",
+    "common core/EE.md",
     "Notion de système.md",
     "University shortlist.loom",
     "Concordia.md",
@@ -300,23 +309,14 @@
     "hl subjects/Computer science.md",
     "Réseaux.md",
     "Protocoles et paquets de données.md",
-    "Mouvement harmonique simple.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
-    "Cercle trigonométrique.md",
-    "Géométrie et Trigonométrie.md",
-    "hl subjects/Math AA.md",
     "Puissance-Exponentielles-Logarithm.md",
     "Excalidraw/montage tp 3.md",
     "Excalidraw/montage tp.md",
     "Excalidraw/Drawing 2022-11-18 09.09.24.excalidraw.md",
     "Excalidraw/Drawing 2023-11-18 12.21.56.excalidraw.md",
     "template/economie-.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Architecture des ordinateurs.md",
-    "Le cycle Fetch-Execute.md",
-    "La mémoire RAM.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
