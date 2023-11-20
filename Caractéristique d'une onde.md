@@ -16,4 +16,4 @@ Created: 2023-11-20
 ## Principe de Superposition
 Le principe de superposition indique que :: lorsque 2 signaux (ou ondes)se déplaçant en sens inverse se rencontrent, le déplacement net du milieu est égal à la somme des déplacements individuels des ondes et après s’être rencontre les signaux reprennent leur forme.  $U = u_1 + u_2$
 
-
+## Amplitude et intensité d’une onde (loi du carre des inverses)
