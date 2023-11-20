@@ -14,6 +14,6 @@ Created: 2023-11-20
 · Les rayons sont perpendiculaires aux fronts d’onde et sont orientés dans le sens de propagation de l’onde.
 
 ## Principe de Superposition
-Le principe de superposition indique que :: lorsque 2 signaux se rencontrent que le déplacement net du milieu est égal à la somme des déplacements individuels des ondes et après s’être rencontre les signaux reprennent leur forme.  $U = u_1 + u_2$
+Le principe de superposition indique que :: lorsque 2 signaux (ou ondes)se déplaçant en sens inverse se rencontrent, le déplacement net du milieu est égal à la somme des déplacements individuels des ondes et après s’être rencontre les signaux reprennent leur forme.  $U = u_1 + u_2$
 
 
