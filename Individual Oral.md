@@ -20,3 +20,5 @@ The global issue that is chose was the consequences of war. I narrowed it by cho
 2. What is the summary of the "whole" literary work you've chosen? 
 - the summary of the extract id about who put this together, i am a roof to the moon, an someone said, someone said. Ay bust it to the dame, Watch comme out like lamp hit stop, that a rap.
 - The description 
+
+3. this extract of the literary work enlightens 

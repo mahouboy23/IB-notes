@@ -4,60 +4,27 @@ tags : mod Physique
 Created: 2023-05-13
 
 
-### **Topic:** How does the viscosity of a fluid affect laminar flow rate through a tube?
+### **Sujet:**  Comment la longueur d'un tube de vidange d'un réservoir affecte le débit d'écoulement (laminaire ou turbulent).
 
-Relates to subtopic 2.2 - Forces 
+En rapport avec le thème 2.2 - Forces
 
-*Experimental Setup*: A simulation models laminar flow through a constant diameter tube. It allows adjustment of fluid viscosity and measurement of flow rate.
+_Dispositif expérimental_: Un réservoir est percé au fond d'un trou relié à un tube de longueur variable. La hauteur d'eau est mesurée en fonction du temps ainsi que la vitesse à la sortie du tube.
 
-*Independent Variable*: Viscosity of the fluid
+_Variable indépendante_ : Longueur du tube de vidange
 
-*Controlled Variables*: Tube diameter, temperature (kept constant in simulation)
+_Variables contrôlées_ : Diamètre du tube, viscosité et densité du fluide (eau), température
 
-*Dependent Variable*: Flow rate of fluid through the tube
+_Variable dépendante_ : Vitesse d'écoulement du fluide à la sortie du tube
 
-Procedure:
+_Méthode :_
 
-1. Set up tube and fluid at a fixed temperature in simulator
+1. Mesurer la section du tube de vidange.
     
-2. Systematically increase the viscosity of the fluid
+2. Effectuer des vidanges du réservoir pour différentes longueurs de tube.
     
-3. Measure flow rate time for a fixed volume to pass through
+3. Mesurer la hauteur d'eau en fonction du temps et en déduire la vitesse.
     
-4. Record viscosity and flow rate
-    
-5. Plot graph of viscosity vs flow rate
-    
-6. Analyze relationship between viscous resistance and rate of laminar flow
-    
+4. Comparer les résultats aux modèles d'écoulement parfait et visqueux.
 
-This experiment directly examines how viscosity affects laminar flow according to Poiseuille's Law. 
-### **Topic:** Comment la viscosité d'un fluide affecte-t-elle le débit laminaire à travers un tube ?
-
-En rapport avec le sous-thème 2.2 - Forces 
-
-*Dispositif expérimental* : Une simulation modélise l'écoulement laminaire à travers un tube de diamètre constant. Elle permet d'ajuster la viscosité du fluide et de mesurer le débit.
-
-*Variable indépendante Viscosité du fluide
-
-*Variables contrôlées* : Diamètre du tube, température (maintenue constante dans la simulation)
-
-*Variable dépendante* : diamètre du tube, température (maintenue constante dans la simulation) Débit du fluide dans le tube
-
-Procédure :
-
-1. Installer le tube et le fluide à une température fixe dans le simulateur.
-    
-2. Augmenter systématiquement la viscosité du fluide
-    
-3. Mesurer le débit et le temps de passage d'un volume fixe.
-    
-4. Enregistrer la viscosité et le débit
-    
-5. Tracer le graphique de la viscosité en fonction du débit
-    
-6. Analyser la relation entre la résistance visqueuse et le débit laminaire
-    
-
-Cette expérience examine directement comment la viscosité affecte l'écoulement laminaire selon la loi de Poiseuille. 
+**Hypothèse/déduction** :  Selon la longueur du tube, on passe d'un régime d'écoulement parfait à un régime visqueux laminaire. L'influence de la viscosité sur la perte de charge sera mit en évidence.
 

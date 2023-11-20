@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eadc6c669e6976c3",
+            "id": "e486c675c7b3e07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Individual Oral.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4cb9daf92ea89af1",
+            "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géométrie et Trigonométrie.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "e486c675c7b3e07d",
+            "id": "4cb9daf92ea89af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE NEW.md",
+                "file": "Géométrie et Trigonométrie.md",
                 "mode": "source",
                 "source": false
               }
@@ -291,14 +291,15 @@
   "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
     "sl subjects/Physics.md",
-    "Oscillation et Onde.md",
-    "IB overview.md",
-    "Protocoles et paquets de données.md",
-    "common core/EE.md",
-    "Possible structure.md",
-    "EE NEW.md",
+    "Physics AI.md",
     "Individual Oral.md",
     "sl subjects/Anglais Literrature.md",
+    "IB overview.md",
+    "EE NEW.md",
+    "common core/EE.md",
+    "Oscillation et Onde.md",
+    "Protocoles et paquets de données.md",
+    "Possible structure.md",
     "Nombres complexes.md",
     "Géométrie et Trigonométrie.md",
     "Cercle trigonométrique.md",
@@ -317,7 +318,6 @@
     "Réseaux.md",
     "Puissance-Exponentielles-Logarithm.md",
     "Excalidraw/montage tp 3.md",
-    "Excalidraw/montage tp.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
