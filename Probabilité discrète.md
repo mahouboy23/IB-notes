@@ -9,13 +9,13 @@ Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-01-23,78,290-->
 On appelle événement :: toute partie de l'univers (sous-ensemble)
-<!--SR:!2023-11-17,3,269-->
+<!--SR:!2023-11-22,2,249-->
 
 ### Définitions
 - Evénement élémentaire :: a une seule issue
 <!--SR:!2024-01-22,77,290-->
 - Evénement composé :: a plusieurs issues
-<!--SR:!2023-11-17,3,287-->
+<!--SR:!2023-12-01,11,307-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2023-11-27,9,287-->
 - Evénement contraire a A noté A' :: événement dont les issues n'appartiennent pas a A
@@ -31,7 +31,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-11-17,3,267-->
+<!--SR:!2023-11-29,9,287-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a :: équiprobabilité ou équi-répartition.
 <!--SR:!2023-11-22,12,302-->
 
@@ -62,7 +62,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-12-05,15,282-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-11-18,5,243-->
+<!--SR:!2023-11-23,3,223-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-11-21,1,227-->

@@ -43,13 +43,13 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 <!--SR:!2023-11-24,4,184-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
-<!--SR:!2023-11-19,4,224-->
+<!--SR:!2023-12-02,12,244-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-20,2,206-->
+<!--SR:!2023-11-24,4,206-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
-<!--SR:!2023-11-20,5,246-->
+<!--SR:!2023-12-04,14,246-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-22,4,190-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
@@ -60,7 +60,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(x+2k\pi)=$::$\cos(x)$
 <!--SR:!2023-11-28,10,288-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
-<!--SR:!2023-11-20,10,264-->
+<!--SR:!2023-12-21,31,284-->
 - $\tan(x+k\pi)=$::$\tan(x)$
 <!--SR:!2023-11-28,12,289-->
 ## Propriétés angles opposés
