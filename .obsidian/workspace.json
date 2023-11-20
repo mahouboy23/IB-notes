@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Physics AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Physics AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral.md"
+                "file": "Physics AI.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Physics AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,11 +288,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
+    "Individual Oral.md",
     "Physics AI.md",
     "sl subjects/Physics.md",
-    "Individual Oral.md",
     "sl subjects/Anglais Literrature.md",
     "IB overview.md",
     "EE NEW.md",
