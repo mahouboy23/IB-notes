@@ -8,7 +8,7 @@ Created: 2023-10-13
 - $P(X=x)$=::$f(x)$
 <!--SR:!2023-11-21,8,250-->
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
-<!--SR:!2023-11-20,10,270-->
+<!--SR:!2023-12-24,34,290-->
 - Médiane de $X$ est:: la valeur de $x_{i}$ pour laquelle $P_{1}+P_{2}...+P_{i}\geq \frac{1}{2}$ pour la première fois.
 <!--SR:!2023-11-27,9,279-->
 - Moyenne peut être aussi appelé:: Espérance.

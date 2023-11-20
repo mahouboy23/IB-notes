@@ -19,13 +19,13 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2023-11-27,9,287-->
 - Evénement contraire a A noté A' :: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-11-20,10,282-->
+<!--SR:!2023-12-22,32,302-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-12-11,35,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
 <!--SR:!2023-11-21,11,282-->
 - Evénement certain :: toutes les issues
-<!--SR:!2023-11-17,3,287-->
+<!--SR:!2023-11-30,10,307-->
 - Evénement impossible :: aucune issue
 <!--SR:!2023-11-29,11,307-->
 
@@ -41,7 +41,7 @@ On appelle événement :: toute partie de l'univers (sous-ensemble)
 - $P(0)$=:: 0
 <!--SR:!2023-11-22,9,303-->
 - $P(A)+P(A')$=:: 1
-<!--SR:!2023-11-17,7,262-->
+<!--SR:!2023-12-11,21,282-->
 - $P(A\cup B)$=:: $P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-12-08,32,270-->
 - $P(A/B)$=:: $\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
@@ -59,12 +59,12 @@ Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et
 <!--SR:!2024-01-21,76,290-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
-<!--SR:!2023-11-20,5,262-->
+<!--SR:!2023-12-05,15,282-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 <!--SR:!2023-11-18,5,243-->
 
-$P(A\cap B')$=::$P(A)-P(A\cap B)$>)
-<!--SR:!2023-11-17,2,247-->
+$P(A\cap B')$=::$P(A)-P(A\cap B)$
+<!--SR:!2023-11-21,1,227-->
 
 $A\Delta B$ (difference symetrique)=: $(A \cap B') \cup (A' \cap B)$ 

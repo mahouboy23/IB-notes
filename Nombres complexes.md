@@ -70,7 +70,7 @@ $$\Large{zz^{*}}$$
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20231002063707.png]]
-<!--SR:!2023-11-17,3,252-->
+<!--SR:!2023-11-27,7,252-->
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
 <!--SR:!2023-11-24,11,246-->

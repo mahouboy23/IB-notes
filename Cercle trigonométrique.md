@@ -16,7 +16,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-27,9,288-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
-<!--SR:!2023-11-17,3,268-->
+<!--SR:!2023-12-02,12,288-->
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-11-21,11,284-->
 - $\Large{\sin 90}=$::$1$
@@ -26,7 +26,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-11-20,7,264-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
-<!--SR:!2023-11-19,9,284-->
+<!--SR:!2023-12-19,29,304-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-22,7,264-->
 - $\Large{\cos 90}=$::$0$
@@ -35,7 +35,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ---
 ### Autour de $\pi$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-17,1,209-->
+<!--SR:!2023-11-21,1,189-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-17,1,228-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
@@ -67,12 +67,12 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-01-11,66,250-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
-<!--SR:!2023-11-17,3,268-->
+<!--SR:!2023-12-02,12,288-->
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
-<!--SR:!2023-11-17,2,209-->
+<!--SR:!2023-11-24,4,229-->
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 <!--SR:!2023-12-01,15,266-->
