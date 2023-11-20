@@ -5,9 +5,9 @@ tags : mod cs
 Created: 2022-09-28
 
 ?
-1. Suppression accidentelle 
+1. Suppression accidentelle
     **prevention** : Utilisation d'un logiciel de recuperation de fichiers
-<!--SR:!2023-01-14,29,190-->
+<!--SR:!2024-01-13,54,190-->
 
 2. Mauvais système d'organisation du stockage des données 
    **prevention** : Restructurer l'organisation des données  
