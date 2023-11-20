@@ -7,4 +7,4 @@ Created: 2023-11-08
 2. [[Ondes progressives périodiques]] 
 3. [[Caractéristique d'une onde]]
 4. [[Comportement des ondes]]
-5. [[Ondes static]]
+5. [[Ondes static]] 

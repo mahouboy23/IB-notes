@@ -30,3 +30,7 @@ L'intensité d'une onde est proportionnelle au carré de son amplitude (I∝A2).
 I et Io intensité de l’onde à l’origine et à la distance x
 
 Plus on est loin de l’origine plus son intensité est faible (loi du carre de l’inverse)
+
+## Polarisation
+
+### Loi de Malus
