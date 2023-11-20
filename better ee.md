@@ -3,13 +3,16 @@ tags:
   - mod
   - EE
 ---
-Created: 2023-09-05
-[[better ee]] 
+Created: 2023-11-20
+
 ## Introduction
 
-La détection des défauts dans les produits industriels tels que les semi-conducteurs et les pièces de machines est cruciale pour le contrôle de la qualité et l'amélioration des processus. Cependant, la détection manuelle des défauts est fastidieuse, incohérente et peu fiable. Les réseaux neuronaux convolutifs (CNN) sont apparus comme une technique prometteuse pour la détection visuelle automatisée des défauts. Mais les performances des CNN dépendent fortement du réglage approprié des hyperparamètres. Cet **essai** vise à comparer deux algorithmes d'optimisation - l'optimisation par essaims de particules (PSO) et les algorithmes génétiques (GA) - pour optimiser les hyperparamètres d'une architecture CNN pour la détection des défauts dans les images de produits industriels.
-
-Les CNN ont révolutionné la vision par ordinateur grâce à leur capacité à apprendre automatiquement des hiérarchies spatiales de caractéristiques. Cependant, l'apprentissage des CNN nécessite un réglage approfondi des hyperparamètres, qui est souvent effectué manuellement par essais et erreurs. Les algorithmes d'optimisation tels que PSO et GA peuvent automatiser ce processus en recherchant intelligemment l'espace des hyperparamètres. Le PSO s'inspire du comportement social d'organismes tels que les volées d'oiseaux, tandis que les GA imitent l'évolution biologique. Cet essai évaluera leur efficacité dans la recherche des hyperparamètres CNN optimaux pour maximiser la précision de la détection des défauts.
+La recherche de performances optimales au sein des réseaux neuronaux est un défi complexe et essentiel de l'apprentissage automatique, en particulier dans leur application à la détection des défauts industriels. Les subtilités ne résident pas seulement dans la structure, mais aussi dans les nuances de la paramétrisation, où la sélection et le réglage fin des hyperparamètres sont primordiaux. Ces choix influencent considérablement la capacité du réseau à discerner avec précision les défauts dans les produits industriels, soulignant le rôle crucial joué par les algorithmes d'optimisation dans ce domaine.
+Cet essai se propose d'entreprendre une exploration dédiée à l'évaluation de l'efficacité des algorithmes d'optimisation dans l'ajustement des hyperparamètres au sein des réseaux neuronaux convolutifs (CNN) conçus explicitement pour la détection des défauts industriels. Au cœur de cette investigation se trouve une évaluation critique de l'efficacité de l'optimisation par essaims de particules (PSO) par rapport aux algorithmes génétiques (GA) dans ce domaine spécialisé.
+Au fond, cette recherche vise à répondre à une question essentielle : "Dans quelle mesure l'optimisation des essaims de particules est-elle plus efficace que les algorithmes génétiques pour optimiser les hyperparamètres des réseaux neuronaux convolutifs en vue de la détection précise des défauts dans les produits industriels ? Cette question fondamentale sert de fil conducteur, orientant l'objectif de cette exploration vers une analyse comparative de deux méthodologies d'optimisation de premier plan dans le contexte de la détection des défauts industriels.
+L'objectif principal de cette enquête est de combler une lacune dans la recherche actuelle en fournissant des preuves empiriques et des informations précieuses sur les disparités de performance entre PSO et GA concernant l'optimisation des hyperparamètres CNN pour la détection des défauts industriels. Ces résultats devraient contribuer de manière substantielle à l'avancement des méthodologies d'optimisation et offrir des implications tangibles et pratiques pour les industries qui dépendent d'une identification précise des défauts.
+Cet essai entreprend un examen méthodique en utilisant divers ensembles de données et mesures de performance pour réaliser cet ambitieux projet. Cette évaluation rigoureuse vise à évaluer de manière exhaustive l'efficacité de l'OSP et de l'AG dans l'optimisation des hyperparamètres du CNN conçus explicitement pour la détection des défauts industriels. Les résultats attendus visent à mettre en lumière les forces et les limites de chaque algorithme, ouvrant la voie à des méthodologies améliorées dans la détection des défauts industriels.
+Cette recherche est très prometteuse et devrait s'étendre au-delà de son champ d'application immédiat. Les résultats peuvent aider les programmeurs à affiner les réseaux neuronaux LSTM existants et futurs, en soulignant le rôle essentiel de l'essai des données de séries temporelles. Les résultats n'amplifient pas seulement la stabilité pour les investisseurs, mais offrent également une vision prospective des événements plausibles dans ce domaine imprévisible.
 
 ## Contexte
 
@@ -35,26 +38,3 @@ Le PSO s'inspire du mouvement collectif d'organismes tels que la volée d'oiseau
 Les AG sont basés sur le processus de sélection naturelle. Une population de solutions candidates, appelées chromosomes, est maintenue. À chaque génération, l'aptitude des chromosomes est évaluée et les plus aptes sont sélectionnés pour le croisement et la mutation afin de produire la progéniture de la génération suivante. Le croisement combine des parties de deux chromosomes, tandis que la mutation introduit des changements aléatoires. Au fil des générations successives, l'aptitude moyenne de la population tend à augmenter et à converger vers des solutions optimales. Mais les AG peuvent être coûteux en termes de calcul en raison des évaluations de l'aptitude.
 
 ## Méthodologie et expérience
-
-Pour évaluer l'efficacité du PSO et des AG pour l'optimisation des hyperparamètres de CNN, la procédure suivante a été suivie :
-
-1. Choix du jeu de données MVTEC contenant des images de produits industriels défectueux et non défectueux issues de 15 catégories.
-    
-2. Conception d'une architecture CNN pour la détection de défauts.
-    
-3. Implémentation du PSO et des AG pour chercher la configuration optimale des hyperparamètres à optimiser tels que le taux d'apprentissage et le taux de dropout.
-    
-4. Entraînement des modèles CNN avec les hyperparamètres optimaux.
-    
-5. Évaluation et comparaison des performances des modèles optimisés.
-    
-
-Le jeu de données MVTEC Anomaly Detection a été utilisé. Il contient des images de qualité industrielle de 15 catégories de produits présentant divers défauts, avec séparation en ensembles d'entraînement, validation et test. Les images présentent une grande variété de défauts réalistes tels que des rayures, des impacts ou des infiltrations. La résolution des images varie selon les catégories de 64x64 à 1024x1024 pixels.
-
-Un CNN à 5 couches de convolution et 3 couches complètement connectées a été conçu pour traiter ce jeu de données. Des filtres convolutionnels de taille 3x3 ont été appliqués avec un taux de 0,5 dans les couches de dropout pour prévenir le surapprentissage. La fonction d'activation ReLU a été choisie pour sa rapidité de calcul. En sortie, deux unités fully-connected avec l'activation sigmoid prédisent la présence ou l'absence de défaut à chaque pixel. L'entropie binaire croisée mesure l'erreur de détection à minimiser.
-
-Les hyperparamètres à optimiser sont le taux d'apprentissage initial, le taux de dropout et les tailles de filtre. Le PSO et les AG ont été implémentés dans TensorFlow en Python. Le PSO maintient un essaim de 50 particules représentant des configurations d'hyperparamètres, avec des positions et vitesses mises à jour à chaque itération. Les AG codent les hyperparamètres dans des chromosomes, et opèrent sur une population de 100 individus sur 50 générations avec sélection élitiste, croisement à un point et mutation ponctuelle.
-
-Ces algorithmes évaluent la précision du CNN correspondant sur le lot de validation comme métrique de fitness. Le meilleur individu final définit la configuration optimale. Celle-ci entraîne alors le modèle CNN sur 10 epochs, évalué sur la validation à chaque fois. Enfin, les performances sur le lot de test du meilleur modèle sélectionné sont mesurées.
-
-Cette méthodologie permet de comparer de façon approfondie le PSO et les AG pour l'optimisation des CNN de détection de défauts industriels, en s'assurant que la conception, l'implémentation et les procédures d'évaluation soient bien équitables entre les deux algorithmes.

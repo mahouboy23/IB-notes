@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics AI.md",
+                "file": "better ee.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment.md",
+                "file": "better ee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment.md",
+                "file": "better ee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment.md"
+                "file": "better ee.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Experiment.md",
+                "file": "better ee.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,10 +288,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eadc6c669e6976c3",
+  "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
-    "common core/EE.md",
+    "Experiment.md",
+    "better ee.md",
     "EE NEW.md",
+    "common core/EE.md",
+    "IB overview.md",
+    "Physics AI.md",
     "Individual Oral.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
@@ -299,9 +303,7 @@
     "assets/Caractéristique d'une onde",
     "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Géométrie et Trigonométrie.md",
-    "Physics AI.md",
     "sl subjects/Anglais Literrature.md",
     "Protocoles et paquets de données.md",
     "Possible structure.md",
@@ -318,7 +320,6 @@
     "Untitled.loom",
     "Les méthodes de documentation.md",
     "exigences/Prérequis.md",
-    "hl subjects/Computer science.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
