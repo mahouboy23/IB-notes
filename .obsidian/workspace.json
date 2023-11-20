@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Oscillation et Onde.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristique d'une onde.md"
+                "file": "Experiment.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Experiment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,8 +288,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb9daf92ea89af1",
+  "active": "eadc6c669e6976c3",
   "lastOpenFiles": [
+    "common core/EE.md",
+    "EE NEW.md",
+    "Individual Oral.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
@@ -299,10 +302,7 @@
     "IB overview.md",
     "Géométrie et Trigonométrie.md",
     "Physics AI.md",
-    "Individual Oral.md",
     "sl subjects/Anglais Literrature.md",
-    "EE NEW.md",
-    "common core/EE.md",
     "Protocoles et paquets de données.md",
     "Possible structure.md",
     "Nombres complexes.md",
