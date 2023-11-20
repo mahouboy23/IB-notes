@@ -17,3 +17,16 @@ Created: 2023-11-20
 Le principe de superposition indique que :: lorsque 2 signaux (ou ondes)se déplaçant en sens inverse se rencontrent, le déplacement net du milieu est égal à la somme des déplacements individuels des ondes et après s’être rencontre les signaux reprennent leur forme.  $U = u_1 + u_2$
 
 ## Amplitude et intensité d’une onde (loi du carre des inverses)
+L'amplitude et l'intensité d'une onde dépend de son énergie. $\frac{1}{2}kA^2$ 
+
+L’intensité d’une onde est la puissance par unité de surface. I = P/S
+
+La puissance est le taux de variation de l’énergie (E = Pt)
+
+L'intensité d'une onde est proportionnelle au carré de son amplitude (I∝A2).
+
+ I∝ 1/x2
+
+I et Io intensité de l’onde à l’origine et à la distance x
+
+Plus on est loin de l’origine plus son intensité est faible (loi du carre de l’inverse)
