@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "sl subjects/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "sl subjects/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "sl subjects/Physics.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "sl subjects/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,19 +288,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eadc6c669e6976c3",
+  "active": "6a70ff46c1e5855e",
   "lastOpenFiles": [
+    "Oscillation et Onde.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Protocoles et paquets de données.md",
+    "common core/EE.md",
+    "Possible structure.md",
+    "EE NEW.md",
+    "Individual Oral.md",
+    "sl subjects/Anglais Literrature.md",
+    "Nombres complexes.md",
     "Géométrie et Trigonométrie.md",
     "Cercle trigonométrique.md",
     "Angles.md",
-    "Nombres complexes.md",
     "Lois des sinus et cosinus.md",
     "hl subjects/Math AA.md",
     "Nombre et Algèbre.md",
-    "IB overview.md",
     "Mouvement harmonique simple.md",
-    "EE NEW.md",
-    "common core/EE.md",
     "Notion de système.md",
     "University shortlist.loom",
     "Concordia.md",
@@ -308,15 +315,9 @@
     "exigences/Prérequis.md",
     "hl subjects/Computer science.md",
     "Réseaux.md",
-    "Protocoles et paquets de données.md",
-    "Oscillation et Onde.md",
-    "sl subjects/Physics.md",
     "Puissance-Exponentielles-Logarithm.md",
     "Excalidraw/montage tp 3.md",
     "Excalidraw/montage tp.md",
-    "Excalidraw/Drawing 2022-11-18 09.09.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-18 12.21.56.excalidraw.md",
-    "template/economie-.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
