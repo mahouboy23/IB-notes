@@ -20,4 +20,4 @@ Created: 2023-10-02
 - Longueur d'un arc=::$$\Large{l=\theta r}$$
 <!--SR:!2023-11-22,4,234-->
 - Air d'un secteur=::$$\Large{A=\frac{\theta r^{2}}{2}}$$
-<!--SR:!2023-11-19,4,212-->
+<!--SR:!2023-11-28,8,212-->

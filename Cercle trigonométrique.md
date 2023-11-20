@@ -24,7 +24,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-11-21,11,284-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2023-11-20,7,264-->
+<!--SR:!2023-12-09,19,264-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-12-19,29,304-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
@@ -37,11 +37,11 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-21,1,189-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
-<!--SR:!2023-11-17,1,228-->
+<!--SR:!2023-11-21,1,208-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-27,12,246-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-17,2,184-->
+<!--SR:!2023-11-24,4,184-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-19,4,224-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
