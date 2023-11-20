@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géométrie et Trigonométrie.md",
+                "file": "Oscillation et Onde.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Oscillation et Onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Oscillation et Onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Oscillation et Onde.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Oscillation et Onde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,20 +288,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a70ff46c1e5855e",
+  "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
-    "Individual Oral.md",
-    "Physics AI.md",
+    "Ondes progressives périodiques.md",
+    "Oscillation et Onde.md",
     "sl subjects/Physics.md",
-    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "Géométrie et Trigonométrie.md",
+    "Physics AI.md",
+    "Individual Oral.md",
+    "sl subjects/Anglais Literrature.md",
     "EE NEW.md",
     "common core/EE.md",
-    "Oscillation et Onde.md",
     "Protocoles et paquets de données.md",
     "Possible structure.md",
     "Nombres complexes.md",
-    "Géométrie et Trigonométrie.md",
     "Cercle trigonométrique.md",
     "Angles.md",
     "Lois des sinus et cosinus.md",
@@ -317,7 +318,6 @@
     "hl subjects/Computer science.md",
     "Réseaux.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "Excalidraw/montage tp 3.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
