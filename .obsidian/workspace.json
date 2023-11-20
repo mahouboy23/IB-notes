@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Caractéristique d'une onde.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Caractéristique d'une onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Caractéristique d'une onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscillation et Onde.md"
+                "file": "Caractéristique d'une onde.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Caractéristique d'une onde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,8 +290,9 @@
   },
   "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
-    "Ondes progressives périodiques.md",
     "Oscillation et Onde.md",
+    "Caractéristique d'une onde.md",
+    "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Géométrie et Trigonométrie.md",
@@ -317,7 +318,6 @@
     "exigences/Prérequis.md",
     "hl subjects/Computer science.md",
     "Réseaux.md",
-    "Puissance-Exponentielles-Logarithm.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
