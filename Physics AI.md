@@ -2,8 +2,6 @@
 tags : mod Physique
 ---
 Created: 2023-05-13
-
-
 ### **Sujet:**  Comment la longueur d'un tube de vidange d'un réservoir affecte le débit d'écoulement (laminaire ou turbulent).
 
 En rapport avec le thème 2.2 - Forces
