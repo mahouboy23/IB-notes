@@ -2,6 +2,8 @@
 tags : mod Physique
 ---
 Created: 2023-05-13
+
+I want you to adapt my physic internal assessment 
 ### **Topic:** How does the viscosity of a fluid affect laminar flow rate through a tube?
 
 Relates to subtopic 2.2 - Forces 
