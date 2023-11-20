@@ -9,6 +9,6 @@ Created: 2023-11-20
 · Peuvent être des lignes droites ou des courbes.
 · La distance entre les fronts d'onde successifs est la longueur d'onde de l'onde.
 
- **Rayons** :: C'est des droit perpendiculaire au fronts d'ondes et que sont diriges dans le sens de propagation
+ **Rayons** :: C'est des droit perpendiculaire au fronts d'ondes et que sont diriges dans le sens de propagation.
 · Lignes qui indiquent la direction de propagation des ondes.
 · Les rayons sont perpendiculaires aux fronts d’onde et sont orientés dans le sens de propagation de l’onde.
