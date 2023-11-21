@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polynome.md",
+                "file": "Polynôme.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynome.md",
+                "file": "Polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynome.md",
+                "file": "Polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynome.md"
+                "file": "Polynôme.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynome.md",
+                "file": "Polynôme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +291,7 @@
   "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
     "Nombre et Algèbre.md",
-    "Polynome.md",
+    "Polynôme.md",
     "hl subjects/Math AA.md",
     "Fonctions.md",
     "Géométrie et Trigonométrie.md",

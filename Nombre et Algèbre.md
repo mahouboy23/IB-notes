@@ -7,4 +7,4 @@ Created: 2023-10-02
 # 2. [[Séries et Séquences]]
 # 3. [[Théorème Binomial]]
 # 4. [[Nombres complexes]]
-# 5. [[Polynome]]  
+# 5. [[Polynôme]]  
