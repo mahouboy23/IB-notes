@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "136fd182fc0bdc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hl subjects/Français B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4cb9daf92ea89af1",
             "type": "leaf",
             "state": {
@@ -52,16 +64,6 @@
                 "file": "better ee.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "136fd182fc0bdc9a",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "University shortlist.loom"
               }
             }
           }
@@ -289,6 +291,14 @@
   },
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "Work FR 1.md",
+    "test fr.md",
+    "Le Cid.md",
+    "Mademba.md",
+    "IB overview.md",
+    "University shortlist.loom",
+    "Exploration francais.md",
     "Polynôme.md",
     "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
@@ -296,10 +306,7 @@
     "Géométrie et Trigonométrie.md",
     "Statistique et Probabilité.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "IB overview.md",
     "Oscillation et Onde.md",
-    "Exploration francais.md",
-    "hl subjects/Français B.md",
     "sl subjects/Anglais Literrature.md",
     "Individual Oral.md",
     "Experiment.md",
@@ -313,11 +320,6 @@
     "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
     "Protocoles et paquets de données.md",
-    "Possible structure.md",
-    "Nombres complexes.md",
-    "Cercle trigonométrique.md",
-    "Angles.md",
-    "University shortlist.loom",
     "Untitled.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
