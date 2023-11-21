@@ -12,14 +12,17 @@ Created: 2023-11-21
 - $\frac{P(x)}{x-k}$=::$Q(x)$
 <!--SR:!2023-11-22,1,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors il faut que:: $P\left(\frac{b}{a}\right)=0$
+<!--SR:!2023-11-22,1,230-->
 ## Théorème des restes
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2023-11-24,3,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
+<!--SR:!2023-11-22,1,230-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-11-22,1,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
+<!--SR:!2023-11-22,1,230-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
