@@ -27,4 +27,5 @@ En Conclusion, cet extrait offre un aperçu sur les principaux enjeux du roman, 
 
 ------
 
-Extrait 2: **lol**
+Extrait 2: **Mademba**
+
