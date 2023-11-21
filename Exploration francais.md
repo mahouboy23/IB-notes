@@ -27,4 +27,4 @@ En Conclusion, cet extrait offre un aperçu sur les principaux enjeux du roman, 
 
 ------
 
-Extrait 2: ****
+Extrait 2: **lol**
