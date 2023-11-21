@@ -12,7 +12,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-11-21,11,284-->
+<!--SR:!2023-12-26,35,304-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-27,9,288-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
@@ -22,7 +22,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 90}=$::$1$
 <!--SR:!2023-11-23,10,284-->
 - $\Large{\cos 0}=$::$\Large{1}$
-<!--SR:!2023-11-21,11,284-->
+<!--SR:!2023-12-27,36,304-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-12-09,19,264-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
