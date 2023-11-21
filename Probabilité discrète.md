@@ -65,6 +65,6 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2023-11-23,3,223-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2023-11-21,1,227-->
+<!--SR:!2023-11-22,1,207-->
 
 $A\Delta B$ (difference symetrique)=: $(A \cap B') \cup (A' \cap B)$ 

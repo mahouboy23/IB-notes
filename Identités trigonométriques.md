@@ -12,13 +12,13 @@ Created: 2023-10-02
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
 <!--SR:!2023-12-10,34,250-->
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
-<!--SR:!2023-11-21,11,288-->
+<!--SR:!2024-01-01,41,308-->
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
 <!--SR:!2023-11-23,7,268-->
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 <!--SR:!2023-12-04,28,230-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
-<!--SR:!2023-11-21,8,285-->
+<!--SR:!2023-12-17,26,305-->
 - $\tan(a-b)=$::$\frac{\tan a-\tan b}{1+\tan a\tan b}$
 <!--SR:!2023-11-29,9,225-->
 ## Formules de multiplication
