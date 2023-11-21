@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Exploration francais.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "better ee.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "better ee.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "better ee.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "better ee.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,15 +287,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a70ff46c1e5855e",
+  "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "IB overview.md",
+    "sl subjects/Anglais Literrature.md",
+    "Individual Oral.md",
     "Experiment.md",
     "better ee.md",
     "EE NEW.md",
     "common core/EE.md",
-    "IB overview.md",
     "Physics AI.md",
-    "Individual Oral.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
@@ -304,7 +305,6 @@
     "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
     "Géométrie et Trigonométrie.md",
-    "sl subjects/Anglais Literrature.md",
     "Protocoles et paquets de données.md",
     "Possible structure.md",
     "Nombres complexes.md",
@@ -319,7 +319,6 @@
     "Concordia.md",
     "Untitled.loom",
     "Les méthodes de documentation.md",
-    "exigences/Prérequis.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",

@@ -24,3 +24,7 @@ Son rêve contraste fortement avec sa condition présente et révèle ses aspira
 A travers ce texte, l'auteur donne les emotions du personnage et nous fait pénétrer dans ses rêves intimes. Le style descriptif crée une atmosphère propice à la rêverie.
 On perçoit la psychologie complexe de Mademba, retenu entre la résignation devant son destin et le désir de s'élever au-dessus de sa condition. 
 En Conclusion, cet extrait offre un aperçu sur les principaux enjeux du roman, à savoir la solitude, la quête d'émancipation sociale et la volonté d'etre libre. 
+
+------
+
+Extrait 2: ****
