@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "Polynôme.md"
               }
             }
           },
@@ -239,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,11 +290,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
+    "Exploration francais.md",
     "hl subjects/Français B.md",
     "Polynôme.md",
-    "Exploration francais.md",
     "Work FR 1.md",
     "test fr.md",
     "Le Cid.md",
