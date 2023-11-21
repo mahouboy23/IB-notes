@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4cb9daf92ea89af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polynôme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
@@ -44,18 +56,6 @@
             }
           },
           {
-            "id": "4cb9daf92ea89af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polynôme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "136fd182fc0bdc9a",
             "type": "leaf",
             "state": {
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynôme.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,10 +287,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb9daf92ea89af1",
+  "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
-    "Nombre et Algèbre.md",
     "Polynôme.md",
+    "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
     "Fonctions.md",
     "Géométrie et Trigonométrie.md",
