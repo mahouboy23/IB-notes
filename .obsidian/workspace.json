@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Polynome.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "Polynome.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,10 +288,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
+    "Nombre et Algèbre.md",
+    "Polynome.md",
+    "hl subjects/Math AA.md",
+    "Fonctions.md",
+    "Géométrie et Trigonométrie.md",
+    "Statistique et Probabilité.md",
+    "Puissance-Exponentielles-Logarithm.md",
     "IB overview.md",
+    "Oscillation et Onde.md",
+    "Exploration francais.md",
+    "hl subjects/Français B.md",
     "sl subjects/Anglais Literrature.md",
     "Individual Oral.md",
     "Experiment.md",
@@ -298,27 +308,18 @@
     "EE NEW.md",
     "common core/EE.md",
     "Physics AI.md",
-    "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
-    "Géométrie et Trigonométrie.md",
     "Protocoles et paquets de données.md",
     "Possible structure.md",
     "Nombres complexes.md",
     "Cercle trigonométrique.md",
     "Angles.md",
-    "Lois des sinus et cosinus.md",
-    "hl subjects/Math AA.md",
-    "Nombre et Algèbre.md",
-    "Mouvement harmonique simple.md",
-    "Notion de système.md",
     "University shortlist.loom",
-    "Concordia.md",
     "Untitled.loom",
-    "Les méthodes de documentation.md",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
