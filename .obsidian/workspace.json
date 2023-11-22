@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Oscillation et Onde.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Oscillation et Onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Oscillation et Onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribution binomiale.md"
+                "file": "Oscillation et Onde.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Oscillation et Onde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,13 +292,14 @@
   },
   "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Distribution binomiale.md",
     "Exploration francais.md",
     "Polynôme.md",
     "Nombre et Algèbre.md",
-    "Distribution binomiale.md",
     "Statistique et Probabilité.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "hl subjects/Français B.md",
     "Work FR 1.md",
     "test fr.md",
@@ -320,7 +321,6 @@
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Ondes progressives périodiques.md",
-    "sl subjects/Physics.md",
     "Untitled.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",

@@ -10,7 +10,7 @@ Created: 2023-11-21
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$ 
 - $\frac{P(x)}{x-k}$=::$Q(x)$
-<!--SR:!2023-11-22,1,230-->
+<!--SR:!2023-11-23,1,210-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors il faut que:: $P\left(\frac{b}{a}\right)=0$
 <!--SR:!2023-11-22,1,230-->
 ## Théorème des restes
