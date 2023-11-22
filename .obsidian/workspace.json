@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Distribution binomiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Distribution binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Distribution binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynôme.md"
+                "file": "Distribution binomiale.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             }
           },
           {
-            "id": "9f45c09cf629d01d",
+            "id": "327bf9f3991218db",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Distribution binomiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,26 +286,27 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4cb9daf92ea89af1",
+  "active": "327bf9f3991218db",
   "lastOpenFiles": [
-    "Exploration francais.md",
-    "hl subjects/Français B.md",
     "Polynôme.md",
+    "Nombre et Algèbre.md",
+    "Distribution binomiale.md",
+    "Statistique et Probabilité.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "hl subjects/Français B.md",
+    "Exploration francais.md",
     "Work FR 1.md",
     "test fr.md",
     "Le Cid.md",
     "Mademba.md",
-    "IB overview.md",
     "University shortlist.loom",
-    "Nombre et Algèbre.md",
-    "hl subjects/Math AA.md",
     "Fonctions.md",
     "Géométrie et Trigonométrie.md",
-    "Statistique et Probabilité.md",
     "Puissance-Exponentielles-Logarithm.md",
     "Oscillation et Onde.md",
     "sl subjects/Anglais Literrature.md",
@@ -320,7 +321,6 @@
     "assets/Caractéristique d'une onde",
     "Ondes progressives périodiques.md",
     "sl subjects/Physics.md",
-    "Protocoles et paquets de données.md",
     "Untitled.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
