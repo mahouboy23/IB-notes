@@ -44,8 +44,7 @@ The portrayal of inter-generational poverty in "The House on Mango Street" by Sa
 
 # [[Ex phrase structure]]
 
-### Introduction:
-
+## Introduction:
 - **Global Issue:**
     
     - Define inter-generational poverty as a multifaceted challenge.
@@ -72,3 +71,21 @@ The portrayal of inter-generational poverty in "The House on Mango Street" by Sa
     - Highlight the visual representation's alignment with familial struggles and the cyclic nature of poverty.
     - Explain how it supplements understanding about inter-generational hardships.
 
+## First Analysis:
+- **Themes Explored in 'The House on Mango Street':**
+    
+    - Poverty's Impact: Dive into Esperanza's experiences and observations regarding poverty and its effects on familial dynamics, aspirations, and housing conditions.
+    - Education as a Hopeful Escape: Explore Esperanza's aspirations for education and writing as a means to break the cycle of poverty.
+    - Community Struggles: Discuss the broader community's challenges and their parallels to the global issue of inter-generational poverty.
+- **Close Analysis from 'The House on Mango Street':**
+    
+    - Quote Examples: Select specific quotes depicting poverty, Esperanza's dreams, and the community's struggles.
+    - Literary Techniques: Highlight literary devices such as imagery, symbolism, and characterization used to portray poverty and its impacts.
+    - Author's Intent: Discuss how Sandra Cisneros employs these techniques to convey the pervasive nature of the global issue within the novel.
+- **Wide Analysis (if applicable) from 'The House on Mango Street':**
+    
+    - Context Beyond the Extract: Connect themes from the chosen extract to the broader narrative, showing continuity in portraying poverty's complexities.
+    - Authorial Patterns: Discuss recurring motifs or themes in other parts of the text that further underscore the global issue's depth and impact.
+- **Comparative Analysis with the Global Issue:**
+    
+    - Draw parallels between the novel's themes and the broader context of inter-generational poverty, emphasizing their alignment and reinforcing the impact of the literary work.
