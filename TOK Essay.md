@@ -7,6 +7,7 @@ excalidraw-plugin: parsed
 Created: 2023-09-06 
 
 [[TOK Essay draft]]
+
 # Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
 Areas of knowledge :

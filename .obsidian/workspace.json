@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB overview.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB overview.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB overview.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB overview.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,13 +290,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5b70e225457f9533",
+  "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
+    "TOK Essay draft.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
+    "IB overview.md",
     "Caractéristique d'une onde.md",
     "Oscillation et Onde.md",
     "Comportement des ondes.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Distribution binomiale.md",
     "Exploration francais.md",
     "Polynôme.md",
@@ -316,9 +319,6 @@
     "Individual Oral.md",
     "Experiment.md",
     "better ee.md",
-    "EE NEW.md",
-    "common core/EE.md",
-    "Physics AI.md",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Untitled.loom",
