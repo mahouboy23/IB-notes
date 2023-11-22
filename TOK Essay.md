@@ -8,7 +8,18 @@ Created: 2023-09-06
 
 [[TOK Essay draft]]
 
-Your introduction should begin with a ‘hook’ to engage the reader, offer your interpretation of the key words or ideas from the title (don’t just copy a definition out of a dictionary – give your take on what the title means), outline the scope of the essay. Get your introduction right, and you will have set up the foundations for a great essay. If you rush it, or not view it with the importance it really requires, you’ll struggle to develop clear ideas in the main body of the essay.
+Your introduction should begin with a ‘hook’ to engage the reader, offer your interpretation of the key words or ideas from the title (don’t just copy a definition out of a dictionary – give your take on what the title means), outline the scope of the essay. Get your introduction right, and you will have set up the foundations for a great essay. If you rush it, or not view it with the importance it really requires, you’ll struggle to develop clear ideas in the main body of the essay. In your introductory sentences, you should clearly state which way of knowing and are of knowledge your essay will focus on.
+You must also make specific references to the WOKs and AOKs terminologies and utilize the TOK language correctly. A well-written introduction aims to accomplish three key goals:
+
+- Stating a position (which can be "agree," "disagree with reservations," or "agree with reservations")
+- Establishing clarity about the title's main concepts and terms
+- Identifying the areas of knowledge and **[ways of knowing](https://www.helpforassessment.com/blog/ways-of-knowing/)** that will be the focus of the essay
+
+When your essay begins with broad and general statements on humanity's unending desire for knowledge, it appears to be a descriptive essay.
+
+Most of the time, these writings force you to stray. Furthermore, these kinds of introductions might rapidly make you doubt the essay's goal.
+
+So make sure the introduction covers all facets of the title as well as its assumptions.
 # Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
 Areas of knowledge :
