@@ -20,6 +20,8 @@ When your essay begins with broad and general statements on humanity's unending 
 Most of the time, these writings force you to stray. Furthermore, these kinds of introductions might rapidly make you doubt the essay's goal.
 
 So make sure the introduction covers all facets of the title as well as its assumptions.
+
+## Rephrasing the topic is not encouraged !!!!!! Your main job is to address the
 # Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
 Areas of knowledge :
