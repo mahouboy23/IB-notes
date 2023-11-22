@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Individual Oral.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Individual Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Individual Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "Individual Oral.md"
               }
             }
           },
@@ -240,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Individual Oral.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,19 +289,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
-    "TOK Essay.md",
-    "TOK Essay draft.md",
-    "common core/TOK.md",
+    "assets/Individual Oral/image-20231122204726708.png",
+    "assets/Individual Oral/image-20231109090800680.png",
+    "Individual Oral.md",
+    "sl subjects/Anglais Literrature.md",
     "IB overview.md",
+    "Exploration francais.md",
+    "TOK Essay draft.md",
+    "Polynôme.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
     "Caractéristique d'une onde.md",
     "Oscillation et Onde.md",
     "Comportement des ondes.md",
     "sl subjects/Physics.md",
     "Distribution binomiale.md",
-    "Exploration francais.md",
-    "Polynôme.md",
     "Nombre et Algèbre.md",
     "Statistique et Probabilité.md",
     "hl subjects/Math AA.md",
@@ -315,17 +318,13 @@
     "Fonctions.md",
     "Géométrie et Trigonométrie.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "sl subjects/Anglais Literrature.md",
-    "Individual Oral.md",
     "Experiment.md",
-    "better ee.md",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Untitled.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
     "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple/image-20231113103455763.png",
-    "assets/Individual Oral/image-20231109090800680.png",
     "assets/Mouvement harmonique simple/image-20231108113059673.png",
     "assets/Mouvement harmonique simple/image-20231108113030259.png",
     "assets/Mouvement harmonique simple/image-20231108112456958.png",

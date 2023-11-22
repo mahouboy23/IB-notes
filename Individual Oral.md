@@ -8,8 +8,8 @@ War. The word alone raises a range of emotions from horror to admiration. Some o
 **"WAR How Conflict Shaped Us"**, By Margaret MacMillan
 
 ### Non-Literary work extract
-![[image-20231109090800680.png]]
- _Lama Sabachthani (Why have you forsaken me?),_ 1943, Morris Kestelman
+![[image-20231122204726708.png]]
+ _"Migrant Mother"_ 1943, by Dorothea Lange
 
 ## Global issue: **The consequences of war**
 
