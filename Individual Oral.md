@@ -37,10 +37,38 @@ Created: 2023-11-06
 1. **Inter-generational Poverty:** Exploring how poverty perpetuates across generations in both texts through familial experiences and aspirations for a better life.
 2. **Impact on Housing and Stability:** Analyzing the effects of unstable housing on family dynamics and social relationships in the literary text and the visual representation.
 3. **Education as a Catalyst:** Examining the role of education in breaking the cycle of poverty, portrayed in both texts through characters' aspirations.
-4. 
+
 ### Thesis Statement:
 The portrayal of inter-generational poverty in "The House on Mango Street" by Sandra Cisneros and "Migrant Mother" by Dorothea Lange emphasizes the cyclical nature of poverty, highlighting its profound impact on familial stability, aspirations, and the arduous pursuit of a better life. Both texts underscore the intertwined struggles faced by families amidst poverty while depicting the pivotal role of education as a beacon of hope to transcend these adversities.
 
 
+# [[Ex phrase structure]]
 
+### Introduction:
+
+- **Global Issue:**
+    
+    - Define inter-generational poverty as a multifaceted challenge.
+    - Highlight its relevance in societal contexts due to limited access to education, economic opportunities, and healthcare.
+- **Introduction of 'The House on Mango Street':**
+    
+    - Author: Sandra Cisneros
+    - Title: 'The House on Mango Street'
+    - Publication Date: 1984
+    - Text Type: Novel
+    - Setting: Young Latina girl's experiences in poverty-stricken Chicago.
+- **Relating 'The House on Mango Street' to the Global Issue:**
+    
+    - Emphasize how the novel portrays struggles such as poverty, housing instability, and education pursuit.
+    - Link these themes directly to the broader issue of inter-generational poverty.
+- **Introduction of 'Migrant Mother':**
+    
+    - Title: 'Migrant Mother'
+    - Artist: Dorothea Lange
+    - Nature: Photograph
+    - Context: Captured during the Great Depression, depicting hardships faced by impoverished families.
+- **Connecting 'Migrant Mother' to the Global Issue:**
+    
+    - Highlight the visual representation's alignment with familial struggles and the cyclic nature of poverty.
+    - Explain how it supplements understanding about inter-generational hardships.
 
