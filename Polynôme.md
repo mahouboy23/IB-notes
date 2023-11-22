@@ -20,7 +20,7 @@ Created: 2023-11-21
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
 <!--SR:!2023-11-22,1,230-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
-<!--SR:!2023-11-22,1,230-->
+<!--SR:!2023-11-24,2,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
 <!--SR:!2023-11-22,1,230-->
 
