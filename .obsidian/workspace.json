@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Ex phrase structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Ex phrase structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Ex phrase structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral.md"
+                "file": "Ex phrase structure.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Ex phrase structure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,8 +290,8 @@
   },
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
-    "Ex phrase structure.md",
     "Individual Oral.md",
+    "Ex phrase structure.md",
     "template/Anglais-.md",
     "template/physique-.md",
     "template/math-.md",

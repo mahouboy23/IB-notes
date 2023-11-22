@@ -89,3 +89,4 @@ The portrayal of inter-generational poverty in "The House on Mango Street" by Sa
 - **Comparative Analysis with the Global Issue:**
     
     - Draw parallels between the novel's themes and the broader context of inter-generational poverty, emphasizing their alignment and reinforcing the impact of the literary work.
+
