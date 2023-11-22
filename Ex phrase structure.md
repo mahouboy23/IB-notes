@@ -72,3 +72,20 @@ Created: 2023-11-22
 - **Complementary Insights from Visual Arts:**
     
     - "By analyzing the compositional elements, visual cues, and the historical context behind 'Migrant Mother,' we gain complementary insights that enrich our understanding of inter-generational poverty's tangible realities."
+
+### Conclusion:
+- **Summarize Texts' Relation to Global Issue:**
+    
+    - "In concluding our exploration, 'The House on Mango Street' vividly portrayed the struggles of poverty, while 'Migrant Mother' visually encapsulated these hardships, resonating deeply with the cycle of inter-generational poverty."
+- **Authorial Perspective on Global Issue:**
+    
+    - "Through their narratives, Cisneros and Lange offered nuanced insights into poverty, portraying the challenges and aspirations embedded in societal adversities."
+- **Comparative Perspective Between Texts:**
+    
+    - "While distinct, these works remarkably intertwined, presenting complementary facets of poverty through the lens of literature and visual art, enriching our understanding."
+- **Reflection on the Broader Global Relevance:**
+    
+    - "This exploration reaffirms poverty's universal nature, illustrating its impact on societies and prompting crucial conversations on its prevalence and implications."
+- **Final Statement on the Examined Texts:**
+    
+    - "In closing, these profound works have unveiled layers of societal challenges, encouraging continued discourse and analysis, showcasing the profound depth within 'The House on Mango Street' and 'Migrant Mother.'"
