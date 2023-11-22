@@ -8,6 +8,7 @@ Created: 2023-09-06
 
 [[TOK Essay draft]]
 
+Your introduction should begin with a ‘hook’ to engage the reader, offer your interpretation of the key words or ideas from the title (don’t just copy a definition out of a dictionary – give your take on what the title means), outline the scope of the essay. Get your introduction right, and you will have set up the foundations for a great essay. If you rush it, or not view it with the importance it really requires, you’ll struggle to develop clear ideas in the main body of the essay.
 # Prescribed essay title : **Are we too quick to assume that the most recent evidence is inevitably the strongest? Discuss with reference to the natural sciences and one other area of knowledge.** 
 
 Areas of knowledge :
