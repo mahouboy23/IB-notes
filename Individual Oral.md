@@ -37,23 +37,10 @@ Created: 2023-11-06
 1. **Inter-generational Poverty:** Exploring how poverty perpetuates across generations in both texts through familial experiences and aspirations for a better life.
 2. **Impact on Housing and Stability:** Analyzing the effects of unstable housing on family dynamics and social relationships in the literary text and the visual representation.
 3. **Education as a Catalyst:** Examining the role of education in breaking the cycle of poverty, portrayed in both texts through characters' aspirations.
-
+4. 
 ### Thesis Statement:
 The portrayal of inter-generational poverty in "The House on Mango Street" by Sandra Cisneros and "Migrant Mother" by Dorothea Lange emphasizes the cyclical nature of poverty, highlighting its profound impact on familial stability, aspirations, and the arduous pursuit of a better life. Both texts underscore the intertwined struggles faced by families amidst poverty while depicting the pivotal role of education as a beacon of hope to transcend these adversities.
 
 
 
 
-
-
-
-
-### Introduction
-1. What is the global issue and how have you narrowed it down?
-The global issue that is chose was the consequences of war. I narrowed it by choosing a literary text that interested me and talked about a survivor of the holocaust so that led me to talk a bout the bigger issue of WAR.
-
-2. What is the summary of the "whole" literary work you've chosen? 
-- the summary of the extract id about who put this together, i am a roof to the moon, an someone said, someone said. Ay bust it to the dame, Watch comme out like lamp hit stop, that a rap.
-- The description 
-
-3. this extract of the literary work enlightens 
