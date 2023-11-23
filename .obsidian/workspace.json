@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d993ee47a8a6a4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ex phrase structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66338d58a6e044a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literary work.md",
+                "file": "Structure de données abstraites.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +127,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ex phrase structure.md",
+                "file": "Structure de données abstraites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ex phrase structure.md",
+                "file": "Structure de données abstraites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ex phrase structure.md"
+                "file": "Structure de données abstraites.md"
               }
             }
           },
@@ -263,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ex phrase structure.md",
+                "file": "Structure de données abstraites.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,11 +289,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d993ee47a8a6a4c",
+  "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "Structure de données abstraites.md",
+    "IB overview.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
     "Individual Oral.md",
-    "literary work.md",
     "Ex phrase structure.md",
+    "literary work.md",
     "Oral bullet points.md",
     "sl subjects/Anglais Literrature.md",
     "template/Anglais-.md",
@@ -326,7 +307,6 @@
     "template/economie-.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
-    "IB overview.md",
     "Exploration francais.md",
     "TOK Essay draft.md",
     "Polynôme.md",
@@ -339,10 +319,6 @@
     "Distribution binomiale.md",
     "Nombre et Algèbre.md",
     "Statistique et Probabilité.md",
-    "hl subjects/Math AA.md",
-    "hl subjects/Français B.md",
-    "Work FR 1.md",
-    "test fr.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
