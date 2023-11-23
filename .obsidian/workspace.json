@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure de données abstraites.md",
+                "file": "Qu'est ce que la recurisivite.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure de données abstraites.md",
+                "file": "Qu'est ce que la recurisivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure de données abstraites.md",
+                "file": "Qu'est ce que la recurisivite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure de données abstraites.md"
+                "file": "Qu'est ce que la recurisivite.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Structure de données abstraites.md",
+                "file": "Qu'est ce que la recurisivite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,8 +291,9 @@
   },
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
     "Structure de données abstraites.md",
+    "Qu'est ce que la recurisivite.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -318,7 +319,6 @@
     "sl subjects/Physics.md",
     "Distribution binomiale.md",
     "Nombre et Algèbre.md",
-    "Statistique et Probabilité.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
