@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "66338d58a6e044a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literary work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f6fa70543ceadf2",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oral bullet points.md",
+                "file": "literary work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oral bullet points.md",
+                "file": "literary work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oral bullet points.md"
+                "file": "literary work.md"
               }
             }
           },
@@ -263,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oral bullet points.md",
+                "file": "literary work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,9 +325,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0f6fa70543ceadf2",
+  "active": "66338d58a6e044a4",
   "lastOpenFiles": [
     "Individual Oral.md",
+    "literary work.md",
     "Oral bullet points.md",
     "sl subjects/Anglais Literrature.md",
     "Ex phrase structure.md",
@@ -342,7 +355,6 @@
     "hl subjects/Français B.md",
     "Work FR 1.md",
     "test fr.md",
-    "Le Cid.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
