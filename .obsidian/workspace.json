@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md",
+                "file": "la pensee recursive.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md",
+                "file": "la pensee recursive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md",
+                "file": "la pensee recursive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md"
+                "file": "la pensee recursive.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md",
+                "file": "la pensee recursive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,6 +292,7 @@
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
     "Structure de données abstraites.md",
+    "la pensee recursive.md",
     "Qu'est ce que la recurisivite.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -318,7 +319,6 @@
     "Comportement des ondes.md",
     "sl subjects/Physics.md",
     "Distribution binomiale.md",
-    "Nombre et Algèbre.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
