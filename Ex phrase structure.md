@@ -76,8 +76,7 @@ Created: 2023-11-22
 ### Conclusion:
 - **Summarize Texts' Relation to Global Issue:**
     
-    - "In concluding our exploration, 'The House on Mango Street' vividly portrayed the struggles of poverty, while 'Migrant Mother' visually encapsulated these hardships, resonating deeply with the cycle of inter-generational poverty."
-- **Authorial Perspective on Global Issue:**
+    - "In concluding our exploration, 'The House on Mango Street' vividly portrayed the struggles of poverty, while 'Migrant Mother' visually encapsulated these hardships, resonating deeply with t7
     
     - "Through their narratives, Cisneros and Lange offered nuanced insights into poverty, portraying the challenges and aspirations embedded in societal adversities."
 - **Comparative Perspective Between Texts:**
