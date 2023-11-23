@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Individual Oral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d993ee47a8a6a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ex phrase structure.md",
                 "mode": "source",
                 "source": false
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +301,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "0d993ee47a8a6a4c",
   "lastOpenFiles": [
     "Individual Oral.md",
     "Ex phrase structure.md",

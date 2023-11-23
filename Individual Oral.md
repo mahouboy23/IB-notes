@@ -46,7 +46,6 @@ The portrayal of inter-generational poverty in "The House on Mango Street" by Sa
 
 ## Introduction:
 - **Global Issue:**
-    
     - Define inter-generational poverty as a multifaceted challenge.
     - Highlight its relevance in societal contexts due to limited access to education, economic opportunities, and healthcare.
 - **Introduction of 'The House on Mango Street':**
