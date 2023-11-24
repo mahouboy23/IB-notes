@@ -11,7 +11,7 @@ Donc l'équation réduite de la parabole et la droite est:
 $$f(x)=g(x)$$
 $$ax^2+bx+c=mx+p$$
 $$ax^2+(b-m)x+c-p=0$$
-<!--SR:!2023-11-22,6,265-->
+<!--SR:!2023-12-12,18,285-->
 
 ### Pour $ax^2+(b-m)x+c-p=0$
 - Si $\Delta>0$,:: alors l'equation a deux solutions réelles et la droite et sécante par rapport a la parabole

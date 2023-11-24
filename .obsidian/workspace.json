@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la pensee recursive.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la pensee recursive.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la pensee recursive.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la pensee recursive.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "la pensee recursive.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,11 +291,11 @@
   },
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
-    "Structure de données abstraites.md",
+    "IB overview.md",
     "la pensee recursive.md",
+    "Structure de données abstraites.md",
     "Qu'est ce que la recurisivite.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Individual Oral.md",
