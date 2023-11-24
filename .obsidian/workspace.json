@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Identités trigonométriques.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +291,15 @@
   },
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
+    "Identités trigonométriques.md",
+    "Géométrie et Trigonométrie.md",
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "TOK Essay draft.md",
+    "Nombres complexes.md",
+    "Nombre et Algèbre.md",
+    "Formules de Viète.md",
+    "Fonctions.md",
     "la pensee recursive.md",
     "Structure de données abstraites.md",
     "Qu'est ce que la recurisivite.md",
@@ -310,15 +318,7 @@
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "Exploration francais.md",
-    "TOK Essay draft.md",
     "Polynôme.md",
-    "TOK Essay.md",
-    "common core/TOK.md",
-    "Caractéristique d'une onde.md",
-    "Oscillation et Onde.md",
-    "Comportement des ondes.md",
-    "sl subjects/Physics.md",
-    "Distribution binomiale.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",

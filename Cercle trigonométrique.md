@@ -35,7 +35,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ---
 ### Autour de $\pi$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-23,2,189-->
+<!--SR:!2023-11-29,5,209-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-25,1,188-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
@@ -45,7 +45,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-12-02,12,244-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-24,4,206-->
+<!--SR:!2023-11-26,2,186-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
