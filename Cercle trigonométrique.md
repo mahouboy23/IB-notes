@@ -55,7 +55,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2023-11-22,4,184-->
 - $\sin(\frac{\pi}{2}+\theta)$=::$\cos\theta$
-<!--SR:!2023-11-24,2,170-->
+<!--SR:!2023-11-27,3,170-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
 <!--SR:!2023-11-28,10,288-->
