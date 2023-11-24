@@ -15,7 +15,7 @@ Created: 2023-10-02
 - $\frac{\pi}{4}$ radians =:: 45 degrés
 <!--SR:!2023-11-27,11,292-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés
-<!--SR:!2023-11-23,10,292-->
+<!--SR:!2023-12-25,31,312-->
 
 - Longueur d'un arc=::$$\Large{l=\theta r}$$
 <!--SR:!2023-11-29,5,234-->
