@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Polynôme.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séries et Séquences.md"
+                "file": "Polynôme.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Polynôme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,15 +292,24 @@
   "active": "e486c675c7b3e07d",
   "lastOpenFiles": [
     "Nombre et Algèbre.md",
-    "Logarithmes.md",
     "Nombres complexes.md",
+    "hl subjects/Math AA.md",
+    "Statistique et Probabilité.md",
+    "Distribution binomiale.md",
+    "Distributions discrètes.md",
+    "Probabilité discrète.md",
+    "Fonctions.md",
+    "Position relative parabole et droite.md",
+    "Formules de Viète.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "Fonctions quadratiques.md",
+    "Théorème Binomial.md",
+    "Séries et Séquences.md",
+    "Logarithmes.md",
     "Identités trigonométriques.md",
     "Géométrie et Trigonométrie.md",
-    "hl subjects/Math AA.md",
     "IB overview.md",
     "TOK Essay draft.md",
-    "Formules de Viète.md",
-    "Fonctions.md",
     "la pensee recursive.md",
     "Structure de données abstraites.md",
     "Qu'est ce que la recurisivite.md",
@@ -308,17 +317,8 @@
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Individual Oral.md",
-    "Ex phrase structure.md",
-    "literary work.md",
-    "Oral bullet points.md",
-    "sl subjects/Anglais Literrature.md",
-    "template/Anglais-.md",
-    "template/physique-.md",
-    "template/math-.md",
-    "template/economie-.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
-    "Exploration francais.md",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
