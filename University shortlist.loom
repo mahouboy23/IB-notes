@@ -70,9 +70,19 @@
             "dateTime": null,
             "content": "https://uwaterloo.ca",
             "tagIds": []
+          },
+          {
+            "id": "7eb802c6-e840-4a89-9e9a-34b6478a2de5",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-10-02T13:24:04.639Z",
+        "creationDateTime": "2023-09-07T19:42:00.222Z"
       },
       {
         "id": "38251db8-7c1f-477f-b408-1eb29decafd5",
@@ -143,9 +153,19 @@
             "dateTime": null,
             "content": "https://admission.gatech.edu",
             "tagIds": []
+          },
+          {
+            "id": "41fa27ab-7de5-44ad-977d-8c88eb5e38b6",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-10-02T13:24:15.586Z",
+        "creationDateTime": "2023-09-07T20:35:20.456Z"
       },
       {
         "id": "711f18b9-4cb2-4aa9-8814-efd9c3f6458d",
@@ -216,9 +236,19 @@
             "dateTime": null,
             "content": "https://www.artsci.utoronto.ca/",
             "tagIds": []
+          },
+          {
+            "id": "98b3d474-3827-4901-8695-f66e8e263407",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-09-24T19:40:30.655Z",
+        "creationDateTime": "2023-09-24T19:32:24.612Z"
       },
       {
         "id": "30d18ca6-307d-4e34-9225-6e0106c704ea",
@@ -289,9 +319,19 @@
             "dateTime": null,
             "content": "https://eecs.berkeley.edu/",
             "tagIds": []
+          },
+          {
+            "id": "fdef78e8-ca0e-47bc-be5c-debefd64d375",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-10-02T13:24:25.186Z",
+        "creationDateTime": "2023-09-24T19:40:42.837Z"
       },
       {
         "id": "e87cd61d-1d49-4c21-8cd0-bcd805d8c2c0",
@@ -362,9 +402,19 @@
             "dateTime": null,
             "content": "https://illinois.edu",
             "tagIds": []
+          },
+          {
+            "id": "89b950f4-e4a6-46da-9469-fc78bc3f79e5",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-09-24T20:08:38.894Z",
+        "creationDateTime": "2023-09-24T19:54:07.861Z"
       },
       {
         "id": "88854e93-1d50-472c-950a-6858ca0bb89d",
@@ -435,9 +485,19 @@
             "dateTime": null,
             "content": "",
             "tagIds": []
+          },
+          {
+            "id": "522e3211-c123-4eca-844d-6cc2f348acb2",
+            "isExternalLink": false,
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
           }
         ],
-        "sourceId": null
+        "sourceId": null,
+        "lastEditedDateTime": "2023-10-01T22:09:15.429Z",
+        "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
     "columns": [
@@ -448,7 +508,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -460,7 +520,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "University",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "6759c35e-b000-4366-a78f-f1065667d044",
@@ -469,7 +532,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -481,7 +544,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Requirements",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
@@ -490,7 +556,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -502,7 +568,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Notes on the University",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
@@ -511,7 +580,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -523,7 +592,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Curriculum/program",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
@@ -532,7 +604,7 @@
         "width": "140px",
         "type": "number",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -544,7 +616,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Tuition Fees",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
@@ -553,7 +628,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -565,7 +640,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Location",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
@@ -574,7 +652,7 @@
         "width": "140px",
         "type": "number",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -586,7 +664,10 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "Achievability (1-5)",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
       },
       {
         "id": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
@@ -595,7 +676,7 @@
         "width": "140px",
         "type": "text",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -607,6 +688,33 @@
         "numberSeparator": "",
         "numberFormat": "number",
         "content": "site",
+        "frontmatterKey": null,
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false
+      },
+      {
+        "id": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Scholarship/financial aid",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
         "frontmatterKey": null
       }
     ],
@@ -618,5 +726,5 @@
     "externalRowOrder": [],
     "sources": []
   },
-  "pluginVersion": "8.11.3"
+  "pluginVersion": "8.12.2"
 }
