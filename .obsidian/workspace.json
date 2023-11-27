@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "template/francais-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6ab643c8e75072b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/Exercise-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccd1da2c8a5e9277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,8 +152,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Untitled 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Untitled 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Untitled 10.md"
               }
             }
           },
@@ -240,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Untitled 10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,14 +313,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "ccd1da2c8a5e9277",
   "lastOpenFiles": [
+    "template/Exercise-.md",
+    "Untitled 10.md",
+    "template/francais-.md",
+    "Nombres complexes.md",
     "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Identités trigonométriques.md",
     "Polynôme.md",
-    "Nombres complexes.md",
     "Statistique et Probabilité.md",
     "Distribution binomiale.md",
     "Distributions discrètes.md",
@@ -315,9 +341,6 @@
     "la pensee recursive.md",
     "Structure de données abstraites.md",
     "Qu'est ce que la recurisivite.md",
-    "hl subjects/Computer science.md",
-    "Macroéconomie.md",
-    "sl subjects/Economie.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "University shortlist.loom",
