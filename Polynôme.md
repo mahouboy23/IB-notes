@@ -22,7 +22,7 @@ Created: 2023-11-21
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-11-24,2,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2023-11-27,2,230-->
+<!--SR:!2023-11-28,1,210-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -59,7 +59,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
-<!--SR:!2023-11-24,3,250-->
+<!--SR:!2023-12-04,7,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro.
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
 <!--SR:!2023-11-22,1,230-->

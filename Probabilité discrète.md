@@ -62,9 +62,9 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-12-05,15,282-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-11-23,3,223-->
+<!--SR:!2023-12-02,5,223-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2023-11-22,1,207-->
+<!--SR:!2023-11-29,2,207-->
 
 $A\Delta B$ (difference symetrique)=: $(A \cap B') \cup (A' \cap B)$ 
