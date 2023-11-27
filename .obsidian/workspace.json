@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/francais-.md",
+                "file": "Exploration francais.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -259,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,8 +310,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6a70ff46c1e5855e",
+  "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "IB overview.md",
+    "template/francais-.md",
+    "University shortlist.loom",
     "University.md",
     "better ee.md",
     "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md",
@@ -318,11 +323,9 @@
     "Experiment.md",
     "template/Exercise-.md",
     "neural ex1 part 1.md",
-    "template/francais-.md",
     "Nombres complexes.md",
     "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Identités trigonométriques.md",
     "Statistique et Probabilité.md",
     "Distribution binomiale.md",
@@ -336,10 +339,8 @@
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
-    "Géométrie et Trigonométrie.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
-    "University shortlist.loom",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Untitled.loom",
