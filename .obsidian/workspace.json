@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identités trigonométriques.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynôme.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -239,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,11 +290,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
     "Nombre et Algèbre.md",
-    "Nombres complexes.md",
     "hl subjects/Math AA.md",
+    "IB overview.md",
+    "Identités trigonométriques.md",
+    "Polynôme.md",
+    "Nombres complexes.md",
     "Statistique et Probabilité.md",
     "Distribution binomiale.md",
     "Distributions discrètes.md",
@@ -306,9 +310,7 @@
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
-    "Identités trigonométriques.md",
     "Géométrie et Trigonométrie.md",
-    "IB overview.md",
     "TOK Essay draft.md",
     "la pensee recursive.md",
     "Structure de données abstraites.md",
@@ -316,7 +318,6 @@
     "hl subjects/Computer science.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
-    "Individual Oral.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "University shortlist.loom",
