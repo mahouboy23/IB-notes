@@ -39,17 +39,17 @@ $$\Large{a^{2}+b^{2}}$$
 $z^{*}$=
 ?
 $$\Large{a-ib}$$
-<!--SR:!2023-11-25,9,291-->
+<!--SR:!2023-12-28,30,311-->
 
 $z+z^*$=
 ?
 $$\Large{2a}$$
-<!--SR:!2023-11-26,8,252-->
+<!--SR:!2023-12-17,19,252-->
 
 $z-z^{*}$=
 ?
 $$\Large{2bi}$$
-<!--SR:!2023-11-27,11,266-->
+<!--SR:!2023-12-26,28,266-->
 
 $zz^{*}$=
 ?
@@ -70,7 +70,7 @@ $$\Large{zz^{*}}$$
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20231002063707.png]]
-<!--SR:!2023-11-27,7,252-->
+<!--SR:!2023-12-02,4,232-->
 
 ## Forme polaire
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
