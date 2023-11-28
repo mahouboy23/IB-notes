@@ -76,9 +76,27 @@
                 "file": "University shortlist.loom"
               }
             }
+          },
+          {
+            "id": "5aa1c526bdac3f9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eef377420a1cd4b8",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Untitled 1.loom"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identifier le raisonnement récursif.md",
+                "file": "Untitled 1.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identifier le raisonnement récursif.md",
+                "file": "Untitled 1.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identifier le raisonnement récursif.md"
+                "file": "Untitled 1.loom"
               }
             }
           },
@@ -238,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "d13a06cb4474056d",
@@ -250,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Identifier le raisonnement récursif.md",
+                "file": "Untitled 1.loom",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,10 +318,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4cb9daf92ea89af1",
+  "active": "eef377420a1cd4b8",
   "lastOpenFiles": [
-    "Structure de données abstraites.md",
+    "Untitled 1.loom",
     "Identifier le raisonnement récursif.md",
+    "Structure de données abstraites.md",
     "la pensee recursive.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -328,7 +347,6 @@
     "Probabilité discrète.md",
     "Fonctions.md",
     "Position relative parabole et droite.md",
-    "Formules de Viète.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",

@@ -1,0 +1,253 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "n",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "méthode foo(n)",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5457c055-5862-456f-b22f-6734a1e69030",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "resultat/calcule",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "ca104e08-6a58-44bb-9498-92826cbf7d78",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2023-11-28T10:40:29.075Z",
+        "lastEditedDateTime": "2023-11-28T10:42:38.395Z",
+        "cells": [
+          {
+            "id": "b34314af-2bd6-4b7b-9c39-7a6e778b3785",
+            "isExternalLink": false,
+            "columnId": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+            "dateTime": null,
+            "content": "5",
+            "tagIds": []
+          },
+          {
+            "id": "6b654829-091f-4941-bd8e-212c54536322",
+            "isExternalLink": false,
+            "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+            "dateTime": null,
+            "content": "foo(4)+foo(3)",
+            "tagIds": []
+          },
+          {
+            "id": "7a75d84f-032b-4475-9094-2e555858f1c2",
+            "isExternalLink": false,
+            "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "7415b49d-8882-4e09-bf53-563f82f9c17f",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2023-11-28T10:41:26.896Z",
+        "lastEditedDateTime": "2023-11-28T10:42:49.651Z",
+        "cells": [
+          {
+            "id": "856d9d39-c3dd-4805-8cc3-c48ade53b5d0",
+            "isExternalLink": false,
+            "columnId": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+            "dateTime": null,
+            "content": "4",
+            "tagIds": []
+          },
+          {
+            "id": "882062b5-4f23-4f53-b769-ec53766ac123",
+            "isExternalLink": false,
+            "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+            "dateTime": null,
+            "content": "foo(3)+foo(2)",
+            "tagIds": []
+          },
+          {
+            "id": "7983a374-e7e4-46ed-8a42-d54f3bac08fb",
+            "isExternalLink": false,
+            "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "74b97d6e-ce5b-4a8c-b75d-46cf726056de",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2023-11-28T10:41:28.445Z",
+        "lastEditedDateTime": "2023-11-28T10:43:46.218Z",
+        "cells": [
+          {
+            "id": "a95bb781-7b53-4480-846a-f9b2d98869ba",
+            "isExternalLink": false,
+            "columnId": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "43e49eaf-8244-4129-9810-757c6c43cf49",
+            "isExternalLink": false,
+            "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+            "dateTime": null,
+            "content": "foo(2)+foo(1)",
+            "tagIds": []
+          },
+          {
+            "id": "9932647e-37ce-495a-b17b-3850673860ba",
+            "isExternalLink": false,
+            "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "428b7588-ff8b-479a-b504-e2136cdc9799",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2023-11-28T10:41:29.393Z",
+        "lastEditedDateTime": "2023-11-28T10:44:04.033Z",
+        "cells": [
+          {
+            "id": "265c947a-253b-41a1-b728-9ce2ce061726",
+            "isExternalLink": false,
+            "columnId": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "3a2f1fbf-8c0e-4c83-a164-47ee74d2d6d8",
+            "isExternalLink": false,
+            "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+            "dateTime": null,
+            "content": "foo(1)+foo(0)",
+            "tagIds": []
+          },
+          {
+            "id": "f3426cdd-9733-49b6-939d-afb7e89a6823",
+            "isExternalLink": false,
+            "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "f7060072-bdc1-464d-af6b-d45c228895cf",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2023-11-28T10:41:30.508Z",
+        "lastEditedDateTime": "2023-11-28T10:43:39.162Z",
+        "cells": [
+          {
+            "id": "03276333-24b5-45f2-a5c5-56cafab73174",
+            "isExternalLink": false,
+            "columnId": "d4bf819c-e49a-4cb9-941e-b368c703bf17",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "09e0d7cf-ae45-4dce-a401-fa7c4ec34a3d",
+            "isExternalLink": false,
+            "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
+            "dateTime": null,
+            "content": "foo(4)+foo(3)",
+            "tagIds": []
+          },
+          {
+            "id": "8df07cce-755e-48e6-886b-4c3dbc144dc7",
+            "isExternalLink": false,
+            "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.12.2"
+}
