@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Identifier le raisonnement récursif.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
               "type": "markdown",
               "state": {
                 "file": "IB overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Identifier le raisonnement récursif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Identifier le raisonnement récursif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynôme.md"
+                "file": "Identifier le raisonnement récursif.md"
               }
             }
           },
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynôme.md",
+                "file": "Identifier le raisonnement récursif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,15 +302,19 @@
   },
   "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
+    "Structure de données abstraites.md",
+    "Identifier le raisonnement récursif.md",
+    "la pensee recursive.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "Polynôme.md",
     "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md",
     "Exploration francais.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
     "template/francais-.md",
     "University shortlist.loom",
     "University.md",
     "better ee.md",
-    "Polynôme.md",
     "Experiment.md",
     "template/Exercise-.md",
     "neural ex1 part 1.md",
@@ -325,10 +329,6 @@
     "Fonctions.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
-    "Etude graphique des fonctions quadratiques.md",
-    "Fonctions quadratiques.md",
-    "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",

@@ -1,5 +1,6 @@
 ---
-tags : ib
+tags:
+  - ib
 ---
 
 ## HL subjects
