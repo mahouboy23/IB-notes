@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "f6f4dcbc17ce6a72",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "eadc6c669e6976c3",
             "type": "leaf",
             "state": {
@@ -88,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "Polynôme.md"
               }
             }
           },
@@ -260,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Polynôme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,15 +300,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "4cb9daf92ea89af1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md",
+    "Exploration francais.md",
     "hl subjects/Français B.md",
     "IB overview.md",
     "template/francais-.md",
     "University shortlist.loom",
     "University.md",
     "better ee.md",
-    "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md",
     "Polynôme.md",
     "Experiment.md",
     "template/Exercise-.md",
@@ -338,7 +329,6 @@
     "Fonctions quadratiques.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
