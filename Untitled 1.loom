@@ -200,7 +200,7 @@
         "index": 0,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:40:29.075Z",
-        "lastEditedDateTime": "2023-11-28T10:57:20.847Z",
+        "lastEditedDateTime": "2023-11-28T11:10:10.680Z",
         "cells": [
           {
             "id": "b34314af-2bd6-4b7b-9c39-7a6e778b3785",
@@ -263,7 +263,7 @@
             "isExternalLink": false,
             "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
             "dateTime": null,
-            "content": "2+2=4",
+            "content": "",
             "tagIds": []
           }
         ]
@@ -273,7 +273,7 @@
         "index": 1,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:26.896Z",
-        "lastEditedDateTime": "2023-11-28T10:56:51.048Z",
+        "lastEditedDateTime": "2023-11-28T11:08:59.335Z",
         "cells": [
           {
             "id": "856d9d39-c3dd-4805-8cc3-c48ade53b5d0",
@@ -336,7 +336,7 @@
             "isExternalLink": false,
             "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
             "dateTime": null,
-            "content": "2+2=4",
+            "content": "",
             "tagIds": []
           }
         ]
@@ -346,7 +346,7 @@
         "index": 2,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:28.445Z",
-        "lastEditedDateTime": "2023-11-28T10:56:39.775Z",
+        "lastEditedDateTime": "2023-11-28T11:10:27.707Z",
         "cells": [
           {
             "id": "a95bb781-7b53-4480-846a-f9b2d98869ba",
@@ -409,7 +409,7 @@
             "isExternalLink": false,
             "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
             "dateTime": null,
-            "content": "2+2=4",
+            "content": "+2=",
             "tagIds": []
           }
         ]

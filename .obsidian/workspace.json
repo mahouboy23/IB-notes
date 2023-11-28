@@ -86,6 +86,16 @@
             }
           },
           {
+            "id": "1bcf57f2995afffa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "eef377420a1cd4b8",
             "type": "leaf",
             "state": {
@@ -96,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -320,7 +330,9 @@
   },
   "active": "eef377420a1cd4b8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
     "Untitled 1.loom",
+    "Excalidraw/Drawing 2023-11-28 11.05.50.excalidraw.md",
     "Identifier le raisonnement récursif.md",
     "Structure de données abstraites.md",
     "la pensee recursive.md",
@@ -345,8 +357,6 @@
     "Distribution binomiale.md",
     "Distributions discrètes.md",
     "Probabilité discrète.md",
-    "Fonctions.md",
-    "Position relative parabole et droite.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
@@ -365,7 +375,6 @@
     "Excalidraw/assets/Drawing 2023-10-21 11.51.39.excalidraw",
     "assets/Les forces magnétiques",
     "assets/Mesurer les inégalités économiques",
-    "assets/Inflation et ses causes",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
