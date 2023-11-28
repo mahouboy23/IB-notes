@@ -72,6 +72,126 @@
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
         "frontmatterKey": null
+      },
+      {
+        "id": "1f125b2f-025d-45ba-b22f-f3016accf661",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "n",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "m",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "méthode foo(n, m)",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "resultat/calculate",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
       }
     ],
     "rows": [
@@ -80,7 +200,7 @@
         "index": 0,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:40:29.075Z",
-        "lastEditedDateTime": "2023-11-28T10:42:38.395Z",
+        "lastEditedDateTime": "2023-11-28T10:50:01.520Z",
         "cells": [
           {
             "id": "b34314af-2bd6-4b7b-9c39-7a6e778b3785",
@@ -103,6 +223,46 @@
             "isExternalLink": false,
             "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
             "dateTime": null,
+            "content": "5+3=8",
+            "tagIds": []
+          },
+          {
+            "id": "c4d5180d-b820-44fd-9fc7-d615cdd66b1f",
+            "isExternalLink": false,
+            "columnId": "1f125b2f-025d-45ba-b22f-f3016accf661",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "d316beef-6fcd-4474-a1bd-44bc45f548bc",
+            "isExternalLink": false,
+            "columnId": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+            "dateTime": null,
+            "content": "5",
+            "tagIds": []
+          },
+          {
+            "id": "d723c5d8-7c0d-4f36-92c6-0eb14c3820ba",
+            "isExternalLink": false,
+            "columnId": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+            "dateTime": null,
+            "content": "4",
+            "tagIds": []
+          },
+          {
+            "id": "9cd04f51-d158-47ea-8af1-0059e646ea73",
+            "isExternalLink": false,
+            "columnId": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "72735128-d810-421e-b25f-68059a145d13",
+            "isExternalLink": false,
+            "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
+            "dateTime": null,
             "content": "",
             "tagIds": []
           }
@@ -113,7 +273,7 @@
         "index": 1,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:26.896Z",
-        "lastEditedDateTime": "2023-11-28T10:42:49.651Z",
+        "lastEditedDateTime": "2023-11-28T10:50:11.805Z",
         "cells": [
           {
             "id": "856d9d39-c3dd-4805-8cc3-c48ade53b5d0",
@@ -136,6 +296,46 @@
             "isExternalLink": false,
             "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
             "dateTime": null,
+            "content": "3+2=5",
+            "tagIds": []
+          },
+          {
+            "id": "cc25ed2d-6ef1-4113-85d9-2a63c11ad0f2",
+            "isExternalLink": false,
+            "columnId": "1f125b2f-025d-45ba-b22f-f3016accf661",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "21010f68-6ca2-4d63-8a9a-6b1d06bb97bc",
+            "isExternalLink": false,
+            "columnId": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+            "dateTime": null,
+            "content": "4",
+            "tagIds": []
+          },
+          {
+            "id": "ccc3cb87-8a8d-4c66-8763-ed277b20538c",
+            "isExternalLink": false,
+            "columnId": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "6180d6f4-49f1-4286-903b-b6b90da4661b",
+            "isExternalLink": false,
+            "columnId": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "eb2937d1-f4fd-4388-91c2-4c5b59fa253d",
+            "isExternalLink": false,
+            "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
+            "dateTime": null,
             "content": "",
             "tagIds": []
           }
@@ -146,7 +346,7 @@
         "index": 2,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:28.445Z",
-        "lastEditedDateTime": "2023-11-28T10:43:46.218Z",
+        "lastEditedDateTime": "2023-11-28T10:50:15.396Z",
         "cells": [
           {
             "id": "a95bb781-7b53-4480-846a-f9b2d98869ba",
@@ -169,6 +369,46 @@
             "isExternalLink": false,
             "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
             "dateTime": null,
+            "content": "2+1=3",
+            "tagIds": []
+          },
+          {
+            "id": "82f9c48d-5262-4d76-b6ea-9f167a4bb475",
+            "isExternalLink": false,
+            "columnId": "1f125b2f-025d-45ba-b22f-f3016accf661",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "b778ca0c-87eb-4d47-b197-65c1e5d9ca3e",
+            "isExternalLink": false,
+            "columnId": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "dabd78a4-d009-48cc-91f7-2b121fc0fe51",
+            "isExternalLink": false,
+            "columnId": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "ee62877c-7431-401d-8ed6-a90c040477ab",
+            "isExternalLink": false,
+            "columnId": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "b438a77d-3f09-46c6-9620-faf59d6bed30",
+            "isExternalLink": false,
+            "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
+            "dateTime": null,
             "content": "",
             "tagIds": []
           }
@@ -179,7 +419,7 @@
         "index": 3,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:29.393Z",
-        "lastEditedDateTime": "2023-11-28T10:44:04.033Z",
+        "lastEditedDateTime": "2023-11-28T10:50:22.751Z",
         "cells": [
           {
             "id": "265c947a-253b-41a1-b728-9ce2ce061726",
@@ -202,6 +442,46 @@
             "isExternalLink": false,
             "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
             "dateTime": null,
+            "content": "1+1=2",
+            "tagIds": []
+          },
+          {
+            "id": "b2527e13-b06b-49c7-8887-62de673fc4af",
+            "isExternalLink": false,
+            "columnId": "1f125b2f-025d-45ba-b22f-f3016accf661",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "5e27dd6c-89e7-46ea-92fa-b9955949f734",
+            "isExternalLink": false,
+            "columnId": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "e3e5ce61-50b3-4135-bf1b-118a3d89b78c",
+            "isExternalLink": false,
+            "columnId": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "d3f78556-8ec8-4f31-b39b-9fd6d47248e5",
+            "isExternalLink": false,
+            "columnId": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "383ae7e4-fc77-4810-bbb0-e99fc994aaa9",
+            "isExternalLink": false,
+            "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
+            "dateTime": null,
             "content": "",
             "tagIds": []
           }
@@ -212,7 +492,7 @@
         "index": 4,
         "sourceId": null,
         "creationDateTime": "2023-11-28T10:41:30.508Z",
-        "lastEditedDateTime": "2023-11-28T10:43:39.162Z",
+        "lastEditedDateTime": "2023-11-28T10:50:45.783Z",
         "cells": [
           {
             "id": "03276333-24b5-45f2-a5c5-56cafab73174",
@@ -227,13 +507,53 @@
             "isExternalLink": false,
             "columnId": "01edbc2f-20a8-430a-bbb6-9138e0370cd2",
             "dateTime": null,
-            "content": "foo(4)+foo(3)",
+            "content": "foo(0)+foo(-1)",
             "tagIds": []
           },
           {
             "id": "8df07cce-755e-48e6-886b-4c3dbc144dc7",
             "isExternalLink": false,
             "columnId": "5457c055-5862-456f-b22f-6734a1e69030",
+            "dateTime": null,
+            "content": "1+1=2",
+            "tagIds": []
+          },
+          {
+            "id": "e93ef922-4d87-4108-8543-0f590aeadc99",
+            "isExternalLink": false,
+            "columnId": "1f125b2f-025d-45ba-b22f-f3016accf661",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "cc5c9a82-697c-481e-9e9c-45fc98127ce7",
+            "isExternalLink": false,
+            "columnId": "26b1ed9b-10b1-4fbb-9f4a-4399ddcaade3",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "4b325af2-3b78-4236-8fe6-b7025ea80a7c",
+            "isExternalLink": false,
+            "columnId": "8aa3a8a7-440a-45b4-a38b-4ab989e39fe7",
+            "dateTime": null,
+            "content": "0",
+            "tagIds": []
+          },
+          {
+            "id": "fa40e7c1-f4bb-4eaf-87d1-e7c0bd4febca",
+            "isExternalLink": false,
+            "columnId": "cafa4d09-7b6d-4db5-b33c-aa7f46194b8c",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "503cf797-ff90-46a7-9e53-794c91c0487c",
+            "isExternalLink": false,
+            "columnId": "13051e00-f6c4-4443-81ad-13dd620c6cc1",
             "dateTime": null,
             "content": "",
             "tagIds": []
