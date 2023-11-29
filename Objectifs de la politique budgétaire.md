@@ -24,3 +24,9 @@ Graph
 ![[Pasted image 20231129092717.png]]
 
 ## Pour combler un écart inflationniste
+?
+Le gouvernement peut recourir à une **politique budgétaire de contraction**. Premièrement, elle peut augmenter les impôts, soit par le biais d’impôts directs sur le revenu, soit d’impôts indirects sur les dépenses en biens et services. Deuxièmement, le gouvernement peut réduire ses dépenses publiques.
+
+graph
+?
+![[Pasted image 20231129094226.png]]
