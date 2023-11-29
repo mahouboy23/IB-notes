@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -203,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,10 +254,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d6ab643c8e75072b",
+  "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
-    "TOK Essay draft.md",
     "TOK Essay.md",
+    "TOK Essay draft.md",
     "common core/TOK.md",
     "IB overview.md",
     "Mouvement harmonique simple.md",
