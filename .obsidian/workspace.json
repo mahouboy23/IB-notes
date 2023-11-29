@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Taux d’inflation faible et stable.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "6a70ff46c1e5855e",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "University shortlist.loom"
-              }
-            }
-          },
-          {
             "id": "5aa1c526bdac3f9a",
             "type": "leaf",
             "state": {
@@ -92,16 +82,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "eef377420a1cd4b8",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "Untitled 1.loom"
               }
             }
           }
@@ -187,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Taux d’inflation faible et stable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Taux d’inflation faible et stable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "Taux d’inflation faible et stable.md"
               }
             }
           },
@@ -278,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Taux d’inflation faible et stable.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,15 +301,19 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false
     }
   },
   "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
+    "Objectifs de la politique monétaire.md",
+    "Taux d’inflation faible et stable.md",
+    "Macroéconomie.md",
+    "Politique monétaire.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Exploration francais.md",
@@ -354,10 +338,6 @@
     "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
     "Identités trigonométriques.md",
-    "Statistique et Probabilité.md",
-    "Distribution binomiale.md",
-    "Distributions discrètes.md",
-    "Probabilité discrète.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
