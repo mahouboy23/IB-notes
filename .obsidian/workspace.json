@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5033760070801
+    "width": 270.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -246,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "d13a06cb4474056d",
@@ -291,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,7 +310,7 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "327bf9f3991218db",
   "lastOpenFiles": [
     "Macroéconomie.md",
     "Objectifs de la politique budgétaire.md",
