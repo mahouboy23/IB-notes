@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taux d’inflation faible et stable.md",
+                "file": "Objectifs de la politique budgétaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taux d’inflation faible et stable.md",
+                "file": "Objectifs de la politique budgétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taux d’inflation faible et stable.md",
+                "file": "Objectifs de la politique budgétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taux d’inflation faible et stable.md"
+                "file": "Objectifs de la politique budgétaire.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Taux d’inflation faible et stable.md",
+                "file": "Objectifs de la politique budgétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,10 +310,12 @@
   },
   "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Objectifs de la politique budgétaire.md",
+    "Politique fiscale.md",
+    "Politique monétaire.md",
     "Objectifs de la politique monétaire.md",
     "Taux d’inflation faible et stable.md",
-    "Macroéconomie.md",
-    "Politique monétaire.md",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Exploration francais.md",
@@ -336,8 +338,6 @@
     "neural ex1 part 1.md",
     "Nombres complexes.md",
     "Nombre et Algèbre.md",
-    "hl subjects/Math AA.md",
-    "Identités trigonométriques.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",

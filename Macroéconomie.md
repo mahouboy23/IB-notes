@@ -39,6 +39,9 @@ Basic concept en Economie:
 1. [[Politique monétaire]] 
 2. [[Objectifs de la politique monétaire]] 
 
+## Parte 6: GESTION DE LA DEMANDE – POLITIQUE BUDGÉTAIRE
+1. [[Politique fiscale]]
+2. [[Objectifs de la politique budgétaire]] 
 
 [[TD economie]] 
 
