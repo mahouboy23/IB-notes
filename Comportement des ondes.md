@@ -23,4 +23,4 @@ $\lambda_{i} = \lambda_{r}$
 ## Transmission et refraction
 La transmission c'est le passage d'une onde  d'un milieu a l'autre sans changement de la direction de propagation.
 
-Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne change pas la longueur change dans le $\hat{m}$ sens que la vitesse
+Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne change pas la longueur change dans le $\hat{m}$ sens que la vitesse.
