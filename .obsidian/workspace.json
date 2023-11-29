@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.loom",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.loom",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.loom"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -278,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 1.loom",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,7 +301,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3615536244001259,
+                  "scale": 0.5120011954976994,
                   "close": true
                 }
               }
@@ -328,19 +328,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eef377420a1cd4b8",
+  "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Exploration francais.md",
     "Untitled 1.loom",
+    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
     "Excalidraw/Drawing 2023-11-28 11.05.50.excalidraw.md",
     "Identifier le raisonnement récursif.md",
     "Structure de données abstraites.md",
     "la pensee recursive.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Polynôme.md",
     "Excalidraw/Drawing 2023-11-27 08.48.43.excalidraw.md",
-    "Exploration francais.md",
     "hl subjects/Français B.md",
     "template/francais-.md",
     "University shortlist.loom",
