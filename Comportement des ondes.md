@@ -26,3 +26,5 @@ La transmission c'est le passage d'une onde  d'un milieu a l'autre sans changeme
 Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne change pas la longueur change dans le $\hat{m}$ sens que la vitesse.
 
 ### Refraction (loi de Snell-des cartes)
+![[image-20231129112205552.png]]
+
