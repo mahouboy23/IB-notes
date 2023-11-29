@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e486c675c7b3e07d",
+            "id": "d6ab643c8e75072b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,63 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectifs de la politique budgétaire.md",
+                "file": "Mouvement harmonique simple.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d6ab643c8e75072b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/Exercise-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cb9daf92ea89af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identifier le raisonnement récursif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadc6c669e6976c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa1c526bdac3f9a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1bcf57f2995afffa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md"
               }
             }
           }
@@ -309,16 +255,22 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "e486c675c7b3e07d",
+  "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
-    "assets/Comportement des ondes/image-20231129103438641.png",
-    "assets/Comportement des ondes/Pasted image 20231129103205.png",
-    "assets/Comportement des ondes",
+    "Mouvement harmonique simple.md",
+    "Identifier le raisonnement récursif.md",
+    "Experiment.md",
+    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
+    "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
     "IB overview.md",
-    "Polynôme.md",
+    "template/Exercise-.md",
     "Objectifs de la politique budgétaire.md",
+    "assets/Comportement des ondes/image-20231129103438641.png",
+    "assets/Comportement des ondes/Pasted image 20231129103205.png",
+    "assets/Comportement des ondes",
+    "Polynôme.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
     "Politique budgétaire expansionniste et restrictive.md",
@@ -333,9 +285,7 @@
     "Taux d’inflation faible et stable.md",
     "Exploration francais.md",
     "Untitled 1.loom",
-    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
     "Excalidraw/Drawing 2023-11-28 11.05.50.excalidraw.md",
-    "Identifier le raisonnement récursif.md",
     "Structure de données abstraites.md",
     "la pensee recursive.md",
     "hl subjects/Computer science.md",
@@ -343,16 +293,12 @@
     "hl subjects/Français B.md",
     "template/francais-.md",
     "University shortlist.loom",
-    "University.md",
-    "better ee.md",
-    "Experiment.md",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
     "assets/Caractéristique d'une onde/image-20231120105859714.png",
     "assets/Caractéristique d'une onde",
     "Untitled.loom",
     "assets/Mouvement harmonique simple/image-20231113110230595.png",
-    "assets/Mouvement harmonique simple/Pendulum.svg.png",
     "assets/Mouvement harmonique simple",
     "assets/Déflation, désinflation et ses coûts",
     "assets/Individual Oral",
