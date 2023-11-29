@@ -30,3 +30,5 @@ Le gouvernement peut recourir à une **politique budgétaire de contraction**. 
 graph
 ?
 ![[Pasted image 20231129094226.png]]
+
+## Perspective monétariste versus keynésienne
