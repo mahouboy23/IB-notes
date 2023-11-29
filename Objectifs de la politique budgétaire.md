@@ -8,9 +8,12 @@ Le gouvernement peut gérer les hauts et les bas du cycle économique grâce à 
 - Recettes fiscales
 - Dépenses publiques
 
+## Définition
 une **politique budgétaire expansionniste** :: est un programme d'augmentation des dépenses et/ou de réduction des impôts par le gouvernement, dans le but d'augmenter la demande globale.
 
 une **politique budgétaire de contraction** ::  est une politique dans laquelle le gouvernement réduit les dépenses et/ou augmente les impôts. L’objectif peut être soit de réduire l’inflation tirée par la demande dans l’économie, soit de réduire un déficit budgétaire.
+
+Surchauffe de l'economie :: L’inflation tirée par la demande survient lorsque la demande de biens et de services dépasse l’offre.
 
 ## Pour combler un écart de récession
 ?
@@ -20,3 +23,4 @@ Graph
 ?
 ![[Pasted image 20231129092717.png]]
 
+## Pour combler un écart inflationniste
