@@ -116,13 +116,13 @@ Paragraph 4 (Summary):
 Paragraph 5 (Claim):
 
 - In history, new artifacts/documents are often viewed as providing most accurate insights into the past.
-- Example: Discuss a newly discovered historical artifact providing evidence.
+- Example: Discuss historians reinterpreting What declassified Cold-War spy photos tell us about ancient Rome in the context of the Tok essay and use it as evidence to prove your claim.
 - Explain how example supports the claim for strength of recent history evidence. 
 
 Paragraph 6 (Counterclaim):
 
 - However, reinterpreting past history evidence through different lenses can challenge narratives.
-- Example: Discuss historians reinterpreting What declassified Cold-War spy photos tell us about ancient Rome in the context of the Tok essay and use it as evidence to prove your counterclaim.
+- Example: Discuss historians reinterpreting the fall of Rome through social lenses.
 - Explain how this challenges notion of recent evidence inevitably being strongest.
 
 Paragraph 7 (Summary):
