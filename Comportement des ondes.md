@@ -19,3 +19,5 @@ $v_{i} = v_{r}$ car :: le milieu de propagation est le meme
 $T_{i}$ = $T_{r}$ =$T$
 $v_{1}T$ = $v_{r}T$ 
 $\lambda_{i} = \lambda_{r}$   
+
+## Transmission
