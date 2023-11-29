@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,13 +253,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
+    "TOK Essay draft.md",
+    "TOK Essay.md",
     "common core/TOK.md",
     "IB overview.md",
     "Mouvement harmonique simple.md",
-    "TOK Essay.md",
-    "TOK Essay draft.md",
     "Comportement des ondes.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
     "Identifier le raisonnement récursif.md",
