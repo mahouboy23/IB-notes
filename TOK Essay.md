@@ -116,7 +116,7 @@ Paragraph 4 (Summary):
 Paragraph 5 (Claim):
 
 - In history, new artifacts/documents are often viewed as providing most accurate insights into the past.
-- Example: Discuss historians reinterpreting What declassified Cold-War spy photos tell us about ancient Rome in the context of the Tok essay and use it as evidence to prove your claim.
+- Example: Discuss What NEW declassified Cold-War spy photos tell us about ancient Rome in the context of the Tok essay and use it as evidence to prove your claim.
 - Explain how example supports the claim for strength of recent history evidence. 
 
 Paragraph 6 (Counterclaim):
