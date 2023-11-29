@@ -32,3 +32,8 @@ graph
 ![[Pasted image 20231129094226.png]]
 
 ## Perspective monétariste versus keynésienne
+Les monétaristes et les keynésiens ont des points de vue différents sur la manière de résoudre un écart inflationniste.
+
+Graph
+?
+![[Pasted image 20231129094555.png]]
