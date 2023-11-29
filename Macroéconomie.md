@@ -42,6 +42,7 @@ Basic concept en Economie:
 ## Parte 6: GESTION DE LA DEMANDE – POLITIQUE BUDGÉTAIRE
 1. [[Politique fiscale]]
 2. [[Objectifs de la politique budgétaire]] 
+3. [[Politique budgétaire expansionniste et restrictive]] 
 
 [[TD economie]] 
 
