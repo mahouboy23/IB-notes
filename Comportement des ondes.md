@@ -20,4 +20,6 @@ $T_{i}$ = $T_{r}$ =$T$
 $v_{1}T$ = $v_{r}T$ 
 $\lambda_{i} = \lambda_{r}$   
 
-## Transmission
+## Transmission et refraction
+La transmission c'est le passage d'une onde  d'un milieu a l'autre sans changement de la direction de propagation.
+
