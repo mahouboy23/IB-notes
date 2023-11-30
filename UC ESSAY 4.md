@@ -4,7 +4,7 @@ Write a response to the personal insight question (PIQ). There will be a descrip
 Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
 
 description:
-I expresses my creativity trough blender trying to represent mundane and simple object, because i find beaty in simplicity and try to recorded the moment of every day light. I don't quite remember why i got into blender i think it was simply by curiosity or chance but it helps me express a creative but simple feeling. 
+I expresses my creativity trough blender trying to represent mundane and simple object, because i find beaty in simplicity and try to recorded the moment of every day light. I don't quite remember why i got into blender i think it was simply by curiosity or chance but it helps me express a creative but simple feeling. This make appreciate what a moment which simply capturing a simple moment in life that we may take for granted
 
 info:
 **How to write an essay for UC Prompt 2:** 
@@ -66,6 +66,6 @@ properties:
 - Use simple to understand language but express yourself clearly and expressively
 - DON'T DO A CONCLUSION follow the structure
 - develop what i learned from those experiences
--  **a stand-out essay** discusses an uncommon topic, makes uncommon connections, and uses uncommon language.
+- don't just start putting uncanny words every keep sensible but uncommonness strategically and subtly
 
 Answer :
