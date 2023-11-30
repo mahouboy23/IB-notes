@@ -18,4 +18,11 @@ properties:
 - The
 - Structure to follow :1. Challenges + Effects (⅓ of PIQ) / 2. What I did about it (⅓ of PIQ) / 3. What I learned (⅓ of PIQ)
 - **Make sure to address how the challenge impacted your academics**, since the prompt asks about this.
-- 
+- **makes the challenge very clear**.
+- **makes the effects/impacts very clear**.
+- **quickly transitions from the challenges/effects to describing what he did about them**.
+- **details help us understand the author’s values** ex: family, responsibility, hard work, resourcefulness, humor, ambition, independence, helping others, leadership, and so much more.
+- It **HAS** to be between 250-350 words preferably around 300 words.
+- Use simple to understand language but express yourself clearly and expressively
+- DON'T DO A CONCLUSION follow the structure
+- develop what i learned from those experiences
