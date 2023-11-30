@@ -3,9 +3,10 @@ Write a response to the personal insight question (PIQ). There will be a descrip
 **Personal insight question** :  Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
 
 description:
-The subject that inspire is computer science i was really fond of that subject as like how we use simple and structured ways to solve complex solutions. And in researching for My IB Extended essay i came across a book By Michael Nielsen on neural networks and deep learning which peeked my interest for algorithms and how they function and as there is an ai revolution. This interest and in computer science and computer dates back way before 
+The subject that inspire is computer science i was really fond of that subject as like how we use simple and structured ways to solve complex solutions. And in researching for My IB Extended essay i came across a book By Michael Nielsen on neural networks and deep learning which peeked my interest for algorithms and how they function and as there is an ai revolution. This interest and in computer science and computer dates back way before when i joined a robotics club or when i interned at a solutions integration firm (sylversys).
 
-**UC Prompt 6 example essay: History**
+info:
+- **UC Prompt 6 example essay: History**
 
 > Through books like **_Man’s Search for Meaning_** by Viktor Frankl about his incarceration at Auschwitz and **documentaries like _Enemies of the People_** about the Khmer Rouge, history has taught me that human empathy knows no borders. 
 > 
@@ -30,19 +31,11 @@ The subject that inspire is computer science i was really fond of that subject a
 - She **includes one way per paragraph**, which provides a clear structure. I’ve bolded each way to make it easy to see. Note: The author did not bold these in her PIQ, and you don’t have to in yours. 
     
 - The **end of almost every paragraph includes an insight**, which is an answer to the question “so what?” or “why is this important?”
-
-info:
--
 - It was in Senegal
 - I am from bénin
 
 properties:
-- The
-- Structure to follow :1. Challenges + Effects (⅓ of PIQ) / 2. What I did about it (⅓ of PIQ) / 3. What I learned (⅓ of PIQ)
 - **includes one way per paragraph**, which provides a clear structure.
-- **makes the challenge very clear**.
-- **makes the effects/impacts very clear**.
-- **quickly transitions from the challenges/effects to describing what he did about them**.
 - **end of almost every paragraph includes an insight**
 - It **HAS** to be between 250-350 words preferably around 300 words.
 - Use simple to understand language but express yourself clearly and expressively
