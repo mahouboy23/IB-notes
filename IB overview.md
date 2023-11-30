@@ -10,7 +10,7 @@ tags:
 
 ## SL subjects
 - [[Economie]] 💰
-- [[Anglais Literrature]] ✍
+- [[English and Literature]] ✍
 - [[Physics]] 🔭
 
 ## Common core
