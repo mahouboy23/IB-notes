@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c544e7c981ce5025",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economie mind map.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.8579156530213852
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Points forts de la politique budgétaire.md",
+                "file": "economie mind map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Points forts de la politique budgétaire.md",
+                "file": "economie mind map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Points forts de la politique budgétaire.md"
+                "file": "economie mind map.canvas"
               }
             }
           },
@@ -205,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Points forts de la politique budgétaire.md",
+                "file": "economie mind map.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,10 +271,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "136fd182fc0bdc9a",
+  "active": "c544e7c981ce5025",
   "lastOpenFiles": [
-    "Macroéconomie.md",
+    "economie mind map.canvas",
     "Points forts de la politique budgétaire.md",
+    "Macroéconomie.md",
     "Contraintes sur la politique budgétaire.md",
     "Objectifs de la politique budgétaire.md",
     "Politique fiscale.md",
@@ -292,7 +308,6 @@
     "assets/Politique budgétaire expansionniste et restrictive",
     "Objectifs de la politique monétaire.md",
     "Taux d’inflation faible et stable.md",
-    "Exploration francais.md",
     "Untitled 1.loom",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231122204726708.png",
