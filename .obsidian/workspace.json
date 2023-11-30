@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UC ESSAY 2.md",
+                "file": "UC ESSAY 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UC ESSAY 2.md",
+                "file": "UC ESSAY 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UC ESSAY 2.md"
+                "file": "UC ESSAY 1.md"
               }
             }
           },
@@ -230,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UC ESSAY 2.md",
+                "file": "UC ESSAY 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,11 +281,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "986f338ca84cac59",
+  "active": "1f40710f07c375d9",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "Architecture des ordinateurs.md",
+    "economie mind map.canvas",
+    "L'unité de contrôle.md",
+    "IB overview.md",
     "UC ESSAY 1.md",
     "UC ESSAY 2.md",
-    "economie mind map.canvas",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142731.png",
@@ -298,7 +303,6 @@
     "Politique fiscale.md",
     "Politique monétaire.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Songs of Sorrow by Kofi Awonoor.md",
     "sl subjects/English and Literature.md",
     "TOK Essay draft.md",
@@ -312,16 +316,12 @@
     "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
-    "template/Exercise-.md",
     "assets/Comportement des ondes/image-20231129103438641.png",
     "assets/Comportement des ondes/Pasted image 20231129103205.png",
     "assets/Comportement des ondes",
-    "Polynôme.md",
-    "Politique budgétaire expansionniste et restrictive.md",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129095247.png",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129094555.png",
     "assets/Politique budgétaire expansionniste et restrictive",
-    "Objectifs de la politique monétaire.md",
     "Untitled 1.loom",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde",

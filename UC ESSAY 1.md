@@ -32,7 +32,7 @@ The passing of my mother in 2019 was the most profound challenge I've ever faced
 
 The necessity of traveling back to my home country, Benin, for her funeral during the winter break disrupted my schooling. Despite missing a significant portion of the first trimester and grappling with emotions that I believed were reserved for others, not myself, I returned to school carrying the weight of grief. My academic performance suffered; I barely scraped through the initial mock exams for the "brevet," an impending milestone in 9th grade.
 
-However, amidst this turmoil, the unwavering support of my father became my beacon. His profound gesture of preserving our family tradition by taking us to dine out every Sunday after church provided a semblance of normalcy in our shattered world.
+However, amidst this turmoil, the support of my father became my saving grace. His gesture of preserving our family tradition by taking us to dine out every Sunday after church provided a semblance of normalcy in our shattered world.
 
 Furthermore, the collective aid from my school, friends, and dedicated tutor became instrumental in my academic recovery. Trimester by trimester, I dedicated myself to improvement. It wasn't easy, but I made incremental progress. I finally managed to navigate the challenges, mustering the resilience to pass my exams.
 
