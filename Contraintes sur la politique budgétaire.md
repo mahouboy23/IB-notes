@@ -18,3 +18,7 @@ les limites de la mise en œuvre de la politique budgétaire.
 La pression politique désigne la tension ou l'attente exercée sur les décideurs politiques pour que les mesures ou lois adoptées produisent des résultats concrets et mesurables dans un laps de temps donné. Cela implique souvent des attentes de changement rapide ou des ajustements dans divers secteurs en réponse à de nouvelles politiques ou législations.
 
 ## Décalages temporels
+?
+Les décalages temporels représentent les laps de temps nécessaires entre la mise en place d'une nouvelle mesure ou politique et l'apparition de ses effets tangibles ou perceptibles dans l'économie ou la société, engendrant souvent un délai entre la prise de décision et ses résultats concrets.
+
+## Dette viable
