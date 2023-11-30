@@ -3,7 +3,7 @@ Write a response to the personal insight question (PIQ). There will be a descrip
 **Personal insight question** :  Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
 
 description:
-The subject that inspire is computer science i was really fond of that subject as like how we use simple and structured ways to solve complex solutions. And in researching for an assign i came across a book By Michael Nielsen on neural networks and deep learning 
+The subject that inspire is computer science i was really fond of that subject as like how we use simple and structured ways to solve complex solutions. And in researching for My IB Extended essay i came across a book By Michael Nielsen on neural networks and deep learning which peeked my interest for algorithms and how they function and as there is an ai revolution. This interest and in computer science and computer dates back way before 
 
 **UC Prompt 6 example essay: History**
 
