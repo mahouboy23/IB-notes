@@ -15,7 +15,6 @@ info:
 - I was 13 years old
 
 properties:
-- In paragraph 1, the author defines leadership in **an unconventional way**.
 - Structure to follow :1. - _Challenge_ (the Problem You Solved) (⅓ of PIQ) / 2. - _What I Did About It_ (What I Did and Impact I Had) (⅓ of PIQ) / 3. - _What I Learned_ (Lessons Learned/Skills I Gained, and How I Applied What I Learned) (⅓ of PIQ)
 - Talk about how different actions connect to and taught you about different values and insights regarding leadership
 example:
@@ -24,7 +23,12 @@ Learning to listen first → invite dialogue; better at controlling momentum wit
 - **makes the challenge very clear**.
 - **makes the effects/impacts very clear**.
 - **quickly transitions from the challenges/effects to describing what he did about them**.
-- **details help us understand the author’s values** ex: family, responsibility, hard work, resourcefulness, humor, ambition, independence, helping others, leadership, and so much more.
+- use of **active verbs** helps us understand the variety in **what he did**. 
+- define leadership in **an unconventional way**
+- share **what you learned**
+- describe **how** **you applied these lessons elsewhere**
+- use a **clear structure**
+- clarifies what **values, skills, and qualities** you’ll bring to the UC subtly
 - It **HAS** to be between 250-350 words preferably around 300 words.
 - Use simple to understand language but express yourself clearly and expressively
 - DON'T DO A CONCLUSION follow the structure
