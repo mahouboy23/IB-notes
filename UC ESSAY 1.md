@@ -12,7 +12,7 @@ info:
 - It examination year where were going to do the "brevet" at the end of the year
 - It was in Senegal
 - I am from bénin
-- I was 13 years old
+
 
 properties:
 - Structure to follow :1. - _Challenge_ (the Problem You Solved) (⅓ of PIQ) / 2. - _What I Did About It_ (What I Did and Impact I Had) (⅓ of PIQ) / 3. - _What I Learned_ (Lessons Learned/Skills I Gained, and How I Applied What I Learned) (⅓ of PIQ)
