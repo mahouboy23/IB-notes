@@ -12,7 +12,10 @@
 		{"id":"d721a93faad8779a","x":-1632,"y":-391,"width":400,"height":223,"color":"4","type":"file","file":"assets/Points forts de la politique budgétaire/Pasted image 20231130142706.png"},
 		{"id":"18150dd197fee665","x":-1336,"y":280,"width":400,"height":285,"color":"4","type":"file","file":"assets/Points forts de la politique budgétaire/Pasted image 20231130142731.png"},
 		{"id":"fa332d411d082f98","x":-854,"y":280,"width":400,"height":314,"color":"4","type":"file","file":"assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png"},
-		{"id":"a8f94828f8f8a7f9","x":-1840,"y":-41,"width":517,"height":141,"color":"4","type":"text","text":"*La différence fondamentale entre keynésiens et monétaristes est que les keynésiens croient que les salaires sont rigides et que les travailleurs n'accepteront pas de baisse de salaire .*"}
+		{"id":"a8f94828f8f8a7f9","x":-1800,"y":-41,"width":477,"height":141,"color":"4","type":"text","text":"*La différence fondamentale entre keynésiens et monétaristes est que les keynésiens croient que les salaires sont rigides et que les travailleurs n'accepteront pas de baisse de salaire .*"},
+		{"id":"f6fc3ca807fd70a0","x":-112,"y":36,"width":292,"height":124,"color":"5","type":"text","text":"**Forces et limites dans la réalisation des objectifs économiques**"},
+		{"id":"b97b1f54370e3398","x":-315,"y":280,"width":305,"height":109,"color":"5","type":"text","text":"Conflit potentiel entre croissance, chômage faible et inflation basse."},
+		{"id":"12f7e59ffb3e4fcb","x":55,"y":416,"width":305,"height":204,"color":"5","type":"text","text":"Illustration d'une politique budgétaire expansionniste et ses conséquences sur la croissance, le chômage et l'inflation."}
 	],
 	"edges":[
 		{"id":"cfc38cb1028d81d6","fromNode":"796f7ce9cac2ca6a","fromSide":"top","toNode":"1a5f1be986e1a422","toSide":"bottom"},
@@ -26,6 +29,9 @@
 		{"id":"45d4f1d48599b6bf","fromNode":"b002d011deea8241","fromSide":"left","toNode":"d721a93faad8779a","toSide":"right"},
 		{"id":"1d1c3a0882561ff8","fromNode":"91fff6e86b88a399","fromSide":"bottom","toNode":"18150dd197fee665","toSide":"top"},
 		{"id":"08b3aa1bdb90317b","fromNode":"3af10c59339f7544","fromSide":"bottom","toNode":"fa332d411d082f98","toSide":"top"},
-		{"id":"e3de0661edf974dc","fromNode":"050fddf0a4a055b3","fromSide":"left","toNode":"a8f94828f8f8a7f9","toSide":"right"}
+		{"id":"e3de0661edf974dc","fromNode":"050fddf0a4a055b3","fromSide":"left","toNode":"a8f94828f8f8a7f9","toSide":"right"},
+		{"id":"3a2c79067b49f867","fromNode":"796f7ce9cac2ca6a","fromSide":"bottom","toNode":"f6fc3ca807fd70a0","toSide":"top"},
+		{"id":"05e2db6f51333522","fromNode":"f6fc3ca807fd70a0","fromSide":"bottom","toNode":"b97b1f54370e3398","toSide":"top"},
+		{"id":"0970912aa734f984","fromNode":"f6fc3ca807fd70a0","fromSide":"bottom","toNode":"12f7e59ffb3e4fcb","toSide":"top"}
 	]
 }
