@@ -1,6 +1,7 @@
 Write a response to the personal insight question (PIQ). There will be a description on the challenges and how it has been overcame. There will be info about myself the essay and other that will help you write the essay and give you context. Most importantly FOLLOW THE PROPERTIES!!! The properties are guide lines and rules that you need to follow or respect and should be top priority.
 
-**Personal insight question** : Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+**Personal insight question** :   
+Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
 
 description:
 
