@@ -5,7 +5,7 @@ Created: 2023-11-30
 
 **Definition**:
 *Austérité* :: L'austérité est un programme gouvernemental visant à réduire la dette publique. Le gouvernement réduit les dépenses publiques et augmente les impôts pour se rapprocher de l’équilibre budgétaire.
-*Obligations* :: 
+*Obligations* :: Une obligation représente un titre de créance à long terme émis par une entité, généralement un gouvernement ou une entreprise, engendrant une dette remboursable à une date fixée, assortie d'intérêts.
 
 les limites de la mise en œuvre de la politique budgétaire.
 ?
