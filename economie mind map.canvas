@@ -15,7 +15,8 @@
 		{"id":"a8f94828f8f8a7f9","x":-1800,"y":-41,"width":477,"height":141,"color":"4","type":"text","text":"*La différence fondamentale entre keynésiens et monétaristes est que les keynésiens croient que les salaires sont rigides et que les travailleurs n'accepteront pas de baisse de salaire .*"},
 		{"id":"f6fc3ca807fd70a0","x":-112,"y":36,"width":292,"height":124,"color":"5","type":"text","text":"**Forces et limites dans la réalisation des objectifs économiques**"},
 		{"id":"b97b1f54370e3398","x":-315,"y":280,"width":305,"height":109,"color":"5","type":"text","text":"Conflit potentiel entre croissance, chômage faible et inflation basse."},
-		{"id":"12f7e59ffb3e4fcb","x":55,"y":416,"width":305,"height":204,"color":"5","type":"text","text":"Illustration d'une politique budgétaire expansionniste et ses conséquences sur la croissance, le chômage et l'inflation."}
+		{"id":"12f7e59ffb3e4fcb","x":240,"y":280,"width":305,"height":204,"color":"5","type":"text","text":"Illustration d'une politique budgétaire expansionniste et ses conséquences sur la croissance, le chômage et l'inflation."},
+		{"id":"843fcd17a4bf1ef0","x":-290,"y":600,"width":400,"height":314,"color":"5","type":"file","file":"assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png"}
 	],
 	"edges":[
 		{"id":"cfc38cb1028d81d6","fromNode":"796f7ce9cac2ca6a","fromSide":"top","toNode":"1a5f1be986e1a422","toSide":"bottom"},
@@ -32,6 +33,7 @@
 		{"id":"e3de0661edf974dc","fromNode":"050fddf0a4a055b3","fromSide":"left","toNode":"a8f94828f8f8a7f9","toSide":"right"},
 		{"id":"3a2c79067b49f867","fromNode":"796f7ce9cac2ca6a","fromSide":"bottom","toNode":"f6fc3ca807fd70a0","toSide":"top"},
 		{"id":"05e2db6f51333522","fromNode":"f6fc3ca807fd70a0","fromSide":"bottom","toNode":"b97b1f54370e3398","toSide":"top"},
-		{"id":"0970912aa734f984","fromNode":"f6fc3ca807fd70a0","fromSide":"bottom","toNode":"12f7e59ffb3e4fcb","toSide":"top"}
+		{"id":"0970912aa734f984","fromNode":"f6fc3ca807fd70a0","fromSide":"bottom","toNode":"12f7e59ffb3e4fcb","toSide":"top"},
+		{"id":"cb9d45a1317bd699","fromNode":"12f7e59ffb3e4fcb","fromSide":"bottom","toNode":"843fcd17a4bf1ef0","toSide":"top"}
 	]
 }
