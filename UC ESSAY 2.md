@@ -35,3 +35,11 @@ properties:
 - Use simple to understand language but express yourself clearly and expressively
 - DON'T DO A CONCLUSION follow the structure
 - develop what i learned from those experiences
+
+Answer :
+Leading our school's Sustainable Development Awareness Project presented a significant challenge but proved to be a transformative journey. Assigned to spearhead an initiative about global warming and sustainable practices, I was entrusted with a crucial leadership role among my peers, facing hurdles that tested my organizational skills and ability to inspire others.
+At the outset, mobilizing and engaging a diverse group of club members posed a challenge. As the oldest and from a higher class, I was expected to set an example and lead a team of younger students. Coordinating them effectively while maintaining their interest and commitment was no small feat. However, leveraging the varied strengths of the group, I strategically delegated roles, recognizing and utilizing the unique qualities of each member.
+Our strategy involved showcasing a united front through presentations and constructing an informative website. It was imperative to convey the urgency of sustainability and empower each member to contribute meaningfully. To accomplish this, I encouraged the more reserved students to excel in behind-the-scenes tasks while allowing the outgoing ones to shine in presentations.
+This experience had a profound impact on my academic life. It honed my leadership skills, emphasizing the importance of inclusivity and teamwork in achieving a common goal. It underscored the significance of adapting leadership styles to suit diverse team dynamics. Moreover, witnessing our project's tangible impact on our school community instilled in me a more profound commitment to effecting positive change.
+At its core, this experience reinforced my belief in the power of collaboration and inspired me to harness individual strengths to achieve collective success. It highlighted my ability to foster an inclusive environment and lead by example, values I hold dear.
+This journey taught me that effective leadership isn't about standing out alone but about uplifting others to shine. It nurtured my appreciation for diverse perspectives, a skill I aim to continue developing, recognizing its pivotal role in creating a more sustainable and harmonious world.
