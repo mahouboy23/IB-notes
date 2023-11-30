@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "UC ESSAY 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "UC ESSAY 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UC ESSAY 1.md"
+                "file": "UC ESSAY 2.md"
               }
             }
           },
@@ -231,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "UC ESSAY 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,14 +280,14 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "1f40710f07c375d9",
+  "active": "986f338ca84cac59",
   "lastOpenFiles": [
+    "UC ESSAY 1.md",
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
     "economie mind map.canvas",
     "L'unité de contrôle.md",
     "IB overview.md",
-    "UC ESSAY 1.md",
     "UC ESSAY 2.md",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
