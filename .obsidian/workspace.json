@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6ab643c8e75072b",
+            "id": "986f338ca84cac59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "136fd182fc0bdc9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Points forts de la politique budgétaire.md",
+                "file": "UC ESSAY 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,14 +28,25 @@
                 "file": "economie mind map.canvas",
                 "viewState": {
                   "x": -407.52493064281555,
-                  "y": 288.9503779618059,
+                  "y": -53.090557352597784,
                   "zoom": -1.1419008691316266
                 }
               }
             }
+          },
+          {
+            "id": "d6ab643c8e75072b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK Essay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5033760070801,
-    "collapsed": true
+    "width": 290.5033760070801
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
+                "file": "UC ESSAY 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
+                "file": "UC ESSAY 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png"
+                "file": "UC ESSAY 1.md"
               }
             }
           },
@@ -220,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
+                "file": "UC ESSAY 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,8 +268,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c544e7c981ce5025",
+  "active": "986f338ca84cac59",
   "lastOpenFiles": [
+    "UC ESSAY 1.md",
+    "economie mind map.canvas",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142731.png",
@@ -280,7 +279,6 @@
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142346.png",
     "assets/Points forts de la politique budgétaire",
     "Points forts de la politique budgétaire.md",
-    "economie mind map.canvas",
     "Macroéconomie.md",
     "Contraintes sur la politique budgétaire.md",
     "Objectifs de la politique budgétaire.md",
@@ -309,7 +307,6 @@
     "Politique budgétaire expansionniste et restrictive.md",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129095247.png",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129094555.png",
-    "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129094226.png",
     "assets/Politique budgétaire expansionniste et restrictive",
     "Objectifs de la politique monétaire.md",
     "Taux d’inflation faible et stable.md",
