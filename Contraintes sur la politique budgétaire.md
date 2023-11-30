@@ -22,3 +22,5 @@ La pression politique désigne la tension ou l'attente exercée sur les décideu
 Les décalages temporels représentent les laps de temps nécessaires entre la mise en place d'une nouvelle mesure ou politique et l'apparition de ses effets tangibles ou perceptibles dans l'économie ou la société, engendrant souvent un délai entre la prise de décision et ses résultats concrets.
 
 ## Dette viable
+?
+La dette viable représente un niveau d'endettement d'un gouvernement considéré comme soutenable à long terme, où les revenus et les ressources disponibles sont suffisants pour rembourser les intérêts et le capital emprunté sans compromettre la stabilité financière ou l'économie nationale.
