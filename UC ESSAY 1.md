@@ -28,14 +28,14 @@ properties:
 - develop what i learned from those experiences
 
 Answer :
-The passing of my mother in 2019 was the most profound challenge I've ever faced. It began with subtle shifts in her behavior—a departure from her usual self. Her nonsensical words left us bewildered. With my father on a business trip, I grappled with the sudden change in her demeanor until her abrupt illness and eventual passing, a few days later.
+The passing of my mother in 2019 was the most profound challenge I've ever faced. It began with subtle shifts in her behavior—a departure from her usual self. Her nonsensical words left us bewildered. With my father on a business trip, I grappled with the sudden change in her demeanor until her abrupt illness and eventual passing a few days later.
 
 The necessity of traveling back to my home country, Benin, for her funeral during the winter break disrupted my schooling. Despite missing a significant portion of the first trimester and grappling with emotions that I believed were reserved for others, not myself, I returned to school carrying the weight of grief. My academic performance suffered; I barely scraped through the initial mock exams for the "brevet," an impending milestone in 9th grade.
 
 However, amidst this turmoil, the unwavering support of my father became my beacon. His profound gesture of preserving our family tradition by taking us to dine out every Sunday after church provided a semblance of normalcy in our shattered world.
 
-Furthermore, the collective aid from my school, friends, and dedicated tutor became instrumental in my academic recovery. Trimester by trimester, I dedicated myself to improvement. It wasn't easy, but I made incremental progress. I finally managed to navigate through the challenges, mustering the resilience to pass my exams.
+Furthermore, the collective aid from my school, friends, and dedicated tutor became instrumental in my academic recovery. Trimester by trimester, I dedicated myself to improvement. It wasn't easy, but I made incremental progress. I finally managed to navigate the challenges, mustering the resilience to pass my exams.
 
-This experience reshaped my perspective on resilience, family, and perseverance. It taught me the value of community support and the strength in finding solace in familiar routines during tumultuous times. The adversities revealed my capacity for resilience and the power of collective support.
+This experience reshaped my perspective on resilience, family, and perseverance. It taught me the value of community support and the strength of finding solace in familiar routines during tumultuous times. The adversities revealed my capacity for resilience and the power of collective support.
 
-The loss of my mother left an indelible mark on my academic journey. It tested my endurance, but it also instilled in me a profound appreciation for the support systems that buoyed me through adversity. These lessons continue to shape my outlook, instilling in me a deep sense of resilience, gratitude, and an unwavering determination to overcome challenges.
+The loss of my mother left an indelible mark on my academic journey. It tested my endurance and instilled in me a profound appreciation for the support systems that buoyed me through adversity. These lessons continue to shape my outlook, instilling a deep sense of resilience, gratitude, and an unwavering determination to overcome challenges.
