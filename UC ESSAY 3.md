@@ -40,6 +40,5 @@ properties:
 - It **HAS** to be between 250-350 words preferably around 300 words.
 - Use simple to understand language but express yourself clearly and expressively
 - DON'T DO A CONCLUSION follow the structure
-- develop what i learned from those experiences
 
 Answer :
