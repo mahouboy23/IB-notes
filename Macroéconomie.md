@@ -43,6 +43,7 @@ Basic concept en Economie:
 1. [[Politique fiscale]]
 2. [[Objectifs de la politique budgétaire]] 
 3. [[Politique budgétaire expansionniste et restrictive]] 
+4. [[Contraintes sur la politique budgétaire]] 
 
 [[TD economie]] 
 

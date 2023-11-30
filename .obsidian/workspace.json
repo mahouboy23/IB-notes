@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs of Sorrow by Kofi Awonoor.md",
+                "file": "Contraintes sur la politique budgétaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5033760070801
+    "width": 290.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs of Sorrow by Kofi Awonoor.md",
+                "file": "Contraintes sur la politique budgétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs of Sorrow by Kofi Awonoor.md",
+                "file": "Contraintes sur la politique budgétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs of Sorrow by Kofi Awonoor.md"
+                "file": "Contraintes sur la politique budgétaire.md"
               }
             }
           },
@@ -204,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Songs of Sorrow by Kofi Awonoor.md",
+                "file": "Contraintes sur la politique budgétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,9 +258,15 @@
   },
   "active": "136fd182fc0bdc9a",
   "lastOpenFiles": [
-    "sl subjects/English and Literature.md",
-    "Songs of Sorrow by Kofi Awonoor.md",
+    "Macroéconomie.md",
+    "Contraintes sur la politique budgétaire.md",
+    "Objectifs de la politique budgétaire.md",
+    "Politique fiscale.md",
+    "Politique monétaire.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "Songs of Sorrow by Kofi Awonoor.md",
+    "sl subjects/English and Literature.md",
     "TOK Essay draft.md",
     "TOK Essay.md",
     "common core/TOK.md",
@@ -271,27 +279,21 @@
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
     "template/Exercise-.md",
-    "Objectifs de la politique budgétaire.md",
     "assets/Comportement des ondes/image-20231129103438641.png",
     "assets/Comportement des ondes/Pasted image 20231129103205.png",
     "assets/Comportement des ondes",
     "Polynôme.md",
-    "Macroéconomie.md",
-    "sl subjects/Economie.md",
     "Politique budgétaire expansionniste et restrictive.md",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129095247.png",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129094555.png",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129094226.png",
     "assets/Politique budgétaire expansionniste et restrictive/Pasted image 20231129092717.png",
     "assets/Politique budgétaire expansionniste et restrictive",
-    "Politique fiscale.md",
-    "Politique monétaire.md",
     "Objectifs de la politique monétaire.md",
     "Taux d’inflation faible et stable.md",
     "Exploration francais.md",
     "Untitled 1.loom",
     "Excalidraw/Drawing 2023-11-28 11.05.50.excalidraw.md",
-    "Structure de données abstraites.md",
     "University shortlist.loom",
     "assets/Individual Oral/image-20231122204726708.png",
     "assets/Individual Oral/image-20231109090800680.png",
