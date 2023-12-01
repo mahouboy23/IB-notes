@@ -28,3 +28,6 @@ Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne ch
 ### Refraction (loi de Snell-des cartes)
 ![[image-20231129112205552.png]]
 
+## Loi de Snell, angle critique et réflexion interne totale
+
+Un angle critique est un angle

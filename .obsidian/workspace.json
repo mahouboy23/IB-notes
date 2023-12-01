@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Comportement des ondes.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Comportement des ondes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Comportement des ondes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscillation et Onde.md"
+                "file": "Comportement des ondes.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Comportement des ondes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,11 +291,12 @@
   },
   "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
-    "Ondes static.md",
-    "Oscillation et Onde.md",
+    "assets/Comportement des ondes/image-20231129112205552.png",
     "Comportement des ondes.md",
-    "sl subjects/Physics.md",
+    "Oscillation et Onde.md",
     "IB overview.md",
+    "Ondes static.md",
+    "sl subjects/Physics.md",
     "TOK Essay.md",
     "UC ESSAY 4.md",
     "UC ESSAY 3.md",
@@ -323,8 +324,6 @@
     "TOK Essay draft.md",
     "common core/TOK.md",
     "Mouvement harmonique simple.md",
-    "assets/Comportement des ondes/image-20231129112205552.png",
-    "Identifier le raisonnement récursif.md",
     "assets/Comportement des ondes/image-20231129103438641.png",
     "assets/Comportement des ondes/Pasted image 20231129103205.png",
     "assets/Comportement des ondes",
