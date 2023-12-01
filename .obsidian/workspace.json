@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d6ab643c8e75072b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oscillation et Onde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3652b25503cfe6d3",
             "type": "leaf",
             "state": {
@@ -50,18 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "UC ESSAY 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6ab643c8e75072b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UC ESSAY 4.md",
+                "file": "Oscillation et Onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UC ESSAY 4.md",
+                "file": "Oscillation et Onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UC ESSAY 4.md"
+                "file": "Oscillation et Onde.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UC ESSAY 4.md",
+                "file": "Oscillation et Onde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,17 +289,22 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3652b25503cfe6d3",
+  "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
-    "UC ESSAY 3.md",
+    "Ondes static.md",
+    "Oscillation et Onde.md",
+    "Comportement des ondes.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "TOK Essay.md",
     "UC ESSAY 4.md",
+    "UC ESSAY 3.md",
     "UC ESSAY 2.md",
     "UC ESSAY 1.md",
     "hl subjects/Computer science.md",
     "Architecture des ordinateurs.md",
     "economie mind map.canvas",
     "L'unité de contrôle.md",
-    "IB overview.md",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142731.png",
@@ -316,15 +321,10 @@
     "Songs of Sorrow by Kofi Awonoor.md",
     "sl subjects/English and Literature.md",
     "TOK Essay draft.md",
-    "TOK Essay.md",
     "common core/TOK.md",
     "Mouvement harmonique simple.md",
-    "Comportement des ondes.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
     "Identifier le raisonnement récursif.md",
-    "Experiment.md",
-    "Excalidraw/Drawing 2023-11-28 11.05.50_0.excalidraw.md",
-    "Oscillation et Onde.md",
     "assets/Comportement des ondes/image-20231129103438641.png",
     "assets/Comportement des ondes/Pasted image 20231129103205.png",
     "assets/Comportement des ondes",
