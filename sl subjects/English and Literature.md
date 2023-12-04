@@ -179,4 +179,12 @@ Analyzing texts: 5 keys considerations ?
 # 2. [[Individual Oral]]
 
 ## Songs of sorrow
-1. The central themes revolves around cultural identity, the impact of colonisation and the
+1. The central themes revolves around cultural identity, the impact of colonisation and the independence in post colonial Africa.
+2. The author incorporates rythmique patterns and imagery, drawing on the oral story telling tradition to create a powerful poetic experience
+3. The cathedral uses symbolise to depict the clash between indigenous beliefs and Christianity reflecting the broader culture conflict faced by many African societies.
+4. Aweaver bird explores the impact of modernisation on traditional skills serving as a metaphor for the erosion of culture practice's.
+5. The poem reflect on personal and collective greave exploring themes of loss, displacement, and mourning. 
+6. Nature and spirituality serve as significant themes with the author drawing on these elements to convey deeper cultural and philosophic meanings. 
+7. The poem adresses the destructive impact of the slave on African communities as well as reflecting on historical trauma.
+8. Kofi Awonoo explores between traditional African value and the forces of modernisation brought about by colonialization.
+9. 
