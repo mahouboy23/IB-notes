@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/English and Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/English and Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/English and Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Approches to non-literary text.md"
+                "file": "sl subjects/English and Literature.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Approches to non-literary text.md",
+                "file": "sl subjects/English and Literature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5120011954976994,
+                  "scale": 0.7732330763557164,
                   "close": true
                 }
               }
@@ -289,8 +289,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d6ab643c8e75072b",
+  "active": "1ea2cb0a21f14309",
   "lastOpenFiles": [
+    "Approches to non-literary text.md",
     "sl subjects/English and Literature.md",
     "Individual Oral.md",
     "Analyse du document.md",
@@ -324,7 +325,6 @@
     "Politique fiscale.md",
     "Politique monétaire.md",
     "Songs of Sorrow by Kofi Awonoor.md",
-    "TOK Essay draft.md",
     "assets/Comportement des ondes/image-20231129103438641.png",
     "assets/Comportement des ondes/Pasted image 20231129103205.png",
     "assets/Comportement des ondes",

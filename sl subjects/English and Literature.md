@@ -174,7 +174,9 @@ Analyzing texts: 5 keys considerations ?
 - Tone :: - The attitude of the writer or speaker towards his or her subject.
 - Figurative language :: - language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal.
 
-1. [[Approches to non-literary text]] 
+### 1. [[Approches to non-literary text]] 
+### 2. [[SPECS]] 
+# 2. [[Individual Oral]]
 
-### 1. [[SPECS]] 
-# 2. [[Individual Oral]] 
+## Songs of sorrow
+1. The central themes revolves around cultural identity, the impact of colonisation and the
