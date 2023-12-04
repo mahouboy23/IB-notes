@@ -39,3 +39,4 @@ graph
 ?
 ![[image-20231204102528795.png]] ![[image-20231204103314879.png]]
 $n_{2}>n_{1}$ 
+![[reflection-refraction-polarization.gif]]
