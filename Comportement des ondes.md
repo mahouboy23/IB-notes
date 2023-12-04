@@ -20,9 +20,6 @@ $T_{i}$ = $T_{r}$ =$T$
 $v_{1}T$ = $v_{r}T$ 
 $\lambda_{i} = \lambda_{r}$   
 
-## Polarisation par réflexion (angle de Brewster)
-
-
 ## Transmission et refraction
 La transmission c'est le passage d'une onde  d'un milieu a l'autre sans changement de la direction de propagation.
 
@@ -35,4 +32,7 @@ Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne ch
 
 Un angle critique est un angle
 
-#
+## Polarisation par réflexion (angle de Brewster)
+
+![[image-20231204102528795.png]]
+
