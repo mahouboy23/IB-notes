@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "Comportement des ondes.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "Comportement des ondes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "Comportement des ondes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/English and Literature.md"
+                "file": "Comportement des ondes.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "Comportement des ondes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,8 +291,12 @@
   },
   "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
-    "Key features of poems.md",
+    "Oscillation et Onde.md",
+    "Comportement des ondes.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "sl subjects/English and Literature.md",
+    "Key features of poems.md",
     "Songs of Sorrow by Kofi Awonoor.md",
     "Rhetorical devices.md",
     "Analyse du document.md",
@@ -300,14 +304,10 @@
     "Approches to non-literary text.md",
     "Individual Oral.md",
     "Présentation du document.md",
-    "IB overview.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
-    "Comportement des ondes.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
-    "Oscillation et Onde.md",
     "Ondes static.md",
-    "sl subjects/Physics.md",
     "TOK Essay.md",
     "UC ESSAY 4.md",
     "UC ESSAY 3.md",
