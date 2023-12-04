@@ -31,8 +31,12 @@ Le signal transmis a une vitesse $\cancel{=}$ la période ou la fréquence ne ch
 ## Loi de Snell, angle critique et réflexion interne totale
 
 Un angle critique est un angle
+![[image-20231204103101838.png]]
+
 
 ## Polarisation par réflexion (angle de Brewster)
-
+graph
+?
 ![[image-20231204102528795.png]]
 
+$n_{2}>n_{1}$ 
