@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "33b2cadf807c6870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploration francais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3652b25503cfe6d3",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -239,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,12 +302,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d6ab643c8e75072b",
+  "active": "33b2cadf807c6870",
   "lastOpenFiles": [
-    "Exploration francais.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
     "Microéconomie.md",
+    "Exploration francais.md",
+    "IB overview.md",
     "Exercise economie.md",
     "Commentaire d'economie.md",
     "sl subjects/Economie.md",
