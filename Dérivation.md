@@ -5,6 +5,7 @@
 Tangente et normale pour une fonction représente:
 ?
 
+
 - Formule de la tangente $T:y$=:: $f'(a)(x-a)+f(a)$
 
 - Formule de la normale $N:y$=:: $\frac{-1}{f'(a)}(x-a)+f(a)$
