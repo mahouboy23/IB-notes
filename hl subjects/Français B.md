@@ -105,3 +105,23 @@ racisme.
 8. Une classification dans la série A indique un produit d’électroménager économe en énergie.
 
 
+  
+Bien sûr, voici les points clés pour votre présentation sur le thème de la famille en français :
+
+### Présentation Orale sur la Famille
+
+1. **Évolution des Modèles Familiaux**
+    
+    - Modèle traditionnel vs. familles monoparentales et recomposées.
+    - Impact de l'évolution des rôles de genre sur la famille.
+    - La famille comme entité en constante redéfinition.
+2. **Relations Familiales**
+    
+    - Communication avec les parents: importance du dialogue calme et respectueux.
+    - Relation avec les frères et sœurs: gestion des conflits et moments de partage.
+    - Établir la confiance avec les parents: démontrer un changement positif.
+3. **Familles Monoparentales**
+    
+    - Explication du concept et sa croissance.
+    - Défis rencontrés par ces familles et impact sur les enfants.
+    - Perception des rôles parentaux dans ces situations.
