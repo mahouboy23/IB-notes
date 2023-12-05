@@ -106,8 +106,7 @@ racisme.
 
 
   
-  
-Bien sûr, voici un texte expliquant chaque partie de votre présentation orale sur la famille :
+
 
 ### 1. L'influence de la famille sur l'identité
 
