@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "727827e05dd3f700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dérivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Dérivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Dérivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "Dérivation.md"
               }
             }
           },
@@ -251,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "Dérivation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,10 +314,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d6ab643c8e75072b",
+  "active": "727827e05dd3f700",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
+    "Calculus.md",
+    "Dérivation.md",
+    "hl subjects/Math AA.md",
+    "Puissance-Exponentielles-Logarithm.md",
     "IB overview.md",
+    "Computer science exploration.md",
+    "hl subjects/Computer science.md",
     "hl subjects/Français B.md",
     "Exploration francais.md",
     "Microéconomie.md",
@@ -328,12 +346,7 @@
     "Rhetorical devices.md",
     "Analyse du document.md",
     "SPECS.md",
-    "Approches to non-literary text.md",
-    "Individual Oral.md",
-    "Présentation du document.md",
-    "Macroéconomie.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
-    "TOK Essay.md",
     "economie mind map.canvas",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
