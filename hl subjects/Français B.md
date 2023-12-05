@@ -119,6 +119,6 @@ Cette exploration souligne l'impact significatif de la famille sur la constructi
 
 Cette section met l'accent sur la communication au sein de la famille. Nous mettons en avant l'importance d'un dialogue ouvert, calme et respectueux entre parents et enfants. De plus, nous abordons la gestion des relations entre frères et sœurs, mettant l'accent sur la résolution pacifique des conflits et l'identification des moments propices au partage et à la collaboration. En outre, nous soulignons l'importance de bâtir et de maintenir la confiance avec les parents, en montrant des exemples positifs de changements de comportement.
 
-### 3. Familles Monoparentales
+### 3. La famille et le problème de generation (culture modern contre traditionnel) dans l'identie
 
 Cette section se concentre sur les familles monoparentales en expliquant ce concept et en mettant en lumière leur croissance croissante dans la société actuelle. Nous abordons également les défis auxquels ces familles sont confrontées, en particulier l'impact sur les enfants et les ajustements nécessaires pour gérer les responsabilités parentales de manière isolée. De plus, nous examinons comment ces situations sont perçues socialement, notamment en ce qui concerne les rôles parentaux et les stéréotypes associés à ces familles.
