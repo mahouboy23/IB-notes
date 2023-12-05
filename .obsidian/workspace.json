@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -252,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +301,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "33b2cadf807c6870",
+  "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
     "Exploration francais.md",
+    "hl subjects/Français B.md",
     "Microéconomie.md",
     "IB overview.md",
     "Exercise economie.md",

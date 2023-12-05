@@ -109,7 +109,7 @@ racisme.
   
 Bien sûr, voici un texte expliquant chaque partie de votre présentation orale sur la famille :
 
-### ### 1. L'influence de la famille sur l'identité
+### 1. L'influence de la famille sur l'identité
 
 Cette section explore le lien profond entre la famille et la construction de l'identité individuelle. Nous examinons comment les dynamiques familiales, les modèles de comportement et les valeurs transmises au sein du foyer contribuent à façonner l'identité de chaque individu. La famille, en tant que première sphère sociale, offre un cadre initial où se forment les perceptions de soi, les croyances et les attitudes envers le monde extérieur. Nous abordons également l'importance de la socialisation au sein de la famille dans le développement de la personnalité et comment les expériences familiales influencent les choix, les relations et la vision de soi-même à long terme.
 
