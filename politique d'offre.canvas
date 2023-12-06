@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6783b1334bdedad3","x":-160,"y":-100,"width":260,"height":60,"color":"1","type":"text","text":"# Politique d'offre"},
+		{"id":"cfa67573627aba23","x":-158,"y":-260,"width":256,"height":115,"color":"1","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter\n\nconcours\n\n."},
+		{"id":"058d78b73c0eec4d","x":-156,"y":38,"width":250,"height":60,"type":"text","text":"Objetif"}
+	],
+	"edges":[
+		{"id":"d34d961dade52598","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"cfa67573627aba23","toSide":"bottom"},
+		{"id":"6f5c4034eb25c2de","fromNode":"6783b1334bdedad3","fromSide":"bottom","toNode":"058d78b73c0eec4d","toSide":"top"}
+	]
+}
