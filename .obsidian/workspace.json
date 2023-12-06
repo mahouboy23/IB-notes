@@ -42,8 +42,8 @@
               "state": {
                 "file": "politique d'offre.canvas",
                 "viewState": {
-                  "x": -429.18110967002684,
-                  "y": 459.4552008160943,
+                  "x": -97.94486561544277,
+                  "y": 552.5299050899753,
                   "zoom": 0.015438985917704887
                 }
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "politique d'offre.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

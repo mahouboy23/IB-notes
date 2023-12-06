@@ -1,15 +1,16 @@
 {
 	"nodes":[
+		{"id":"ebfa3331dc1135f0","x":-239,"y":502,"width":400,"height":400,"type":"file","file":"Untitled.md"},
 		{"id":"058d78b73c0eec4d","x":-188,"y":40,"width":316,"height":60,"color":"1","type":"text","text":"Objectifs des politiques d’offre"},
-		{"id":"70e099cb3d88b943","x":-580,"y":180,"width":307,"height":104,"color":"2","type":"text","text":"### Croissance à long terme en augmentant la capacité productive"},
 		{"id":"54d7107037f087b1","x":-240,"y":226,"width":300,"height":58,"color":"4","type":"text","text":"### Améliorer la concurrence et l’efficacité"},
 		{"id":"3741ea1b222ae701","x":100,"y":200,"width":320,"height":100,"color":"6","type":"text","text":"\n### Réduire l'inflation pour améliorer la compétitivité internationale"},
 		{"id":"470b9e831e7ce6ae","x":460,"y":192,"width":280,"height":116,"color":"3","type":"text","text":"### Accroître les incitations des entreprises à investir dans innovation en réduisant les coûts."},
 		{"id":"c867b8fec2aa0d92","x":-319,"y":-160,"width":263,"height":115,"color":"#0011ff","type":"text","text":"### Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail"},
 		{"id":"6783b1334bdedad3","x":-160,"y":-540,"width":260,"height":60,"color":"1","type":"text","text":"# Politique d'offre"},
 		{"id":"cfa67573627aba23","x":-158,"y":-720,"width":256,"height":115,"color":"1","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter\n\nconcours\n\n."},
-		{"id":"1e446c2890f0bb7f","x":-880,"y":380,"width":347,"height":300,"color":"2","type":"text","text":"La population active peut être augmentée par :\n- En augmentant immigration\n- Abaisser le âge de travailler\n- Élever le l'âge de la retraite\n- Offrir davantage de possibilités aux individus d’entrer dans le main d'œuvre; par exemple, en proposant des services de garde d'enfants subventionnés"},
-		{"id":"525720c903c84599","x":-433,"y":382,"width":250,"height":60,"color":"2","type":"text","text":""}
+		{"id":"70e099cb3d88b943","x":-683,"y":151,"width":307,"height":104,"color":"2","type":"text","text":"### Croissance à long terme en augmentant la capacité productive"},
+		{"id":"1e446c2890f0bb7f","x":-983,"y":351,"width":347,"height":300,"color":"2","type":"text","text":"La population active peut être augmentée par :\n- En augmentant immigration\n- Abaisser le âge de travailler\n- Élever le l'âge de la retraite\n- Offrir davantage de possibilités aux individus d’entrer dans le main d'œuvre; par exemple, en proposant des services de garde d'enfants subventionnés"},
+		{"id":"525720c903c84599","x":-583,"y":351,"width":343,"height":300,"color":"2","type":"text","text":"Le stock de capital machine peut être augmenté par :\n\n- Abaissement taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines\n- Donnant allégements fiscaux aux entreprises qui investissent dans de nouvelles machines "}
 	],
 	"edges":[
 		{"id":"d34d961dade52598","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"cfa67573627aba23","toSide":"bottom"},
@@ -20,6 +21,7 @@
 		{"id":"3fa2acacc433b037","fromNode":"058d78b73c0eec4d","fromSide":"right","toNode":"470b9e831e7ce6ae","toSide":"top"},
 		{"id":"6fc6a837fa9a919b","fromNode":"058d78b73c0eec4d","fromSide":"top","toNode":"c867b8fec2aa0d92","toSide":"bottom"},
 		{"id":"4cd0f6bda8f3fae9","fromNode":"70e099cb3d88b943","fromSide":"bottom","toNode":"1e446c2890f0bb7f","toSide":"top"},
-		{"id":"3668d4b78d774961","fromNode":"70e099cb3d88b943","fromSide":"bottom","toNode":"525720c903c84599","toSide":"top"}
+		{"id":"3668d4b78d774961","fromNode":"70e099cb3d88b943","fromSide":"bottom","toNode":"525720c903c84599","toSide":"top"},
+		{"id":"7330d302ba7a2e85","fromNode":"54d7107037f087b1","fromSide":"bottom","toNode":"ebfa3331dc1135f0","toSide":"top"}
 	]
 }
