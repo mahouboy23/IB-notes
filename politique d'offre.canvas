@@ -1,11 +1,21 @@
 {
 	"nodes":[
-		{"id":"6783b1334bdedad3","x":-160,"y":-100,"width":260,"height":60,"color":"1","type":"text","text":"# Politique d'offre"},
-		{"id":"cfa67573627aba23","x":-158,"y":-260,"width":256,"height":115,"color":"1","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter\n\nconcours\n\n."},
-		{"id":"058d78b73c0eec4d","x":-156,"y":38,"width":250,"height":60,"type":"text","text":"Objetif"}
+		{"id":"058d78b73c0eec4d","x":-188,"y":40,"width":316,"height":60,"color":"1","type":"text","text":"Objectifs des politiques d’offre"},
+		{"id":"70e099cb3d88b943","x":-580,"y":180,"width":307,"height":104,"color":"2","type":"text","text":"### Croissance à long terme en augmentant la capacité productive"},
+		{"id":"54d7107037f087b1","x":-240,"y":226,"width":300,"height":58,"color":"4","type":"text","text":"### Améliorer la concurrence et l’efficacité"},
+		{"id":"3741ea1b222ae701","x":100,"y":200,"width":320,"height":100,"color":"6","type":"text","text":"\n### Réduire l'inflation pour améliorer la compétitivité internationale"},
+		{"id":"470b9e831e7ce6ae","x":460,"y":192,"width":280,"height":116,"color":"3","type":"text","text":"### Accroître les incitations des entreprises à investir dans innovation en réduisant les coûts."},
+		{"id":"c867b8fec2aa0d92","x":-319,"y":-160,"width":263,"height":115,"color":"#0011ff","type":"text","text":"### Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail"},
+		{"id":"6783b1334bdedad3","x":-160,"y":-540,"width":260,"height":60,"color":"1","type":"text","text":"# Politique d'offre"},
+		{"id":"cfa67573627aba23","x":-158,"y":-720,"width":256,"height":115,"color":"1","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter\n\nconcours\n\n."}
 	],
 	"edges":[
 		{"id":"d34d961dade52598","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"cfa67573627aba23","toSide":"bottom"},
-		{"id":"6f5c4034eb25c2de","fromNode":"6783b1334bdedad3","fromSide":"bottom","toNode":"058d78b73c0eec4d","toSide":"top"}
+		{"id":"6f5c4034eb25c2de","fromNode":"6783b1334bdedad3","fromSide":"bottom","toNode":"058d78b73c0eec4d","toSide":"top"},
+		{"id":"a50d5dafda1f4e25","fromNode":"058d78b73c0eec4d","fromSide":"left","toNode":"70e099cb3d88b943","toSide":"top"},
+		{"id":"27d71a87e7614f53","fromNode":"058d78b73c0eec4d","fromSide":"bottom","toNode":"54d7107037f087b1","toSide":"top"},
+		{"id":"4f1b4c403b658c8a","fromNode":"058d78b73c0eec4d","fromSide":"bottom","toNode":"3741ea1b222ae701","toSide":"top"},
+		{"id":"3fa2acacc433b037","fromNode":"058d78b73c0eec4d","fromSide":"right","toNode":"470b9e831e7ce6ae","toSide":"top"},
+		{"id":"6fc6a837fa9a919b","fromNode":"058d78b73c0eec4d","fromSide":"top","toNode":"c867b8fec2aa0d92","toSide":"bottom"}
 	]
 }
