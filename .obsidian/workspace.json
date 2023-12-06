@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UC ESSAY 4.md",
+                "file": "Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Macroéconomie.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,24 +320,27 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "33b2cadf807c6870",
+  "active": "3652b25503cfe6d3",
   "lastOpenFiles": [
-    "Exploration francais.md",
+    "L'équilibre a court terme.md",
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "UC ESSAY 4.md",
     "politique d'offre.canvas",
+    "Exploration francais.md",
     "economie mind map politique budgetaire.canvas",
     "Dérivation.md",
     "image-20231128163111952.png.md",
     "Calculus.md",
     "hl subjects/Math AA.md",
     "Puissance-Exponentielles-Logarithm.md",
-    "IB overview.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "hl subjects/Français B.md",
     "Microéconomie.md",
     "Exercise economie.md",
     "Commentaire d'economie.md",
-    "sl subjects/Economie.md",
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
@@ -351,8 +354,6 @@
     "sl subjects/Physics.md",
     "sl subjects/English and Literature.md",
     "Key features of poems.md",
-    "Songs of Sorrow by Kofi Awonoor.md",
-    "Rhetorical devices.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
