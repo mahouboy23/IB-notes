@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"058d78b73c0eec4d","type":"text","text":"# Objectifs des politiques d’offre","x":-188,"y":40,"width":316,"height":60,"color":"1"},
+		{"id":"058d78b73c0eec4d","type":"text","text":"# Objectifs des politiques d’offre","x":-188,"y":40,"width":316,"height":102,"color":"1"},
 		{"id":"54d7107037f087b1","type":"text","text":"### Améliorer la concurrence et l’efficacité","x":-240,"y":226,"width":300,"height":58,"color":"4"},
 		{"id":"c867b8fec2aa0d92","type":"text","text":"### Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail","x":-319,"y":-160,"width":263,"height":115,"color":"#0011ff"},
 		{"id":"70e099cb3d88b943","type":"text","text":"### Croissance à long terme en augmentant la capacité productive","x":-683,"y":151,"width":307,"height":104,"color":"2"},
