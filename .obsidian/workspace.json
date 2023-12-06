@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "politique d'offre.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "politique d'offre.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macroéconomie.md"
+                "file": "politique d'offre.canvas"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "politique d'offre.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,11 +320,27 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3652b25503cfe6d3",
+  "active": "33b2cadf807c6870",
   "lastOpenFiles": [
-    "L'équilibre a court terme.md",
     "Macroéconomie.md",
+    "L'équilibre a court terme.md",
+    "L'inflation et ses causes.md",
+    "Coûts relatifs du chômage par rapport à l'inflation.md",
+    "Le rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Fiscalité progressive.md",
+    "L'equilibre a long terme.md",
+    "L'offre globale.md",
+    "Changement dans les institutions.md",
     "sl subjects/Economie.md",
+    "Microéconomie.md",
+    "Subvention.md",
+    "ressources communes.md",
+    "Impôts indirects.md",
+    "Changements de prix et boucles de rétroaction.md",
+    "fonctions du mécanisme des prix.md",
+    "Le surplus du consommateur.md",
+    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
+    "Déterminants de l'élasticité-prix de l'offre.md",
     "IB overview.md",
     "UC ESSAY 4.md",
     "politique d'offre.canvas",
@@ -334,26 +350,10 @@
     "image-20231128163111952.png.md",
     "Calculus.md",
     "hl subjects/Math AA.md",
-    "Puissance-Exponentielles-Logarithm.md",
-    "Computer science exploration.md",
-    "hl subjects/Computer science.md",
-    "hl subjects/Français B.md",
-    "Microéconomie.md",
-    "Exercise economie.md",
-    "Commentaire d'economie.md",
-    "Comportement des ondes.md",
-    "Oscillation et Onde.md",
-    "Caractéristique d'une onde.md",
-    "Ondes progressives périodiques.md",
-    "Mouvement harmonique simple.md",
-    "Ondes static.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",
     "assets/Comportement des ondes/image-20231204102528795.png",
-    "sl subjects/Physics.md",
-    "sl subjects/English and Literature.md",
-    "Key features of poems.md",
     "assets/Comportement des ondes/image-20231129112205552.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130143818.png",
     "assets/Points forts de la politique budgétaire/Pasted image 20231130142748.png",
