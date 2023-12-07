@@ -48,7 +48,9 @@ Basic concept en Economie:
 
 
 ## Parte 7: Politique d'offre
-1. [[Politiques d’offre liées aux incitations]] 
+1. 
+2. [[Politiques d’offre liées aux incitations]] 
+3. [[Politiques interventionnistes du côté de l’offre]]
 
 
 [[TD economie]] 
