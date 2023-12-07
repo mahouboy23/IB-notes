@@ -46,6 +46,11 @@ Basic concept en Economie:
 4. [[Contraintes sur la politique budgétaire]] 
 5. [[Points forts de la politique budgétaire]] 
 
+
+## Parte 7: Politique d'offre
+1. 
+
+
 [[TD economie]] 
 
 ![[Effet inflation sur chômage]]
