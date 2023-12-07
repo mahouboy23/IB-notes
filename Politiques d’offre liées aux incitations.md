@@ -15,3 +15,7 @@ Graph
 ?
 ![[image-20231207133458164.png]]
 
+### Taux d'imposition
+graph
+?
+![[Pasted image 20231207133732.png]]
