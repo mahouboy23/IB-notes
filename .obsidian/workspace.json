@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effets sur la demande des politiques axées sur l’offre.md",
+                "file": "Macroéconomie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3de7611b4b99a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effets sur la demande des politiques axées sur l’offre.md",
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effets sur la demande des politiques axées sur l’offre.md",
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effets sur la demande des politiques axées sur l’offre.md"
+                "file": "Effets des politiques budgétaires sur l’offre.md"
               }
             }
           },
@@ -206,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Effets sur la demande des politiques axées sur l’offre.md",
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,9 +269,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d6ab643c8e75072b",
+  "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
     "Macroéconomie.md",
+    "Effets des politiques budgétaires sur l’offre.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
     "Politiques interventionnistes du côté de l’offre.md",
     "Politiques d’offre liées aux incitations.md",
@@ -292,7 +306,6 @@
     "L'equilibre a long terme.md",
     "L'offre globale.md",
     "Changement dans les institutions.md",
-    "Microéconomie.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",

@@ -52,6 +52,7 @@ Basic concept en Economie:
 2. [[Politiques d’offre liées aux incitations]] 
 3. [[Politiques interventionnistes du côté de l’offre]]
 4. [[Effets sur la demande des politiques axées sur l’offre]] 
+5. [[Effets des politiques budgétaires sur l’offre]] 
 
 
 [[TD economie]] 
