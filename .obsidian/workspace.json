@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus.md",
+                "file": "Ex phrase structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,8 @@
               "state": {
                 "file": "economie mind map politique budgetaire.canvas",
                 "viewState": {
-                  "x": -66.953333385458,
-                  "y": -263.9255793084368,
+                  "x": -353.21667032629125,
+                  "y": -508.9257325460871,
                   "zoom": -1.1495525167984189
                 }
               }
@@ -38,14 +38,11 @@
             "id": "33b2cadf807c6870",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "politique d'offre.canvas",
-                "viewState": {
-                  "x": 105.70684614177202,
-                  "y": -134.11425309147606,
-                  "zoom": -1.2494098962346951
-                }
+                "file": "TOK Essay draft.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -97,8 +94,25 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "592d13950af80854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99776eb292c0f296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bullet points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Bullet points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Bullet points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "politique d'offre.canvas"
+                "file": "Bullet points.md"
               }
             }
           },
@@ -270,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Bullet points.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,10 +334,22 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "33b2cadf807c6870",
+  "active": "99776eb292c0f296",
   "lastOpenFiles": [
-    "Macroéconomie.md",
+    "Ex phrase structure.md",
+    "Bullet points.md",
+    "Individual Oral.md",
+    "sl subjects/English and Literature.md",
+    "IB overview.md",
+    "Calculus.md",
+    "TOK Essay draft.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
     "politique d'offre.canvas",
+    "economie mind map politique budgetaire.canvas",
+    "Macroéconomie.md",
     "assets/Graph de l'effet de la competition/Pasted image 20231206095205.png",
     "assets/Graph de l'effet de la competition/Pasted image 20231206093550.png",
     "assets/Graph de l'effet de la competition/image-20231206093509901.png",
@@ -342,17 +368,6 @@
     "ressources communes.md",
     "Impôts indirects.md",
     "Changements de prix et boucles de rétroaction.md",
-    "fonctions du mécanisme des prix.md",
-    "Le surplus du consommateur.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
-    "Déterminants de l'élasticité-prix de l'offre.md",
-    "IB overview.md",
-    "UC ESSAY 4.md",
-    "Exploration francais.md",
-    "economie mind map politique budgetaire.canvas",
-    "Dérivation.md",
-    "image-20231128163111952.png.md",
-    "Calculus.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",
