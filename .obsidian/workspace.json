@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macroéconomie.md",
+                "file": "Politiques d’offre liées aux incitations.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,15 +27,14 @@
               "state": {
                 "file": "politique d'offre.canvas",
                 "viewState": {
-                  "x": -98.08613752090105,
-                  "y": 234.3790787687616,
+                  "x": 439.99988689424407,
+                  "y": -50.260629798670124,
                   "zoom": -0.745937853267886
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Politiques d’offre liées aux incitations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Politiques d’offre liées aux incitations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "politique d'offre.canvas"
+                "file": "Politiques d’offre liées aux incitations.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "politique d'offre.canvas",
+                "file": "Politiques d’offre liées aux incitations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,13 +256,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3652b25503cfe6d3",
+  "active": "d6ab643c8e75072b",
   "lastOpenFiles": [
+    "assets/Politiques d’offre liées aux incitations/image-20231207133458164.png",
+    "assets/Politiques d’offre liées aux incitations",
     "Macroéconomie.md",
+    "Politiques d’offre liées aux incitations.md",
+    "politique d'offre.canvas",
     "sl subjects/Economie.md",
     "IB overview.md",
     "Ex phrase structure.md",
-    "politique d'offre.canvas",
     "economie mind map politique budgetaire.canvas",
     "UC ESSAY 3.md",
     "Bullet points.md",
@@ -289,7 +291,6 @@
     "Changement dans les institutions.md",
     "Microéconomie.md",
     "Subvention.md",
-    "ressources communes.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",
@@ -305,7 +306,6 @@
     "assets/Caractéristique d'une onde",
     "Untitled.loom",
     "assets/Mouvement harmonique simple",
-    "assets/Déflation, désinflation et ses coûts",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
