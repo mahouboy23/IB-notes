@@ -51,4 +51,4 @@ $$\Large{n_1\sin\theta_1=n_2\sin \theta_2}$$ $$\Large{180 = \theta_1 + 90+ \thet
 
  ## Interférence
 
- 
+ - Experience: Onde a la surface de l'eau
