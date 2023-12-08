@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#economie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,10 +268,10 @@
   },
   "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
-    "Oscillation et Onde.md",
-    "Comportement des ondes.md",
-    "sl subjects/Physics.md",
     "IB overview.md",
+    "Comportement des ondes.md",
+    "Oscillation et Onde.md",
+    "sl subjects/Physics.md",
     "politique d'offre.canvas",
     "Effets des politiques budgétaires sur l’offre.md",
     "Macroéconomie.md",
