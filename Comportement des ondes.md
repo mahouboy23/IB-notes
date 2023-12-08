@@ -48,4 +48,7 @@ $$\Large{n_1\sin\theta_1=n_2\sin \theta_2}$$ $$\Large{180 = \theta_1 + 90+ \thet
  ## Diffraction
  ?
  La diffraction d’une onde est la propriété d’une onde de se propager au-delà d’une ouverture ou de contourner un obstacle de dimension comparable à la longueur d’onde de l’onde.
+
+ ## Interférence
+
  

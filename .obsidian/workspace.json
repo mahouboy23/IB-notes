@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effets des politiques budgétaires sur l’offre.md",
+                "file": "Comportement des ondes.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,11 @@
             "id": "3652b25503cfe6d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "politique d'offre.canvas",
-                "viewState": {
-                  "x": 439.99988689424407,
-                  "y": -50.260629798670124,
-                  "zoom": -0.745937853267886
-                }
+                "file": "Oscillation et Onde.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effets des politiques budgétaires sur l’offre.md",
+                "file": "Comportement des ondes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effets des politiques budgétaires sur l’offre.md",
+                "file": "Comportement des ondes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effets des politiques budgétaires sur l’offre.md"
+                "file": "Comportement des ondes.md"
               }
             }
           },
@@ -219,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Effets des politiques budgétaires sur l’offre.md",
+                "file": "Comportement des ondes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,17 +268,20 @@
   },
   "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
-    "Macroéconomie.md",
+    "Oscillation et Onde.md",
+    "Comportement des ondes.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "politique d'offre.canvas",
     "Effets des politiques budgétaires sur l’offre.md",
+    "Macroéconomie.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
     "Politiques interventionnistes du côté de l’offre.md",
     "Politiques d’offre liées aux incitations.md",
     "assets/Politiques d’offre liées aux incitations/Pasted image 20231207133732.png",
     "assets/Politiques d’offre liées aux incitations/image-20231207133458164.png",
     "assets/Politiques d’offre liées aux incitations",
-    "politique d'offre.canvas",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Ex phrase structure.md",
     "economie mind map politique budgetaire.canvas",
     "UC ESSAY 3.md",
@@ -302,10 +302,6 @@
     "L'inflation et ses causes.md",
     "Coûts relatifs du chômage par rapport à l'inflation.md",
     "Le rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
-    "Fiscalité progressive.md",
-    "L'equilibre a long terme.md",
-    "L'offre globale.md",
-    "Changement dans les institutions.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",
