@@ -15,7 +15,7 @@
     - Setting: Young Latina girl's experiences in poverty-stricken Chicago.
 
 - **Poverty's Portrayal in the Novel**
-    - Depiction of housing instability and its effects on Esperanza's family.
+    - Depiction of housing instability and its effects on Esperanza's family and the broader community..
     - Specific quotes illustrating the dire circumstances and its impact.
         Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
 
@@ -38,25 +38,16 @@
     - Sandra Cisneros' purpose in highlighting inter-generational poverty.
         She is also a latine American that was also poor
     - Continuity of poverty's portrayal beyond the chosen extract.
-#### Themes Explored:
-
-1. **Poverty and Housing Instability**
-    
-    - Constant family movement and unstable housing.
-    - Impact of poverty on familial relationships and aspirations.
-2. **Education as a Pathway to Escape Poverty**
-    
-    - Esperanza's aspirations for education and writing.
-    - Education depicted as a means to break the cycle of poverty.
-3. **Impact on Familial Relationships and Community Dynamics**
-    
-    - Observations on the struggles of Esperanza's family and the broader community.
-    - Interconnectedness of poverty's impact on social relationships.
 
 ### Non-Literary Work - "Migrant Mother" by Dorothea Lange
 
 #### Key Analysis Points:
 
+- **Introduction of 'Migrant Mother' Photograph:**
+    
+    - Depiction during Great Depression
+    - Captured by Dorothea Lange
+    - Visual representation of poverty-stricken families
 - **Emotional Resonance of the Photograph**
     
     - How the image captures the raw struggles faced by the subjects.
@@ -69,10 +60,7 @@
     
     - Elements contributing to the emotional depth of the photograph.
     - The narrative depth encapsulated within a single visual.
-- **Interconnectedness with Literary Themes**
-    
-    - Identifying motifs in both texts that reinforce poverty's impact.
-    - Complementary insights from different mediums enriching understanding.
+
 - **Historical Context and Societal Commentary**
     
     - Exploring other artworks from the same era and similar representations.
