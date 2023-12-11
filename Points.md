@@ -61,7 +61,7 @@
 - **Historical Context and Societal Commentary**
     
     - Exploring other artworks from the same era and similar representations.
-    - Understanding societal commentary on poverty through visual arts.
+    - Understanding societal commentary on poverty through visual arts.88
 #### Themes Explored:
 
 1. **Poverty's Impact on Family Dynamics**
