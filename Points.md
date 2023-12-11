@@ -96,7 +96,7 @@
     - Connecting the unstable housing conditions depicted in the text to the broader issue of housing instability in poverty-stricken families.
     - How housing instability affects familial relationships and community dynamics.
 
-How does the author use symbolism or imagery to convey the theme in the excerp
+How does the author use symbolism or imagery to convey the theme in the excerpt
 
 How does the choice of narrative perspective enforce the portail of your global issue in the excerpt.
 
