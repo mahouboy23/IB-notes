@@ -9,7 +9,7 @@ Created: 2023-11-06
 
 ### Non-Literary work extract
 ![[image-20231122204726708.png]]
- _"Migrant Mother"_ 1943, by Dorothea Lange
+ _"Migrant Mother"_ 1936, by Dorothea Lange
 
 ## Global issue: **The Cycle of Inter-generational Poverty**
 
