@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6ab643c8e75072b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macroéconomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3de7611b4b99a93",
             "type": "leaf",
             "state": {
@@ -30,19 +18,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3652b25503cfe6d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oscillation et Onde.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "beb89f23fb6f21b1",
+        "type": "tabs",
+        "children": [
           {
             "id": "63d2e8bf950014d8",
             "type": "leaf",
@@ -55,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5033760070801
+    "width": 290.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -137,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Points.md"
+                "file": "Individual Oral.md"
               }
             }
           },
@@ -228,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,18 +261,18 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "63d2e8bf950014d8",
+  "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "Oscillation et Onde.md",
     "Points.md",
     "Individual Oral.md",
     "sl subjects/English and Literature.md",
     "IB overview.md",
     "Comportement des ondes.md",
-    "Oscillation et Onde.md",
     "sl subjects/Physics.md",
     "politique d'offre.canvas",
     "Effets des politiques budgétaires sur l’offre.md",
-    "Macroéconomie.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
     "Politiques interventionnistes du côté de l’offre.md",
     "Politiques d’offre liées aux incitations.md",
