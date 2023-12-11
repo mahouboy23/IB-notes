@@ -66,3 +66,5 @@ Le point C correspond a l'intersection  d'une crête et d'un creux, l'amplitude 
 ### **Condition d'obtention d'interference (voir interference lumineuse)**
 ### Reconnaitre les zones d'interference constructive et destructive
 L'etat de vibration d'un point situer dans le champs d'interference d'un point est fonction de sa position par rapport au deux source S1 et S2 pour savoir si un point grand L est le point d'interference constructive, destructive on calcule sa difference de chemin de se point par rapport au source S1 et S2
+
+## Interprétation théorique du phénomène d'interférences

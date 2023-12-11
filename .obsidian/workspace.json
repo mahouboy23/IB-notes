@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral.md",
+                "file": "Comportement des ondes.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,24 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Ex phrase structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "beb89f23fb6f21b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63d2e8bf950014d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5033760070801,
-    "collapsed": true
+    "width": 290.5033760070801
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -131,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Points.md",
+                "file": "Comportement des ondes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Points.md",
+                "file": "Comportement des ondes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Points.md"
+                "file": "Comportement des ondes.md"
               }
             }
           },
@@ -222,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Points.md",
+                "file": "Comportement des ondes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,17 +253,17 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "63d2e8bf950014d8",
+  "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
+    "Oscillation et Onde.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Individual Oral.md",
     "Points.md",
     "Ex phrase structure.md",
     "Macroéconomie.md",
-    "Oscillation et Onde.md",
     "sl subjects/English and Literature.md",
-    "IB overview.md",
     "Comportement des ondes.md",
-    "sl subjects/Physics.md",
     "politique d'offre.canvas",
     "Effets des politiques budgétaires sur l’offre.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
