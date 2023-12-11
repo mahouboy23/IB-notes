@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "beb89f23fb6f21b1",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Points.md"
+                "file": "Individual Oral.md"
               }
             }
           },
@@ -223,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Points.md",
+                "file": "Individual Oral.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,11 +273,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "63d2e8bf950014d8",
+  "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
+    "Points.md",
     "Ex phrase structure.md",
     "Individual Oral.md",
-    "Points.md",
     "Macroéconomie.md",
     "Oscillation et Onde.md",
     "sl subjects/English and Literature.md",
