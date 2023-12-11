@@ -3,6 +3,18 @@
 
 #### Key Analysis Points:
 
+## Introduction:
+- **Global Issue:**
+    - Define inter-generational poverty as a multifaceted challenge.
+    - Highlight its relevance in societal contexts due to limited access to education, economic opportunities, and healthcare.
+- **Introduction of 'The House on Mango Street':**
+    
+    - Author: Sandra Cisneros
+    - Title: 'The House on Mango Street'
+    - Publication Date: 1984
+    - Text Type: Novel
+    - Setting: Young Latina girl's experiences in poverty-stricken Chicago.
+
 - **Poverty's Portrayal in the Novel**
     
     - Depiction of housing instability and its effects on Esperanza's family.
@@ -10,7 +22,7 @@
         Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
 
 - **Community and Familial Struggles**
-    
+    - Poverty's Impact: Dive into Esperanza's experiences and observations regarding poverty and its effects on familial dynamics, aspirations, and housing conditions.
     - Broader depiction of poverty's impact on the community.
     - Insights into the familial dynamics under the strain of poverty.
 
@@ -21,11 +33,14 @@
 
 - **Literary Techniques Used**
     
-    - Analysis of literary devices (imagery, symbolism, characterization).
+    - Analysis of literary devices (imagery, symbolism, characterization). 
+       - The three rooted
+       - the sky
     - How these techniques contribute to portraying poverty and its impacts.
 - **Author's Intent and Narrative Depth**
     
     - Sandra Cisneros' purpose in highlighting inter-generational poverty.
+        She is also a latine American that was also poor
     - Continuity of poverty's portrayal beyond the chosen extract.
 #### Themes Explored:
 
