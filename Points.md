@@ -59,12 +59,25 @@
 - **Analyzing Visual Composition**
     
     - Elements contributing to the emotional depth of the photograph.
+    - How visual storytelling intensifies impact
     - The narrative depth encapsulated within a single visual.
+        - Black and white
+        - facial expressions
+        - realistic?
 
-- **Historical Context and Societal Commentary**
+- **Theme?**
+    - dark and gritty
+
+- **Interconnectedness with Literary Themes:**
     
-    - Exploring other artworks from the same era and similar representations.
-    - Understanding societal commentary on poverty through visual arts.88
+    - Similar motifs in both texts
+    - Reinforcing understanding of poverty's impact
+    - Complementary insights from different mediums
+- **Contrast of Mediums:**
+    
+    - Depth in literary text's character experiences
+    - Immediate portrayal in visual representation
+    - Enriching understanding through diverse mediums
 #### Themes Explored:
 
 1. **Poverty's Impact on Family Dynamics**
@@ -80,23 +93,32 @@
     - Echoing the cyclic nature of poverty and resilience amidst adversity.
     - Visual storytelling portraying housing instability and familial hardships.
 
-
-### Global Issue - Inter-generational Poverty
-
-#### Connection with Literary Work:
-
-1. **Inter-generational Poverty's Manifestation in the Literary Text**
+## Conclusion:
+- **Summarize Texts' Relation to Global Issue:**
     
-    - How the novel illustrates poverty's cyclical nature within Esperanza's family.
-    - Insight into the challenges faced by families in impoverished circumstances.
-2. **Education as a Catalyst in Breaking the Cycle**
+    - Recap of 'The House on Mango Street' themes
+    - Echoing inter-generational poverty's challenges
+    - Reflecting 'Migrant Mother' hardships visually
+- **Authorial Perspective on Global Issue:**
     
-    - Linking Esperanza's aspirations for education to the broader issue of breaking the cycle of poverty.
-    - Understanding education as a potential solution to inter-generational poverty.
-3. **Impact of Housing Instability on Family Dynamics**
+    - Highlighting authors' insights on poverty
+    - Nuanced portrayal of struggles and hopes
+    - Conveying societal impact through narratives
+- **Comparative Perspective Between Texts:**
     
-    - Connecting the unstable housing conditions depicted in the text to the broader issue of housing instability in poverty-stricken families.
-    - How housing instability affects familial relationships and community dynamics.
+    - Highlighting similarities and contrasts
+    - Complementary nature of literary and visual mediums
+    - Strengthening the collective exploration of poverty
+- **Reflection on the Broader Global Relevance:**
+    
+    - Emphasizing the issue's universal nature
+    - Illustrating how poverty impacts societies
+    - Stimulating conversations and reflections
+- **Final Statement on the Examined Texts:**
+    
+    - Acknowledging the richness of explored content
+    - Encouraging further discourse and analysis
+    - Conveying gratitude for the opportunity to explore these profound works
 
 How does the author use symbolism or imagery to convey the theme in the excerpt
 
