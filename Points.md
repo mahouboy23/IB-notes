@@ -1,21 +1,6 @@
 
 ### Literary Work - "The House on Mango Street" by Sandra Cisneros
 
-#### Themes Explored:
-
-1. **Poverty and Housing Instability**
-    
-    - Constant family movement and unstable housing.
-    - Impact of poverty on familial relationships and aspirations.
-2. **Education as a Pathway to Escape Poverty**
-    
-    - Esperanza's aspirations for education and writing.
-    - Education depicted as a means to break the cycle of poverty.
-3. **Impact on Familial Relationships and Community Dynamics**
-    
-    - Observations on the struggles of Esperanza's family and the broader community.
-    - Interconnectedness of poverty's impact on social relationships.
-
 #### Key Analysis Points:
 
 - **Poverty's Portrayal in the Novel**
@@ -38,23 +23,22 @@
     
     - Sandra Cisneros' purpose in highlighting inter-generational poverty.
     - Continuity of poverty's portrayal beyond the chosen extract.
-
-### Non-Literary Work - "Migrant Mother" by Dorothea Lange
-
 #### Themes Explored:
 
-1. **Poverty's Impact on Family Dynamics**
+1. **Poverty and Housing Instability**
     
-    - Visual representation of poverty-stricken families during the Great Depression.
-    - Depiction of familial struggles and hardships through the photograph.
-2. **Visual Representation of Poverty and Hardships**
+    - Constant family movement and unstable housing.
+    - Impact of poverty on familial relationships and aspirations.
+2. **Education as a Pathway to Escape Poverty**
     
-    - Emotional resonance conveyed through subjects' expressions.
-    - Capturing the multifaceted challenges within poverty through a single image.
-3. **Inter-generational Struggles**
+    - Esperanza's aspirations for education and writing.
+    - Education depicted as a means to break the cycle of poverty.
+3. **Impact on Familial Relationships and Community Dynamics**
     
-    - Echoing the cyclic nature of poverty and resilience amidst adversity.
-    - Visual storytelling portraying housing instability and familial hardships.
+    - Observations on the struggles of Esperanza's family and the broader community.
+    - Interconnectedness of poverty's impact on social relationships.
+
+### Non-Literary Work - "Migrant Mother" by Dorothea Lange
 
 #### Key Analysis Points:
 
@@ -78,6 +62,21 @@
     
     - Exploring other artworks from the same era and similar representations.
     - Understanding societal commentary on poverty through visual arts.
+#### Themes Explored:
+
+1. **Poverty's Impact on Family Dynamics**
+    
+    - Visual representation of poverty-stricken families during the Great Depression.
+    - Depiction of familial struggles and hardships through the photograph.
+2. **Visual Representation of Poverty and Hardships**
+    
+    - Emotional resonance conveyed through subjects' expressions.
+    - Capturing the multifaceted challenges within poverty through a single image.
+3. **Inter-generational Struggles**
+    
+    - Echoing the cyclic nature of poverty and resilience amidst adversity.
+    - Visual storytelling portraying housing instability and familial hardships.
+
 
 ### Global Issue - Inter-generational Poverty
 
