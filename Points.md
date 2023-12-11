@@ -7,14 +7,18 @@
     
     - Depiction of housing instability and its effects on Esperanza's family.
     - Specific quotes illustrating the dire circumstances and its impact.
-- **Role of Education in Breaking the Cycle**
-    
-    - Esperanza's dreams and aspirations for a better future.
-    - How education is depicted as a potential escape route from poverty.
+        Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
+
 - **Community and Familial Struggles**
     
     - Broader depiction of poverty's impact on the community.
     - Insights into the familial dynamics under the strain of poverty.
+
+- **Role of Education in Breaking the Cycle**
+    
+    - Esperanza's dreams and aspirations for a better future.
+    - How education is depicted as a potential escape route from poverty.
+
 - **Literary Techniques Used**
     
     - Analysis of literary devices (imagery, symbolism, characterization).

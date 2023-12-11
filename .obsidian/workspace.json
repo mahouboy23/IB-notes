@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9608bddd2f9e457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ex phrase structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -265,6 +277,7 @@
   "lastOpenFiles": [
     "Points.md",
     "Individual Oral.md",
+    "Ex phrase structure.md",
     "Macroéconomie.md",
     "Oscillation et Onde.md",
     "sl subjects/English and Literature.md",
@@ -280,7 +293,6 @@
     "assets/Politiques d’offre liées aux incitations/image-20231207133458164.png",
     "assets/Politiques d’offre liées aux incitations",
     "sl subjects/Economie.md",
-    "Ex phrase structure.md",
     "economie mind map politique budgetaire.canvas",
     "UC ESSAY 3.md",
     "Bullet points.md",
