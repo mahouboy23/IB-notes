@@ -5,8 +5,8 @@
 
 ## Introduction + literary work:
 - **Global Issue:**
-    - Today, I'll delve into the pervasive issue of inter-generational poverty, a multifaceted challenge that perpetuates across generations due to limited access to education, economic opportunities, and healthcare. Intergenerational poverty refers to the condition where poverty persists across multiple generations within a family or community."
     - Define inter-generational poverty as a multifaceted challenge.
+    - Today, I'll delve into the pervasive issue of inter-generational poverty, a multifaceted challenge that perpetuates across generations due to limited access to education, economic opportunities, and healthcare. Intergenerational poverty refers to the condition where poverty persists across multiple generations within a family or community."
     - Highlight its relevance in societal contexts due to limited access to education, economic opportunities, and healthcare.
 - **Introduction of 'The House on Mango Street':**
     - Author: Sandra Cisneros

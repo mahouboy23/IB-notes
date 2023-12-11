@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "./assets/Individual Oral",
+  "attachmentFolderPath": "./assets/Points",
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": null,
