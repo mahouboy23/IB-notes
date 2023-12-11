@@ -35,7 +35,6 @@
     - How these techniques contribute to portraying poverty and its impacts.
 
 - **Author's Intent and Narrative Depth**
-    
     - Sandra Cisneros' purpose in highlighting inter-generational poverty.
         She is also a latine American that was also poor
     - Continuity of poverty's portrayal beyond the chosen extract.
