@@ -23,6 +23,7 @@
 - **Community and Familial Struggles**
     - Poverty's Impact: Dive into Esperanza's experiences and observations regarding poverty and its effects on familial dynamics, aspirations, and housing conditions.
     - Broader depiction of poverty's impact on the community.
+    - Women in poverty in this society.
     - Insights into the familial dynamics under the strain of poverty.
 
 - **Role of Education in Breaking the Cycle**
