@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comportement des ondes.md",
+                "file": "Exploration francais.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comportement des ondes.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comportement des ondes.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comportement des ondes.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comportement des ondes.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,11 +255,12 @@
   },
   "active": "c3de7611b4b99a93",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "IB overview.md",
+    "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "sl subjects/English and Literature.md",
-    "Comportement des ondes.md",
     "Individual Oral.md",
     "Points.md",
     "Ex phrase structure.md",
@@ -289,7 +290,6 @@
     "L'équilibre a court terme.md",
     "L'inflation et ses causes.md",
     "Coûts relatifs du chômage par rapport à l'inflation.md",
-    "Le rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
     "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Comportement des ondes/image-20231204103101838.png",
