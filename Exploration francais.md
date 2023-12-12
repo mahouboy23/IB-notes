@@ -60,4 +60,68 @@ Malgré ses tentatives pour les mettre à l'aise, par le sourire ou par l'humour
 L'extrait se concentre sur Faatim.  Faatim se retrouve dans une situation professionnelle nouvelle, étant professeure d'anglais sans véritable préparation ni expérience antérieure. Elle exprime ses doutes, sa gêne et son malaise face à la responsabilité soudaine qui lui est confiée, celle d'évaluer les étudiants pour le baccalauréat. L'auteur semble aborder ici le thème de la responsabilité, de la pression sociale et des doutes personnels. Faatim se sent démunie, confrontée à des étudiants dont elle ignore tout et dont elle doit juger les performances. Ses réflexions intérieures dévoilent ses craintes face à l'impact potentiel de ses décisions sur l'avenir de ces jeunes. On remarque aussi la sensibilité de Faatim face aux manifestations de stress des étudiants lors des examens, montrant ainsi une certaine empathie malgré ses propres inquiétudes. Les thèmes de la pression sociale, de l'incertitude, et de la responsabilité sont mis en avant dans cet extrait. Il révèle également les tourments et les questionnements internes de Faatim alors qu'elle se retrouve dans une situation professionnelle délicate et inattendue. Ce passage illustre un changement de ton offrant ainsi une diversité de points de vue et de réflexions au sein du roman.
 
 ## le Cid
+
+Fait une analyse de 550 mots ou tu vas donner un résumer du cid puis un résumer de l'extrait et enfin l'analyse et commenter en utilisant par exemple les theme, l'histoire, les figure de style. le language, les symboles etc....
+
+**Extrait 1 :**
+#### DON RODRIGUE
+
+Ne diffère donc plus ce que l'honneur t’ordonne :
+Il demande ma tête, et je te l’abandonne ;
+Fais-en un sacrifice à ce noble intérêt :
+Le coup m'en sera doux, aussi bien que l'arrêt.
+Attendre après mon crime une lente justice,
+C'est reculer ta gloire autant que mon supplice.
+Je mourrai trop heureux, mourant d'un coup si beau.
+
+#### CHIMENE
+
+Va, je suis ta partie, et non pas ton bourreau.
+Si tu m'offres ta tête, est-ce à moi de la prendre ?
+Je la dois attaquer, mais tu dois la défendre ;
+C'est d'un autre que toi qu'il me faut l'obtenir,
+Et je dois te poursuivre, et non pas te punir.
+
+#### DON RODRIGUE
+
+De quoi qu'en ma faveur notre amour t'entretienne,
+Ta générosité doit répondre à la mienne ;
+Et pour venger un père emprunter d'autres bras,
+Ma Chimène, crois-moi, c'est n'y répondre pas :
+Ma main seule du mien a su venger l'offense,
+Ta main seule du tien doit prendre la vengeance.
+
+#### CHIMENE
+
+Cruel ! à quel propos sur ce point t’obstiner ?
+Tu t'es vengé sans aide, et tu m'en veux donner !
+Je suivrai ton exemple, et j'ai trop de courage
+Pour souffrir qu'avec toi ma gloire se partage.
+Mon père et mon honneur ne veulent rien devoir
+Aux traits de ton amour ni de ton désespoir.
+
+#### DON RODRIGUE
+
+Rigoureux point d’honneur ! Hélas ! quoi que je fasse,
+Ne pourrai-je à la fin obtenir cette grâce ?
+Au nom d'un père mort, ou de notre amitié,
+Punis-moi par vengeance, ou du moins par pitié.
+Ton malheureux amant aura bien moins de peine
+A mourir par ta main qu'à vivre avec ta haine.
+
+#### CHIMENE
+
+Va, je ne te hais point.
+
+#### DON RODRIGUE
+
+Tu le dois.
+
+#### CHIMENE
+
+Je ne puis.
+
+**Extrait du cid, Page 55-56**
+
+### Analyse/commentaire
 L'extrait de cette scene proviens de l'oevre "Le cid". Pierre Corneille l'auteur de cette oeuvre nee a Rouen, le 6 juin 1606, était un auteur dramatique français du XVIIe siècle. Ses pièces les plus célèbres sont Le Cid, Cinna, Polyeucte et Horace. La richesse et la diversité de son ouvre reflètent les valeurs et les grandes interrogations de son époque. Rouen, 6 juin 1606 - Paris, 1er octobre 1684) est un auteur dramatique français du XVIIe siècle. Ses pièces les plus célèbres sont Le Cid, Cinna, Polyeucte et Horace. La richesse et la diversité de son ouvre reflètent les valeurs et les grandes interrogations de son époque.
