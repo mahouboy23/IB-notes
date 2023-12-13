@@ -8,46 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3de7611b4b99a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macroéconomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9608bddd2f9e457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie Mondiale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eaf2b75024022902",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "politique d'offre.canvas",
-                "viewState": {
-                  "x": 116.4493168333691,
-                  "y": -2076.0281852136554,
-                  "zoom": -1.1384820623228056
-                }
+                "file": "common core/TOK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602caf00934423cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK Exhibition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b80d815336555f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK Essay draft.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie Mondiale.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -219,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,14 +266,19 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "b9608bddd2f9e457",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
-    "Economie Mondiale.md",
+    "TOK Essay.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "common core/TOK.md",
     "Macroéconomie.md",
-    "Efficacité des politiques d’offre.md",
-    "politique d'offre.canvas",
     "IB overview.md",
+    "Points.md",
+    "politique d'offre.canvas",
+    "Economie Mondiale.md",
+    "sl subjects/Economie.md",
+    "Efficacité des politiques d’offre.md",
     "Exploration francais.md",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
@@ -290,7 +292,6 @@
     "sl subjects/Physics.md",
     "sl subjects/English and Literature.md",
     "Individual Oral.md",
-    "Points.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
     "Politiques interventionnistes du côté de l’offre.md",
     "Politiques d’offre liées aux incitations.md",
@@ -302,10 +303,6 @@
     "Bullet points.md",
     "Calculus.md",
     "TOK Essay draft.md",
-    "TOK Essay.md",
-    "common core/TOK.md",
-    "TOK Exhibition.md",
-    "TOK EXHIBITION DRAFT.md",
     "assets/Graph de l'effet de la competition/Pasted image 20231206095205.png",
     "assets/Graph de l'effet de la competition/Pasted image 20231206093550.png",
     "assets/Graph de l'effet de la competition/image-20231206093509901.png",
