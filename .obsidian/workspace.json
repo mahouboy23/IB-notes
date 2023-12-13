@@ -40,14 +40,14 @@
                 "file": "politique d'offre.canvas",
                 "viewState": {
                   "x": 103.05538914885946,
-                  "y": -193.7663689629849,
+                  "y": -715.8071196939376,
                   "zoom": -0.9970067109382658
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficacité des politiques d’offre.md",
+                "file": "politique d'offre.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficacité des politiques d’offre.md",
+                "file": "politique d'offre.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficacité des politiques d’offre.md"
+                "file": "politique d'offre.canvas"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Efficacité des politiques d’offre.md",
+                "file": "politique d'offre.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +269,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "b9608bddd2f9e457",
+  "active": "eaf2b75024022902",
   "lastOpenFiles": [
-    "Macroéconomie.md",
     "Efficacité des politiques d’offre.md",
+    "Macroéconomie.md",
     "Effets des politiques budgétaires sur l’offre.md",
     "sl subjects/Economie.md",
     "IB overview.md",

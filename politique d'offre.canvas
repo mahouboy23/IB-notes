@@ -11,7 +11,6 @@
 		{"id":"3741ea1b222ae701","type":"text","text":"\n### Réduire l'inflation pour améliorer la compétitivité internationale","x":160,"y":234,"width":320,"height":100,"color":"6"},
 		{"id":"1c27f1e35a3d9541","type":"file","file":"assets/Graph de l'effet de la competition/Pasted image 20231206093550.png","x":-840,"y":-317,"width":400,"height":314,"color":"#0011ff"},
 		{"id":"6783b1334bdedad3","type":"text","text":"# Politique d'offre","x":-160,"y":-600,"width":260,"height":60,"color":"1"},
-		{"id":"cfa67573627aba23","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter la concurrences\n\n.","x":-158,"y":-780,"width":338,"height":140,"color":"1"},
 		{"id":"64df76b91e99076f","type":"text","text":"- Reducing the power of trade unions\n- Reducing or removing a minimum wage\n- Reducing welfare to increase the opportunity cost of being unemployed\n- Increasing employment agencies to link the unemployed with suitable vacancies","x":-160,"y":-432,"width":400,"height":230,"color":"#0011ff"},
 		{"id":"516e9f89a5bf48a7","type":"text","text":"Impact sur les exportations","x":287,"y":499,"width":273,"height":61,"color":"6"},
 		{"id":"d51ee45d70376f4b","type":"text","text":"\"Stimuler l'innovation et réduire les coûts via les politiques d'offre pour inciter les entreprises à investir dans la R&D et les nouvelles technologies, permettant ainsi des avancées dans la production et des économies de coûts, comme illustré par l'exemple de Ford Motor Company.\"","x":648,"y":422,"width":352,"height":229,"color":"3"},
@@ -24,7 +23,9 @@
 		{"id":"ea686d9944683cf6","type":"text","text":"### Réduire le pouvoir des syndicats","x":305,"y":-906,"width":309,"height":66,"color":"2"},
 		{"id":"6d3e076a6c8a68cf","type":"text","text":"### Réduire les allocations de chômage","x":811,"y":-735,"width":269,"height":70,"color":"5"},
 		{"id":"2af0b8f48a736060","type":"text","text":"### Abolir le salaire minimum","x":671,"y":-466,"width":275,"height":66,"color":"6"},
-		{"id":"5192a0ebee0369a8","type":"file","file":"assets/Graph de l'effet de la competition/Pasted image 20231206095205.png","x":824,"y":-317,"width":400,"height":259,"color":"6"}
+		{"id":"5192a0ebee0369a8","type":"file","file":"assets/Graph de l'effet de la competition/Pasted image 20231206095205.png","x":824,"y":-317,"width":400,"height":259,"color":"6"},
+		{"id":"cfa67573627aba23","type":"text","text":"Les politiques du côté de l’offre sont conçues pour encourager les forces du marché et augmenter la concurrences\n\n.","x":-295,"y":-780,"width":338,"height":140,"color":"1"},
+		{"id":"18ccfcaf1b4ffb63","x":-31,"y":-1105,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"d34d961dade52598","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"cfa67573627aba23","toSide":"bottom"},
@@ -50,6 +51,7 @@
 		{"id":"d2437febc83744b8","fromNode":"1e799c48921159db","fromSide":"top","toNode":"ea686d9944683cf6","toSide":"bottom"},
 		{"id":"d8a9d91b3beb2ec3","fromNode":"1e799c48921159db","fromSide":"right","toNode":"6d3e076a6c8a68cf","toSide":"left"},
 		{"id":"382b1a421cedc624","fromNode":"1e799c48921159db","fromSide":"bottom","toNode":"2af0b8f48a736060","toSide":"top"},
-		{"id":"e06ad191184a0797","fromNode":"2af0b8f48a736060","fromSide":"bottom","toNode":"5192a0ebee0369a8","toSide":"top"}
+		{"id":"e06ad191184a0797","fromNode":"2af0b8f48a736060","fromSide":"bottom","toNode":"5192a0ebee0369a8","toSide":"top"},
+		{"id":"222e1ee7c13dbc41","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"18ccfcaf1b4ffb63","toSide":"bottom"}
 	]
 }
