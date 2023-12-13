@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "TOK EXHIBITION DRAFT.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "TOK EXHIBITION DRAFT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,10 +266,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "602caf00934423cd",
   "lastOpenFiles": [
-    "TOK Essay.md",
     "TOK Exhibition.md",
+    "TOK Essay draft.md",
+    "TOK Essay.md",
     "TOK EXHIBITION DRAFT.md",
     "common core/TOK.md",
     "Macroéconomie.md",
@@ -302,7 +303,6 @@
     "UC ESSAY 3.md",
     "Bullet points.md",
     "Calculus.md",
-    "TOK Essay draft.md",
     "assets/Graph de l'effet de la competition/Pasted image 20231206095205.png",
     "assets/Graph de l'effet de la competition/Pasted image 20231206093550.png",
     "assets/Graph de l'effet de la competition/image-20231206093509901.png",
