@@ -41,7 +41,8 @@
 		{"id":"a12e67ee2924cad4","x":980,"y":-1159,"width":250,"height":60,"type":"text","text":"### Pas de charge pour le budget de l'État"},
 		{"id":"30afab5a7e727aae","type":"text","text":"### Meilleure allocation des ressources","x":573,"y":-1249,"width":250,"height":60},
 		{"id":"802eb88005a041ae","x":698,"y":-1672,"width":371,"height":129,"type":"text","text":"### Forces et limites dans la promotion de la croissance, d’un faible taux de chômage et d’un faible taux d’inflation stable"},
-		{"id":"f88804a35f051bc7","x":830,"y":-2060,"width":400,"height":314,"type":"file","file":"assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png"}
+		{"id":"f88804a35f051bc7","x":830,"y":-2060,"width":400,"height":314,"type":"file","file":"assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png"},
+		{"id":"a82869991df7cda0","x":-73,"y":-2140,"width":400,"height":343,"type":"file","file":"assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png"}
 	],
 	"edges":[
 		{"id":"d34d961dade52598","fromNode":"6783b1334bdedad3","fromSide":"top","toNode":"cfa67573627aba23","toSide":"bottom"},
@@ -84,6 +85,7 @@
 		{"id":"191321921997c561","fromNode":"18ccfcaf1b4ffb63","fromSide":"top","toNode":"73522b735d96024d","toSide":"bottom"},
 		{"id":"e88a7f7815a774c8","fromNode":"e4df9e4ba8d9cd5f","fromSide":"right","toNode":"a12e67ee2924cad4","toSide":"left"},
 		{"id":"6cf62793506e2225","fromNode":"ec5038a90169b459","fromSide":"top","toNode":"802eb88005a041ae","toSide":"bottom"},
-		{"id":"080ce22093662f56","fromNode":"802eb88005a041ae","fromSide":"top","toNode":"f88804a35f051bc7","toSide":"bottom"}
+		{"id":"080ce22093662f56","fromNode":"802eb88005a041ae","fromSide":"top","toNode":"f88804a35f051bc7","toSide":"bottom"},
+		{"id":"9ad9adb3675e9b14","fromNode":"18ccfcaf1b4ffb63","fromSide":"top","toNode":"a82869991df7cda0","toSide":"bottom"}
 	]
 }
