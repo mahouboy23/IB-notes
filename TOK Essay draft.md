@@ -32,3 +32,5 @@ The immediacy and authenticity of these reinterpretations offer a significant ad
 However, for my counterargument, reinvestigating older evidence through alternative frameworks can also pose interpretative challenges. For instance, the view of the fall of the Western Roman Empire has faced reevaluation. Where historians once primarily attributed the collapse to invading forces, modern interdisciplinary lenses have reconsidered other social, economic and environmental factors. Byzantine records from after the 5th century CE, along with studies such as paleoclimate research, have allowed problematic assumptions to be re-examined. This example shows we can only sometimes take the earliest perspectives as definitive, as older sources subjected to innovative scrutiny may stimulate new, credible conclusions just as contemporary discoveries do.
 
 # Conclusion
+
+I want to create a react web app that manages grade report for the ib program and help manage them by class (11th and 12th grade) and students with each teacher being a user that can input there grades for their own class and the coordinator with acces to everything (will)

@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "62b80d815336555f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK Essay draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaf2b75024022902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/TOK.md",
+                "file": "sl subjects/English and Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62b80d815336555f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK Essay draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,15 +265,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "602caf00934423cd",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "sl subjects/English and Literature.md",
+    "IB overview.md",
+    "common core/TOK.md",
+    "TOK EXHIBITION DRAFT.md",
     "TOK Exhibition.md",
     "TOK Essay draft.md",
     "TOK Essay.md",
-    "TOK EXHIBITION DRAFT.md",
-    "common core/TOK.md",
     "Macroéconomie.md",
-    "IB overview.md",
     "Points.md",
     "politique d'offre.canvas",
     "Economie Mondiale.md",
@@ -291,7 +291,6 @@
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
-    "sl subjects/English and Literature.md",
     "Individual Oral.md",
     "Effets sur la demande des politiques axées sur l’offre.md",
     "Politiques interventionnistes du côté de l’offre.md",
