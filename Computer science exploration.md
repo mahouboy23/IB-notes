@@ -30,3 +30,5 @@ Critères de réussite :
 6. **Convivialité :** L'interface utilisateur de l'application doit être intuitive et facile à utiliser pour les élèves de tous niveaux de compétence.
     
 7. **Collaboration Facilitée :** Elle doit encourager la collaboration entre les élèves en permettant le partage et la discussion autour des ressources éducatives.
+
+[[web app]] 
