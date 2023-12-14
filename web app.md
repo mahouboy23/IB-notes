@@ -100,24 +100,86 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 #### Routes/Controllers:
 
-1. **Authentication Routes**
-    
-    - Verify user credentials.
-    - Generate tokens for authorized access.
-2. **Class Routes**
-    
-    - CRUD operations for classes.
-    - Data retrieval for specific classes.
-3. **Teacher Routes**
-    
-    - Inputting grades.
+### 1. **Authentication:**
+
+- **Functionality:**
+    - Verify user credentials (username/password).
+    - Issue tokens upon successful login for subsequent API access.
+- **Structure:**
+    - Authentication middleware to validate tokens for protected routes.
+    - Hashing passwords for secure storage.
+
+### 2. **Class Management:**
+
+- **Functionality:**
+    - CRUD operations for classes (11th and 12th grade).
+    - Retrieve class details, add/delete classes.
+- **Structure:**
+    - Routes handling GET, POST, DELETE operations for classes.
+    - Controller functions for database interactions (fetching, updating, deleting classes).
+
+### 3. **Teacher Interface:**
+
+- **Functionality:**
+    - Inputting grades for students.
     - Setting grade boundaries.
-4. **Student Routes**
-    
-    - Accessing and formatting grades.
-5. **Coordinator Routes**
-    
-    - Access to all data and management functionalities.
+- **Structure:**
+    - Routes for handling grade input and boundary settings.
+    - Controllers to process grade input and boundary updates.
+
+### 4. **Student Interface:**
+
+- **Functionality:**
+    - Accessing grades in different formats (French, GPA, IB grading).
+    - Generating PDF reports.
+- **Structure:**
+    - Routes for retrieving grades in various formats.
+    - Controller functions to format and provide grade data.
+
+### 5. **Coordinator/Moderator Access:**
+
+- **Functionality:**
+    - Access to all data.
+    - User management (add/delete users), class management, data overview.
+- **Structure:**
+    - Specific routes for admin functionalities.
+    - Controllers to manage users, classes, and overview data.
+
+### 6. **Database Operations (MySQL):**
+
+- **Functionality:**
+    - Connect Node.js to MySQL database.
+    - Execute queries for CRUD operations.
+- **Structure:**
+    - Use MySQL Node.js drivers (e.g., `mysql2`) to handle connections.
+    - Organize SQL queries into functions/methods for reusability.
+
+### Security Measures:
+
+- **Input Validation and Sanitization:**
+    - Validate and sanitize user inputs to prevent SQL injection or other attacks.
+- **Authorization:**
+    - Implement role-based access control (RBAC) for different user roles (teacher, coordinator, student).
+
+### Error Handling and Logging:
+
+- **Error Handling Middleware:**
+    - Centralized error handling middleware for consistent error responses.
+- **Logging:**
+    - Implement logging mechanisms for tracking API requests, errors, and activities.
+
+### Testing and Validation:
+
+- **Unit Testing:**
+    - Write tests for each route and controller function.
+    - Validate responses, error handling, and database operations.
+
+### Deployment and Scalability:
+
+- **Deployment to Hosting Services:**
+    - Deploy the Node.js app to platforms like Heroku, AWS, or Azure.
+- **Scalability Considerations:**
+    - Use best practices to ensure the app can handle increased traffic and data volume.
 
 ### Database (MySQL):
 
