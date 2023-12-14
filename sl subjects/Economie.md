@@ -17,5 +17,9 @@ tags : mod economie
    - Surplus du producteur : $d = \frac{12*6}{2} = 36$
 
 2) Calculer les revenus des producteurs avant et après le libre échange
-   - revenu du producteur avant le libre échange : $d+f+e$
-   - revenu du producteur apres le libre échange
+   - revenu du producteur avant le libre échange : $d+f+e+c+b = 8*14 = 112$ 
+   - revenu du producteur apres le libre échange : $d+f+e+c+b = 6*12 = 72$
+
+3) Donner le volume des importations et de la production domestique avant et après le libre échange
+   - Le volume des importations : 
+   - La production domestique 
