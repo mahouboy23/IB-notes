@@ -24,5 +24,5 @@ tags : mod economie
    - Le volume des importations : avant : $0m$ / après : $4m$
    - La production domestique : avant : $14m$ / après : $12m$
 
-4) Gain de la participation : $f+g = 4*6 = 24m$ 
+4) Gain de la participation : $c = \frac{4*2}{2} = 4m$  
 
