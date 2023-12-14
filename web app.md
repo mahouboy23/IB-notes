@@ -185,19 +185,80 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 #### Tables:
 
-1. **Users**
-    
-    - Teacher, Coordinator details.
-    - Authentication details.
-2. **Classes**
-    
-    - Class details and related data.
-3. **Grades**
-    
-    - Grade information tied to classes and students.
-4. **GradeBoundaries**
-    
-    - Boundary settings per teacher and subject.
+### 1. **Users Table:**
+
+- **Fields:**
+    - `user_id`: Primary key
+    - `username`: Unique identifier
+    - `password`: Encrypted password
+    - `role`: Role of the user (teacher, coordinator, student)
+
+### 2. **Classes Table:**
+
+- **Fields:**
+    - `class_id`: Primary key
+    - `class_name`: Name or identifier for the class
+    - `grade_level`: Grade level (11th or 12th grade)
+    - `teacher_id`: Foreign key linking to the Users table for the class teacher
+
+### 3. **Grades Table:**
+
+- **Fields:**
+    - `grade_id`: Primary key
+    - `student_id`: Foreign key linking to the Users table for the student
+    - `class_id`: Foreign key linking to the Classes table
+    - `subject`: Subject for which the grade is assigned
+    - `grade_value`: Grade value (French, GPA, IB format, etc.)
+
+### 4. **GradeBoundaries Table:**
+
+- **Fields:**
+    - `boundary_id`: Primary key
+    - `teacher_id`: Foreign key linking to the Users table for the teacher
+    - `subject`: Subject for which the boundaries are set
+    - `minimum_value`: Minimum grade value for the subject
+    - `maximum_value`: Maximum grade value for the subject
+
+### Database Relationships:
+
+- **Users ↔ Classes:**
+    - One-to-Many: One teacher can be associated with multiple classes.
+- **Users ↔ Grades:**
+    - One-to-Many: One student can have multiple grades.
+- **Users ↔ GradeBoundaries:**
+    - One-to-Many: One teacher can set boundaries for multiple subjects.
+
+### Indexes and Constraints:
+
+- **Primary Keys:**
+    - Define primary keys for each table (`user_id`, `class_id`, `grade_id`, `boundary_id`).
+- **Foreign Keys:**
+    - Ensure foreign keys for relational integrity among tables.
+- **Unique Constraints:**
+    - Ensure uniqueness where necessary (e.g., unique usernames in the Users table).
+
+### Data Storage Considerations:
+
+- **Secure Password Storage:**
+    - Use hashing and salting techniques to store passwords securely.
+- **Encryption for Sensitive Data:**
+    - Encrypt sensitive information where needed to enhance security.
+- **Normalization:**
+    - Normalize the database to minimize redundancy and improve efficiency.
+
+### Database Operations:
+
+- **CRUD Operations:**
+    - Create, Read, Update, and Delete operations for each table.
+- **Queries for Calculations:**
+    - Write queries to calculate averages, retrieve best/worst grades, and format grades into different systems.
+
+### Backup and Recovery:
+
+- **Regular Backups:**
+    - Implement a backup strategy to prevent data loss.
+- **Recovery Plan:**
+    - Have a plan in place for data recovery in case of failures or corruption.
 
 ### Guide/Steps for Building:
 
