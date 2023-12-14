@@ -75,6 +75,12 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Implement React Router for page navigation and URL handling.
 - **API Integration:**
     - Utilize Axios or Fetch to communicate with backend APIs for CRUD operations.
+- **State Management Enhancements**:
+    - For complex state management, consider using Redux Toolkit, which simplifies Redux usage.
+    - Utilize React Query for efficient data fetching, caching, and synchronization with the backend.
+- **User Experience (UX) Improvements**:
+    - Implement lazy loading for components or routes to improve load times.
+    - Use skeleton screens or loading indicators for a smoother user experience during data fetching.
 
 ### Component Breakdown:
 
