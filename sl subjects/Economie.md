@@ -25,3 +25,4 @@ tags : mod economie
    - La production domestique : avant : $14m$ / après : $12m$
 
 4) Gain de la participation : $f+g = 4*6 = 24m$ 
+
