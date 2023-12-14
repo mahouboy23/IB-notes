@@ -33,4 +33,4 @@ However, for my counterargument, reinvestigating older evidence through alternat
 
 # Conclusion
 
-I want to create a react web app that manages grade report for the ib program and help manage them by class (11th and 12th grade) and students with each teacher being a user that can input there grades for their own class and the coordinator with acces to everything (will)
+I want to create a react web app that manages grade report for the IB program and help manage them by class (11th and 12th grade) and students with each teacher being a user that can input there grades for their own class and the coordinator with accès to everything (will be the moderator). Students will also be able to get Access to there grade report and have automatic conversion in different format from french to GPA to English's grading system etc.... and people can download a pdf version all of this information stored in a central MySQL database with multiple tables for all info.
