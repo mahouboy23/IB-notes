@@ -10,3 +10,6 @@ tags : mod economie
 
 ![[image-20230324082130545.png]]
 
+## T.A.F
+
+1) Surplus du consomateur : $$

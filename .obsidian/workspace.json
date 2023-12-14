@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -215,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,16 +266,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "602caf00934423cd",
   "lastOpenFiles": [
-    "web app.md",
+    "IB overview.md",
+    "TOK EXHIBITION DRAFT.md",
     "TOK Essay draft.md",
+    "web app.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "sl subjects/English and Literature.md",
     "common core/TOK.md",
-    "TOK EXHIBITION DRAFT.md",
     "TOK Exhibition.md",
     "TOK Essay.md",
     "Macroéconomie.md",
