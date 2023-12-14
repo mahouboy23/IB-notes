@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web app.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web app.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web app.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "web app.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,10 +265,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "eaf2b75024022902",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "TOK Essay draft.md",
     "web app.md",
+    "TOK Essay draft.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
