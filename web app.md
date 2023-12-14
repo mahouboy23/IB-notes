@@ -10,30 +10,91 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 #### Pages/Components:
 
-1. **Login/Authentication Page**
-    
-    - Username/password entry for teachers and coordinators.
-    - Authentication using tokens or sessions.
-2. **Dashboard**
-    
-    - Displaying overall statistics.
-    - Navigation to different sections.
-3. **Class Management**
-    
-    - List of classes (11th and 12th grade).
-    - Class-wise grading components.
-4. **Teacher Interface**
-    
-    - Grade input form.
+### 1. **Login/Authentication Page:**
+
+- **Functionality:**
+    - Input fields for username and password.
+    - Validation and authentication through API calls to the backend.
+    - Redirect to the Dashboard upon successful login.
+- **Structure:**
+    - Form component for login fields.
+    - Error handling for invalid credentials.
+    - Integration with backend API for authentication.
+
+### 2. **Dashboard:**
+
+- **Functionality:**
+    - Display overall statistics.
+    - Navigation to different sections (Class Management, Teacher Interface, Student Interface, Coordinator Dashboard).
+- **Structure:**
+    - Cards or panels displaying statistics.
+    - Sidebar/Navbar for navigation.
+    - Dynamic content based on user role (teacher, student, coordinator).
+
+### 3. **Class Management:**
+
+- **Functionality:**
+    - List of classes for 11th and 12th grade.
+    - Access to specific class details.
+- **Structure:**
+    - Class list component displaying classes.
+    - Clickable links to access individual class details.
+
+### 4. **Teacher Interface:**
+
+- **Functionality:**
+    - Grade input form per student for various subjects.
     - Setting grade boundaries.
-5. **Student Interface**
-    
-    - View grades in different formats.
-    - PDF download option.
-6. **Coordinator/Moderator Dashboard**
-    
+- **Structure:**
+    - Forms for entering grades.
+    - Settings section for grade boundaries per subject.
+
+### 5. **Student Interface:**
+
+- **Functionality:**
+    - View grades in different formats (French, GPA, IB grading).
+    - Download grade report as a PDF.
+- **Structure:**
+    - Tabs or options for different grading formats.
+    - Download button for generating PDF report.
+
+### 6. **Coordinator/Moderator Dashboard:**
+
+- **Functionality:**
     - Access to all data.
-    - Ability to manage users, classes, and data.
+    - User management (add/delete users), class management, data overview.
+- **Structure:**
+    - Admin panel with various sections (Users, Classes, Data Overview).
+    - Tables or lists for managing users and classes.
+
+### Additional Considerations:
+
+- **State Management:**
+    - Use React Context or Redux for managing application state (user authentication, data fetching, etc.).
+- **Routing:**
+    - Implement React Router for page navigation and URL handling.
+- **API Integration:**
+    - Utilize Axios or Fetch to communicate with backend APIs for CRUD operations.
+
+### Component Breakdown:
+
+- **Reusable Components:**
+    - Header, Footer, Sidebar/Navbar for consistent layout.
+    - Form components for login, grade input, etc.
+    - Cards/panels for displaying statistics or class details.
+    - Tables/lists for presenting data (user list, class list).
+
+### Styling and UI/UX:
+
+- **Design System:**
+    - Maintain a consistent design system throughout the app.
+    - Consider using a CSS preprocessor like SCSS for modular and maintainable styles.
+
+### Testing and Validation:
+
+- **Unit Testing:**
+    - Write tests for components and functionalities.
+    - Validate form inputs, API responses, and user interactions.
 
 ### Backend (Node.js):
 
