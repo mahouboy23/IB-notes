@@ -4,7 +4,7 @@ tags : mod cs
 Created: 2023-12-14
 
 
-frontend (using React), backend (using Node.js), and a database (MySQL). Here's an outline of how you might structure the project:
+frontend (using React), backend (using Node.js), and a database (MySQL). Here's an outline of the structure of the project:
 
 ### Frontend (React):
 
