@@ -18,7 +18,7 @@ tags : mod economie
 
 2) Calculer les revenus des producteurs avant et après le libre échange
    - revenu du producteur avant le libre échange : $d+f+e+c+b = 8*14 = 112m$ 
-   - revenu du producteur après le libre échange : $d+f+e = 6*12 = 72m$
+   - revenu du producteur après le libre échange : $d+e = 6*12 = 72m$
 
 3) Donner le volume des importations et de la production domestique avant et après le libre échange
    - Le volume des importations : avant : $0m$ / après : $4m$
