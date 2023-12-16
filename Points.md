@@ -7,7 +7,7 @@
 - **Global Issue:**
     - Define inter-generational poverty as a multifaceted challenge.
     - Today, I'll delve into the pervasive issue of inter-generational poverty, a multifaceted challenge that perpetuates across generations. Intergenerational poverty refers to the condition where poverty persists across multiple generations within a family or community."
-    - This Highlight its relevance in societal contexts due to limited access to education, economic opportunities, and healthcare.
+    - This Highlight its relevance in societal contexts due to the fact that it limits access to education, economic opportunities, and healthcare.
     - To analyse and better understand this topic... two work that portrays inter-generational poverty in different ways.
 - **Introduction of 'The House on Mango Street':** 
     - Author: Sandra Cisneros
