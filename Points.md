@@ -47,8 +47,10 @@
 
 #### Key Analysis Points:
 
+
+
 - **Introduction of 'Migrant Mother' Photograph:**
-    
+    - "Turning to 'Migrant Mother' by Dorothea Lange, a powerful photograph captured during the Great Depression, we step into a visual narrative depicting the struggles of poverty-stricken families."
     - Depiction during Great Depression
     - Captured by Dorothea Lange
     - Visual representation of poverty-stricken families
