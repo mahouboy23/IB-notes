@@ -9,23 +9,24 @@
     - Today, I'll delve into the pervasive issue of inter-generational poverty, a multifaceted challenge that perpetuates across generations. Intergenerational poverty refers to the condition where poverty persists across multiple generations within a family or community."
     - This Highlight its relevance in societal contexts due to the fact that it limits access to education, economic opportunities, and healthcare.
     - To analyse and better understand this topic... two work that portrays inter-generational poverty in different ways.
-- **Introduction of 'The House on Mango Street':** 
+- **Introduction of 'The House on Mango Street':**  is an extract from
     - Author: Sandra Cisneros
     - Title: 'The House on Mango Street'
     - Publication Date: 1984
     - Text Type: Novel
     - Setting: Young Latina girl's experiences in poverty-stricken Chicago.
 
-- **Poverty's Portrayal in the Novel**
-    - Depiction of housing instability and its effects on Esperanza's family and the broader community..
-    - Specific quotes illustrating the dire circumstances and its impact.
-        Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
-
 - **Community and Familial Struggles**
     - Poverty's Impact: Dive into Esperanza's experiences and observations regarding poverty and its effects on familial dynamics, aspirations, and housing conditions.
     - Broader depiction of poverty's impact on the community.
     - Women in poverty in this society.
     - Insights into the familial dynamics under the strain of poverty.
+
+- **Poverty's Portrayal in the Novel**
+    - Depiction of housing instability and its effects on Esperanza's family and the broader community..
+    - Specific quotes illustrating the dire circumstances and its impact.
+        Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
+
 
 - **Role of Education in Breaking the Cycle**
     - Esperanza's dreams and aspirations for a better future, for education and writing.
