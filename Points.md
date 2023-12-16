@@ -32,7 +32,7 @@
 
 - **Literary Techniques Used**
     - Analysis of literary devices (imagery, symbolism, characterization). 
-       - The three rooted
+       - The 4 threes rooted in cement
        - the sky
     - How these techniques contribute to portraying poverty and its impacts.
 
