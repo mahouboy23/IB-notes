@@ -27,8 +27,8 @@
     - Specific quotes illustrating the dire circumstances and its impact.
         Consider, for a moment, the constant displacement mirrored in Cisneros's words: "We didn't always live on Mango Street... Each time it seemed there'd be one more of us." These words encapsulate the perpetual flux of their existence, marked by a relentless pursuit of stability that remains tantalizingly out of reach.
 
-
 - **Role of Education in Breaking the Cycle**
+    - Esperanza's struggle of identity, home and her name that reminds her of her grandma. But overlooks the other significance of her names that means which is one of the symbolism.
     - Esperanza's dreams and aspirations for a better future, for education and writing.
     - How education is depicted as a potential escape route from poverty. depicted as a means to break the cycle of poverty.
 
