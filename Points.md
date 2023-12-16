@@ -54,10 +54,8 @@
     
     - How the image captures the raw struggles faced by the subjects.
     - Emotional impact through visual representation of hardships.
-- **Themes Mirrored from the Literary Text**
-    
-    - Housing instability and familial struggles portrayed visually.
-    - Resilience amidst adversity depicted in the photograph.
+    - Capturing the multifaceted challenges within poverty through a single image.
+
 - **Analyzing Visual Composition**
     
     - Elements contributing to the emotional depth of the photograph.
@@ -67,6 +65,11 @@
         - facial expressions
         - realistic?
 
+- **Themes Mirrored from the Literary Text**
+    
+    - Housing instability and familial struggles portrayed visually.
+    - Resilience amidst adversity depicted in the photograph.
+
 - **Theme?**
     - dark and gritty
 
@@ -75,6 +78,7 @@
     - Similar motifs in both texts
     - Reinforcing understanding of poverty's impact
     - Complementary insights from different mediums
+    - Two side of the same coin
 - **Contrast of Mediums:**
     
     - Depth in literary text's character experiences
