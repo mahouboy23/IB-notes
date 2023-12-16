@@ -122,6 +122,9 @@
     - Encouraging further discourse and analysis
     - Conveying gratitude for the opportunity to explore these profound works
 
+### Thesis Statement:
+The portrayal of inter-generational poverty in "The House on Mango Street" by Sandra Cisneros and "Migrant Mother" by Dorothea Lange emphasizes the cyclical nature of poverty, highlighting its profound impact on familial stability, aspirations, and the arduous pursuit of a better life. Both texts underscore the intertwined struggles faced by families amidst poverty while depicting the pivotal role of education as a beacon of hope to transcend these adversities.
+
 How does the author use symbolism or imagery to convey the theme in the excerpt
 
 How does the choice of narrative perspective enforce the portail of your global issue in the excerpt.

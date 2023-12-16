@@ -13,38 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf2b75024022902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602caf00934423cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Points.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "6beabf9057dc15b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33cd6f5723b89783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individual Oral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5033760070801
+    "width": 290.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -125,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Points.md"
               }
             }
           },
@@ -216,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Points.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +233,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08711763353390985,
+                  "scale": 0.5713112975504234,
                   "close": true
                 }
               }
@@ -249,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,23 +261,32 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "602caf00934423cd",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "Individual Oral.md",
+    "Points.md",
+    "sl subjects/English and Literature.md",
     "IB overview.md",
-    "TOK EXHIBITION DRAFT.md",
-    "TOK Essay draft.md",
+    "Experiment.md",
     "web app.md",
+    "sl subjects/Economie.md",
+    "Excalidraw/Drawing 2023-12-15 15.46.57.excalidraw.md",
+    "common core/EE.md",
+    "Comportement des ondes.md",
+    "Oscillation et Onde.md",
+    "Caractéristique d'une onde.md",
+    "Ondes static.md",
+    "sl subjects/Physics.md",
+    "TOK Essay draft.md",
+    "TOK EXHIBITION DRAFT.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
-    "sl subjects/English and Literature.md",
     "common core/TOK.md",
     "TOK Exhibition.md",
     "TOK Essay.md",
     "Macroéconomie.md",
-    "Points.md",
     "politique d'offre.canvas",
     "Economie Mondiale.md",
-    "sl subjects/Economie.md",
     "Efficacité des politiques d’offre.md",
     "Exploration francais.md",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
@@ -290,15 +294,6 @@
     "assets/Efficacité des politiques d’offre/Pasted image 20231213081902.png",
     "assets/Efficacité des politiques d’offre",
     "Effets des politiques budgétaires sur l’offre.md",
-    "Ex phrase structure.md",
-    "hl subjects/Français B.md",
-    "Comportement des ondes.md",
-    "Oscillation et Onde.md",
-    "sl subjects/Physics.md",
-    "Individual Oral.md",
-    "Effets sur la demande des politiques axées sur l’offre.md",
-    "Politiques interventionnistes du côté de l’offre.md",
-    "Politiques d’offre liées aux incitations.md",
     "assets/Politiques d’offre liées aux incitations/Pasted image 20231207133732.png",
     "assets/Politiques d’offre liées aux incitations/image-20231207133458164.png",
     "assets/Politiques d’offre liées aux incitations",
