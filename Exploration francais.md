@@ -134,3 +134,7 @@ Corneille utilise des vers alexandrins pour construire cette scène, apportant u
 Le langage noble et les dialogues passionnés soulignent l'intensité des émotions et des dilemmes moraux auxquels sont confrontés Rodrigue et Chimène. La scène met en lumière les conflits intérieurs et les dilemmes éthiques des personnages, ce qui en fait une pièce tragique classique.
 Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le devoir, et le dilemme moral. Corneille explore la complexité des choix moraux et des émotions humaines, mettant en scène la lutte entre la loyauté envers les valeurs et l'attachement personnel. L'extrait illustre ainsi la tension entre l'amour passionné et l'honneur, formant ainsi le cœur de la tragédie du "Cid".
 
+## Groupe 1:
+- Quel est le contexte et la drame de l'histoire et les elements du texte
+- Quel est le message et la signification profonde de l'histoire
+- 
