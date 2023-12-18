@@ -11,7 +11,8 @@ tags : mod Physique
 ### **Theme 6:** [[Mouvement circulaire uniforme et gravitation]]  
 ### **Theme 7** : [[Physique nucléaire, atomique et des particules]] 
 
-### **Theme 8** : recherche
+### **Theme 8** : [[Production d'energie]] 
+#### recherche
 Centrales thermiques  (combustion fossiles)
 centrales hydroélectriques
 centrales solaire thermique  et photovoltaïque
