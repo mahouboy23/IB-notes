@@ -137,4 +137,5 @@ Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le dev
 ## Groupe 1:
 - Quel est le contexte et la drame de l'histoire et les elements du texte
 - Quel est le message et la signification profonde de l'histoire
-- 
+- Quel moment de l'histoire est présente dans le passage analyse
+- Quel aspect de la culture 
