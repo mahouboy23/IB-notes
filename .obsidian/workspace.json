@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Production d'energie.md",
+                "file": "Energie spécifique.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Production d'energie.md",
+                "file": "Energie spécifique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Production d'energie.md",
+                "file": "Energie spécifique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Production d'energie.md"
+                "file": "Energie spécifique.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Production d'energie.md",
+                "file": "Energie spécifique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,8 +243,9 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
     "Production d'energie.md",
+    "Energie spécifique.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
     "Points.md",
     "Individual Oral.md",
@@ -269,7 +270,6 @@
     "Macroéconomie.md",
     "politique d'offre.canvas",
     "Economie Mondiale.md",
-    "Efficacité des politiques d’offre.md",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213081902.png",
