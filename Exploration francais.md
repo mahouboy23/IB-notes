@@ -135,7 +135,18 @@ Le langage noble et les dialogues passionnés soulignent l'intensité des émoti
 Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le devoir, et le dilemme moral. Corneille explore la complexité des choix moraux et des émotions humaines, mettant en scène la lutte entre la loyauté envers les valeurs et l'attachement personnel. L'extrait illustre ainsi la tension entre l'amour passionné et l'honneur, formant ainsi le cœur de la tragédie du "Cid".
 
 ## Groupe 1:
-- Quel est le contexte et la drame de l'histoire et les elements du texte
-- Quel est le message et la signification profonde de l'histoire
-- Quel moment de l'histoire est présente dans le passage analyse
-- Quel aspect de la culture 
+#### ConCERnant l'extrait
+- Quel est le contexte et la drame de l'histoire et les elements du texte?
+- Quel est le message et la signification profonde de l'histoire?
+- Quel moment de l'histoire est présente dans le passage analyse?
+- Quel aspect de la culture est représente dans le texte lu?
+
+#### concernant les personnages
+- Quel sont les caractéristique physique et psychologies des personnages?
+- Comment sont-il lies les un-les autre?
+- Comment les personnages évoluent au cours de la narration?
+- Qu'elle est leur attitude, qu'elle sont leur emotion face aux évènements qu'ils vivent?
+- Comment fonctionnent ils?
+- Que feriez vous a leur place?
+- Que representent-ils?
+- Qu'elle est leur fonction dans l'histoire?
