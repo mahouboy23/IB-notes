@@ -12,4 +12,4 @@ La densité énergétique (ED) est une mesure de:: la quantité d'énergie par u
 La formule utilisée pour calculer la densité à partir de l'énergie spécifique et de la densité énergétique est la suivante: 
 ?
 
-$\text{densité}=\frac{\text{densité énergetique}}{\text{densité}}=$  
+$\text{densité}=\frac{\text{densité énergetique}}{\text{densité spécifique}}= \frac{E_D}{E_S}$  
