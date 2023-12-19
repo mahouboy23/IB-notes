@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,11 +253,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
     "IB overview.md",
     "Exploration francais.md",
-    "hl subjects/Français B.md",
     "sl subjects/Physics.md",
     "Production d'energie.md",
     "Energie spécifique.md",

@@ -123,6 +123,7 @@ Je ne puis.
 
 **Extrait du cid, Page 55-56**
 
+En tirant au sort on je suis tomber sur l'extrait 1 de l'oevre "Le cid"
 ### Analyse/commentaire
 L'extrait de cette scene proviens de l'oevre "Le cid". Pierre Corneille l'auteur de cette oeuvre nee a Rouen, le 6 juin 1606, était un auteur dramatique français du XVIIe siècle. Ses pièces les plus célèbres sont Le Cid, Cinna, Polyeucte et Horace. La richesse et la diversité de son ouvre reflètent les valeurs et les grandes interrogations de son époque. 
 "Le Cid" est une célèbre tragédie écrite au XVIIe siècle. L'histoire se déroule dans l'Espagne médiévale et met en scène le conflit entre l'honneur et l'amour. Le personnage principal, Rodrigue, est un noble espagnol amoureux de Chimène. Cependant, un différend oppose leurs familles, menant à un dilemme moral pour Rodrigue.
