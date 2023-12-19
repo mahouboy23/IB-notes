@@ -134,19 +134,56 @@ Corneille utilise des vers alexandrins pour construire cette scène, apportant u
 Le langage noble et les dialogues passionnés soulignent l'intensité des émotions et des dilemmes moraux auxquels sont confrontés Rodrigue et Chimène. La scène met en lumière les conflits intérieurs et les dilemmes éthiques des personnages, ce qui en fait une pièce tragique classique.
 Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le devoir, et le dilemme moral. Corneille explore la complexité des choix moraux et des émotions humaines, mettant en scène la lutte entre la loyauté envers les valeurs et l'attachement personnel. L'extrait illustre ainsi la tension entre l'amour passionné et l'honneur, formant ainsi le cœur de la tragédie du "Cid".
 
-## Groupe 1:
-#### ConCERnant l'extrait
-- Quel est le contexte et la drame de l'histoire et les elements du texte?
-- Quel est le message et la signification profonde de l'histoire?
-- Quel moment de l'histoire est présente dans le passage analyse?
-- Quel aspect de la culture est représente dans le texte lu?
+### Tout les groupe :
+
+#### Concernant l'extrait
+
+•    Quel est le contexte et la trame de l'histoire et les éléments du texte?
+
+•    Quel est le message et la signification profonde de l'histoire?
+
+•    Quel moment de l'histoire est présent dans le passage analyse?
+
+•    Quel aspect de la culture est présent dans le texte lu?
 
 #### concernant les personnages
-- Quel sont les caractéristique physique et psychologies des personnages?
-- Comment sont-il lies les un-les autre?
-- Comment les personnages évoluent au cours de la narration?
-- Qu'elle est leur attitude, qu'elle sont leur emotion face aux évènements qu'ils vivent?
-- Comment fonctionnent ils?
-- Que feriez vous a leur place?
-- Que representent-ils?
-- Qu'elle est leur fonction dans l'histoire?
+
+•    Quelles sont les caractéristiques physiques et psychologiques des personnages?
+
+•    Comment sont-ils liés les un-les autres?
+
+•    Comment les personnages évoluent au cours de la narration?
+
+•    Quelle est leur attitude, quelle est leur émotion face aux événements qu'ils vivent?
+
+•    Comment fonctionnent-ils?
+
+•    Que feriez-vous à leur place?
+
+•    Que représentent-ils?
+
+•    Quelle est leur fonction dans l'histoire?
+
+#### Sur les évènements
+
+•    Pourquoi et comment se produisent-ils?
+
+•    Est ce que l'élément temporel a une signification particulière dans ce contexte?
+
+•    Comment réagiriez-vous si vous deviez faire face aux événements racontés dans l'histoire de l'extrait?
+
+•    Pouvez-vous faire une comparaison entre la culture du texte et votre propre culture?
+
+#### Thèmes
+
+•    Quels thèmes sont traités dans le livre
+
+•    Quel aspect du thème est présent dans le passage?
+
+•    Comment le sujet est-il présenté de façon:
+
+  -Satire
+
+  -Ironique
+
+  -Dramatique
