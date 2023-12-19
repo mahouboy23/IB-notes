@@ -239,4 +239,6 @@ Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le dev
 
   -Dramatique
 
-walk out
+walk out animation/vfx
+winning animation/vfx
+store pour acheter des modèle/collection
