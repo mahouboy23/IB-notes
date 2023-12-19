@@ -61,7 +61,7 @@ L'extrait se concentre sur Faatim.  Faatim se retrouve dans une situation profes
 
 ## le Cid
 
-Fait une analyse de 550 mots ou tu vas donner un résumer du cid puis un résumer de l'extrait et enfin l'analyse et commenter en utilisant par exemple les theme, l'histoire, les figure de style. le language, les symboles etc....
+peut tu répondre au question en t'edant de l'extrait, de l'analyse et du livre.
 
 **Extrait 1 :**
 #### DON RODRIGUE
@@ -134,7 +134,7 @@ Corneille utilise des vers alexandrins pour construire cette scène, apportant u
 Le langage noble et les dialogues passionnés soulignent l'intensité des émotions et des dilemmes moraux auxquels sont confrontés Rodrigue et Chimène. La scène met en lumière les conflits intérieurs et les dilemmes éthiques des personnages, ce qui en fait une pièce tragique classique.
 Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le devoir, et le dilemme moral. Corneille explore la complexité des choix moraux et des émotions humaines, mettant en scène la lutte entre la loyauté envers les valeurs et l'attachement personnel. L'extrait illustre ainsi la tension entre l'amour passionné et l'honneur, formant ainsi le cœur de la tragédie du "Cid".
 
-### Tout les groupe :
+### Question :
 
 #### Concernant l'extrait
 
