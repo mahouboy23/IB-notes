@@ -238,3 +238,5 @@ Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le dev
   -Ironique
 
   -Dramatique
+
+walk out
