@@ -37,3 +37,5 @@ I want to create a react web app that manages grade report for the IB program an
 All of this i am planning to use java-script react and node.js MySQL for the database. My code interpreter is VS code. I am new to java-script and react so i want you to create a complete comprehensive structure for all the parts of the project detailed on each layer with all the features outlined with a complete structure of the web app for each page and at the end how to start building the website with precise steps and explanation/structure (guide).
 
 I Think we got some details wrong in the dashboard there will 
+
+power-culture-objectivity-values-justification-
