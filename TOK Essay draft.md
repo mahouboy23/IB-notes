@@ -38,4 +38,4 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 
 I Think we got some details wrong in the dashboard there will 
 
-power-culture-objectivity-values-justification-interpretation-truth-explanation-evidence
+power-culture-objectivity-values-justification-interpretation-truth-explanation-evidence-belief
