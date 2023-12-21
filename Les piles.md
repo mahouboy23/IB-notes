@@ -15,3 +15,7 @@ La pile est une structure de données de type "dernier entré, premier sorti" (L
 Cette fonction permet d’ajouter un élément sur une pile : **empiler**
 ![[image-20231221152719142.png]]
 
+## La fonction pop()
+Cette fonction retire et renvoie le dernier élément entré dans la pile : **dépiler**
+![[image-20231221153032683.png]]
+
