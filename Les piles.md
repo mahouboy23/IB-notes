@@ -19,3 +19,5 @@ Cette fonction permet d’ajouter un élément sur une pile : **empiler**
 Cette fonction retire et renvoie le dernier élément entré dans la pile : **dépiler**
 ![[image-20231221153032683.png]]
 
+## La fonction isEmpty()
+Cette fonction permet de tester si une pile est vide. Elle renverra **true** si la pile ne contient aucun élément.
