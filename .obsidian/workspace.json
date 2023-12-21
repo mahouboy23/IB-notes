@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddc32f386c4f1219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#economie",
+                "query": "objectivity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "Calculus.md"
               }
             }
           },
@@ -203,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Calculus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,32 +267,32 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "TOK Essay.md",
-    "common core/TOK.md",
-    "TOK Exhibition.md",
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "sl subjects/English and Literature.md",
+    "12concepts.md",
+    "common core/TOK.md",
+    "Human sciences.md",
+    "Untitled.md",
+    "hl subjects/Français B.md",
+    "TOK Essay.md",
+    "TOK Essay draft.md",
+    "TOK Exhibition.md",
     "Oscillation et Onde.md",
     "sl subjects/Physics.md",
     "Macroéconomie.md",
     "Basic Macroéconomie.md",
     "sl subjects/Economie.md",
     "Exploration francais.md",
-    "hl subjects/Français B.md",
     "Production d'energie.md",
     "Energie spécifique.md",
     "Points.md",
     "Individual Oral.md",
     "Ex phrase structure.md",
-    "sl subjects/English and Literature.md",
     "Experiment.md",
     "web app.md",
     "Excalidraw/Drawing 2023-12-15 15.46.57.excalidraw.md",
     "common core/EE.md",
-    "Comportement des ondes.md",
-    "Caractéristique d'une onde.md",
-    "Ondes static.md",
-    "TOK Essay draft.md",
-    "TOK EXHIBITION DRAFT.md",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
