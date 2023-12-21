@@ -8,3 +8,4 @@ Created: 2023-11-23
 - [[la pensee recursive]] 
 - [[Identifier le raisonnement récursif]] 
 ### Chapitre 2: **Structures abstraites**
+1. [[Les piles]] 

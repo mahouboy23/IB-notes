@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus.md",
+                "file": "Les piles.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus.md",
+                "file": "Les piles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus.md",
+                "file": "Les piles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus.md"
+                "file": "Les piles.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calculus.md",
+                "file": "Les piles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,8 +267,15 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
+    "assets/Les piles/image-20231221152719142.png",
+    "assets/Les piles/image-20231221152452527.png",
+    "assets/Les piles",
+    "Structure de données abstraites.md",
+    "Les piles.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Calculus.md",
+    "hl subjects/Math AA.md",
     "sl subjects/English and Literature.md",
     "12concepts.md",
     "common core/TOK.md",
@@ -288,11 +295,6 @@
     "Energie spécifique.md",
     "Points.md",
     "Individual Oral.md",
-    "Ex phrase structure.md",
-    "Experiment.md",
-    "web app.md",
-    "Excalidraw/Drawing 2023-12-15 15.46.57.excalidraw.md",
-    "common core/EE.md",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
@@ -307,14 +309,12 @@
     "assets/Graph de l'effet de la competition/image-20231206093509901.png",
     "assets/Graph de l'effet de la competition",
     "assets/Comportement des ondes/reflection-refraction-polarization.gif",
-    "assets/Comportement des ondes/image-20231204103314879.png",
     "assets/Points forts de la politique budgétaire",
     "assets/Comportement des ondes",
     "assets/Politique budgétaire expansionniste et restrictive",
     "Untitled 1.loom",
     "University shortlist.loom",
     "assets/Caractéristique d'une onde",
-    "Untitled.loom",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
