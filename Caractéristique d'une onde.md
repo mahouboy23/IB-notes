@@ -33,4 +33,4 @@ Plus on est loin de l’origine plus son intensité est faible (loi du carre de 
 
 ## Polarisation
 
-### Loi de Malus
+	### Loi de Malus
