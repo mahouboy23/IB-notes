@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Comportement des ondes.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Comportement des ondes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Comportement des ondes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristique d'une onde.md"
+                "file": "Comportement des ondes.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristique d'une onde.md",
+                "file": "Comportement des ondes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,6 +268,7 @@
   "active": "62b80d815336555f",
   "lastOpenFiles": [
     "Oscillation et Onde.md",
+    "Caractéristique d'une onde.md",
     "Comportement des ondes.md",
     "sl subjects/Physics.md",
     "IB overview.md",
@@ -296,7 +297,6 @@
     "Production d'energie.md",
     "Energie spécifique.md",
     "Points.md",
-    "Individual Oral.md",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
