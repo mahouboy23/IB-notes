@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie spécifique.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "07d658ea13ff044f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -124,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie spécifique.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie spécifique.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie spécifique.md"
+                "file": "MATH INTERNAL ASSESMENT.md"
               }
             }
           },
@@ -190,7 +200,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -215,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie spécifique.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,19 +269,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
       "notion-like-tables:Create loom": false
     }
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "Energie spécifique.md",
+    "Calculus.md",
+    "Dérivation.md",
+    "Integral.md",
+    "Géométrie et Trigonométrie.md",
+    "Nombre et Algèbre.md",
+    "Théorème Binomial.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "IB overview.md",
     "Production d'energie.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
@@ -280,8 +301,6 @@
     "assets/Les piles",
     "Structure de données abstraites.md",
     "hl subjects/Computer science.md",
-    "Calculus.md",
-    "hl subjects/Math AA.md",
     "sl subjects/English and Literature.md",
     "12concepts.md",
     "common core/TOK.md",
@@ -290,13 +309,6 @@
     "hl subjects/Français B.md",
     "TOK Essay.md",
     "TOK Essay draft.md",
-    "TOK Exhibition.md",
-    "Macroéconomie.md",
-    "Basic Macroéconomie.md",
-    "sl subjects/Economie.md",
-    "Exploration francais.md",
-    "Energie spécifique.md",
-    "Points.md",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",
