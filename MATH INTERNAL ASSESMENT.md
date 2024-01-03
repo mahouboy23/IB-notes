@@ -52,3 +52,56 @@ Enternaining IA:
 - **Method:** Apply Voronoi diagrams to geographic data to determine optimal cell tower locations.
 - **Area of Interest:** Geography, Voronoi diagrams, optimization.
 
+### Aim and Detailed Structure for Your IA
+
+#### Aim/Research Question
+
+**"How does my typing speed compare to the global average, and what is the probability of my typing speed being above the average? Analyzing Typing Speeds Using Normal/Binomial Distributions, Chi-Square Test, Maclaurin Series, and Integration"**
+
+#### Introduction
+
+- Introduce the importance of typing speed in the digital age.
+- State your personal typing speed and the objective to compare it with the global average using statistical methods.
+
+#### Data Collection
+
+- Collect your typing speed data over a set period (e.g., 30 days), recording speeds daily under standardized conditions.
+- Obtain a dataset of global typing speeds. A potential source is typing speed websites or online studies. For example, sites like [typingtest.com](https://www.typingtest.com/) often have aggregated data on typing speeds.
+
+#### Data Analysis
+
+1. **Descriptive Statistics:**
+    
+    - Calculate the mean, median, and standard deviation of your typing speeds and the global data.
+2. **Applying Normal/Binomial Distributions:**
+    
+    - Analyze whether the global typing speed data follows a normal or binomial distribution.
+    - Use your data to calculate the probability of your typing speed being above the average.
+3. **Chi-Square Test:**
+    
+    - Conduct a chi-square test to compare your data with the global average, determining if there's a significant difference.
+4. **Using Maclaurin Series and Integration:**
+    
+    - Apply Maclaurin series to approximate functions used in your analysis if necessary.
+    - Use integration to analyze continuous data patterns over the period you recorded your typing speeds.
+
+#### Conclusion
+
+- Summarize the findings of the statistical analysis.
+- Conclude whether your typing speed is significantly different from the global average.
+- Discuss the implications of your findings and potential areas for further research.
+
+### References and Additional Research
+
+- **Typing Speed Data:** Look for aggregated typing speed data from websites like [typingtest.com](https://www.typingtest.com/) or research papers on typing skills.
+- **Statistical Textbooks:** Reference standard statistical textbooks for understanding and applying chi-square tests, normal/binomial distributions, and Maclaurin series.
+- **Mathematical Software:** Consider using software like R or Python for data analysis and visualization.
+
+### Websites for Typing Speed Data
+
+- [TypingTest.com](https://www.typingtest.com/)
+- 10FastFingers.com: Offers typing tests; you might contact them for aggregated user data.
+- [Ratatype.com](https://www.ratatype.com/): Another platform with user typing data that could be useful.
+
+These resources should provide a solid foundation for your Internal Assessment, combining practical data collection with advanced mathematical analysis. The project aligns with the IB Math AA HL curriculum, offering an engaging way to apply statistical concepts to a personal and relevant topic.
+
