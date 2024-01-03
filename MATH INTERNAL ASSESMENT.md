@@ -43,7 +43,7 @@ Entertaining ideas:
 - something about lego and function modeling
 - Projection (motion) of some kind (unique) using logger pro and then using function modeling to extrapolate a answer of some kind.
 - Modulization with a function of some data for analysis or to draw a conclusion.
-- Using normal/binomial distributions to find out something/see a trend/draw a conclusion.
+- Using normal/binomial distributions to find out something/see a trend/draw a conclusion about my typing speed.
 
 
 Enternaining IA:
