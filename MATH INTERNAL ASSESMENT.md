@@ -41,6 +41,7 @@ fonction(any type like quadractic, exponential etc) modeling
 
 Entertaining ideas:
 - something about lego and function modeling
+- Projection (motion) of some kind (unique) using logger pro and then using function modeling to extrapolate a answer of some kind.
 - 
 
 
