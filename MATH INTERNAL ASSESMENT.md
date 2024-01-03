@@ -40,6 +40,11 @@ higher polynomials
 fonction(any type like quadractic, exponential etc) modeling
 
 Entertaining ideas:
+- something about lego and function modeling
+- 
+
+
+Enternaining IA:
 1/ **Geographic Data Analysis in Tech: Optimizing Network Coverage**
 - **Aim/Research Question:** How can Voronoi diagrams optimize the placement of cell towers for maximum coverage?
 - **Method:** Apply Voronoi diagrams to geographic data to determine optimal cell tower locations.
