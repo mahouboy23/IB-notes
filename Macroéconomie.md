@@ -6,6 +6,7 @@ Created: 2023-03-24
 
 Basic concept en Economie:
 [[Basic Macroéconomie]] 
+[[Commentaire Macroéconomie]] 
 
 ##  Parte 1 :  Mesurer l'Activité Economique et Illustrer ses Variations
 1. [[Flux circulaire de revenus]] 
