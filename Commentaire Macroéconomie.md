@@ -25,4 +25,12 @@ La demande de cuivre et d'aluminium a été solide ces derniers mois, mais l'inc
 
 ## Commentaire
 
+L'article examine l'impact notable des politiques monétaires sur les prix des métaux de base, soulignant une tendance haussière suite aux ajustements en Chine et aux États-Unis. Cette évolution reflète l'influence directe des décisions économiques sur les marchés mondiaux.
 
+Les prix des métaux, tels que le cuivre et l'aluminium, ont connu une augmentation significative, illustrant la sensibilité de ces marchés aux variations des taux d'intérêt. Pour mieux comprendre cette dynamique, considérons un diagramme de l'offre et de la demande pour le cuivre. Avant l'intervention des banques centrales, le marché se trouve en équilibre au point E1, avec une quantité Q1 et un prix P1. Cependant, l'anticipation d'une baisse des taux d'intérêt aux États-Unis, associée à l'augmentation de la masse monétaire en Chine, modifie les attentes des investisseurs et des consommateurs. Cette modification déplace la courbe de demande de D1 à D2, entraînant un nouvel équilibre au point E2, où la quantité augmente à Q2 et le prix s'élève à P2.
+
+Cette hausse des prix est un exemple clair de **Changement** dans le cadre des politiques monétaires. Les taux d'intérêt, outils clés de la politique monétaire, influencent directement la demande de métaux. Lorsque les taux baissent, l'emprunt devient moins onéreux, stimulant les investissements et, par conséquent, la demande de métaux. Cette demande accrue se traduit par une augmentation des prix sur les marchés internationaux.
+
+En outre, la décision de la banque centrale chinoise de stabiliser le yuan en augmentant la masse monétaire résonne également sur ces marchés. Plus de yuans en circulation peuvent signifier plus de pouvoir d'achat pour les métaux, contribuant ainsi à la hausse des prix.
+
+Dans la prochaine partie du commentaire, nous explorerons les implications plus larges de ces politiques, notamment leur impact sur l'économie globale et la stabilité des marchés des métaux.
