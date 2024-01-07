@@ -22,6 +22,7 @@ La banque centrale chinoise a prolongé sa tendance de plusieurs mois à fixer d
 
 La demande de cuivre et d'aluminium a été solide ces derniers mois, mais l'incertitude quant à sa croissance future constitue une menace pour toute reprise des prix des métaux.
 
+
 ## Commentaire
 
 
