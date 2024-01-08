@@ -118,7 +118,7 @@ This experiment provides insights into fundamental physics concepts such as grav
 
 For a more in-depth understanding, students can refer to resources on basic mechanics, especially those covering energy conservation and material properties. Online educational videos demonstrating the physics of bouncing balls can offer visual aids for understanding the experiment's concepts. Additionally, research papers or articles on material science related to elastic materials might provide advanced insights into the behavior observed in the experiment.
 
-idea 4 :
+## idea 4 :
 **Research Question:** "How does the mass of a projectile affect the maximum angular displacement of a ballistic pendulum?"
 
 ### Aim:
@@ -152,4 +152,4 @@ You will need a ballistic pendulum setup (which can be a simple pendulum with a 
 
 This experiment engages with key principles of physics, including conservation of linear momentum, kinetic energy, and rotational motion. It demonstrates these concepts in a setting that combines both linear and angular dynamics, providing a comprehensive understanding of collision mechanics.
 
-## idea 3
+## idea 5
