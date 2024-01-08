@@ -153,3 +153,44 @@ You will need a ballistic pendulum setup (which can be a simple pendulum with a 
 This experiment engages with key principles of physics, including conservation of linear momentum, kinetic energy, and rotational motion. It demonstrates these concepts in a setting that combines both linear and angular dynamics, providing a comprehensive understanding of collision mechanics.
 
 ## idea 5
+**Consolidated Research Question:** "How does changing the mass of a pendulum bob affect the momentum transfer and resulting swing of a second suspended mass in a pendulum collision experiment?"
+
+### Aim:
+
+The aim of this experiment is to investigate the effect of varying the mass of a swinging pendulum bob on the momentum transfer to a second stationary suspended mass. This setup simplifies the ballistic pendulum concept, focusing on understanding momentum conservation and energy transfer in pendulum collisions.
+
+### Dispositif Expérimental:
+
+- **Two Pendulum Setups:** One with a variable mass bob (the swinging pendulum) and another with a fixed mass bob (the stationary pendulum).
+- **Assortment of Weights:** To change the mass of the swinging pendulum bob.
+- **String or Wire:** For suspending the pendulum bobs.
+- **Protractor or Angle Measuring Device:** To measure the swing angles of the pendulums post-collision.
+- **Clamp Stand or Similar Structure:** To secure the pendulums in place.
+- **High-Speed Camera or Slow-Motion Video Capability (Optional):** For accurately capturing the collision and subsequent motion.
+
+### Variables:
+
+- **Variable Indépendante:** Mass of the swinging pendulum bob.
+- **Variables Contrôlées:** Length of the pendulum strings, height from which the swinging pendulum is released (initial potential energy), and environmental conditions.
+- **Variable Dépendante:** Angular displacement of the stationary pendulum post-collision.
+
+### Méthode:
+
+1. **Setup:** Install the two pendulums side by side, ensuring they can swing without interference. Adjust the mass of the swinging pendulum bob as needed.
+2. **Data Collection:** Release the swinging pendulum from a consistent height and allow it to collide with the stationary pendulum. Measure the angular displacement of both pendulums after the collision.
+3. **Calculations:** Record the mass of the swinging pendulum and the corresponding angular displacements.
+4. **Analysis:** Analyze the data to understand how the mass of the swinging pendulum affects the momentum transfer to the stationary pendulum. Apply the principles of conservation of momentum and energy to interpret the results.
+
+### Further Analysis and Investigation:
+
+- Discuss the principles of momentum conservation in elastic and inelastic collisions.
+- Explore how the experiment can be used to understand real-world scenarios, such as vehicle collisions or in sports physics.
+- Consider the impact of angular momentum and its conservation in the system.
+
+### Physics Behind:
+
+This experiment provides a hands-on approach to exploring the mechanics of momentum and energy transfer in collisions, specifically within pendulum systems. It offers a straightforward method to visualize and quantify the principles of momentum conservation in a controlled setting.
+
+### Documentation and Reference:
+
+For further study, students should consult resources on mechanics, especially those covering pendulum motion, momentum, and collisions. Physics textbooks and educational websites can provide the necessary theoretical background, while instructional videos on pendulum collisions can offer practical insights into conducting the experiment. Additionally, analyzing case studies or scenarios where pendulum motion is relevant can enhance the contextual understanding of the experiment.
