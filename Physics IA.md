@@ -194,3 +194,10 @@ This experiment provides a hands-on approach to exploring the mechanics of momen
 ### Documentation and Reference:
 
 For further study, students should consult resources on mechanics, especially those covering pendulum motion, momentum, and collisions. Physics textbooks and educational websites can provide the necessary theoretical background, while instructional videos on pendulum collisions can offer practical insights into conducting the experiment. Additionally, analyzing case studies or scenarios where pendulum motion is relevant can enhance the contextual understanding of the experiment.
+
+Rotational Kinetic Energy
+The rotational kinetic energy occurs owing to a body's rotation and is a component of the entirety of its kinetic energy. This variable is directly proportional to both the object's moment of inertia and the square of its angular velocity. This is expressed by the formula:
+Krot = 1/21w2
+wherein: Krot = rotational kinetic energy (J), I = moment of inertia (kgm2), w = angular velocity (rads-1)
+a. Moment of Inertia
+This refers to the scalar, quantitative measure of the opposition exhibited by an object in response to changes in rotational speeds linked to the application of torque (turning force). This variable is significant because of its connection to Newton's first law of motion which tackles the concept of inertia; it is able to describe an object's stability and the forces required to alter its motion and kickstart angular acceleration. Jones (2019) states that moment of inertia I is determined with a focus on the
