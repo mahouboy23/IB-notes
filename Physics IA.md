@@ -3,7 +3,7 @@ tags : mod Physique
 ---
 Created: 2023-05-13
 
-idea 1 : 
+## idea 1 : 
 **Research Question:** "How does the addition of non-Newtonian fluids affect the damping characteristics of a simple harmonic oscillator?"
 
 ### Aim:
@@ -41,7 +41,7 @@ This experiment combines concepts from both mechanics and wave physics, particul
 
 To deepen your understanding, look for resources on the mechanics of oscillations and the properties of non-Newtonian fluids. Physics textbooks and online educational materials that cover simple harmonic motion and fluid dynamics, especially those focusing on unique fluid behaviors, will be beneficial. Additionally, scientific papers or articles that discuss the applications of non-Newtonian fluids in mechanical systems could provide insightful perspectives and real-world contexts for your investigation.
 
-idea 2
+## idea 2
 **Research Question:** "How does the angle of rotation affect the flight path and duration of a ring-wing glider?"
 
 ### Aim:
@@ -79,7 +79,7 @@ The ring-wing glider experiment offers an intriguing look into the physics of fl
 
 For an in-depth understanding, students should consult resources on aerodynamics, particularly those focusing on alternative wing designs and their flight characteristics. Additionally, online tutorials on building and flying ring-wing gliders, as well as educational videos on the physics of flight, can provide practical guidance and theoretical background. Scientific papers on aerodynamic studies of non-traditional aircraft designs might also offer advanced insights and applications of the principles being investigated.
 
-idea 3
+## idea 3
 
 **Research Question:** "How does the height of a drop affect the rebound height and impact duration of a superball (high-bouncing ball)?"
 
