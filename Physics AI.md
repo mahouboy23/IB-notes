@@ -78,3 +78,42 @@ The ring-wing glider experiment offers an intriguing look into the physics of fl
 ### Documentation and Reference:
 
 For an in-depth understanding, students should consult resources on aerodynamics, particularly those focusing on alternative wing designs and their flight characteristics. Additionally, online tutorials on building and flying ring-wing gliders, as well as educational videos on the physics of flight, can provide practical guidance and theoretical background. Scientific papers on aerodynamic studies of non-traditional aircraft designs might also offer advanced insights and applications of the principles being investigated.
+
+idea 3
+
+**Research Question:** "How does the height of a drop affect the rebound height and impact duration of a superball (high-bouncing ball)?"
+
+### Aim:
+
+The aim of this experiment is to investigate the relationship between the height from which a superball is dropped and its subsequent rebound height and impact duration (time the ball is in contact with the ground). This study provides an opportunity to explore energy conservation, elasticity, and material properties in a simple and quantifiable way.
+
+### Dispositif Expérimental:
+
+You will need a superball (or another high-bouncing ball), a measuring tape or ruler to measure drop and rebound heights, a high-speed camera or a slow-motion video recording device to capture the impact duration, and a safe, vertical space for dropping the ball.
+
+### Variables:
+
+- **Variable Indépendante:** Height from which the ball is dropped.
+- **Variables Contrôlées:** Type of ball (material and size), surface onto which the ball is dropped, and environmental conditions like temperature and wind.
+- **Variable Dépendante:** Rebound height of the ball and the duration of impact with the ground.
+
+### Méthode:
+
+1. **Setup:** Mark different heights on a vertical surface or use a measuring tape to determine the drop height.
+2. **Data Collection:** Drop the ball from various heights and measure the rebound height. Use the high-speed camera to record the impact and calculate the duration of contact with the ground.
+3. **Calculations:** Record the rebound heights and use video analysis to determine the impact duration for each drop height.
+4. **Analysis:** Analyze how the initial drop height affects the rebound height and impact duration. Examine the relationship between the drop height and the energy conservation of the ball.
+
+### Further Analysis and Investigation:
+
+- Discuss the physics principles of energy conservation, elasticity, and kinetic and potential energy in the context of the bouncing ball.
+- Explore the material properties of the superball that contribute to its high elasticity and rebound characteristics.
+- Consider practical implications in sports science, material science, and engineering.
+
+### Physics Behind:
+
+This experiment provides insights into fundamental physics concepts such as gravitational potential energy, kinetic energy, and the elasticity of materials. It demonstrates how these principles manifest in a common, tangible object like a superball, offering a straightforward yet comprehensive exploration of energy dynamics.
+
+### Documentation and Reference:
+
+For a more in-depth understanding, students can refer to resources on basic mechanics, especially those covering energy conservation and material properties. Online educational videos demonstrating the physics of bouncing balls can offer visual aids for understanding the experiment's concepts. Additionally, research papers or articles on material science related to elastic materials might provide advanced insights into the behavior observed in the experiment.
