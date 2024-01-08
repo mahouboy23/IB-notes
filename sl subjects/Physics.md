@@ -20,6 +20,6 @@ centrales nucléaires
 
 [[Recueil de données]]  
 
-[[Physics AI]] 
+[[Physics IA]] 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "Physics IA.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Physics IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Physics IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "Physics IA.md"
               }
             }
           },
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "Physics IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,13 +279,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Exploration francais.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
-    "Physics AI.md",
-    "sl subjects/Physics.md",
+    "Physics IA.md",
     "Commentaire Macroéconomie.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
