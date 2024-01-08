@@ -151,3 +151,5 @@ You will need a ballistic pendulum setup (which can be a simple pendulum with a 
 ### Physics Behind:
 
 This experiment engages with key principles of physics, including conservation of linear momentum, kinetic energy, and rotational motion. It demonstrates these concepts in a setting that combines both linear and angular dynamics, providing a comprehensive understanding of collision mechanics.
+
+idea 3
