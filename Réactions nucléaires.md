@@ -96,4 +96,6 @@ La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une éner
 **Fusion thermonucléaire**: La fusion s'effectue a des tres fortes temperature car il est difficile de rapprocher 2 noyaux positifs (force de repulsion)
 
 **NB**: 
-$$\large{\Delta E=\sum_{}^{}{E_{l}} \hspace1mm _{(produits)}-\sum_{}^{}{E_{l}} \hspace1mm _{(reactifs)}}$$ 
+$$\large{\Delta E=\sum_{}^{}{E_{l}} \hspace1mm _{(produits)}-\sum_{}^{}{E_{l}} \hspace1mm _{(reactifs)}}$$ **Fission thermonucléaire**: car elle se produit a des temperatures élevées
+La Temperature est élevé a cause des forces répulsives entre les 2 noyaux
+Cette reaction se fait a Temperature plus élevée que la précédente car il est plus difficile d'approcher des charges +2 que +1.

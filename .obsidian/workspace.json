@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Réactions nucléaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Réactions nucléaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Réactions nucléaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA draft.md"
+                "file": "Réactions nucléaires.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Réactions nucléaires.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,13 +280,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "Physics IA.md",
+    "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
+    "Production d'energie.md",
     "IB overview.md",
-    "hl subjects/Français B.md",
+    "Physics IA.md",
     "Physics IA draft.md",
+    "hl subjects/Français B.md",
     "Exploration francais.md",
     "Commentaire Macroéconomie.md",
     "Macroéconomie.md",
@@ -294,7 +297,6 @@
     "Conceptes de base economie.md",
     "Basic Macroéconomie.md",
     "Energie spécifique.md",
-    "Production d'energie.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "Calculus.md",
@@ -306,7 +308,6 @@
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "Caractéristique d'une onde.md",
-    "Les piles.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles/image-20231221152452527.png",
