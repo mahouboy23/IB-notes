@@ -24,5 +24,6 @@ _Méthode :_
     
 4. Comparer les résultats aux modèles d'écoulement parfait et visqueux.
 
-**Hypothèse/déduction** :  Selon la longueur du tube, on passe d'un régime d'écoulement parfait à un régime visqueux laminaire. L'influence de la viscosité sur la perte de charge sera mit en évidence.
+**Hypothèse/déduction** :  Selon la longueur du tube, Le régime d'écoulement Diminuera au fil du temps. L'influence de la viscosité sur la perte de charge sera mit en évidence.
 
+creer une table de matiere
