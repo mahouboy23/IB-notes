@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration francais.md"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exploration francais.md",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,10 +280,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
     "Exploration francais.md",
+    "hl subjects/Français B.md",
     "IB overview.md",
     "Physics AI.md",
     "sl subjects/Physics.md",

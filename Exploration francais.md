@@ -139,9 +139,13 @@ Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le dev
 
 **Contexte et trame de l'histoire :** L'extrait est tiré de la tragédie "Le Cid" de Pierre Corneille, située dans l'Espagne médiévale. Rodrigue et Chimène sont deux jeunes gens amoureux, mais un conflit entre leurs pères force Rodrigue à tuer le père de Chimène pour défendre son honneur, créant ainsi un dilemme entre son amour pour Chimène et son devoir d'honneur.
 
-**Aspect de la culture :** Le texte reflète la culture de l'honneur qui prévalait dans l'Espagne médiévale, montrant comment les normes sociales et les obligations familiales dominaient les choix individuels.
+**Évolution des personnages :** Rodrigue évolue d'un jeune amoureux à un guerrier héroïque, tandis que Chimène passe de la figure aimante à celle qui doit revendiquer justice pour l'honneur de son père.
 
 **Thèmes traités :** L'honneur, l'amour, le devoir, la vengeance, le conflit intérieur.
+
+**Aspect de la culture :** Le texte reflète la culture de l'honneur qui prévalait dans l'Espagne médiévale, montrant comment les normes sociales et les obligations familiales dominaient les choix individuels.
+
+
 
 #### Concernant les personnages
 
