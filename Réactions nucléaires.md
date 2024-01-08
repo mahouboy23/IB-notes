@@ -103,5 +103,4 @@ Cette reaction se fait a Temperature plus élevée que la précédente car il es
 La fusion n'est pas exploitable dans les centrales nucléaires:
 - Car il y a un problème de confinement
 - D'approcher les noyaux suffisamment longtemps
-
 La fusion est possible dans la bombes H.
