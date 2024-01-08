@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Exploration francais.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "07d658ea13ff044f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "hl subjects/Français B.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Exploration francais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Exploration francais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics AI.md"
+                "file": "Exploration francais.md"
               }
             }
           },
@@ -227,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics AI.md",
+                "file": "Exploration francais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,9 +281,11 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
-    "Physics AI.md",
+    "hl subjects/Français B.md",
+    "Exploration francais.md",
     "IB overview.md",
+    "Physics AI.md",
+    "sl subjects/Physics.md",
     "Commentaire Macroéconomie.md",
     "Macroéconomie.md",
     "sl subjects/Economie.md",
@@ -307,8 +311,6 @@
     "assets/Les piles/image-20231221152452527.png",
     "assets/Les piles",
     "Structure de données abstraites.md",
-    "hl subjects/Computer science.md",
-    "sl subjects/English and Literature.md",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre/Pasted image 20231213082902.png",

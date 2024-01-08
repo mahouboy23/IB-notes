@@ -135,15 +135,13 @@ Corneille utilise des vers alexandrins pour construire cette scène, apportant u
 Le langage noble et les dialogues passionnés soulignent l'intensité des émotions et des dilemmes moraux auxquels sont confrontés Rodrigue et Chimène. La scène met en lumière les conflits intérieurs et les dilemmes éthiques des personnages, ce qui en fait une pièce tragique classique.
 Les thèmes principaux abordés dans cet extrait sont l'honneur, l'amour, le devoir, et le dilemme moral. Corneille explore la complexité des choix moraux et des émotions humaines, mettant en scène la lutte entre la loyauté envers les valeurs et l'attachement personnel. L'extrait illustre ainsi la tension entre l'amour passionné et l'honneur, formant ainsi le cœur de la tragédie du "Cid".
 
-#### Concernant l'extrait
+
 
 **Contexte et trame de l'histoire :** L'extrait est tiré de la tragédie "Le Cid" de Pierre Corneille, située dans l'Espagne médiévale. Rodrigue et Chimène sont deux jeunes gens amoureux, mais un conflit entre leurs pères force Rodrigue à tuer le père de Chimène pour défendre son honneur, créant ainsi un dilemme entre son amour pour Chimène et son devoir d'honneur.
 
-**Message et signification profonde :** L'histoire traite du conflit intérieur entre l'amour et l'honneur. Le sens profond explore la complexité des émotions humaines et la question de savoir si l'honneur familial doit prévaloir sur les sentiments personnels.
-
-**Moment de l'histoire :** Cet extrait illustre le moment où Rodrigue cherche à se faire pardonner par Chimène, prêt à mourir pour apaiser son honneur, tandis que Chimène est déchirée entre son amour pour Rodrigue et son devoir de venger son père.
-
 **Aspect de la culture :** Le texte reflète la culture de l'honneur qui prévalait dans l'Espagne médiévale, montrant comment les normes sociales et les obligations familiales dominaient les choix individuels.
+
+**Thèmes traités :** L'honneur, l'amour, le devoir, la vengeance, le conflit intérieur.
 
 #### Concernant les personnages
 
