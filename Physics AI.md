@@ -117,3 +117,37 @@ This experiment provides insights into fundamental physics concepts such as grav
 ### Documentation and Reference:
 
 For a more in-depth understanding, students can refer to resources on basic mechanics, especially those covering energy conservation and material properties. Online educational videos demonstrating the physics of bouncing balls can offer visual aids for understanding the experiment's concepts. Additionally, research papers or articles on material science related to elastic materials might provide advanced insights into the behavior observed in the experiment.
+
+idea 4 :
+**Research Question:** "How does the mass of a projectile affect the maximum angular displacement of a ballistic pendulum?"
+
+### Aim:
+
+The aim of this experiment is to use a ballistic pendulum setup to investigate how changing the mass of a projectile affects its impact on the pendulum, specifically looking at the resulting angular displacement. This study provides a hands-on approach to explore concepts of momentum conservation, energy transfer, and rotational dynamics in a dynamic and interactive experiment.
+
+### Dispositif Expérimental:
+
+You will need a ballistic pendulum setup (which can be a simple pendulum with a bob that can catch a projectile), projectiles of varying masses (like small steel balls or marbles), a protractor or angular measurement device to measure the swing angle, and a high-speed camera or motion sensor for more accurate measurements.
+
+### Variables:
+
+- **Variable Indépendante:** Mass of the projectile.
+- **Variables Contrôlées:** The height from which the projectile is launched (to ensure consistent initial velocity), the length and mass of the pendulum, and environmental conditions.
+- **Variable Dépendante:** Maximum angular displacement of the pendulum after being struck by the projectile.
+
+### Méthode:
+
+1. **Setup:** Arrange the ballistic pendulum so that it can catch the projectile.
+2. **Data Collection:** Launch projectiles of different masses at the pendulum and measure the maximum angle to which the pendulum swings upon impact.
+3. **Calculations:** Record the mass of each projectile and the corresponding angular displacement of the pendulum.
+4. **Analysis:** Analyze how the mass of the projectile influences the angular displacement of the pendulum. Use principles of momentum conservation and energy transfer to interpret the data.
+
+### Further Analysis and Investigation:
+
+- Discuss how momentum is conserved during the collision and transferred into rotational energy.
+- Explore how the experiment can be used to calculate the initial velocity of the projectile.
+- Consider the practical implications in understanding collisions and momentum transfer in various fields, such as engineering and sports science.
+
+### Physics Behind:
+
+This experiment engages with key principles of physics, including conservation of linear momentum, kinetic energy, and rotational motion. It demonstrates these concepts in a setting that combines both linear and angular dynamics, providing a comprehensive understanding of collision mechanics.
