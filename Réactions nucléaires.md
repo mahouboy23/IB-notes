@@ -99,3 +99,9 @@ La fission :: est la cassure d'un noyau lourd en 2 noyau mi lourd avec une éner
 $$\large{\Delta E=\sum_{}^{}{E_{l}} \hspace1mm _{(produits)}-\sum_{}^{}{E_{l}} \hspace1mm _{(reactifs)}}$$ **Fission thermonucléaire**: car elle se produit a des temperatures élevées
 La Temperature est élevé a cause des forces répulsives entre les 2 noyaux
 Cette reaction se fait a Temperature plus élevée que la précédente car il est plus difficile d'approcher des charges +2 que +1.
+
+La fusion n'est pas exploitable dans les centrales nucléaires:
+- Car il y a un problème de confinement
+- D'approcher les noyaux suffisamment longtemps
+
+La fusion est possible dans la bombes H.
