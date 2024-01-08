@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "IB overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "IB overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "IB overview.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "IB overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,8 +280,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "5b70e225457f9533",
   "lastOpenFiles": [
+    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "Production d'energie.md",
@@ -307,7 +308,6 @@
     "Théorème Binomial.md",
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
-    "Caractéristique d'une onde.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles/image-20231221152452527.png",
