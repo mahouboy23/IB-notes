@@ -42,3 +42,39 @@ This experiment combines concepts from both mechanics and wave physics, particul
 To deepen your understanding, look for resources on the mechanics of oscillations and the properties of non-Newtonian fluids. Physics textbooks and online educational materials that cover simple harmonic motion and fluid dynamics, especially those focusing on unique fluid behaviors, will be beneficial. Additionally, scientific papers or articles that discuss the applications of non-Newtonian fluids in mechanical systems could provide insightful perspectives and real-world contexts for your investigation.
 
 idea 2
+**Research Question:** "How does the angle of rotation affect the flight path and duration of a ring-wing glider?"
+
+### Aim:
+
+This experiment aims to investigate the aerodynamics of a ring-wing glider, focusing on how changes in the angle of rotation (the angle at which the glider is released) affect its flight path and air time. The study offers an opportunity to explore principles of lift, drag, and stability in a unique context that combines aspects of aerodynamics with rotational dynamics.
+
+### Dispositif Expérimental:
+
+You will need materials to construct a ring-wing glider (such as lightweight foam or sturdy paper), a protractor to measure the angle of rotation, an open space for testing flights, and a stopwatch or timer to measure the duration of flight.
+
+### Variables:
+
+- **Variable Indépendante:** Angle of rotation at which the ring-wing glider is released.
+- **Variables Contrôlées:** Design of the ring-wing glider (size, shape, and weight), environmental conditions, and the method of release.
+- **Variable Dépendante:** Flight path characteristics (stability, straightness, etc.) and total air time (duration of flight).
+
+### Méthode:
+
+1. **Setup:** Construct a ring-wing glider following a standard design for consistency.
+2. **Data Collection:** Launch the glider at various angles of rotation, using the protractor for precision. Use the stopwatch to time the duration of each flight.
+3. **Calculations:** Record the air time for each launch angle.
+4. **Analysis:** Analyze how different angles of rotation affect the glider's flight path and duration. Identify which angles result in the most stable and longest flights.
+
+### Further Analysis and Investigation:
+
+- Discuss how the ring-wing design contributes to the glider's aerodynamic properties.
+- Explore the principles of circular wing aerodynamics and how they differ from traditional wing designs.
+- Consider the implications of this study for the design of flying objects, such as drones or unconventional aircraft.
+
+### Physics Behind:
+
+The ring-wing glider experiment offers an intriguing look into the physics of flight, particularly how rotational dynamics and aerodynamics interplay. It provides a unique perspective on how unconventional wing designs can influence flight characteristics.
+
+### Documentation and Reference:
+
+For an in-depth understanding, students should consult resources on aerodynamics, particularly those focusing on alternative wing designs and their flight characteristics. Additionally, online tutorials on building and flying ring-wing gliders, as well as educational videos on the physics of flight, can provide practical guidance and theoretical background. Scientific papers on aerodynamic studies of non-traditional aircraft designs might also offer advanced insights and applications of the principles being investigated.
