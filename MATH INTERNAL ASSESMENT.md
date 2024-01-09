@@ -112,7 +112,7 @@ FRENCH
 
 #### Objectif/question de recherche
 
-**Comment ma vitesse de frappe se compare-t-elle à la moyenne mondiale et quelle est la probabilité que ma vitesse de frappe soit supérieure à la moyenne ?**.
+**Comment ma vitesse de frappe se compare-t-elle à la moyenne optimale mondiale et quelle est la probabilité que ma vitesse de frappe soit supérieure à la moyenne ?**.
 
 #### Introduction
 
