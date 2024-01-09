@@ -108,11 +108,11 @@ These resources should provide a solid foundation for your Internal Assessment, 
 
 FRENCH 
 
-### Objectif et structure détaillée de votre AI
+
 
 #### Objectif/question de recherche
 
-**Comment ma vitesse de frappe se compare-t-elle à la moyenne mondiale et quelle est la probabilité que ma vitesse de frappe soit supérieure à la moyenne ? Analyse des vitesses de frappe à l'aide des distributions normales/binomiales, du test du khi-deux, de la série de Maclaurin et de l'intégration "**.
+**Comment ma vitesse de frappe se compare-t-elle à la moyenne mondiale et quelle est la probabilité que ma vitesse de frappe soit supérieure à la moyenne ?**.
 
 #### Introduction
 
@@ -123,3 +123,32 @@ FRENCH
 
 - Recueillez les données relatives à votre vitesse de frappe sur une période donnée (par exemple, 30 jours), en enregistrant les vitesses quotidiennement dans des conditions normalisées.
 - Obtenez un ensemble de données sur les vitesses de frappe mondiales. Les sites web consacrés à la vitesse de frappe ou les études en ligne constituent une source potentielle. Par exemple, des sites comme [typingtest.com] (https://www.typingtest.com/) contiennent souvent des données agrégées sur les vitesses de frappe.
+
+#### Analyse des données
+
+1. **Statistiques descriptives:**
+    
+    - Calculez la moyenne, la médiane et l'écart-type de vos vitesses de frappe et des données globales.
+2. **Application des distributions normales/binomiales:**
+    
+    - Analysez si les données globales sur la vitesse de frappe suivent une distribution normale ou binomiale.
+    - Utilisez vos données pour calculer la probabilité que votre vitesse de frappe soit supérieure à la moyenne.
+3. **Test du chi-carré:**
+    
+    - Effectuez un test du chi-carré pour comparer vos données à la moyenne globale et déterminer s'il existe une différence significative.
+4. **Utilisation des séries de Maclaurin et de l'intégration:**
+    
+    - Appliquez les séries de Maclaurin pour approximer les fonctions utilisées dans votre analyse si nécessaire.
+    - Utilisez l'intégration pour analyser des modèles de données continues sur la période pendant laquelle vous avez enregistré vos vitesses de frappe.
+
+#### Conclusion
+
+- Résumez les résultats de l'analyse statistique.
+- Déterminez si votre vitesse de frappe est significativement différente de la moyenne mondiale.
+- Discutez des implications de vos résultats et des domaines potentiels de recherche.
+
+### Références et recherches complémentaires
+
+- Données sur la vitesse de frappe:** Recherchez des données agrégées sur la vitesse de frappe sur des sites Web tels que [typingtest.com] (https://www.typingtest.com/) ou des documents de recherche sur les compétences en matière de dactylographie.
+- Manuels statistiques:** Consultez les manuels statistiques standard pour comprendre et appliquer les tests chi-carré, les distributions normales/binomiales et les séries de Maclaurin.
+- Logiciels mathématiques:** Envisagez d'utiliser des logiciels tels que R ou Python pour l'analyse et la visualisation des données.
