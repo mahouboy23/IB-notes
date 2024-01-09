@@ -154,3 +154,5 @@ FRENCH
 - Logiciels mathématiques:** Envisagez d'utiliser des logiciels tels que R ou Python pour l'analyse et la visualisation des données.
 
 give me a table of data of typing test (40 different) with the number of words, the time and most importantly the words per minute and try to make so that data follows a normal distribution
+
+ok forget the number of words part just do the time and word per minute with the test number but i want to have a pool of 40 different test so 40 minimum test cases and try to it make so that the data follows a normal distribution. Also this student is bad so make it so he is between 33 and 50
