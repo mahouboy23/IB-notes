@@ -105,3 +105,21 @@ Enternaining IA:
 
 These resources should provide a solid foundation for your Internal Assessment, combining practical data collection with advanced mathematical analysis. The project aligns with the IB Math AA HL curriculum, offering an engaging way to apply statistical concepts to a personal and relevant topic.
 
+
+FRENCH 
+
+### Objectif et structure détaillée de votre AI
+
+#### Objectif/question de recherche
+
+**Comment ma vitesse de frappe se compare-t-elle à la moyenne mondiale et quelle est la probabilité que ma vitesse de frappe soit supérieure à la moyenne ? Analyse des vitesses de frappe à l'aide des distributions normales/binomiales, du test du khi-deux, de la série de Maclaurin et de l'intégration "**.
+
+#### Introduction
+
+- Présentez l'importance de la vitesse de frappe à l'ère numérique.
+- Indiquez votre vitesse de frappe personnelle et l'objectif de la comparer à la moyenne mondiale à l'aide de méthodes statistiques.
+
+#### Collecte des données
+
+- Recueillez les données relatives à votre vitesse de frappe sur une période donnée (par exemple, 30 jours), en enregistrant les vitesses quotidiennement dans des conditions normalisées.
+- Obtenez un ensemble de données sur les vitesses de frappe mondiales. Les sites web consacrés à la vitesse de frappe ou les études en ligne constituent une source potentielle. Par exemple, des sites comme [typingtest.com] (https://www.typingtest.com/) contiennent souvent des données agrégées sur les vitesses de frappe.
