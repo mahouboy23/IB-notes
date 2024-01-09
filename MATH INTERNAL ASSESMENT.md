@@ -152,3 +152,5 @@ FRENCH
 - Données sur la vitesse de frappe:** Recherchez des données agrégées sur la vitesse de frappe sur des sites Web tels que [typingtest.com] (https://www.typingtest.com/) ou des documents de recherche sur les compétences en matière de dactylographie.
 - Manuels statistiques:** Consultez les manuels statistiques standard pour comprendre et appliquer les tests chi-carré, les distributions normales/binomiales et les séries de Maclaurin.
 - Logiciels mathématiques:** Envisagez d'utiliser des logiciels tels que R ou Python pour l'analyse et la visualisation des données.
+
+give me a table of data of typing test (40 different) with the number of words, the time and most importantly the words per minute and try to make so that data follows a normal distribution
