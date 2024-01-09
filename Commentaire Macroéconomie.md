@@ -69,3 +69,5 @@ D'autre part, la banque centrale chinoise a injecté des liquidités dans l'éco
 
 Pour atténuer les effets secondaires de ces politiques, une intervention peut consister à ajuster la valeur du yuan en fonction des variations des prix, en s'appuyant sur la parité du pouvoir d'achat. Cette stratégie aiderait à équilibrer les échanges commerciaux en tenant compte des différences de niveaux de prix entre les pays.
 Les mesures de contrôle de l'inflation, telles que l'ajustement des taux d'intérêt ou les opérations sur les marchés ouverts, pourraient également jouer un rôle dans la stabilisation des prix des métaux. Ces mesures doivent être prises avec discernement pour éviter d'entraver l'activité économique tout en contrôlant l'inflation.
+
+En somme, les interventions actuelles sur les taux d'intérêt et la masse monétaire, bien que destinées à stimuler la croissance économique, pourraient ne pas être viables à long terme. Il serait plus judicieux de viser une stabilisation des prix à un niveau bas et constant pour ensuite offrir un soutien financier plus ciblé aux groupes les plus affectés par les fluctuations économiques.
