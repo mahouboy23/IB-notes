@@ -158,3 +158,4 @@ FRENCH
 Data : 
 ![[image-20240109160339608.png]]
 
+ok also add to the code so that it also gives the data table and make sure that the data follows a normal distribution and up the  test cases to 100
