@@ -158,4 +158,9 @@ FRENCH
 Data : 
 ![[image-20240109160339608.png]]
 
+![[image-20240109162205173.png]]
+
+
 ok also add to the code so that it also gives the data table and make sure that the data follows a normal distribution and up the  test cases to 100
+
+but now give me the python code, just the python code to make the graph AND the table of all the data of the test cases
