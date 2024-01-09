@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Commentaire Macroéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Commentaire Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Commentaire Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "Commentaire Macroéconomie.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Commentaire Macroéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,28 +292,28 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fd435d076ffc53ea",
+  "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "Macroéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Untitled.md",
+    "Structure de données abstraites.md",
+    "MATH INTERNAL ASSESMENT.md",
     "assets/MATH INTERNAL ASSESMENT/image-20240109162205173.png",
     "assets/MATH INTERNAL ASSESMENT/image-20240109160339608.png",
     "assets/MATH INTERNAL ASSESMENT",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Utilisation des tableaux pour les piles et les files.md",
-    "Structure de données abstraites.md",
     "Construction d’algorithmes utilisant des files.md",
     "Les piles.md",
     "Les files.md",
     "assets/Les files/image-20240109102443014.png",
     "assets/Les files",
     "hl subjects/Computer science.md",
-    "Macroéconomie.md",
     "Politique monétaire.md",
     "Commentaire Macroéconomie.md",
-    "sl subjects/Economie.md",
     "hl subjects/Français B.md",
-    "Untitled.md",
-    "MATH INTERNAL ASSESMENT.md",
     "Physics IA draft.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
@@ -334,7 +334,6 @@
     "assets/Efficacité des politiques d’offre/Pasted image 20231213081902.png",
     "assets/Efficacité des politiques d’offre",
     "assets/Politiques d’offre liées aux incitations/Pasted image 20231207133732.png",
-    "assets/Politiques d’offre liées aux incitations/image-20231207133458164.png",
     "assets/Politiques d’offre liées aux incitations",
     "economie mind map politique budgetaire.canvas",
     "assets/Graph de l'effet de la competition",
