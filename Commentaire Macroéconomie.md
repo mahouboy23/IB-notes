@@ -56,3 +56,34 @@ Also, Japan’s exports should become more competitive as a result of falling va
 Money injections causing interest rates to fall also leads to people going from bond to share market because it might offer bigger interest. The article informs: “Asian stock markets all closed higher…” The effect of this phenomena depends on who owns shares in Japan. If shareholders are mainly high income people who have large proportions of companies then they become even wealthier and might not necessarily consume more domestically. Thus, the effect on inflation from this fact would be insignificant. However, if shares are held by a number of low to middle income people, then the domestic consumption might grow causing aggregate demand to increase. That could happen because of wealth effect making people feel richer and hence, more likely to spend.
 
 To evaluate, this policy fails if there is no borrowing. Japan has an ageing population which tends to consume less than a young population and might even be living off their savings, hence, borrowing little to none. This policy also hurts savers as they lose interest on their savings, so they have to save even more. Also, the article mentioned negative real wage growth which could be the reason not to borrow as people are not confident about their future income. So, even if interest rates fall people might not borrow and consume more, hence, the policy would not work.
+
+----
+
+L’augmentation des prix des métaux de base, observée récemment, est le ré-  
+sultat d’une expansion de la masse monétaire en Chine et des anticipations  
+d’une baisse des taux d’intérêt aux États-Unis. Cette situation a conduit à une  
+hausse notable du cuivre sur le London Metal Exchange, qui a enregistré une  
+augmentation de 0,7% pour atteindre 8 391,50 dollars la tonne métrique. Paral-  
+lèlement, le contrat de cuivre le plus négocié sur le Shanghai Futures Exchange  
+a légèrement baissé de 0,3% à 67 990 yuans la tonne. Ces fluctuations reflètent  
+l’impact des politiques monétaires et des conditions économiques mondiales sur  
+les marchés des matières premières, et soulignent l’interdépendance croissante  
+des économies internationales.
+
+L’impact des politiques monétaires sur les prix des métaux se révèle claire-  
+ment lorsqu’on observe les tendances du marché. La figure 1 présente l’offre  
+(S) et la demande (D) pour un métal typique. L’intersection initiale des courbes  
+d’offre et de demande, au point E, détermine le prix d’équilibre (PE ) et la quantité  
+d’équilibre (QE ). Avec l’accroissement de la masse monétaire en Chine, qui stim-  
+ule la demande globale, la courbe de demande se décale de D1 à D2, reflétant  
+une volonté accrue des acheteurs à acquérir plus de métal au même prix. En  
+conséquence, le nouveau point d’équilibre se situe à un prix supérieur (P1), avec  
+une quantité augmentée (Q1), indiquant une hausse des prix sur le marché.  
+Cette ascension des prix, comme le cuivre qui grimpe à 8 391,50 dollars la  
+tonne, n’est pas un phénomène isolé mais le reflet d’un Changement économique  
+plus vaste, affecté par des influences externes. Cette tendance n’est pas anodine  
+; elle s’inscrit dans le contexte plus large des répercussions des politiques moné-  
+taires sur la valeur des devises et, par extension, sur les prix des commodities. La  
+politique monétaire, particulièrement les taux d’intérêt, sert de baromètre pour les  
+investisseurs qui, en prévoyant les mouvements des banques centrales, adaptent  
+leurs stratégies sur les marchés des métaux
