@@ -11,3 +11,4 @@ Created: 2023-11-23
 1. [[Les piles]] 
 2. [[Les files]] 
 3. [[Construction d’algorithmes utilisant des files]] 
+4. [[Utilisation des tableaux pour les piles et les files]] 
