@@ -160,3 +160,7 @@ ok forget the number of words part just do the time and word per minute with the
 ok give me the code for creating the data table with python all the packages needed so i can create a data table of typing test he time and word per minute with the test number but i want to have a pool of 40 different test so 40 minimum test cases and try to it make so that the data follows a normal distribution. Also this student is bad so make it so he is between 33 and 50. I also want the code to make a graph of the normal distribution and give all useful data about normal distribution all in python. 
 
 ok but give me the code so that i can create the graph and the data table. just the python code with the needed librarys used like matpotlib or any other used
+
+Data : 
+![[image-20240109160339608.png]]
+
