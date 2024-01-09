@@ -20,4 +20,7 @@ Retirer un élément du début de la file d'attente : **défiler**
 Tester si la file ne contient aucun élément.
 
 ### Cas d’utilisation des files 
-Les files sont utilisées pour modéliser les files d'attente physiques, telles que les personnes faisant la queue à la caisse d'un supermarché. La file d'attente d'impression affiche les documents en attente d'impression. Ces documents suivront la politique du premier envoi, première impression. Lors de l'envoi de données sur l'internet, plusieurs paquets de données attendent dans une file d'attente avant d'être envoyés. Un serveur répond généralement à plusieurs demandes. Dans la plupart des cas, ces demandes sont stockées dans une file d'attente. La procédure de demande est la suivante : premier arrivé, premier servi.
+- Les files sont utilisées pour modéliser les files d'attente physiques, telles que les personnes faisant la queue à la caisse d'un supermarché. 
+- La file d'attente d'impression affiche les documents en attente d'impression. Ces documents suivront la politique du premier envoi, première impression. 
+- Lors de l'envoi de données sur l'internet, plusieurs paquets de données attendent dans une file d'attente avant d'être envoyés. 
+- Un serveur répond généralement à plusieurs demandes. Dans la plupart des cas, ces demandes sont stockées dans une file d'attente. La procédure de demande est la suivante : premier arrivé, premier servi.

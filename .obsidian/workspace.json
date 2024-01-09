@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les files.md",
+                "file": "Construction d’algorithmes utilisant des files.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les files.md",
+                "file": "Construction d’algorithmes utilisant des files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les files.md",
+                "file": "Construction d’algorithmes utilisant des files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les files.md"
+                "file": "Construction d’algorithmes utilisant des files.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les files.md",
+                "file": "Construction d’algorithmes utilisant des files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,10 +282,12 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "Structure de données abstraites.md",
+    "Construction d’algorithmes utilisant des files.md",
+    "Les piles.md",
+    "Les files.md",
     "assets/Les files/image-20240109102443014.png",
     "assets/Les files",
-    "Structure de données abstraites.md",
-    "Les files.md",
     "hl subjects/Computer science.md",
     "Macroéconomie.md",
     "Politique monétaire.md",
@@ -308,7 +310,6 @@
     "Basic Macroéconomie.md",
     "Energie spécifique.md",
     "Calculus.md",
-    "Dérivation.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles/image-20231221152452527.png",
@@ -323,7 +324,6 @@
     "assets/Politiques d’offre liées aux incitations",
     "economie mind map politique budgetaire.canvas",
     "assets/Graph de l'effet de la competition/Pasted image 20231206095205.png",
-    "assets/Graph de l'effet de la competition/Pasted image 20231206093550.png",
     "assets/Graph de l'effet de la competition",
     "assets/Points forts de la politique budgétaire",
     "assets/Comportement des ondes",
