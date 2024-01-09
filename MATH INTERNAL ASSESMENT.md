@@ -183,4 +183,4 @@ STDOUT/STDERR
 Mean WPM: 41.74
 Standard Deviation: 4.03
 
-give me a python code that converts the csv file into well presented table of data
+no but print it as a pandas data table or something more organised and not text based
