@@ -164,3 +164,21 @@ Data :
 ok also add to the code so that it also gives the data table and make sure that the data follows a normal distribution and up the  test cases to 100
 
 but now give me the python code, just the python code to make the graph AND the table of all the data of the test cases
+STDOUT/STDERR
+
+    Test Number  Time (minutes)  Words Per Minute
+0             1             1.0         48.556209
+1             2             1.0         43.100629
+2             3             1.0         45.414952
+3             4             1.0         50.463573
+4             5             1.0         48.970232
+..          ...             ...               ...
+95           96             1.0         44.326293
+96           97             1.0         41.542000
+97           98             1.0         48.643482
+98           99             1.0         42.007648
+99          100             1.0         43.107957
+
+[100 rows x 3 columns]
+Mean WPM: 41.74
+Standard Deviation: 4.03
