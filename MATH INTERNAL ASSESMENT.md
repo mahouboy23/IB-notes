@@ -182,3 +182,5 @@ STDOUT/STDERR
 [100 rows x 3 columns]
 Mean WPM: 41.74
 Standard Deviation: 4.03
+
+give me a python code that converts the csv file into
