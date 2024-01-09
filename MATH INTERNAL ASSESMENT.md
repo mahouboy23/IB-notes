@@ -132,13 +132,13 @@ FRENCH
 2. **Application des distributions normales/binomiales:**
     
     - Analysez si les données globales sur la vitesse de frappe suivent une distribution normale ou binomiale.
-    - Utilisez vos données pour calculer la probabilité que votre vitesse de frappe soit supérieure à la moyenne.
+    - Utilisez les données pour calculer la probabilité que ma vitesse de frappe soit supérieure à la moyenne.
 3. **Test du chi-carré:**
     
     - Effectuez un test du chi-carré pour comparer vos données à la moyenne globale et déterminer s'il existe une différence significative.
 4. **Utilisation des séries de Maclaurin et de l'intégration:**
     
-    - Appliquez les séries de Maclaurin pour approximer les fonctions utilisées dans votre analyse si nécessaire.
+    - Appliquez les séries de Maclaurin pour approximer les fonctions utilisées dans votre analyse.
     - Utilisez l'intégration pour analyser des modèles de données continues sur la période pendant laquelle vous avez enregistré vos vitesses de frappe.
 
 #### Conclusion
