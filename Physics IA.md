@@ -43,4 +43,4 @@ Adhering exclusively to a technocratic and scientific perspective can lead to a 
 
 A comprehensive understanding of the world often necessitates a multidisciplinary approach that combines scientific knowledge with insights from the humanities, social sciences, arts, ethics, and diverse cultural perspectives. This integration allows for a more holistic understanding that acknowledges both the measurable aspects and the nuances of human experience, values, and societal complexities. Balancing scientific rigor with broader perspectives can lead to a more nuanced and complete comprehension of the world.
 
-to what extent could adhering exclusively to a 'technocratic and scientific' perspective result in a partial and incomplete understanding of the world?
+to what extent it is possible that social context determines scientific practice? IF cultures produce different "perspectives" or ways to "be in the world", then a question about whether it is possible for scientific practice to be "universal" emerges. Can science be produced everywhere in the same way? What factors might produce differences?
