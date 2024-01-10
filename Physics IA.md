@@ -45,3 +45,4 @@ A comprehensive understanding of the world often necessitates a multidisciplinar
 
 Can you answer to this question and try to make it at least 800 words. The question :
 to what extent it is possible that social context determines scientific practice? IF cultures produce different "perspectives" or ways to "be in the world", then a question about whether it is possible for scientific practice to be "universal" emerges. Can science be produced everywhere in the same way? What factors might produce differences?
+
