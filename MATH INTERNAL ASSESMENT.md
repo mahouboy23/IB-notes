@@ -184,3 +184,4 @@ Mean WPM: 41.74
 Standard Deviation: 4.03
 
 no but print it as a pandas data table or something more organised and not text based
+
