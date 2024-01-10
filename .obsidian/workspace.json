@@ -277,7 +277,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5713112975504234,
+                  "scale": 0.011930776645082677,
                   "close": true
                 }
               }
@@ -306,8 +306,11 @@
   },
   "active": "36ad868c3e471dd3",
   "lastOpenFiles": [
-    "Economie Mondiale.md",
+    "assets/Subventions/Pasted image 20240110093712.png",
+    "assets/Subventions/Pasted image 20240110093547.png",
     "Subventions.md",
+    "assets/Subventions",
+    "Economie Mondiale.md",
     "Quotas.md",
     "assets/Quotas/Pasted image 20240110084728.png",
     "assets/Quotas/Pasted image 20240110083502.png",
@@ -340,20 +343,17 @@
     "Production d'energie.md",
     "Physics IA.md",
     "Exploration francais.md",
-    "Microéconomie.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles/image-20231221152452527.png",
     "assets/Les piles",
     "politique d'offre.canvas",
-    "assets/Efficacité des politiques d’offre/Pasted image 20231213083947.png",
     "assets/Efficacité des politiques d’offre",
     "assets/Politiques d’offre liées aux incitations",
     "economie mind map politique budgetaire.canvas",
     "assets/Graph de l'effet de la competition",
     "assets/Points forts de la politique budgétaire",
     "assets/Comportement des ondes",
-    "assets/Politique budgétaire expansionniste et restrictive",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
