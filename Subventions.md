@@ -40,3 +40,11 @@ Les subventions auront un effet sur toute une série de parties prenantes, tant 
 **Figure 5.** Perte sèche résultant d'une subvention.
 
 5. **Société** : la production est désormais accrue par des producteurs nationaux relativement inefficaces et les ressources sont donc mal allouées, entraînant une perte de bien-être pour la société (zone C).
+
+|**Partie prenante**|**Avant**|**Après**|
+|---|---|---|
+|Producteurs nationaux|- Revenus F + G<br>- Surplus du producteur F|- Revenus B + C + F + G + H<br>- Surplus du producteur F + B|
+|Producteurs étrangers (importateurs)|- Chiffre d'affaires H + I|- Revenu I|
+|Consommateurs|- Surplus du consommateur de A + B + C + D + E|- Les effets sur les consommateurs restent inchangés<br>- Surplus du consommateur de A + B + C + D + E|
+|Gouvernement|- Pas impliqué|- Verse une subvention B + C|
+|Société|- Répartition efficace des ressources|- Mauvaise allocation mondiale des ressources et perte de bien-être de C|
