@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Quotas.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commentaire Macroéconomie.md",
+                "file": "Quotas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commentaire Macroéconomie.md",
+                "file": "Quotas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commentaire Macroéconomie.md"
+                "file": "Quotas.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Commentaire Macroéconomie.md",
+                "file": "Quotas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,11 +292,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "ddc32f386c4f1219",
+  "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "Macroéconomie.md",
+    "Economie Mondiale.md",
+    "Quotas.md",
     "sl subjects/Economie.md",
+    "Macroéconomie.md",
     "IB overview.md",
+    "Réactions nucléaires.md",
+    "Commentaire Macroéconomie.md",
     "Untitled.md",
     "Structure de données abstraites.md",
     "MATH INTERNAL ASSESMENT.md",
@@ -312,10 +316,8 @@
     "assets/Les files",
     "hl subjects/Computer science.md",
     "Politique monétaire.md",
-    "Commentaire Macroéconomie.md",
     "hl subjects/Français B.md",
     "Physics IA draft.md",
-    "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
     "Production d'energie.md",
@@ -323,7 +325,6 @@
     "Exploration francais.md",
     "Microéconomie.md",
     "Conceptes de base economie.md",
-    "Basic Macroéconomie.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles/image-20231221152452527.png",
