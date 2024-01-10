@@ -27,10 +27,25 @@ Comme les droits de douane, les quotas auront également divers effets sur un é
 ?
 ![[Pasted image 20240110083502.png]]
 
-1. **Producteurs nationaux** : les producteurs nationaux sont mieux lotis grâce au quota. Ils sont capables de produire plus de fromage, à mesure que le prix augmente, provoquant une expansion le long du territoire sud-africain.Domestique + importation. Les producteurs nationaux peuvent vendre plus de biens (de Q1 à Q2< /span>. Le surplus du producteur augmente de g à g + c.q à Pw) à un prix plus élevé de P
-2. **Producteurs étrangers (importateurs)** : le volume de fromage importé en Indonésie diminue en raison du quota, de (Q . La zone e correspond aux revenus des quotas gagnés par les producteurs étrangers. q à Pw). Cependant, les importateurs bénéficieront des revenus des quotas de P2 – Q 3) à (Q1 – Q4
-3. **Consommateurs** : les consommateurs risquent de perdre le plus avec les quotas. Les consommateurs doivent payer des prix plus élevés de Pw à Pq3 à Q4, et achetez également moins de biens de Q
-4. **Gouvernement** : Le gouvernement ne bénéficie pas de quotas. Le gouvernement ne gagne aucune recette fiscale.
-5. **Société** : une perte de bien-être est créée de d + f. Ces zones représentent des inefficacités dans la production nationale (zone d) car maintenant la production de Q1 – Q2 est confié à des producteurs nationaux relativement inefficaces. Zone " f " représente une perte du surplus du consommateur, due à des prix plus élevés et à une perte de production.
+1. **Domestic producers**: Domestic producers are better off as a result of the quota. They are able to produce more cheese, as the price rises, causing an expansion along SDomestic + import. Domestic producers can sell more goods (from Q1 to Q2) at a higher price from Pw to Pq. Producer surplus increases from g to g + c.
+2. **Foreign producers (importers)**: The volume of cheese imported into Indonesia falls as a result of the quota, from (Q4 – Q1) to (Q3 – Q2). However, importers will benefit from quota revenues from Pw to Pq. Area e is the quota revenue earned by foreign producers.
+3. **Consumers**: Consumers stand to lose the most from quotas. Consumers must pay higher prices from Pw to Pq, and also buy fewer goods from Q4 to Q3. Consumer surplus falls from a + b + c + d + e + f to a + b only.
+4. **Government**: The government does not benefit from quotas. The government does not earn any tax revenue.
+5. **Society**: A welfare loss is created of d + f. These areas represent inefficiencies in domestic production (area d) because now production of Q1 – Q2 is switched to relatively inefficient domestic producers. Area " f " represents a loss in consumer surplus, from higher prices and lost output.
 
 ## L'effet des quotas sur les revenus
+La mise en place d'un quota peut avoir un effet significatif sur les revenus des producteurs nationaux et étrangers.
+
+**Figure 5.** L'effet des quotas sur les revenus.
+?
+![[Pasted image 20240110084728.png]]
+
+**Tableau 1**. Résumé des effets des quotas sur les parties prenantes. 
+
+|**Partie prenante**|**Avant**|**Après**|
+|---|---|---|
+|Producteurs nationaux|- Revenu g + h<br>- Surplus du producteur g|- Revenus c + d + g + h + i<br>- Surplus du producteur c + g|
+|Producteurs étrangers (importateurs)|- Revenus i + j + k|- Revenus j + e|
+|Consommateurs|- Plus de choix<br>- Prix ​​plus bas<br>- Surplus du consommateur de  <br>    a + b + c + d + e + f|- Moins de choix<br>- Des prix plus élevés<br>- Surplus du consommateur de a + b uniquement|
+|Gouvernement|- Aucun impact|- Peut être en mesure de facturer des licences à quota|
+|Société|- Allocation efficace des ressources|- Perte de bien-être d + f|
