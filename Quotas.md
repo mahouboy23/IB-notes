@@ -19,3 +19,5 @@ Il existe plusieurs distinctions importantes entre les quotas et les tarifs :
 Nous pouvons examiner l'effet du quota dans la **Figure 2** en suivant la ligne offre intérieure + offre importée, qui est la courbe d'offre. après que le quota ait été mis en œuvre. Cette ligne va de 0 à Q1 et s'aligne sur la courbe d'offre nationale. Il représente la quantité que les entreprises nationales sont prêtes à produire en dessous du prix mondial. Lorsque cette ligne atteindra le prix mondial, les importateurs seront prêts à commencer à importer du fromage européen en Indonésie et importeront une quantité égale au quota. Une fois le quota atteint, la production revient aux producteurs nationaux et suit une courbe d’offre ascendante.
 
 Après le quota, un nouvel équilibre se forme où le prix correspond à la courbe d'offre et les consommateurs achèteront Q3 quantité de fromage au prix P. 1. Notez que le quota est représenté par Q3 - Q2.
+
+## Effets des quotas sur les parties prenantes
