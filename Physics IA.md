@@ -44,3 +44,5 @@ However, there are ways for the public to gauge the certainty of scientific know
 6. **Critical thinking:** Encouraging critical thinking skills allows individuals to evaluate the credibility of sources, assess evidence, and recognize misinformation or pseudoscience.
 
 While the public might not possess expert-level knowledge, they can still make informed judgments about scientific knowledge by considering these factors. However, it's important to acknowledge that some scientific concepts might remain complex or challenging to assess without specialized expertise. In such cases, relying on the consensus among experts and credible sources becomes crucial for understanding the certainty of scientific knowledge.
+
+to what extent could adhering exclusively to a 'technocratic and scientific' perspective result in a partial and incomplete understanding of the world?
