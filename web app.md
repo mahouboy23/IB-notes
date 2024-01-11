@@ -41,11 +41,13 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 - **Structure:**
     - Class list component displaying classes.
 
-### 4. **Teacher Interface:**
+### 4. **Grade Input page:**
 
 - **Functionality:**
-    - Grade input form per student for various subjects.
+    - Grade input form per student for various subject (depends on teacher User).
     - Setting grade boundaries.
+    - Shows grade average per student and for class
+    - can add a
 - **Structure:**
     - Forms for entering grades.
     - Settings section for grade boundaries per subject.
