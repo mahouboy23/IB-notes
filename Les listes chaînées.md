@@ -48,3 +48,7 @@ Dans ce cas, le nouveau nœud est inséré juste avant le nœud principal actuel
 Dans ce cas, le nouveau nœud est inséré juste après le nœud de queue actuel. Mettre à jour le pointeur suivant du nœud de queue actuel pour qu'il pointe vers le nouveau nœud. Mettre à jour le pointeur de queue pour qu'il pointe vers le nouveau nœud.
 ![[image-20240111160224689.png]]
 
+#### Insérer au MILIEU 
+En général, un nouveau nœud est toujours inséré entre deux nœuds existants. Les pointeurs de tête et de queue ne sont pas mis à jour dans ce cas. Mise à jour du pointeur du nœud "précédent" pour pointer vers le nouveau nœud Mise à jour du pointeur du nouveau nœud, pour pointer vers le nœud "suivant".
+![[image-20240111160403165.png]]
+
