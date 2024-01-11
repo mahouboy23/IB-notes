@@ -48,3 +48,6 @@ Les subventions auront un effet sur toute une série de parties prenantes, tant 
 |Consommateurs|- Surplus du consommateur de A + B + C + D + E|- Les effets sur les consommateurs restent inchangés<br>- Surplus du consommateur de A + B + C + D + E|
 |Gouvernement|- Pas impliqué|- Verse une subvention B + C|
 |Société|- Répartition efficace des ressources|- Mauvaise allocation mondiale des ressources et perte de bien-être de C|
+
+## Subventions à l'exportation
+Les subventions à l'exportation sont des paiements par unité de production exportée, rendant les marchandises moins chères à l'étranger qu'à l'intérieur du pays, une pratique jugée illégale par l'OMC. Les effets varient : dans les pays importateurs producteurs du bien subventionné, les industries locales peuvent être dévastées, tandis que dans les pays non producteurs, les consommateurs bénéficient de prix bas.
