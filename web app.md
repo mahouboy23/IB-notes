@@ -15,7 +15,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 - **Functionality:**
     - Input fields for username and password.
     - Validation and authentication through API calls to the backend.
-    - Redirect to the Dashboard upon successful login.
+    - Redirect to the Dashboard upon successful login (Teacher Interface, Student Interface, Coordinator Dashboard). 
 - **Structure:**
     - Form component for login fields.
     - Error handling for invalid credentials.
@@ -25,7 +25,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 - **Functionality:**
     - Display overall statistics.
-    - Navigation to different sections (Class Management, Teacher Interface, Student Interface, Coordinator Dashboard).
+    - Navigation to different sections (Class Management, (Teacher Interface, Student Interface, Coordinator Dashboard).
 - **Structure:**
     - Cards or panels displaying statistics.
     - Sidebar/Navbar for navigation.

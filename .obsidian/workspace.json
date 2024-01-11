@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "web app.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "web app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "web app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les listes chaînées.md"
+                "file": "web app.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "web app.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,6 +294,11 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "Computer science exploration.md",
+    "hl subjects/Computer science.md",
+    "Computer science classwork.md",
+    "Structure de données abstraites.md",
+    "Les listes chaînées.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
@@ -304,10 +309,7 @@
     "assets/Les listes chaînées/image-20240111155508527.png",
     "assets/Les listes chaînées/image-20240111154853062.png",
     "assets/Les listes chaînées",
-    "Structure de données abstraites.md",
-    "Les listes chaînées.md",
     "IB overview.md",
-    "hl subjects/Computer science.md",
     "Economie Mondiale.md",
     "Subventions.md",
     "Dérivation.md",
@@ -325,7 +327,6 @@
     "Construction d’algorithmes utilisant des files.md",
     "Quotas.md",
     "assets/Subventions/Pasted image 20240110093712.png",
-    "assets/Subventions/Pasted image 20240110093547.png",
     "assets/Subventions",
     "assets/Quotas",
     "Réactions nucléaires.md",
@@ -334,7 +335,6 @@
     "Utilisation des tableaux pour les piles et les files.md",
     "Les piles.md",
     "assets/Les files",
-    "Politique monétaire.md",
     "assets/Les piles",
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre",
