@@ -37,9 +37,9 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - List of students for 11th and 12th grade.
     - Access to specific class details.
     - Levels chosen (HL)
-    - shows the subject (for each teacher user shows there subject)
+    - shows the subject (for each teacher user shows only there subject)
 - **Structure:**
-    - Class list component displaying classes.
+    - Class list component displaying (two) classes with each having the table of students.
 
 ### 4. **Grade Input page:**
 
