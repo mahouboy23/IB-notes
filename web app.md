@@ -25,7 +25,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 - **Functionality:**
     - Display overall statistics.
-    - Navigation to different sections (Class Management, (Teacher Interface, Student Interface, Coordinator Dashboard).
+    - Navigation to different sections (Class Management, Grade Input, Bulletin(report card), Coordinator Dashboard (depends on the User)).
 - **Structure:**
     - Cards or panels displaying statistics.
     - Sidebar/Navbar for navigation.
@@ -34,11 +34,13 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 ### 3. **Class Management:**
 
 - **Functionality:**
-    - List of classes for 11th and 12th grade.
+    - List of students for 11th and 12th grade.
     - Access to specific class details.
+    - Levels chosen (HL)
+    - shows the subject (for each teacher user shows there subject)
 - **Structure:**
     - Class list component displaying classes.
-    - Clickable links to access individual class details.
+    - Clickable links to access individual class details (simple details like age and stuf).
 
 ### 4. **Teacher Interface:**
 
