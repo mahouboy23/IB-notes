@@ -47,7 +47,8 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Grade input form per student for various subject (depends on teacher User).
     - Setting grade boundaries.
     - Shows grade average per student and for class
-    - can add a
+    - can add multiple grades to the students profile
+    - 
 - **Structure:**
     - Forms for entering grades.
     - Settings section for grade boundaries per subject.
