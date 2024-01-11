@@ -52,3 +52,27 @@ Dans ce cas, le nouveau nœud est inséré juste après le nœud de queue actuel
 En général, un nouveau nœud est toujours inséré entre deux nœuds existants. Les pointeurs de tête et de queue ne sont pas mis à jour dans ce cas. Mise à jour du pointeur du nœud "précédent" pour pointer vers le nouveau nœud Mise à jour du pointeur du nouveau nœud, pour pointer vers le nœud "suivant".
 ![[image-20240111160403165.png]]
 
+## Représentation graphique de listes chaînées
+
+**Listes chaînées linéaires**
+?
+La liste chaînée de base se compose d'un ensemble de nœuds. Chaque nœud comporte deux éléments : une valeur de données et un pointeur vers le nœud suivant.
+- Tête unique, queue unique (premier et dernier élément) 
+- Chaque pointeur fonctionne dans une seule direction
+![[image-20240111160817534.png]]
+
+**Listes doublement chaînées**
+?
+Une liste doublement chaînée contient deux pointeurs par nœud, un pour le nœud suivant et un pour le nœud précédent.
+- Tête unique, queue unique (premier et dernier élément) 
+- Deux pointeurs pour chaque élément (un vers le suivant, un vers le précédent)
+![[image-20240111161051443.png]]
+
+
+**Listes chaînées circulaires**
+?
+Une liste chaînée circulaire forme une boucle infinie dans sa chaîne en faisant pointer la valeur "next" du dernier nœud sur le premier élément de la liste. 
+- Tête unique Un pointeur pour chaque élément (un pour l'élément suivant) 
+- Le pointeur du dernier élément pointe vers la tête (créant un cercle)
+  ![[image-20240111161153202.png]]
+
