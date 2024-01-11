@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Barrières administratives.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Barrières administratives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Barrières administratives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie Mondiale.md"
+                "file": "Barrières administratives.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Barrières administratives.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,9 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Subventions.md",
     "Economie Mondiale.md",
+    "Barrières administratives.md",
+    "Subventions.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
     "IB overview.md",
@@ -331,7 +332,6 @@
     "Politique monétaire.md",
     "hl subjects/Français B.md",
     "Physics IA draft.md",
-    "Physique nucléaire, atomique et des particules.md",
     "assets/Les piles/image-20231221153032683.png",
     "assets/Les piles/image-20231221152719142.png",
     "assets/Les piles",
