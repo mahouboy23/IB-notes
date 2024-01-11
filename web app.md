@@ -25,10 +25,10 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 ### 2. **Dashboard:**
 
 - **Functionality:**
-    - Display overall statistics.
+    - Display overall statistics. to be (to be determined)
     - Navigation to different sections (Class Management, Grade Input, Bulletin(report card), Coordinator Dashboard (depends on the User)).
 - **Structure:**
-    - Cards or panels displaying statistics.
+    - Cards or panels displaying basic info or statistics (to be determined).
     - Sidebar/Navbar for navigation.
     - Dynamic content based on user role (teacher, student, coordinator).
 
