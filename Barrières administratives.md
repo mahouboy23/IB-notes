@@ -20,3 +20,5 @@ Les normes de produits sont des obstacles administratifs au commerce qui compren
 
 
 ## Politiques d’achat national
+?
+Les politiques d'achat national incitent les consommateurs à acheter des produits locaux pour soutenir l'économie nationale, malgré la complexité de l'origine globale des produits.
