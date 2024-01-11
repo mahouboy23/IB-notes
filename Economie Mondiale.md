@@ -15,5 +15,6 @@ Created: 2023-12-13
 | - Le gouvernement peut entire des profit avec les Tarifs | - Cout pour le gouvernement avec les subvention |
 | - Les producteur gagne en surplus et en revenue |  - Perte de surplus pour les consommateur |
 | - Limite l'importation et équilibre la balance solde net | - Augmentation des prix pour les consommateur |
-| - Répartition efficace des ressources | -  |
+| - Protéger les jeunes industrie | - Décourage la competition  |
+| - Sécurité nationale |  |
 
