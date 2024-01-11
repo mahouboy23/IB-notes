@@ -40,7 +40,6 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - shows the subject (for each teacher user shows there subject)
 - **Structure:**
     - Class list component displaying classes.
-    - Clickable links to access individual class details (simple details like age and stuf).
 
 ### 4. **Teacher Interface:**
 
