@@ -35,3 +35,16 @@ Nous avons trois possibilités :
 1. Insertion d'un nouveau nœud au tout début de la liste 
 2. Insertion d'un nouveau nœud à la toute fin de la liste 
 3. Insertion d'un nouveau nœud au milieu de la liste, qui a donc un prédécesseur et un successeur dans la liste.
+
+#### Insertion dans une liste vide 
+Lorsque la liste est vide, ce qui est indiqué par la condition (head =NULL), l'insertion est très simple. L'algorithme fait pointer la tête et la queue sur le nouveau nœud.
+![[image-20240111160052689.png]]
+
+#### Insérer au DÉBUT 
+Dans ce cas, le nouveau nœud est inséré juste avant le nœud principal actuel. Mettre à jour le pointeur suivant d'un nouveau nœud, afin qu'il pointe vers le nœud principal actuel. Mettre à jour le lien d'en-tête pour qu'il pointe vers le nouveau nœud.
+![[image-20240111160136941.png]]
+
+#### Insérer à la FIN 
+Dans ce cas, le nouveau nœud est inséré juste après le nœud de queue actuel. Mettre à jour le pointeur suivant du nœud de queue actuel pour qu'il pointe vers le nouveau nœud. Mettre à jour le pointeur de queue pour qu'il pointe vers le nouveau nœud.
+![[image-20240111160224689.png]]
+
