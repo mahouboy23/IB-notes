@@ -29,3 +29,9 @@ Ce pointeur sur le premier nœud d'une liste est généralement appelé :: **hea
 **Une liste chaînée** :: est une structure de données dynamique simple construite à partir d'une série de nœuds. Chaque nœud de la liste est un objet distinct qui contient à la fois des données et une référence (pointeur) au nœud suivant.
 ![[image-20240111155508527.png]]
 
+### Insertion dans une liste chaînée 
+Nous avons trois possibilités : 
+?
+1. Insertion d'un nouveau nœud au tout début de la liste 
+2. Insertion d'un nouveau nœud à la toute fin de la liste 
+3. Insertion d'un nouveau nœud au milieu de la liste, qui a donc un prédécesseur et un successeur dans la liste.
