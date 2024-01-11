@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "Economie Mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "Economie Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "Economie Mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barrières administratives.md"
+                "file": "Economie Mondiale.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "Economie Mondiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,14 +294,14 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Economie Mondiale.md",
-    "Barrières administratives.md",
     "Subventions.md",
+    "Economie Mondiale.md",
+    "Dérivation.md",
+    "Barrières administratives.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
     "IB overview.md",
     "Commentaire Macroéconomie.md",
-    "Dérivation.md",
     "MATH INTERNAL ASSESMENT.md",
     "Calculus.md",
     "hl subjects/Math AA.md",

@@ -39,7 +39,8 @@ Les subventions auront un effet sur toute une série de parties prenantes, tant 
 
 **Figure 5.** Perte sèche résultant d'une subvention.
 
-5. **Société** : la production est désormais accrue par des producteurs nationaux relativement inefficaces et les ressources sont donc mal allouées, entraînant une perte de bien-être pour la société (zone C).
+5. **Société** : la production est désormais accrue par des producteurs nationaux relativement inefficaces et les ressources sont donc mal allouées, entraînant une perte de bien-être pour la 
+société (zone C).
 
 |**Partie prenante**|**Avant**|**Après**|
 |---|---|---|
