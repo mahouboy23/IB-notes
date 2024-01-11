@@ -16,6 +16,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Input fields for username and password.
     - Validation and authentication through API calls to the backend.
     - Redirect to the Dashboard upon successful login (Teacher Interface, Student Interface, Coordinator Dashboard). 
+    - NO registration, the admin are the one to add users.
 - **Structure:**
     - Form component for login fields.
     - Error handling for invalid credentials.
@@ -36,7 +37,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 - **Functionality:**
     - List of students for 11th and 12th grade.
     - Access to specific class details.
-    - Levels chosen (HL)
+    - Levels chosen (HL ou SL)
     - shows the subject (for each teacher user shows only there subject)
 - **Structure:**
     - Class list component displaying (two) classes with each having the table of students.
@@ -48,7 +49,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Setting grade boundaries.
     - Shows grade average per student and for class
     - can add multiple grades to the students profile
-    - 
+    - and the grades are divided by trimester (three periods of grades) 
 - **Structure:**
     - Forms for entering grades.
     - Settings section for grade boundaries per subject.
