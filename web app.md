@@ -59,6 +59,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 - **Functionality:**
     - View grades in different formats (French, GPA, IB grading).
     - Download grade report as a PDF.
+    - Access to no other functionality
 - **Structure:**
     - Tabs or options for different grading formats.
     - Download button for generating PDF report.
