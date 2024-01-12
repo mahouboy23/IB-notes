@@ -105,4 +105,7 @@ La fusion n'est pas exploitable dans les centrales nucléaires:
 - D'approcher les noyaux suffisamment longtemps
 La fusion est possible dans la bombes H.
 
-Autre element fissile le plutonium $^{239}_{94}Pu$ que l'on peut obtenir
+Autre element fissile le plutonium $^{239}_{94}Pu$ que l'on peut obtenir a partir du $^{238}_{92}U$
+$^{238}_{92}U$ capture de neutron suivi de 2 désintégrations $B^{-}\rightarrow ^{239}_{94}Pu$  
+
+x1
