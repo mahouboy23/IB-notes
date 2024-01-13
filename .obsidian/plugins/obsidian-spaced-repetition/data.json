@@ -18,7 +18,9 @@
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
-    "randomizeCardOrder": true,
+    "randomizeCardOrder": null,
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
@@ -56,7 +58,7 @@
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2024-01-11",
+  "buryDate": "2024-01-13",
   "buryList": [],
   "historyDeck": null
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mouvement harmonique simple.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mouvement harmonique simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mouvement harmonique simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réactions nucléaires.md"
+                "file": "Mouvement harmonique simple.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réactions nucléaires.md",
+                "file": "Mouvement harmonique simple.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,17 +293,19 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
+    "IB overview.md",
+    "Physics IA draft.md",
+    "Mouvement harmonique simple.md",
+    "Oscillation et Onde.md",
+    "Réactions nucléaires.md",
+    "Physique nucléaire, atomique et des particules.md",
     "Production d'energie.md",
     "Eollienne.md",
-    "Réactions nucléaires.md",
     "Energie spécifique.md",
     "Energie Discrete et radioactivite.md",
     "Mécanique.md",
-    "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
-    "Physics IA draft.md",
     "Physics IA.md",
     "Dérivation.md",
     "web app.md",
@@ -327,8 +329,6 @@
     "Barrières administratives.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
-    "Commentaire Macroéconomie.md",
-    "Calculus.md",
     "assets/Subventions/Pasted image 20240110093712.png",
     "assets/Subventions",
     "assets/Quotas",

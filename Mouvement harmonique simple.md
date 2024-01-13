@@ -42,7 +42,7 @@ Dans un mouvement harmonique simple l'acceleration est :: proportionnelle a l'op
 ?
 ![[image-20231108113030259.png]]
 
-**Graph de la vélocité/deplacement/acceleration sur le temps**
+**Graph de la vélocité/déplacement/acceleration sur le temps**
 ?
 ![[image-20231113103455763.png]]
 
