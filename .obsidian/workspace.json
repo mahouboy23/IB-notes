@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Ondes progressives périodiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Ondes progressives périodiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Ondes progressives périodiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement harmonique simple.md"
+                "file": "Ondes progressives périodiques.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Ondes progressives périodiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,11 +293,12 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "Oscillation et Onde.md",
+    "Ondes progressives périodiques.md",
+    "Mouvement harmonique simple.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Physics IA draft.md",
-    "Mouvement harmonique simple.md",
-    "Oscillation et Onde.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "Production d'energie.md",
@@ -328,7 +329,6 @@
     "Subventions.md",
     "Barrières administratives.md",
     "sl subjects/Economie.md",
-    "Macroéconomie.md",
     "assets/Subventions/Pasted image 20240110093712.png",
     "assets/Subventions",
     "assets/Quotas",
