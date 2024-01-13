@@ -13,10 +13,8 @@ Il existe deux types d’ondes progressives :
 2. Les ondes mécaniques, comme les ondes sonores, qui ont besoin d’un support matériel pour se propager
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
-<!--SR:!2023-12-03,4,218-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
-<!--SR:!2023-12-03,10,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
 ### Les différentes caractéristiques des ondes progressives
