@@ -2,6 +2,8 @@
 tags : mod Physique
 ---
 Created: 2023-05-13
+
+Make a prompt to create a clear structure (in french) for this Physics Internal Assessment:
 ### **Sujet:**  Dans quelle mesure la longueur d'un tube de vidange d'un réservoir affecte le débit d'écoulement 
 
 En rapport avec le thème 2.2 - Forces
