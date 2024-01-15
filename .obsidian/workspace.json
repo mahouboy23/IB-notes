@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,9 @@
             "id": "07d658ea13ff044f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "sl subjects/Physics.md",
-                "mode": "source",
-                "source": false
+                "file": "University shortlist.loom"
               }
             }
           },
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -241,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,20 +291,22 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "IB overview.md",
     "Physics IA draft.md",
+    "University shortlist.loom",
+    "University.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
+    "sl subjects/Physics.md",
     "Physics IA.md",
     "assets/Physics IA/image-20240115183224652.png",
     "assets/Physics IA/image-20240115182726125.png",
     "assets/Physics IA",
-    "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
-    "IB overview.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "Mesure d'incertitude.md",
     "Production d'energie.md",
-    "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
     "Comportement des ondes.md",
     "Oscillation et Onde.md",
     "Mécanique.md",
@@ -320,7 +320,6 @@
     "Mouvement harmonique simple.md",
     "Eollienne.md",
     "Energie spécifique.md",
-    "Energie Discrete et radioactivite.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
@@ -339,7 +338,6 @@
     "assets/Efficacité des politiques d’offre",
     "assets/Politiques d’offre liées aux incitations",
     "economie mind map politique budgetaire.canvas",
-    "assets/Graph de l'effet de la competition",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
