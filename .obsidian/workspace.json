@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b25eb70edec6e26",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economie mind map politique budgetaire.canvas",
+                "viewState": {
+                  "x": -627.5,
+                  "y": 38,
+                  "zoom": -1.3441910443805078
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "economie mind map politique budgetaire.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "economie mind map politique budgetaire.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "economie mind map politique budgetaire.canvas"
               }
             }
           },
@@ -239,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "economie mind map politique budgetaire.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +278,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.0078125,
+                  "scale": 0.44586590830864853,
                   "close": true
                 }
               }
@@ -289,8 +305,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "8b25eb70edec6e26",
   "lastOpenFiles": [
+    "Microéconomie.md",
+    "KLDS.md",
+    "Exercise economie.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
     "Physics IA draft.md",
     "University shortlist.loom",
@@ -317,9 +337,6 @@
     "Caractéristique d'une onde.md",
     "Ondes static.md",
     "Ondes progressives périodiques.md",
-    "Mouvement harmonique simple.md",
-    "Eollienne.md",
-    "Energie spécifique.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
