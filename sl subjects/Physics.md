@@ -12,6 +12,8 @@ tags : mod Physique
 ### **Theme 7** : [[Physique nucléaire, atomique et des particules]] 
 
 ### **Theme 8** : [[Production d'energie]] 
+
+### **Option** : 
 #### recherche
 Centrales thermiques  (combustion fossiles)
 centrales hydroélectriques
