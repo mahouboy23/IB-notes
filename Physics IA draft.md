@@ -73,7 +73,9 @@ Created: 2024-01-08
   
   - *Attente : Mise en Évidence de l'Influence de la Viscosité sur la Perte de Charge*
 
-Now Make the Theoretical part of 
+Now Make the Theoretical RELATION part of the IA (\section{Relation Théorique}). You can use this AS AN EXAMPLE but do it for my IA in the format of overlead (no nead to put the header, documents ect... part directly go to the \section{Relation Théorique})
+
+example
 ﻿III. Theoretical Relationship of Height of Incline and Moment of Inertia
 A. Variable Relationship As Determined Through D. Mulhayatiah et al. (2018)
 According to D. Mulhayatiah et al. (2018), height is independent of moment of inertia. Their study conducted by rolling a hollow, solid, and layered tubular object on a wooden plane found that although height hand angle of inclination affect a circular object&#039;s angular acceleration, it does not impact the magnitude of its moment of inertia.

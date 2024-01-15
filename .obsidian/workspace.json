@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,24 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b25eb70edec6e26",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economie mind map politique budgetaire.canvas",
-                "viewState": {
-                  "x": -627.5,
-                  "y": 38,
-                  "zoom": -1.3441910443805078
-                }
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economie mind map politique budgetaire.canvas",
+                "file": "Physics IA draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economie mind map politique budgetaire.canvas",
+                "file": "Physics IA draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "economie mind map politique budgetaire.canvas"
+                "file": "Physics IA draft.md"
               }
             }
           },
@@ -255,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "economie mind map politique budgetaire.canvas",
+                "file": "Physics IA draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,8 +290,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b25eb70edec6e26",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "Physics IA.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "Untitled 1.canvas",
+    "Normes de revenu minimum.md",
+    "economie mind map politique budgetaire.canvas",
     "Microéconomie.md",
     "KLDS.md",
     "Exercise economie.md",
@@ -315,10 +305,8 @@
     "Physics IA draft.md",
     "University shortlist.loom",
     "University.md",
-    "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "sl subjects/Physics.md",
-    "Physics IA.md",
     "assets/Physics IA/image-20240115183224652.png",
     "assets/Physics IA/image-20240115182726125.png",
     "assets/Physics IA",
@@ -335,8 +323,6 @@
     "Nouvelle expression de la deuxième loi de Newton.md",
     "Définition de momentum.md",
     "Caractéristique d'une onde.md",
-    "Ondes static.md",
-    "Ondes progressives périodiques.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
@@ -354,7 +340,6 @@
     "politique d'offre.canvas",
     "assets/Efficacité des politiques d’offre",
     "assets/Politiques d’offre liées aux incitations",
-    "economie mind map politique budgetaire.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]

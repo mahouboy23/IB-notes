@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1e9221c66fc54a32","x":-260,"y":-160,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7634540b6301711b","x":40,"y":-100,"width":400,"height":400,"type":"file","file":"Microéconomie.md"},
+		{"id":"81ef084556b4f99c","x":-780,"y":-440,"width":1086,"height":221,"type":"file","file":"assets/Les listes chaînées/image-20240111160817534.png"}
+	],
+	"edges":[
+		{"id":"47ecae11a77684a9","fromNode":"7634540b6301711b","fromSide":"left","toNode":"1e9221c66fc54a32","toSide":"bottom"},
+		{"id":"a57c5d3432fd7bda","fromNode":"81ef084556b4f99c","fromSide":"bottom","toNode":"7634540b6301711b","toSide":"left"}
+	]
+}
