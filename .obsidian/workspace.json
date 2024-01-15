@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physics IA.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physics IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physics IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physics.md"
+                "file": "Physics IA.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physics IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,11 +293,15 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
-    "Production d'energie.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
-    "Physics IA.md",
     "Physics IA draft.md",
+    "Physics IA.md",
+    "sl subjects/Physics.md",
+    "Physique nucléaire, atomique et des particules.md",
+    "Réactions nucléaires.md",
+    "IB overview.md",
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+    "Mesure d'incertitude.md",
+    "Production d'energie.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "Comportement des ondes.md",
@@ -311,14 +315,10 @@
     "Ondes static.md",
     "Ondes progressives périodiques.md",
     "Mouvement harmonique simple.md",
-    "Réactions nucléaires.md",
-    "Physique nucléaire, atomique et des particules.md",
     "Eollienne.md",
     "Energie spécifique.md",
     "Energie Discrete et radioactivite.md",
     "Dérivation.md",
-    "web app.md",
-    "Computer science exploration.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
