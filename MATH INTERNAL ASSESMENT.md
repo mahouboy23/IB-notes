@@ -166,7 +166,7 @@ ok also add to the code so that it also gives the data table and make sure that 
 but now give me the python code, just the python code to make the graph AND the table of all the data of the test cases
 STDOUT/STDERR
 
-    Test Number  Time (minutes)  Words Per Minute
+Test Number  Time (minutes)  Words Per Minute
 0             1             1.0         48.556209
 1             2             1.0         43.100629
 2             3             1.0         45.414952
