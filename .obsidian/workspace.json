@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA.md"
+                "file": "Physics IA draft.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,9 +293,9 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "Physics IA.md",
     "assets/Physics IA/image-20240115183224652.png",
     "assets/Physics IA/image-20240115182726125.png",
-    "Physics IA.md",
     "assets/Physics IA",
     "Physics IA draft.md",
     "sl subjects/Physics.md",
@@ -329,7 +329,6 @@
     "assets/Les listes chaînées/image-20240111160136941.png",
     "assets/Les listes chaînées/image-20240111160052689.png",
     "assets/Les listes chaînées/image-20240111155508527.png",
-    "assets/Les listes chaînées/image-20240111154853062.png",
     "assets/Les listes chaînées",
     "assets/Subventions",
     "assets/Quotas",
