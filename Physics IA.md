@@ -63,3 +63,29 @@ On the other hand, the experimentation would be utilizing a Vernier photogate to
 
 **Gravitational Potential Energy and Kinetic Energy**
 Gravitational potential energy refers to the energy of an object due to its position within a gravitational field, whereas, kinetic energy refers to the energy of an object due to its motion.
+﻿
+
+III. Theoretical Relationship of Height of Incline and Moment of Inertia
+
+A. Variable Relationship As Determined Through D. Mulhayatiah et al. (2018)
+According to D. Mulhayatiah et al. (2018), height is independent of moment of inertia. Their study conducted by rolling a hollow, solid, and layered tubular object on a wooden plane found that although height hand angle of inclination affect a circular object's angular acceleration, it does not impact the magnitude of its moment of inertia.
+In doing so, they mathematically derived each object's geometric constant k and substituted this into the equation of inertia. In their discussion, they found that while inertia differed per tubular object, its numerical magnitude remained constant per height h increase as the graph that plotted these variables was perfectly horizontal, indicating an independent relationship.
+B. Variable Relationship As Determined Through Quintic (2007)
+
+
+Null Hypothesis (H1): If the height of incline is increased, then the oil drum would result in no change to the moment of inertia due to their independent relationship.
+
+Alternative Hypothesis (H2): If the height of incline is increased, then the oil drum would result in a lower moment of inertia due to their inversely proportional relationship.
+
+
+IV. Variables
+
+Independent Variable
+"The independent variable would be the height of the inclined plane with the values of 20.00 cm., 22.00 cm., 24.00 cm., 26.00 cm., and 28.00 cm. These represent the downsized values of standard dock heights for straight and container trucks, that typically utilize 'inches', with a ratio of 2:1 such that two inches are to one centimeter (Blue Giant Equipment Corporation, 2005). These measurements will be measured utilizing a meter stick (± 0.005 m.)
+Dependent Variable
+"The dependent variable would be the moment of inertia of the sealed oil drum. In obtaining such, the researcher would first record the linear velocity displayed by the Photogate reader to solve for the angular velocity. These will be inputted into the equation for the moment of inertia derived above. Because the research will hold five trials per variation in height, the average value per variation will be graphed and uncertainties will be considered.
+Controlled Variables
+The controlled variables for this investigation would be the oil drum's mass and the inclined plane's surface. For the first variable, the mass of the oil drum will initially be taken prior to the experiment and will remain unchanged. 
+
+V. Materials and Set-Up
+a. Experimental Set-Up
