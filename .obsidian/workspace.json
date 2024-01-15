@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Physics IA.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Physics IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Physics IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA draft.md"
+                "file": "Physics IA.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "Physics IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,11 +293,11 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "Physics IA draft.md",
     "Physics IA.md",
     "assets/Physics IA/image-20240115183224652.png",
     "assets/Physics IA/image-20240115182726125.png",
     "assets/Physics IA",
-    "Physics IA draft.md",
     "sl subjects/Physics.md",
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
