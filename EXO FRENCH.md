@@ -7,8 +7,87 @@ Created: 2024-01-16
 
 Trouvez à qui ou à quoi les mots soulignés correspondent. Utilisez les mots du texte pour trouver la bonne réponse.
 
-1. il le reconnaît (introduction)
+1. il le reconnaît (introduction) : La situation pour sa famille non plus d’ailleurs
 
-2. qui l’a épaulé (introduction)
+2. qui l’a épaulé (introduction) : thérapeute
 
-3. les ados dont les parents avaient divorcé (paragraphe 2)
+3. les ados dont les parents avaient divorcé (paragraphe 2) : les parents
+
+Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre réponse en utilisant les mots du texte. Les deux parties de la réponse sont nécessaires pour acquérir le point.
+
+4. Hugo était convaincu que ses parents lui reprochaient quelque chose.
+
+|   |
+|---|
+|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+
+[1 point]
+
+5. Hugo se forçait à parler à ses parents pendant le dîner.
+
+|   |
+|---|
+|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+
+[1 point]
+
+6. Le silence d’Hugo encourageait d’autant plus ses parents à lui poser des questions.
+
+|   |
+|---|
+|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+
+[1 point]
+
+Répondez à la question ci-dessous.
+
+7. Quelle expression du paragraphe 1 suggère qu’Hugo était très en colère?
+
+[1 point]
+
+Donnez la signification des mots suivants dans le texte en les reliant à une phrase qui a le même sens.
+
+8. épaulé (introduction)
+
+9. tiraillée (paragraphe 2)
+
+10. hurlant (paragraphe 2)
+
+11. entente (paragraphe 3)
+
+- **A** : diagnostiqué
+- **B** : accord
+- **C** : diminuée
+- **D** : partagée
+- **E** : reconnaissance
+- **F** : soutenu
+- **G** : criant
+- **H** : courant
+
+[4 points]
+
+Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots approprié.
+
+12. Pour bien s’entendre avec ses parents, on…
+
+13. Quand il a commencé sa thérapie, Hugo…
+
+14. Les parents d’Hugo…
+
+- **A** : doit dire le plus de choses possible.
+- **B** : refusait de partager des choses intimes avec ses parents.
+- **C** : le pressaient de questions.
+- **D** : n’est pas obligé de tout se raconter.
+- **E** : attendaient qu’il soit prêt à partager des choses.
+- **F** : a eu du mal à trouver quoi dire à ses parents.
+
+[3 points]
+
+Donnez la bonne réponse.
+
+15. Le dernier paragraphe suggère que…
+
+- **A** : les problèmes de famille sont réglés une bonne fois pour toute.
+- **B** : il y a encore des progrès à faire.
+- **C** : Hugo continue d’en vouloir à ses parents.
+- **D** : les sorties en famille sont la solution.
