@@ -36,17 +36,17 @@ Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre répon
 Répondez à la question ci-dessous.
 
 7. Quelle expression du paragraphe 1 suggère qu’Hugo était très en colère?
-
+m’en aller en claquant la porte.
 
 Donnez la signification des mots suivants dans le texte en les reliant à une phrase qui a le même sens.
 
-8. épaulé (introduction)
+8. épaulé (introduction) = F
 
-9. tiraillée (paragraphe 2)
+9. tiraillée (paragraphe 2) = H
 
-10. hurlant (paragraphe 2)
+10. hurlant (paragraphe 2) = G
 
-11. entente (paragraphe 3)
+11. entente (paragraphe 3) = B
 
 - **A** : diagnostiqué
 - **B** : accord
@@ -57,15 +57,13 @@ Donnez la signification des mots suivants dans le texte en les reliant à une ph
 - **G** : criant
 - **H** : courant
 
-[4 points]
-
 Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots approprié.
 
-12. Pour bien s’entendre avec ses parents, on…
+12. Pour bien s’entendre avec ses parents, on… A
 
-13. Quand il a commencé sa thérapie, Hugo…
+13. Quand il a commencé sa thérapie, Hugo… F
 
-14. Les parents d’Hugo…
+14. Les parents d’Hugo… E
 
 - **A** : doit dire le plus de choses possible.
 - **B** : refusait de partager des choses intimes avec ses parents.
@@ -74,11 +72,10 @@ Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots appropri�
 - **E** : attendaient qu’il soit prêt à partager des choses.
 - **F** : a eu du mal à trouver quoi dire à ses parents.
 
-[3 points]
 
 Donnez la bonne réponse.
 
-15. Le dernier paragraphe suggère que…
+15. Le dernier paragraphe suggère que… B
 
 - **A** : les problèmes de famille sont réglés une bonne fois pour toute.
 - **B** : il y a encore des progrès à faire.
