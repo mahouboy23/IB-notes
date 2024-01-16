@@ -204,6 +204,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - `username`: Unique identifier
     - `password`: Encrypted password
     - `role`: Role of the user (teacher, coordinator, student)
+    - `Level`: Role of the user (teacher, coordinator, student)
 
 ### 2. **Classes Table:**
 
