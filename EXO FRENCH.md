@@ -93,11 +93,11 @@ Donnez la bonne réponse.
 
 Complétez le texte avec les mots qui manquent.
 
-2. Madeleine Klein qualifie le monde actuel de ........................ .
+2. Madeleine Klein qualifie le monde actuel de bazar .
 
-3. D’après Aude Kleiber, le changement climatique menace la paix car il aura pour conséquences des populations ........................ et des ........................ .
+3. D’après Aude Kleiber, le changement climatique menace la paix car il aura pour conséquences des populations déplacées et des famines, des épidémies.
 
-4. D’après Germain Flammang, la source de beaucoup de conflits est la ........................ envers d’autres personnes.
+4. D’après Germain Flammang, la source de beaucoup de conflits est la haine envers d’autres personnes.
 
 
 Pour chaque affirmation, choisissez **une** option. 
