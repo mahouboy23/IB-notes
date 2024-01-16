@@ -81,3 +81,50 @@ Donnez la bonne réponse.
 - **B** : il y a encore des progrès à faire.
 - **C** : Hugo continue d’en vouloir à ses parents.
 - **D** : les sorties en famille sont la solution.
+
+
+# AUDIO
+
+1. D’après l’introduction du journaliste, citez **trois** revendications des manifestants.
+
+- Dépensez moins sur le budget militaire et plus sur l'education et la sante
+- Arrêter l'utilisation des bombe a haute destruction et les armes chimique
+- Diminuer les messages de haine dans les reseaux sociaux
+
+Complétez le texte avec les mots qui manquent.
+
+2. Madeleine Klein qualifie le monde actuel de ........................ .
+
+3. D’après Aude Kleiber, le changement climatique menace la paix car il aura pour conséquences des populations ........................ et des ........................ .
+
+4. D’après Germain Flammang, la source de beaucoup de conflits est la ........................ envers d’autres personnes.
+
+
+Pour chaque affirmation, choisissez **une** option. 
+
+5. Cette personne manifeste pour la génération à venir.
+
+- **A** : Madeleine Klein
+- **B** : Aude Kleiber
+- **C** : Germain Flammang
+
+
+6. Cette personne souhaite que l’information qui circule soit mieux contrôlée.
+
+- **A** : Madeleine Klein
+- **B** : Aude Kleiber
+- **C** : Germain Flammang
+
+
+7. Cette personne estime que la paix est menacée lorsqu’on ne prend pas assez soin des autres.
+
+- **A** : Madeleine Klein
+- **B** : Aude Kleiber
+- **C** : Germain Flammang
+
+
+8. Cette personne pense qu’il faut dépenser moins pour l’armée.
+
+- **A** : Madeleine Klein
+- **B** : Aude Kleiber
+- **C** : Germain Flammang
