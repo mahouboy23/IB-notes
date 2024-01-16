@@ -64,7 +64,13 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Tabs or options for different grading formats.
     - Download button for generating PDF report.
 
-### 6. **Coordinator/Moderator Dashboard:**
+### 5. **Grade report:**
+
+- **Functionality:**
+
+- **Structure:**
+
+### 7. **Coordinator/Moderator Dashboard:**
 
 - **Functionality:**
     - Access to all data.
@@ -254,8 +260,6 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 - **Secure Password Storage:**
     - Use hashing and salting techniques to store passwords securely.
-- **Encryption for Sensitive Data:**
-    - Encrypt sensitive information where needed to enhance security.
 - **Normalization:**
     - Normalize the database to minimize redundancy and improve efficiency.
 
@@ -265,13 +269,6 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Create, Read, Update, and Delete operations for each table.
 - **Queries for Calculations:**
     - Write queries to calculate averages, retrieve best/worst grades, and format grades into different systems.
-
-### Backup and Recovery:
-
-- **Regular Backups:**
-    - Implement a backup strategy to prevent data loss.
-- **Recovery Plan:**
-    - Have a plan in place for data recovery in case of failures or corruption.
 
 ### Guide/Steps for Building:
 
