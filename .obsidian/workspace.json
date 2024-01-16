@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web app.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,11 +292,11 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "web app.md",
+    "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
-    "web app.md",
-    "Computer science exploration.md",
     "Les listes chaînées.md",
     "Structure de données abstraites.md",
     "TOK Essay draft.md",
