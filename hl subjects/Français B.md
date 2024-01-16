@@ -125,3 +125,5 @@ Cette section se penche sur le conflit souvent présent entre les générations 
 Nous abordons également la manière dont ces tensions peuvent influencer la construction de l'identité individuelle, car les individus naviguent entre la préservation des traditions familiales et l'adoption de nouvelles normes et valeurs de la société contemporaine. Cette dualité crée souvent un sentiment de déséquilibre identitaire, où l'individu jongle entre l'héritage familial et les influences extérieures, cherchant à concilier ces deux aspects pour forger sa propre identité.
 
 Cette exploration met en lumière le défi complexe de l'identité lorsque des conflits de valeurs surgissent entre les générations au sein de la famille. Elle souligne également l'importance de trouver un équilibre entre tradition et modernité pour une construction identitaire plus cohérente et épanouissante.
+
+[[]]
