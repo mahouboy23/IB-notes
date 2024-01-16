@@ -130,7 +130,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Routes handling GET, POST, DELETE operations for classes.
     - Controller functions for database interactions (fetching, updating, deleting classes).
 
-### 3. **Teacher Interface:**
+### 3. **Grade Input page:**
 
 - **Functionality:**
     - Inputting grades for students.
