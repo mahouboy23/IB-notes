@@ -19,15 +19,13 @@ Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre répon
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
-
-[1 point]
+|**Vrai**/Faux ________________________<br><br>Justification : J’avais toujours l’impression que mes parents m’en voulaient, qu’ils ne me faisaient pas confiance. |
 
 5. Hugo se forçait à parler à ses parents pendant le dîner.
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+|Vrai/Faux ________________________<br><br>Justification :   |
 
 [1 point]
 
