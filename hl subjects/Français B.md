@@ -126,4 +126,4 @@ Nous abordons également la manière dont ces tensions peuvent influencer la con
 
 Cette exploration met en lumière le défi complexe de l'identité lorsque des conflits de valeurs surgissent entre les générations au sein de la famille. Elle souligne également l'importance de trouver un équilibre entre tradition et modernité pour une construction identitaire plus cohérente et épanouissante.
 
-[[]]
+[[EXO FRENCH]] 

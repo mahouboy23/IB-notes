@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "EXO FRENCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "EXO FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "EXO FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Français B.md"
+                "file": "EXO FRENCH.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Français B.md",
+                "file": "EXO FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,6 +291,8 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "EXO FRENCH.md",
     "IB overview.md",
     "Microéconomie.md",
     "TOK Essay draft.md",
@@ -321,8 +323,6 @@
     "Mesure d'incertitude.md",
     "Production d'energie.md",
     "Comportement des ondes.md",
-    "Oscillation et Onde.md",
-    "Mécanique.md",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées/image-20240111160817534.png",
