@@ -104,7 +104,7 @@ Pour chaque affirmation, choisissez **une** option. 
 
 5. Cette personne manifeste pour la génération à venir.
 
-- **A** : Madeleine Klein
+- **A** : **Madeleine Klein**
 - **B** : Aude Kleiber
 - **C** : Germain Flammang
 
@@ -113,18 +113,18 @@ Pour chaque affirmation, choisissez **une** option. 
 
 - **A** : Madeleine Klein
 - **B** : Aude Kleiber
-- **C** : Germain Flammang
+- **C** : **Germain Flammang**
 
 
 7. Cette personne estime que la paix est menacée lorsqu’on ne prend pas assez soin des autres.
 
 - **A** : Madeleine Klein
-- **B** : Aude Kleiber
+- **B** : **Aude Kleiber**
 - **C** : Germain Flammang
 
 
 8. Cette personne pense qu’il faut dépenser moins pour l’armée.
 
-- **A** : Madeleine Klein
+- **A** : **Madeleine Klein**
 - **B** : Aude Kleiber
 - **C** : Germain Flammang
