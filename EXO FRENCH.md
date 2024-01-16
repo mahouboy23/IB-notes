@@ -25,23 +25,18 @@ Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre répon
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification :   |
-
-[1 point]
+|Vrai/**Faux **________________________<br><br>Justification :   C’est à peine si je leur adressais la parole pendant le dîner. |
 
 6. Le silence d’Hugo encourageait d’autant plus ses parents à lui poser des questions.
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
-
-[1 point]
+|**Vrai**/Faux ________________________<br><br>Justification : Moins je parlais et plus ils me mettaient la pression pour que je leur raconte ma journée. |
 
 Répondez à la question ci-dessous.
 
 7. Quelle expression du paragraphe 1 suggère qu’Hugo était très en colère?
 
-[1 point]
 
 Donnez la signification des mots suivants dans le texte en les reliant à une phrase qui a le même sens.
 
