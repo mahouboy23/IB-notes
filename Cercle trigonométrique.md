@@ -6,7 +6,7 @@ Created: 2023-10-02
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
-<!--SR:!2023-12-09,33,250-->
+<!--SR:!2024-04-08,82,250-->
 
 ---
 ### Angles remarquables
