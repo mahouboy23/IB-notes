@@ -13,3 +13,4 @@ Created: 2023-11-23
 3. [[Construction d’algorithmes utilisant des files]] 
 4. [[Utilisation des tableaux pour les piles et les files]] 
 5. [[Les listes chaînées]] 
+6. [[Les arbres]] 
