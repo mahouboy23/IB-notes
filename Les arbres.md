@@ -14,3 +14,7 @@ Created: 2024-01-18
 **Racine** :: Le nœud situé au sommet de l'arbre est appelé la racine.
 
 Parcourir un arbre signifie visiter chaque nœud dans un ordre précis. Il existe trois façons d'implémenter le parcours d'un arbre :: infixe, préfixe et suffixe.
+
+**Préfixe** : Traiter le nœud, visiter le nœud gauche, visiter le nœud droit. 
+Infixe : Visite du nœud gauche, traitement du nœud, visite du nœud droit. 
+**Suffixe** : Visite du nœud gauche, visite du nœud droit, traitement du nœud.
