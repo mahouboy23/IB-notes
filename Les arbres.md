@@ -12,3 +12,5 @@ Created: 2024-01-18
 **Parent** :: Tous les nœuds, à l'exception de la racine, qui n'a pas de nœud parent, ont exactement une arête ascendante vers leur nœud parent. 
 **Chemin** :: Supposons que l'on veuille se déplacer, de nœud en nœud, le long des arêtes qui les relient. La séquence de nœuds parcourus est appelée chemin. 
 **Racine** :: Le nœud situé au sommet de l'arbre est appelé la racine.
+
+Parcourir un arbre signifie visiter chaque nœud dans un ordre précis. Il existe trois façons d'implémenter le parcours d'un arbre :: infixe, préfixe et suffixe.
