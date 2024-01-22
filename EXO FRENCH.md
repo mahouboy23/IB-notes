@@ -42,7 +42,7 @@ Donnez la signification des mots suivants dans le texte en les reliant à une ph
 
 8. épaulé (introduction) = F
 
-9. tiraillée (paragraphe 2) = H
+9. tiraillée (paragraphe 2) = H **D**
 
 10. hurlant (paragraphe 2) = G
 
@@ -59,7 +59,7 @@ Donnez la signification des mots suivants dans le texte en les reliant à une ph
 
 Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots approprié.
 
-12. Pour bien s’entendre avec ses parents, on… A
+12. Pour bien s’entendre avec ses parents, on… A **D**
 
 13. Quand il a commencé sa thérapie, Hugo… F
 
