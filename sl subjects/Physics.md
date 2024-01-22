@@ -13,7 +13,7 @@ tags : mod Physique
 
 ### **Theme 8** : [[Production d'energie]] 
 
-### **Option** : 
+### **Option** : [[Imagerie]] 
 #### recherche
 Centrales thermiques  (combustion fossiles)
 centrales hydroélectriques

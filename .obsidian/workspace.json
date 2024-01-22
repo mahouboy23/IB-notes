@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Lentilles convergentes et divergentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Lentilles convergentes et divergentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Lentilles convergentes et divergentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture des ordinateurs.md"
+                "file": "Lentilles convergentes et divergentes.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Lentilles convergentes et divergentes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,12 @@
   },
   "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "Le CPU.md",
+    "Imagerie.md",
+    "Lentilles convergentes et divergentes.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Architecture des ordinateurs.md",
+    "Le CPU.md",
     "Le modèle de traitement des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
@@ -316,10 +320,6 @@
     "TD- Pensée informatique résolution de problèmes et programmation.md",
     "Definition de L'abstraction.md",
     "Raisonnement par abstraction.md",
-    "Raisonnement simultané.md",
-    "Raisonnement par anticipation.md",
-    "Pensée logique.md",
-    "Raisonnement procédural.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
