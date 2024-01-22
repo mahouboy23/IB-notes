@@ -7,11 +7,11 @@ Created: 2024-01-16
 
 Trouvez à qui ou à quoi les mots soulignés correspondent. Utilisez les mots du texte pour trouver la bonne réponse.
 
-1. il le reconnaît (introduction) : La situation pour sa famille non plus d’ailleurs
+1. il le reconnaît (introduction) : les trois dernières années n’ont pas été simples
 
-2. qui l’a épaulé (introduction) : thérapeute
+2. qui l’a épaulé (introduction) : Hugo
 
-3. les ados dont les parents avaient divorcé (paragraphe 2) : les parents
+3. les ados dont les parents avaient divorcé (paragraphe 2) : Les ados
 
 Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre réponse en utilisant les mots du texte. Les deux parties de la réponse sont nécessaires pour acquérir le point.
 

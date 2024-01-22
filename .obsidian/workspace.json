@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "EXO FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "EXO FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "EXO FRENCH.md"
               }
             }
           },
@@ -242,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "EXO FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,10 +291,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "62b80d815336555f",
   "lastOpenFiles": [
     "Experiment.md",
     "common core/EE.md",
+    "EXO FRENCH.md",
     "EE NEW.md",
     "Possible structure.md",
     "Learn ee.md",
@@ -319,7 +319,6 @@
     "Identifier le raisonnement récursif.md",
     "la pensee recursive.md",
     "Caractéristiques essentielles d'un language informatique.md",
-    "Opérations fondamentales et opérations composées.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
