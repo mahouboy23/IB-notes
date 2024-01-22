@@ -43,7 +43,6 @@ The problem structure would be:
 
 ### **Question de recherche mise à jour:** Dans quelle mesure l'optimisation par essaim de particules est-elle efficace par rapport à un algorithme génétique pour optimiser les hyperparamètres d'un réseau neuronal convolutif pour la détection de défauts dans des produits industriels?
 
-
 ## [[Learn ee]] 
 
 ## [[Possible structure]] 

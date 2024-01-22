@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lentilles convergentes et divergentes.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lentilles convergentes et divergentes.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lentilles convergentes et divergentes.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lentilles convergentes et divergentes.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lentilles convergentes et divergentes.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,10 +294,15 @@
   },
   "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "Imagerie.md",
-    "Lentilles convergentes et divergentes.md",
-    "sl subjects/Physics.md",
+    "Experiment.md",
+    "common core/EE.md",
+    "EE NEW.md",
+    "Possible structure.md",
+    "Learn ee.md",
     "IB overview.md",
+    "Lentilles convergentes et divergentes.md",
+    "Imagerie.md",
+    "sl subjects/Physics.md",
     "Architecture des ordinateurs.md",
     "Le CPU.md",
     "Le modèle de traitement des ordinateurs.md",
@@ -315,11 +320,6 @@
     "la pensee recursive.md",
     "Caractéristiques essentielles d'un language informatique.md",
     "Opérations fondamentales et opérations composées.md",
-    "Operations fondamentales d'un ordinateur.md",
-    "L'abstraction et la programmation.md",
-    "TD- Pensée informatique résolution de problèmes et programmation.md",
-    "Definition de L'abstraction.md",
-    "Raisonnement par abstraction.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
