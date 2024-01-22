@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo Français 2.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiment.md",
+                "file": "Exo Français 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,16 +292,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62b80d815336555f",
+  "active": "07d658ea13ff044f",
   "lastOpenFiles": [
     "EXO FRENCH.md",
-    "Exo Français 2.md",
+    "hl subjects/Français B.md",
+    "IB overview.md",
     "Experiment.md",
     "common core/EE.md",
+    "Exo Français 2.md",
     "EE NEW.md",
     "Possible structure.md",
     "Learn ee.md",
-    "IB overview.md",
     "Lentilles convergentes et divergentes.md",
     "Imagerie.md",
     "sl subjects/Physics.md",
@@ -318,7 +320,6 @@
     "Les files.md",
     "Les piles.md",
     "Identifier le raisonnement récursif.md",
-    "la pensee recursive.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
