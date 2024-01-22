@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXO FRENCH.md",
+                "file": "Exo Français 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXO FRENCH.md",
+                "file": "Exo Français 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXO FRENCH.md",
+                "file": "Exo Français 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXO FRENCH.md"
+                "file": "Exo Français 2.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EXO FRENCH.md",
+                "file": "Exo Français 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,9 +293,10 @@
   },
   "active": "62b80d815336555f",
   "lastOpenFiles": [
+    "EXO FRENCH.md",
+    "Exo Français 2.md",
     "Experiment.md",
     "common core/EE.md",
-    "EXO FRENCH.md",
     "EE NEW.md",
     "Possible structure.md",
     "Learn ee.md",
@@ -318,7 +319,6 @@
     "Les piles.md",
     "Identifier le raisonnement récursif.md",
     "la pensee recursive.md",
-    "Caractéristiques essentielles d'un language informatique.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",

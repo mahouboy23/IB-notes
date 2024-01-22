@@ -128,3 +128,5 @@ Pour chaque affirmation, choisissez **une** option. 
 - **A** : **Madeleine Klein**
 - **B** : Aude Kleiber
 - **C** : Germain Flammang
+
+# [[Exo Français 2]] 
