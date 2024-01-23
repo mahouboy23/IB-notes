@@ -30,7 +30,7 @@ Répondez à la question ci-dessous.
 # Partie Audio
 Réponses aux questions :
 
-1. Donnez les quatre affirmations qui sont correctes. B : Le professeur Lebrun enseigne à des étudiants de doctorat. E : Son université collabore avec des universités américaines et asiatiques depuis cinq ans. G : Il recommande aux étudiants de se renseigner auprès du secrétariat des universités étrangères. [4 points]
+1. Donnez les quatre affirmations qui sont correctes. B **A** : Le professeur Lebrun enseigne à des étudiants de doctorat. E : Son université collabore avec des universités américaines et asiatiques depuis cinq ans. G : Il recommande aux étudiants de se renseigner auprès du secrétariat des universités étrangères. [4 points]
 
 Complétez les phrases avec les mots qui manquent.
 
