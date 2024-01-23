@@ -17,11 +17,11 @@ Réponses aux questions :
 
 Complétez le texte avec les mots qui manquent.
 
-5. Par exemple
-6. Par contre
-7. Malgré
-8. En outre
-9. Alors que [5 points]
+5. Par exemple **Par contre**
+6. Par contre **Grace a**
+7. Malgré **De plus**
+8. En outre **Alors que**
+9. Alors que **. Par exemple**[5 points]
 
 Répondez à la question ci-dessous.
 
