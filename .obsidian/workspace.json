@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imagerie.md",
+                "file": "Economie Mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagerie.md",
+                "file": "Economie Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagerie.md",
+                "file": "Economie Mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagerie.md"
+                "file": "Economie Mondiale.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Imagerie.md",
+                "file": "Economie Mondiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,14 @@
   },
   "active": "07d658ea13ff044f",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
+    "Subventions.md",
+    "Economie Mondiale.md",
+    "Barrières administratives.md",
+    "Quotas.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "Imagerie.md",
+    "sl subjects/Physics.md",
     "Exo Français 2.md",
     "EXO FRENCH.md",
     "hl subjects/Français B.md",
@@ -305,7 +311,6 @@
     "Possible structure.md",
     "Learn ee.md",
     "Lentilles convergentes et divergentes.md",
-    "Imagerie.md",
     "Architecture des ordinateurs.md",
     "Le CPU.md",
     "Le modèle de traitement des ordinateurs.md",
@@ -315,11 +320,6 @@
     "Les arbres.md",
     "Structure de données abstraites.md",
     "Les listes chaînées.md",
-    "Utilisation des tableaux pour les piles et les files.md",
-    "Construction d’algorithmes utilisant des files.md",
-    "Les files.md",
-    "Les piles.md",
-    "Identifier le raisonnement récursif.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
