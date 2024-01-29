@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Imagerie.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les arbres.md",
+                "file": "Ondes static.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Ondes static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Ondes static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie Mondiale.md"
+                "file": "Ondes static.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Ondes static.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,16 +292,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Subventions.md",
+    "Oscillation et Onde.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Physics IA.md",
+    "Physics IA draft.md",
+    "Les arbres.md",
+    "Imagerie.md",
+    "Lentilles convergentes et divergentes.md",
     "Economie Mondiale.md",
+    "Subventions.md",
     "Barrières administratives.md",
     "Quotas.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "Imagerie.md",
-    "sl subjects/Physics.md",
     "Exo Français 2.md",
     "EXO FRENCH.md",
     "hl subjects/Français B.md",
@@ -310,16 +315,11 @@
     "EE NEW.md",
     "Possible structure.md",
     "Learn ee.md",
-    "Lentilles convergentes et divergentes.md",
     "Architecture des ordinateurs.md",
     "Le CPU.md",
     "Le modèle de traitement des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "Qu'est ce que la recurisivite.md",
-    "Les arbres.md",
-    "Structure de données abstraites.md",
-    "Les listes chaînées.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
