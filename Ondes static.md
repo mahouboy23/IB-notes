@@ -21,5 +21,5 @@ Pour certaine fréquence la corde a l'aspect the fuseaux equi-distant :: On dit 
 | **Amplitude** | constante = A | Plusieurs amplitudes<br>- nœud amplitude = $0$<br>- entre les nœuds $0$ < amplitude <= $2A$ |
 | **Energie** | Transport de l'énergie | Pas de transport d'énergie *L'énergie est confinée* |
 | **Difference de Phase** | Compris entre $0$ et $2\pi$ | Compris entre $0$ et $2\pi$, Tous les points d'un fuseau ont la meme phase les points de fuseaux consecutifs ont un dephasage de $\pi$ |
-
-
+| **Frequence** | Tout les points aussi avec la meme fréquence | Tout les points aussi avec la meme fréquence. Mais tout les fréquence ne sont pas possible avec une onde stationnaire |
+## Les modes propres de vibration
