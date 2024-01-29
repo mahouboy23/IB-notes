@@ -47,4 +47,6 @@ Ici on observera que les harmoniques impaires
 ![[image-20240129115154496.png]]
 
 
-
+$$ \lambda_n=\frac{4l}{n}$$
+$$ T_n=\frac{4l}{nv}$$
+$$ f_n=\frac{nv}{4L}$$
