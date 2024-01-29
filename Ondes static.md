@@ -37,6 +37,8 @@ $$ T_n=\frac{2l}{nv}$$
 $$ f_n=\frac{nv}{2L}$$
 ### Tube ouvert a ses 2 extrémités
 ?
-![[image-20240129114503808.png]]
+![[image-20240129114646404.png]]
+
+
 
 
