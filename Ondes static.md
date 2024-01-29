@@ -27,3 +27,8 @@ Les conditions aux limites imposes les modes propres de vibration
 exemple : Une extrémités sera un nœud, Une extrémités libre sera un ventre.
 
 ### Corde tendu a ses deux extrémités
+![[image-20240129113843565.png]]
+
+$$ \lambda_n=\frac{2l}{n}$$
+$$ T_n=\frac{2l}{nv}$$
+$$ f_n=\frac{nv}{2L}$$
