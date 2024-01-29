@@ -13,6 +13,8 @@ Pour certaine fréquence la corde a l'aspect the fuseaux equi-distant :: On dit 
 **Onde stationnaire** :: Une onde stationnaire résulte de la superposition de deux ondes progressive de meme amplitude et de meme fréquence se déplaçant  en sens inverse. (On a une onde incident et son onde réfléchi)
 ### Interprétation
 
+
+
 ### Difference entre Onde stationnaire et onde progressive
 ?
 
@@ -35,10 +37,14 @@ Formulas :
 $$ \lambda_n=\frac{2l}{n}$$
 $$ T_n=\frac{2l}{nv}$$
 $$ f_n=\frac{nv}{2L}$$
-### Tube ouvert a ses 2 extrémités
+### Tube ouvert a 2 de ses extrémités
 ?
 ![[image-20240129114646404.png]]
 
+### Tube fermé a 1 de ses extrémités
+?
+Ici on observera que les harmoniques impaires 
+![[image-20240129115154496.png]]
 
 
 
