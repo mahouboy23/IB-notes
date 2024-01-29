@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "sl subjects/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Ondes static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Ondes static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscillation et Onde.md"
+                "file": "Ondes static.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             }
           },
           {
-            "id": "46050e6d566a8d7b",
+            "id": "cb14390ee73a1e98",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oscillation et Onde.md",
+                "file": "Ondes static.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,24 +284,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Mouvement harmonique simple.md",
-    "Oscillation et Onde.md",
+    "common core/EE.md",
     "sl subjects/Physics.md",
+    "IB overview.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
+    "Oscillation et Onde.md",
+    "Comportement des ondes.md",
+    "Mouvement harmonique simple.md",
     "Ondes static.md",
     "Imagerie.md",
     "assets/Ondes static/image-20240129102146795.png",
     "assets/Ondes static",
-    "IB overview.md",
     "Physics IA.md",
     "Physics IA draft.md",
     "Les arbres.md",
@@ -315,13 +319,9 @@
     "EXO FRENCH.md",
     "hl subjects/Français B.md",
     "Experiment.md",
-    "common core/EE.md",
     "EE NEW.md",
     "Possible structure.md",
     "Learn ee.md",
-    "Architecture des ordinateurs.md",
-    "Le CPU.md",
-    "Le modèle de traitement des ordinateurs.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
