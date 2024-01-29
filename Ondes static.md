@@ -23,3 +23,7 @@ Pour certaine fréquence la corde a l'aspect the fuseaux equi-distant :: On dit 
 | **Difference de Phase** | Compris entre $0$ et $2\pi$ | Compris entre $0$ et $2\pi$, Tous les points d'un fuseau ont la meme phase les points de fuseaux consecutifs ont un dephasage de $\pi$ |
 | **Frequence** | Tout les points aussi avec la meme fréquence | Tout les points aussi avec la meme fréquence. Mais tout les fréquence ne sont pas possible avec une onde stationnaire |
 ## Les modes propres de vibration
+Les conditions aux limites imposes les modes propres de vibration 
+exemple : Une extrémités sera un nœud, Une extrémités libre sera un ventre.
+
+### Corde tendu a ses deux extrémités

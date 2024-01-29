@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Ondes static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Ondes static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Ondes static.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Ondes static.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "Mécanique.md",
     "sl subjects/Physics.md",
     "Ondes static.md",
     "common core/EE.md",
@@ -321,7 +322,6 @@
     "Experiment.md",
     "EE NEW.md",
     "Possible structure.md",
-    "Learn ee.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
