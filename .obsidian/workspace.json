@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ondes static.md",
+                "file": "Barrières administratives.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ondes static.md",
+                "file": "Barrières administratives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ondes static.md",
+                "file": "Barrières administratives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ondes static.md"
+                "file": "Barrières administratives.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ondes static.md",
+                "file": "Barrières administratives.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,6 +294,18 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "Economie Mondiale.md",
+    "Quotas.md",
+    "sl subjects/Economie.md",
+    "Microéconomie.md",
+    "Définition élasticités offre.md",
+    "Taxes.md",
+    "Implication PED pour les politiques gouvernementales.md",
+    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
+    "Definition Elasticite.md",
+    "introduction.md",
+    "IB overview.md",
+    "Ondes static.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
@@ -301,9 +313,7 @@
     "assets/Ondes static/image-20240129113843565.png",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "Ondes static.md",
     "common core/EE.md",
-    "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "Oscillation et Onde.md",
@@ -316,16 +326,7 @@
     "Physics IA draft.md",
     "Les arbres.md",
     "Lentilles convergentes et divergentes.md",
-    "Economie Mondiale.md",
     "Subventions.md",
-    "Barrières administratives.md",
-    "Quotas.md",
-    "sl subjects/Economie.md",
-    "Exo Français 2.md",
-    "EXO FRENCH.md",
-    "hl subjects/Français B.md",
-    "Experiment.md",
-    "EE NEW.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
@@ -334,7 +335,6 @@
     "assets/Physics IA",
     "assets/Les listes chaînées/image-20240111161153202.png",
     "assets/Les listes chaînées/image-20240111161051443.png",
-    "assets/Les listes chaînées/image-20240111160817534.png",
     "assets/Les listes chaînées",
     "assets/Subventions",
     "assets/Quotas",
