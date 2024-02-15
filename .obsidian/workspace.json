@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barrières administratives.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Barrières administratives.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,6 +294,8 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Barrières administratives.md",
     "Economie Mondiale.md",
     "Quotas.md",
     "sl subjects/Economie.md",
@@ -304,7 +306,6 @@
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "Definition Elasticite.md",
     "introduction.md",
-    "IB overview.md",
     "Ondes static.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
@@ -326,7 +327,6 @@
     "Physics IA draft.md",
     "Les arbres.md",
     "Lentilles convergentes et divergentes.md",
-    "Subventions.md",
     "University shortlist.loom",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
