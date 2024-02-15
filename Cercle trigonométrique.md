@@ -58,7 +58,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-27,3,170-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
-<!--SR:!2023-11-28,10,288-->
+<!--SR:!2024-03-19,33,308-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2023-12-21,31,284-->
 - $\tan(x+k\pi)=$::$\tan(x)$
@@ -67,7 +67,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-01-11,66,250-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
-<!--SR:!2023-12-02,12,288-->
+<!--SR:!2024-02-22,7,268-->
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2024-01-16,71,270-->
 ## Equations trigonométriques fondamentales
