@@ -12,7 +12,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-12-26,35,304-->
+<!--SR:!2024-05-25,100,304-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-27,9,288-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
@@ -39,13 +39,13 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\pi-\theta)$=::$\sin\theta$
 <!--SR:!2023-11-25,1,188-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-27,12,246-->
+<!--SR:!2024-02-22,7,226-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 <!--SR:!2023-11-24,4,184-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-12-02,12,244-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-11-26,2,186-->
+<!--SR:!2024-02-19,4,186-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
@@ -79,4 +79,4 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2023-11-29,14,264-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
-<!--SR:!2023-12-19,27,286-->
+<!--SR:!2024-03-02,16,266-->
