@@ -111,7 +111,7 @@ When the commandants wife, Madame, arrived from Paris, she was conveyed by all m
 It is explained in the prologue that Toundi dies so the reader already knows. The narrative is therefore an unraveling, meant to show exactly how this once carefree individual ended up on his deathbed, in a country not his own, and with a sobering story that deserves to be told as a cautionary tale against the abuse of power and the effects of racism.
 
 ### [[Compare and contrast]] 
-
+  
 [[eng work 1]] 
 
 [[High level Essay]] 
