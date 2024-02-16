@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/English and Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/English and Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/English and Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparative essay.md"
+                "file": "sl subjects/English and Literature.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comparative essay.md",
+                "file": "sl subjects/English and Literature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,11 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "Compare and contrast.md",
     "sl subjects/English and Literature.md",
+    "Comparative essay.md",
+    "Peace act.md",
+    "point.md",
     "Key features of poems.md",
     "Caesura.md",
     "Songs of Sorrow by Kofi Awonoor.md",
@@ -321,10 +325,6 @@
     "assets/Ondes static/image-20240129114354681.png",
     "assets/Ondes static/image-20240129113843565.png",
     "Mécanique.md",
-    "sl subjects/Physics.md",
-    "common core/EE.md",
-    "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
     "assets/Ondes static/image-20240129102146795.png",
     "assets/Ondes static",
     "University shortlist.loom",
