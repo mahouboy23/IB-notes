@@ -9,8 +9,8 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 2. **Rags to Riches** : is a plot structure that focuses on the improvement of the main character from a lower or deprived state of being to or more enlightened or wealthy position in society
 3. **The Quest** : It involves a call to a journey with a purpose with some thrilling ordeals and a triumph end.  
 4. **Voyage and Return** : This plot is different from the quest because the main characters and that in a strange place and must find a way to get home.
-5. **The Comedy** :  The comedy is when a classical term when a classical term for works whose purpose is to make us laugh about the nature of life  
-6. **The Tragedy** : The tragedy is a plot an other plot structure with a classical term to describe words that show how life can be sad and apparently unjust. 
+5. **The Comedy** :  The comedy is when a classical term for works whose purpose is to make us laugh about the nature of life  
+6. **The Tragedy** : The tragedy is an other plot structure with a classical term to describe words that show how life can be sad and apparently unjust. 
 7. **The Rebirth** : The rebirth is a kind of Story where the main character goes trough a change  and discovers a truth by which to leave a more fruitful life
 
 #### Simpler definition
