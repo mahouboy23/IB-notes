@@ -233,6 +233,14 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - `minimum_value`: Minimum grade value for the subject
     - `maximum_value`: Maximum grade value for the subject
 
+### 4. **login Table:**
+
+- **Fields:**
+    - `boundary_id`: Primary key
+    - `teacher_id`: Foreign key linking to the Users table for the teacher
+    - `subject`: Subject for which the boundaries are set
+    - `minimum_value`: Minimum grade value for the subject
+    - `maximum_value`: Maximum grade value for the subject
 ### Database Relationships:
 
 - **Users ↔ Classes:**
