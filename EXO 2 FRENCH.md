@@ -3,6 +3,7 @@ tags : mod Francais
 ---
 Created: 2024-02-20
 
+## exo 1
 1. **Réponse : B** - présenter les « écolos » comme une sous-culture.
     
 2. Le terme « écolo » n’est pas perçu de la même façon par tout le monde. Certains le voient avec **mépris**, d’autres avec **admiration**.
@@ -31,7 +32,7 @@ Created: 2024-02-20
     - **E** : certains n’utilisent plus aucun mode de transport.
     - **G** : tous mettent l’écologie au cœur de leur vie quotidienne.
 
----
+## exo 2
 
 -   Les quatre affirmations correctes sont :
     
@@ -53,3 +54,26 @@ Created: 2024-02-20
 - L’autre nom de l’endorphine est **l’hormone du bonheur**.
     
 - Une option pour pratiquer le yoga du rire est **au bout du parc de la plage Jacques-Cartier** ou dans **des ateliers dans les entreprises**.
+
+## exo 3
+
+1. Le mot de l'introduction qui signifie « nourriture » est **bonne chère**.
+    
+2. D'après l'introduction, les facteurs qui influent sur une culture sont le **groupe social** et l'**âge** (ou la **région**).
+    
+3. Les objectifs des membres d'une contre-culture sont de **rejeter les comportements socialement acceptés de la culture dominante** et d'**adopter des pratiques montrant leur désaccord et insatisfaction envers la culture dominante**.
+    
+4. Les mots du paragraphe 1 qui signifient « montrer sa désapprobation » sont **montrer son désaccord**.
+    
+5. …dont le but explicite… correspond à **les pratiques des membres d'une contre-culture**.
+    
+6. …il y est socialement accepté… fait référence au **rock'n roll**.
+    
+7. La bonne réponse est :
+    
+    - **A** : Une sous-culture peut aussi être une contre-culture.
+8. Elle en partage souvent les valeurs… fait référence à **une sous-culture**.
+    
+9. … et en ont développé une fierté… se rapporte aux **personnes qui passent leurs vacances en camping**.
+    
+10. La certitude à laquelle la conclusion fait référence est que **nous vivons dans une mosaïque de cultures, de sous-cultures et de contre-cultures qui forment notre identité**.
