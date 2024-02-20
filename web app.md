@@ -4,7 +4,42 @@ tags : mod cs
 Created: 2023-12-14
 
 
-frontend (using React), backend (using Node.js), and a database (MySQL). Here's an outline of the structure of the project:
+### Project Overview
+
+**Name:** IB Grade Management System
+
+**Purpose:** To create a centralized platform for managing grade reports within the International Baccalaureate (IB) program, facilitating easy grade input by teachers, access for students, and comprehensive oversight for coordinators.
+
+### Key Features
+
+1. **Grade Input and Management:** Teachers can input and manage grades for their classes, setting grade boundaries for subjects and individual assessments.
+2. **Coordinator Oversight:** Coordinators have access to all classes and students, capable of moderating and overseeing the entire grading process.
+3. **Student Access:** Students can view their grades, with automatic conversion into various grading systems (French, GPA, English).
+4. **Grade Conversion:** Automatic conversion of raw scores into the IB grading format (scale of 1-7) based on set grade boundaries.
+5. **Reporting:** Generation of grade reports that can be downloaded as PDFs, including calculations of average grades, and showcasing the highest and lowest grades anonymously.
+6. **Class Organization:** Grades are organized by class (11th and 12th grade) and individual students for easy navigation and management.
+
+### Technology Stack
+
+- **Frontend:** React (for building the user interface)
+- **Backend:** Node.js with Express (for server-side logic)
+- **Database:** MySQL (for storing user data, grades, and other relevant information)
+- **Development Tools:** Visual Studio Code (code editor), Postman (API testing), Git (version control)
+
+### Database Design
+
+- **Users Table:** Stores information about users, including teachers, students, and coordinators.
+- **Subjects Table:** Contains a list of subjects offered within the IB program.
+- **Classes Table:** Records details of classes, including grade level and subject.
+- **Grades Table:** Holds grades for each student, subject, and class, including raw scores and converted grades.
+- **GradeBoundaries Table:** Defines grade boundaries for converting raw scores into IB grades.
+
+### User Roles
+
+1. **Teachers:** Can input and manage grades for their classes, set grade boundaries, and view reports for their subjects.
+2. **Students:** Have access to their grade reports and can see their grades in various formats.
+3. **Coordinators:** Have comprehensive access to all classes, grades, and reports for moderation and oversight.
+Here's an outline of the structure of the project:
 
 ### Frontend (React):
 
