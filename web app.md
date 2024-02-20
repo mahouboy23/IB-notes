@@ -187,7 +187,7 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Write tests for each route and controller function.
     - Validate responses, error handling, and database operations.
 
-### Deployment and Scalability:
+### Deployment and Scalability (not to be taken into account for now) :
 
 - **Deployment to Hosting Services:**
     - Deploy the Node.js app to platforms like Heroku, AWS, or Azure.
