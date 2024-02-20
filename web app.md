@@ -235,12 +235,12 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 
 ### 4. **login Table:**
 
-- **Fields:**
-    - `boundary_id`: Primary key
-    - `teacher_id`: Foreign key linking to the Users table for the teacher
-    - `subject`: Subject for which the boundaries are set
-    - `minimum_value`: Minimum grade value for the subject
-    - `maximum_value`: Maximum grade value for the subject
+**Fields:**
+- `login_id`: Primary key, uniquely identifies each login entry.
+- `user_id`: Foreign key linking to the `Users` table, identifies the user.
+- `username`: Unique identifier for login, used by the user to log in.
+- `password_hash`: Encrypted password, stored securely to prevent unauthorized access.
+- `user_type`: Specifies the user's role (teacher, student, admin) within the system.
 ### Database Relationships:
 
 - **Users ↔ Classes:**

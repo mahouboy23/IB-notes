@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web app.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "web app.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,6 +294,7 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "web app.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -308,7 +309,6 @@
     "Key features of poems.md",
     "Caesura.md",
     "Songs of Sorrow by Kofi Awonoor.md",
-    "web app.md",
     "Computer science classwork.md",
     "Barrières administratives.md",
     "Economie Mondiale.md",
