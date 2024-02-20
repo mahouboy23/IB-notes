@@ -64,11 +64,6 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
     - Tabs or options for different grading formats.
     - Download button for generating PDF report.
 
-### 5. **Grade report:**
-
-- **Functionality:**
-
-- **Structure:**
 
 ### 7. **Coordinator/Moderator Dashboard:**
 
