@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "EXO 2 FRENCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "EXO 2 FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "EXO 2 FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/English and Literature.md"
+                "file": "EXO 2 FRENCH.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "EXO 2 FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,15 +294,18 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Compare and contrast.md",
+    "hl subjects/Français B.md",
+    "EXO 2 FRENCH.md",
+    "IB overview.md",
+    "hl subjects/Math AA.md",
     "sl subjects/English and Literature.md",
+    "Compare and contrast.md",
     "Comparative essay.md",
     "Peace act.md",
     "point.md",
     "Key features of poems.md",
     "Caesura.md",
     "Songs of Sorrow by Kofi Awonoor.md",
-    "IB overview.md",
     "Computer science exploration.md",
     "web app.md",
     "hl subjects/Computer science.md",
@@ -317,14 +320,11 @@
     "Implication PED pour les politiques gouvernementales.md",
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "Definition Elasticite.md",
-    "introduction.md",
-    "Ondes static.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
     "assets/Ondes static/image-20240129114354681.png",
     "assets/Ondes static/image-20240129113843565.png",
-    "Mécanique.md",
     "assets/Ondes static/image-20240129102146795.png",
     "assets/Ondes static",
     "University shortlist.loom",
