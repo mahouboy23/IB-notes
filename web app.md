@@ -284,6 +284,6 @@ frontend (using React), backend (using Node.js), and a database (MySQL). Here's 
 5. **Testing:**
     
     - Perform thorough testing of each functionality.
-6. **Deployment:**
+6. **Deployment (not to take into consideration):**
     
     - Host the backend on a server (like Heroku) and the frontend on a hosting service (like Netlify or Vercel).
