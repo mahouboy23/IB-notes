@@ -88,6 +88,19 @@ To create a comprehensive outline for implementing the core functionalities and 
     - Endpoint: `/api/users/:userId`
     - Functionality: Remove a user by `userId`.
 
+
+Ok well for know i want to start and completely finish the login, session management, user part of the website. where there is a login page where you put the login details and which type of users you are then you get into you're session and have access to the "site" for your user type. know I want to further develop everything needed 
+### Database Schema
+
+1. **Users Table** (For storing user information including teachers, students, and coordinators)
+    
+    - `user_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `username` VARCHAR(255) UNIQUE NOT NULL
+    - `password` VARCHAR(255) NOT NULL
+    - `role` ENUM('teacher', 'student', 'coordinator') NOT NULL
+    - `full_name` VARCHAR(255) NOT NULL
+### Core Functionalities & CRUD Operations
+
 #### 3. Authentication and Authorization
 
 - **Login (CREATE Session)**
@@ -95,7 +108,6 @@ To create a comprehensive outline for implementing the core functionalities and 
     - Endpoint: `/api/login`
     - Request Body: `{ "username": STRING, "password": STRING }`
     - Functionality: Validate user credentials against the `Users` table, and return an authentication token.
-
 ### Implementation Details
 
 - Use bcrypt for hashing passwords before storing them in the database.
