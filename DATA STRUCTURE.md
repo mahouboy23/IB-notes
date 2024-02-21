@@ -89,7 +89,9 @@ To create a comprehensive outline for implementing the core functionalities and 
     - Functionality: Remove a user by `userId`.
 
 
-Ok well for know i want to start and completely finish the login, session management, user part of the website. where there is a login page where you put the login details and which type of users you are then you get into you're session and have access to the "site" for your user type. know I want to further develop everything needed
+Ok well for know i want to start and completely finish the login, session management, user part of the website. where there is a login page where you put the login details and which type of users you are then you get into you're session and have access to the "site" for your user type. know I want to further develop everything needed. enumerate every detail how and what we are gonna use, the methodes, function ect.
+
+here is a base of info :
 ### Database Schema
 
 1. **Users Table** (For storing user information including teachers, students, and coordinators)
