@@ -117,3 +117,9 @@ here is a base of info :
 - Implement middleware for role-based access control to restrict access to certain functionalities based on the user's role.
 - Utilize Express Validator for validating and sanitizing input data to prevent SQL injection and other security threats.
 - Incorporate error handling middleware in Express to handle exceptions and return appropriate HTTP status codes and messages.
+
+Voici un récapitulatif de ce que j'ai accompli :
+
+1. **Implémentation des opérations CRUD :** J'ai enrichi le `gradeController.js` pour inclure les opérations CRUD essentielles à la gestion des notes. Cela comprend l'ajout de nouvelles notes avec `addGrade`, la récupération des notes pour un étudiant spécifique avec `getGradesByStudent`, la mise à jour des notes via `updateGrade`, et la suppression des notes à travers `deleteGrade`.
+    
+2. **Intégration de la gestion des erreurs :** J'ai intégré une gestion robuste des erreurs dans chaque fonction du contrôleur pour assurer que les problèmes survenant lors des opérations de base de données soient capturés et traités de manière élégante, fournissant un retour significatif au client.
