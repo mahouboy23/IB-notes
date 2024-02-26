@@ -7,3 +7,4 @@ Created: 2024-02-26
 1. [[Donnée et information]] 
 2. [[Système d’information et base de données]]
 3. [[Caractéristique d’une base de données]] 
+4. [[Cohérence et intégrité de données]] 
