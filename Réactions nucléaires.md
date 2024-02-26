@@ -31,7 +31,7 @@ utilise plutôt à cette échelle l'électron volt (noté eV)
 <!--SR:!2023-09-08,1,230-->
 ?
 $\simeq$ masse d'un nucleon
-$\simeq$ $\frac{1}{2}$ de la masse d'atome de $^{12}C$ 
+$\simeq$ $\frac{1}{12}$ de la masse d'atome de $^{12}C$ 
 $\simeq$ $1,67*10^{-27}kg$ 
 <!--SR:!2023-09-10,3,263-->
 
