@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Donnée et information.md",
+                "file": "Bases de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Donnée et information.md",
+                "file": "Bases de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Donnée et information.md",
+                "file": "Bases de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Donnée et information.md"
+                "file": "Bases de données.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Donnée et information.md",
+                "file": "Bases de données.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,8 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Bases de données.md",
     "Donnée et information.md",
+    "Bases de données.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "DATA STRUCTURE.md",
