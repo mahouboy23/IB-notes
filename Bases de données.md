@@ -9,4 +9,4 @@ Created: 2024-02-26
 3. [[Caractéristique d’une base de données]] 
 4. [[Cohérence et intégrité de données]] 
 5. [[Notion de transaction dans une base de données]]
-6. 
+6. [[Notion d’accès concurrents]]
