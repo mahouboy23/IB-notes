@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATA STRUCTURE.md"
+                "file": "Bases de données.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,17 +294,18 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "Bases de données.md",
+    "IB overview.md",
+    "DATA STRUCTURE.md",
     "Computer science exploration.md",
     "web app.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
     "Conceptes de base economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
     "Economie Mondiale.md",
     "Individual Oral.md",
     "sl subjects/English and Literature.md",
-    "DATA STRUCTURE.md",
     "Computer science classwork.md",
     "sl subjects/Physics.md",
     "Statistique et Probabilité.md",
@@ -319,7 +320,6 @@
     "Caesura.md",
     "Songs of Sorrow by Kofi Awonoor.md",
     "Barrières administratives.md",
-    "Quotas.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",

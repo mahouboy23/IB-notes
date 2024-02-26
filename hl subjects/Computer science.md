@@ -12,6 +12,8 @@ tags : subject cs
 ## **Theme 4**: [[Pensée informatique, résolution de problèmes et programmation]]
 
 ## **Theme 5**: [[Structure de données abstraites]] 
+
+## **Option :** [[Bases de données]] 
 ### [[Computer science exploration]] 
 
 [[Computer science classwork]] 
