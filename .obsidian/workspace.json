@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de données.md",
+                "file": "Donnée et information.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de données.md",
+                "file": "Donnée et information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de données.md",
+                "file": "Donnée et information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de données.md"
+                "file": "Donnée et information.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bases de données.md",
+                "file": "Donnée et information.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,9 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
     "Bases de données.md",
+    "Donnée et information.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
     "DATA STRUCTURE.md",
     "Computer science exploration.md",
@@ -319,7 +320,6 @@
     "Key features of poems.md",
     "Caesura.md",
     "Songs of Sorrow by Kofi Awonoor.md",
-    "Barrières administratives.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
