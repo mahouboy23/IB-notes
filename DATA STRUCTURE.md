@@ -136,3 +136,52 @@ Now i want to start and completely finish the grade input page and solidify the 
 
 also here is some refresher on the current code : 
 TeacherDashboard :
+
+## Grade Management
+### Overview of Steps:
+
+#### 1. Modify the Sidebar:
+
+- Update the `TeacherDashboard.css` to style the sidebar according to the mockup.
+- Replace text links with icons and labels if required by the design.
+- Implement CSS for the active state to highlight the current page.
+
+#### 2. Create the Header:
+
+- Design a header component including the user profile and logout option.
+- Style the header with CSS to match the mockup.
+- Implement the logout functionality which clears the token and redirects to the login page.
+
+#### 3. Develop the Grades Page Layout:
+
+- Set up the main structure with HTML and CSS for the Grades page.
+- Include a section for the 'Add Grade' button and the table.
+
+#### 4. Implement the Grade Table:
+
+- Choose a library like `react-table` to create an interactive table.
+- Define the columns and data structure for the grades table.
+- Style the table to match the mockup, including typography, colors, and spacing.
+
+#### 5. Add Grade Functionality:
+
+- Create a modal or form component for inputting new grades.
+- Style the modal/form to match the mockup design.
+- Implement form validation and submission logic to add grades to the database.
+
+#### 6. Implement Search and Filters:
+
+- Add search input and dropdown filters above the table.
+- Wire up the logic to filter and search the grades data.
+- Ensure the search and filter UI is consistent with the mockup.
+
+#### 7. Solidify UI/UX:
+
+- Make sure all interactive elements have appropriate feedback, like hover and active states.
+- Test the responsiveness of the layout, ensuring it adapts well to different screen sizes.
+- Review and refine transitions and animations for a smooth user experience.
+
+#### 8. Backend Integration:
+
+- Ensure the `gradeRoutes.js` endpoints are connected to the frontend.
+- Test the API endpoints for adding, retrieving, updating, and deleting grades.
