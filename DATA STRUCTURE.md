@@ -148,9 +148,8 @@ TeacherDashboard :
 
 #### 2. Create the Header:
 
-- Design a header component including the user profile and logout option.
+- Design a header component including the user profile.
 - Style the header with CSS to match the mockup.
-- Implement the logout functionality which clears the token and redirects to the login page.
 
 #### 3. Develop the Grades Page Layout:
 
