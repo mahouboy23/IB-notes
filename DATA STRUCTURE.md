@@ -300,3 +300,5 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Use gradeRoutes for any requests to /api/grades
 app.use('/api', gradeRoutes);
 app.use('/api', authRoutes);
+
+Grade.js : 
