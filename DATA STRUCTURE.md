@@ -123,3 +123,16 @@ Voici un récapitulatif de ce que j'ai accompli :
 1. **Implémentation des opérations CRUD :** J'ai enrichi le `gradeController.js` pour inclure les opérations CRUD essentielles à la gestion des notes. Cela comprend l'ajout de nouvelles notes avec `addGrade`, la récupération des notes pour un étudiant spécifique avec `getGradesByStudent`, la mise à jour des notes via `updateGrade`, et la suppression des notes à travers `deleteGrade`.
     
 2. **Intégration de la gestion des erreurs :** J'ai intégré une gestion robuste des erreurs dans chaque fonction du contrôleur pour assurer que les problèmes survenant lors des opérations de base de données soient capturés et traités de manière élégante, fournissant un retour significatif au client.
+
+Now i want to start and completely finish the grade input page and solidify the ui/ux and the site itself. So i want first to create a very detailed overview off all the steps needed to acheive that with everything detailed step by step and nothing left out. I also made and provided a mock up image of what it should like, follow that and few details pointed out in the next part. But it needs to look like the final image and work perfectly. Keep in mind everything we have done so far.
+
+**Construct the Main Layout**:
+- **Sidebar**: (modify the current sidebar so it looks like and acts like the image) Create a sidebar component with navigation links (Overview, Classes, Grades, Boundaries, Report Card, Settings).
+- **Header**: Include a header component with a logout option and user profile display.
+**Develop the Grades Page**:
+- **Grade Table**: Use a library like `react-table` or `material-table` to create an interactive table component. So it looks and function exactly like in the image.
+- **Add Grade Button**: Implement a button that triggers a modal or a form for grade entry.
+- **Search and Filters**: Add input fields and dropdowns for searching and filtering the table data.
+
+also here is some refresher on the current code : 
+TeacherDashboard :
