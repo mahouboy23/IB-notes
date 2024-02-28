@@ -11,3 +11,4 @@ Created: 2024-02-26
 5. [[Notion de transaction dans une base de données]]
 6. [[Notion d’accès concurrents]]
 7. [[Propriétés ACID d'une transaction]]
+8. 

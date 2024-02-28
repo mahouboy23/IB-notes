@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATA STRUCTURE.md"
+                "file": "Bases de données.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Bases de données.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,18 +294,18 @@
   },
   "active": "ddc32f386c4f1219",
   "lastOpenFiles": [
-    "Computer science exploration.md",
-    "web app.md",
+    "Donnée et information.md",
+    "Bases de données.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
+    "DATA STRUCTURE.md",
+    "Computer science exploration.md",
+    "web app.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
     "sl subjects/Physics.md",
-    "Bases de données.md",
     "Système d’information et base de données.md",
     "Caractéristique d’une base de données.md",
-    "Donnée et information.md",
-    "DATA STRUCTURE.md",
     "Conceptes de base economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
