@@ -235,7 +235,7 @@ Know implement part 5 and give the complete code with all the imports needed and
 - Create a modal or form component for inputting new grades.
 - Style the modal/form to match the mockup design.
 - Implement form validation and submission logic to add grades to the database.
-- You need to be able to add a grade with a specific trimester, Gradevalue (any gradevalue over any a mount like 15/20 or 30/45 but will be converted (to over 7) thanks to the boundarie will be worked more later), the specific student,
+- You need to be able to add a grade with a specific trimester, Gradevalue (any gradevalue over any a mount like 15/20 or 30/45 but will be converted (to over 7) thanks to the boundarie will be worked more later), the specific student, and other necessities.
 
 here some info :
 ### Database Schema
