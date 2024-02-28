@@ -39,6 +39,7 @@ To create a comprehensive outline for implementing the core functionalities and 
 | Field Name | Data type | Constraint | Description |
 | ---- | ---- | ---- | ---- |
 | user_id | int | Primary key | user id, Auto generated |
+| username | VARCHAR(255) |  |  |
 ### Core Functionalities & CRUD Operations
 
 #### 1. Grade Input and Management
