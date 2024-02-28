@@ -40,8 +40,8 @@ To create a comprehensive outline for implementing the core functionalities and 
 | ---- | ---- | ---- | ---- |
 | user_id | int | Primary key | user id, Auto generated |
 | username | VARCHAR(255) | Unique, Not null | username of the user |
-| password | VARCHAR(255) |  |  |
-|  |  |  |  |
+| password | VARCHAR(255) | Not null | login password for user |
+| role | VARCHAR(255) |  |  |
 ### Core Functionalities & CRUD Operations
 
 #### 1. Grade Input and Management
