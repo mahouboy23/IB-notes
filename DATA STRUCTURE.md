@@ -230,9 +230,11 @@ To build the grade input page effectively, you should proceed in a structured ma
     
     - Look for any details that you might have missed and ensure that all parts of your application work together seamlessly. This includes testing all the CRUD operations, ensuring that the UI is responsive, and that user feedback is clear and helpful.
 
-Know implement part 2 and give the complete code with all the imports needed and functionalities applied so i can just paste it in. Also give it in detail step by step provide the code, instructions and modification in detail and complete.
- Part 2. **Fetch Data from Backend:**
-    - Implement the logic to fetch the grades data from your backend. Ensure you can retrieve the data and it displays correctly in your component before adding more complexity.
+Know implement part 5 and give the complete code with all the imports needed and functionalities applied so i can just paste it in. Also give it in detail step by step provide the code, instructions and modification in detail and complete.
+#### 5. Add Grade Functionality:
+- Create a modal or form component for inputting new grades.
+- Style the modal/form to match the mockup design.
+- Implement form validation and submission logic to add grades to the database.
 
 here some info :
 ### Database Schema
@@ -268,30 +270,7 @@ here some info :
 
 ### Core Functionalities & CRUD Operations
 
-#### 1. Grade Input and Management
 
-- **Add Grade (CREATE)**
-    
-    - Method: POST
-    - Endpoint: `/api/grades`
-    - Request Body: `{ "studentId": INT, "classId": INT, "gradeValue": DECIMAL, "trimester": ENUM }`
-    - Functionality: Insert a new grade into the `Grades` table.
-- **View Grades (READ)**
-    
-    - Method: GET
-    - Endpoint: `/api/grades/student/:studentId`
-    - Functionality: Retrieve all grades for a specific student.
-- **Update Grade (UPDATE)**
-    
-    - Method: PUT
-    - Endpoint: `/api/grades/:gradeId`
-    - Request Body: `{ "gradeValue": DECIMAL, "trimester": ENUM }`
-    - Functionality: Update a specific grade by `gradeId`.
-- **Delete Grade (DELETE)**
-    
-    - Method: DELETE
-    - Endpoint: `/api/grades/:gradeId`
-    - Functionality: Remove a specific grade by `gradeId`.
 
 server.js : 
 
