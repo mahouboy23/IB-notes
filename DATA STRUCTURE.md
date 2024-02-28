@@ -36,6 +36,9 @@ To create a comprehensive outline for implementing the core functionalities and 
     - `maximum_value` DECIMAL(5,2) NOT NULL
     - `ib_grade` INT NOT NULL
 
+| Field Name | Data type | Constraint | Description |
+| ---- | ---- | ---- | ---- |
+| user_id | int | Primary key | user id, Auto generated |
 ### Core Functionalities & CRUD Operations
 
 #### 1. Grade Input and Management
