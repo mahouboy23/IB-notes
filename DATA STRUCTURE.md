@@ -41,7 +41,8 @@ To create a comprehensive outline for implementing the core functionalities and 
 | user_id | int | Primary key | user id, Auto generated |
 | username | VARCHAR(255) | Unique, Not null | username of the user |
 | password | VARCHAR(255) | Not null | login password for user |
-| role | VARCHAR(255) |  |  |
+| role | ENUM VARCHAR(255) | Not null, 'teacher', 'student', 'coordinator  | the role of the user |
+| full_name | VARCHAR(255) | Not null | the full name of the user |
 ### Core Functionalities & CRUD Operations
 
 #### 1. Grade Input and Management
