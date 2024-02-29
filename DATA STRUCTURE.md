@@ -276,6 +276,7 @@ server.js :
 
 
 student 
+class
 trimester
 grade value ()
 
