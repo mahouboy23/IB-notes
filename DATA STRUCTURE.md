@@ -275,7 +275,7 @@ gradeControllers:
 server.js : 
 
 
-student 
+student drop down menu of all the student
 class
 trimester
 grade value ()
