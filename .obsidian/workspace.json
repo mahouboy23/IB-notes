@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qu'est ce que la recurisivite.md",
+                "file": "Exercise economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATA STRUCTURE.md"
+                "file": "Exercise economie.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,14 +292,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "fd435d076ffc53ea",
   "lastOpenFiles": [
+    "Microéconomie.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Qu'est ce que la recurisivite.md",
+    "DATA STRUCTURE.md",
     "Physics IA draft.md",
     "Physics IA.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "common core/EE.md",
-    "DATA STRUCTURE.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "Bases de données.md",
@@ -313,13 +316,10 @@
     "Système d’information et base de données.md",
     "Caractéristique d’une base de données.md",
     "Conceptes de base economie.md",
-    "Microéconomie.md",
-    "sl subjects/Economie.md",
     "Economie Mondiale.md",
     "Individual Oral.md",
     "sl subjects/English and Literature.md",
     "Computer science classwork.md",
-    "Statistique et Probabilité.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
