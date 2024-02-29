@@ -76,7 +76,9 @@ Guiding Ideas
 
 Guiding Ideas
  - Who is "we"
- - technological advancement 
+ - technological advancement
+ - quick to assume
+ - strongest
  - Does sense  
  - Professional vs Unprofessional
  - How do we know

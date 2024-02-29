@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise economie.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exercise economie.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,11 +294,16 @@
   },
   "active": "fd435d076ffc53ea",
   "lastOpenFiles": [
+    "TOK Essay draft.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "IB overview.md",
+    "Exercise economie.md",
     "Microéconomie.md",
     "Contrôles des prix planchers.md",
-    "Exercise economie.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "Qu'est ce que la recurisivite.md",
     "DATA STRUCTURE.md",
     "Physics IA draft.md",
@@ -315,11 +320,6 @@
     "Donnée et information.md",
     "Réactions nucléaires.md",
     "Physique nucléaire, atomique et des particules.md",
-    "Système d’information et base de données.md",
-    "Caractéristique d’une base de données.md",
-    "Conceptes de base economie.md",
-    "Economie Mondiale.md",
-    "Individual Oral.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
