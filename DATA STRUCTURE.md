@@ -274,13 +274,11 @@ gradeControllers:
 
 server.js : 
 
-
-student drop down menu for all the student
+add these aspect to the modal
+student (drop down menu for all the student)
 class
-trimester
-grade value ()
-
-
+trimester (three clickable dot button for first, second aand third option you can pick from)
+grade value (submit form) 
 
 Grade.js : 
 
