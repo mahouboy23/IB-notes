@@ -275,6 +275,11 @@ gradeControllers:
 server.js : 
 
 
+student 
+trimester
+grade value ()
+
+
 
 Grade.js : 
 
