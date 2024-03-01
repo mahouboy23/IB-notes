@@ -66,6 +66,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38c7512675b583e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -294,6 +304,8 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
+    "Exercise economie.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
     "Macroéconomie.md",
@@ -305,7 +317,6 @@
     "common core/TOK.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
-    "Exercise economie.md",
     "Contrôles des prix planchers.md",
     "Qu'est ce que la recurisivite.md",
     "Physics IA draft.md",
@@ -319,7 +330,6 @@
     "hl subjects/Math AA.md",
     "web app.md",
     "Mécanique.md",
-    "Donnée et information.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
