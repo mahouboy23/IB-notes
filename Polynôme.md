@@ -16,7 +16,7 @@ Created: 2023-11-21
 ## Théorème des restes
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
-<!--SR:!2023-12-01,7,250-->
+<!--SR:!2024-03-05,4,230-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
 <!--SR:!2023-11-24,2,230-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
