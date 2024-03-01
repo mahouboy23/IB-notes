@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microéconomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Microéconomie.md"
               }
             }
           },
@@ -264,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microéconomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,19 +316,21 @@
   },
   "active": "fd435d076ffc53ea",
   "lastOpenFiles": [
-    "Microéconomie.md",
-    "KLDS.md",
     "Exercise economie.md",
+    "Microéconomie.md",
+    "sl subjects/Economie.md",
+    "Economie Mondiale.md",
+    "Bases de données.md",
+    "Caractéristique d’une base de données.md",
+    "KLDS.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "Prompt and object.md",
-    "sl subjects/Economie.md",
     "IB overview.md",
     "TOK Essay.md",
     "common core/TOK.md",
     "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
     "Macroéconomie.md",
-    "Economie Mondiale.md",
     "DATA STRUCTURE.md",
     "TOK Essay draft.md",
     "Contrôles des prix planchers.md",
@@ -339,9 +341,7 @@
     "common core/EE.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
-    "Bases de données.md",
     "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
