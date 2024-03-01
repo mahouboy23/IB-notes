@@ -6,4 +6,4 @@ Created: 2022-11-18
 **what is design**:
 ?
 Le système proposé est conçu. Des plans sont établis concernant la construction physique, le matériel, les systèmes d'exploitation, la programmation, les communications et les questions de sécurité.
-<!--SR:!2023-11-23,3,150-->
+<!--SR:!2024-03-03,2,130-->
