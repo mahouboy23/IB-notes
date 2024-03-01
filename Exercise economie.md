@@ -3,13 +3,7 @@ tags : mod economie
 ---
 Created: 2023-03-17
 
+fait une analyse detailler de chauque question (sa doit etre long) mais utiliser vocab economie et des mots et phrase simple mais intuitif. Et fait comme si il y a un graph du prix plancher. utilise la stucture defintion (enoncer mot cle), (graphique), explication/analyse, example (des fois pas necessaire mais explique), evaluation/conclusion.
 - Analyser les consequences de la mise en place d'un prix plancher.
 - Discuter des consequences d'un prix plancher pour différentes parties prenantes
 
-
-La situation des contrôles des prix minimums (prix planchers) est à l'opposé de celle des contrôles des prix maximums. Dans ce cas, le gouvernement fixe un prix minimum supérieur au prix d'équilibre, empêchant les producteurs de vendre leur produit en dessous de ce prix. Cette mesure est prise pour protéger les producteurs, généralement dans le cas des produits de base et sur le marché du travail.
-
-Les objectifs du prix plancher sont:
-
-- d'augmenter les revenus des producteurs de biens et de services que le gouvernement considère comme importants, tels que les produits agricoles, qui sont soumis à de fortes fluctuations de prix ou à une grande concurrence étrangère.
-- de protéger les travailleurs, en fixant un salaire minimum qui leur assure un revenu suffisant pour avoir un niveau de vie raisonnable.

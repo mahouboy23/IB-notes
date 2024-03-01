@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Exercise economie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATA STRUCTURE.md"
+                "file": "Exercise economie.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DATA STRUCTURE.md",
+                "file": "Exercise economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,20 +292,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07d658ea13ff044f",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "Microéconomie.md",
+    "sl subjects/Economie.md",
+    "Macroéconomie.md",
+    "IB overview.md",
+    "Economie Mondiale.md",
     "TOK Essay.md",
+    "DATA STRUCTURE.md",
     "TOK Essay draft.md",
     "common core/TOK.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
-    "IB overview.md",
     "Exercise economie.md",
-    "Microéconomie.md",
     "Contrôles des prix planchers.md",
-    "sl subjects/Economie.md",
     "Qu'est ce que la recurisivite.md",
-    "DATA STRUCTURE.md",
     "Physics IA draft.md",
     "Physics IA.md",
     "sl subjects/Physics.md",
@@ -318,8 +320,6 @@
     "web app.md",
     "Mécanique.md",
     "Donnée et information.md",
-    "Réactions nucléaires.md",
-    "Physique nucléaire, atomique et des particules.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
