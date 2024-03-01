@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62b80d815336555f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics IA draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07d658ea13ff044f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATA STRUCTURE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddc32f386c4f1219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de données.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd435d076ffc53ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microéconomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31dc98916e9a3d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "TOK Essay draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "38c7512675b583e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microéconomie.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -264,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,21 +255,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd435d076ffc53ea",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "Exercise economie.md",
+    "TOK Essay.md",
+    "common core/TOK.md",
+    "IB overview.md",
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "Prompt and object.md",
     "Microéconomie.md",
+    "Exercise economie.md",
     "sl subjects/Economie.md",
     "Economie Mondiale.md",
     "Bases de données.md",
     "Caractéristique d’une base de données.md",
     "KLDS.md",
-    "TOK Exhibition.md",
-    "TOK EXHIBITION DRAFT.md",
-    "Prompt and object.md",
-    "IB overview.md",
-    "TOK Essay.md",
-    "common core/TOK.md",
     "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
     "Macroéconomie.md",
     "DATA STRUCTURE.md",
