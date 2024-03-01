@@ -24,7 +24,7 @@ n nombre d'electrons perdues
 **Isolant** :: un isolant ne laisse pas passer le courant
 <!--SR:!2023-10-15,38,210-->
 **Courant électrique** :: Le courant électrique  est le déplacement de charges.
-<!--SR:!2023-09-29,22,230-->
+<!--SR:!2024-03-11,10,210-->
 
 *NB*: -Fil métallique > le courant est le déplacement d'electron libres ou de conduction
       -Une solution ionique ex NaCL, Na+  
@@ -48,7 +48,7 @@ $$F=k\frac{q_{1}q_{2}}{r^{2}}$$
 - $q_{1}$ = charge 1 en Coulomb (C)
 - $q_{2}$ = charge 2 en Coulomb (C)
 - $r$ = distance entre les charges en mètre (m)
-<!--SR:!2023-11-29,15,130-->
+<!--SR:!2024-03-08,7,130-->
 
 Formule de la constante de Coulomb:
 ?

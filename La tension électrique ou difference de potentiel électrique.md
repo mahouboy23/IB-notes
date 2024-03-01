@@ -26,7 +26,7 @@ Le potentiel électrique en un point est :: égale a l'énergie potentiel élect
 $$V_{AD}=V_{A}-V_{D}=V_{AB}+V_{BC}+V_{CD}$$
 ![[download.svg]]
  $$V_{AB}+V_{BC}+V_{CD}+V_{DA}=0$$$$\Sigma V=0$$
-<!--SR:!2023-11-28,12,176-->
+<!--SR:!2024-03-06,5,156-->
 
 - La tension aux bornes de dipoles en série est égale a la somme des tensions au niveau de chaque dipole
 

@@ -55,7 +55,7 @@ Une onde électromagnétique est caractérisée par sa longueur d’onde λ en m
 
 **$\lambda$** :: longueur d'onde en m
 c = célérité :: $3*10^8ms^{-1}$
-<!--SR:!2023-09-08,1,230-->
+<!--SR:!2024-03-03,2,230-->
 T=
 f= $f$ = fréquence de la lumière en $hz$ ou $s^{-1}$
 h = est la constante de Planck :: ($6,63*10^{-34}Js^{-1}$)

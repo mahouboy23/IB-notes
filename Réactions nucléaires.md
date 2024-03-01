@@ -27,8 +27,8 @@ Remarque :
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On
 utilise plutôt à cette échelle l'électron volt (noté eV)
 
-1u :: unite de masse unifie ou unite de masse atomique 
-<!--SR:!2023-09-08,1,230-->
+1u :: unite de masse unifie ou unite de masse atomique
+<!--SR:!2024-03-03,2,230-->
 ?
 $\simeq$ masse d'un nucleon
 $\simeq$ $\frac{1}{12}$ de la masse d'atome de $^{12}C$ 
