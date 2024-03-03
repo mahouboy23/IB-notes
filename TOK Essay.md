@@ -88,56 +88,46 @@ Guiding Ideas
  - Examples and esses ot
 
 
-## Introduction
+# Structure
 
-Paragraph 1:
+### Essay Structure:
 
-- Introduce the essay title and briefly define key terms such as "evidence", "recent", and "strongest". 
-- Provide an overview of the two areas of knowledge to be discussed (natural sciences and history) and the overall approach.  
+- **Introduction (150 words)**:
+    
+    - **Contextual Introduction**: Briefly present the essay question and the areas of knowledge to be explored.
+    - **Personal Anecdote**: Introduce a personal or observed anecdote relating to the prompt, setting a nuanced stage for the discussion.
+    - **Thesis Statement**: Clearly state your stance, avoiding a simple yes/no and instead hinting at the complexities of recency in evidence evaluation.
+- **Body (900 words, divided into three sections instead of two)**:
+    
+    - **Empirical Evidence in the Natural Sciences (300 words)**:
+        - Present an original example while also introducing a comparative example to broaden the discussion. This could involve comparing the reception of empirical evidence in two different scientific breakthroughs, emphasizing the variability in acceptance and skepticism.
+    - **Theoretical Evidence in Human Sciences (300 words)**:
+        - Discuss a theoretical framework, adding a comparative analysis with another theory to highlight different receptions or impacts on the field.
+    - **Cross-Area of Knowledge Comparison (300 words)**:
+        - Introduce a segment that directly compares empirical and theoretical evidence across the two areas of knowledge, focusing on their reception, impact, and the reasons behind the acceptance or rejection of new evidence. This segment should elaborate on the nuances of why recency appears strong, the nature of strong evidence, and how we should approach new evidence.
+- **Conclusion (250 words)**:
+    
+    - **Synthesis**: Briefly touch on the main arguments without repeating details, leading to a synthesis that offers new insights.
+    - Revisit the "too quick" phrase, synthesizing the discussions from the empirical and theoretical evidence sections.
+    - **New Insight**: Discuss the implications of your analysis for understanding the nature of evidence and the process of knowledge acquisition. Offer a perspective on how the evaluation of evidence might evolve or how it should be approached in the future.
+    - **Reflection on Anecdote**: Revisit the initial personal anecdote to reflect on how the essay’s exploration has informed or changed your understanding, illustrating personal growth or a shift in perspective.
+    - **Final Thought**: Conclude with a compelling statement or question that encourages the reader to continue pondering the complexities of evidence evaluation.
+    -
 
-## Body Part 1 - Natural Sciences
+### Key Details and Decisions:
 
-Paragraph 2 (Claim):
+- **Beyond the Four-Point Argument**: Ensure the body of your essay extends beyond the basic structure by integrating comparative analyses and cross-disciplinary perspectives, thereby enriching the argument and distinguishing your essay.
+- **Interpreting Terms**: Rather than defining terms with generic definitions, interpret the entire phrase of the essay prompt in the context of your argument, ensuring a nuanced understanding of the question.
+- **Negative Connotation of "Too Quick"**: Throughout the essay, emphasize the negative connotation of being "too quick" to accept new evidence, examining the consequences and implications of such haste in different contexts.
+- **Empirical vs. Theoretical Strategy**: This structure allows for a balanced examination of how different types of evidence are valued and scrutinized across areas of knowledge, providing a comprehensive view of the essay topic.
+- **Original Examples**: Focus on less commonly discussed examples to stand out. Each example chosen should not only be original but also deeply relevant to the discussion of evidence evaluation in its respective area of knowledge.
+- **Personal Anecdote**: Use the introduction to share a brief personal story related to how you or someone you know formed a belief based on new evidence. This anecdote should be revisited in the conclusion to demonstrate how the essay's exploration has informed a deeper understanding of the topic.
+- **Word Count Distribution**: Adhere to the suggested word counts for each section to ensure a well-balanced essay. This distribution allows for an in-depth exploration of each example while maintaining a clear and concise argument throughout.
 
-- In the natural sciences, there can be a tendency to assume the most recent evidence is the strongest due to advantages like advanced technology.
-- Example: Discuss how modern technology allows more accurate data collection and analysis compared to the past in fields like genetics.
-- Explain how the example relates to the claim and title question.
+By expanding the structure to include a comparison and an additional cross-area of knowledge analysis, your essay will provide a more comprehensive and nuanced exploration of the prompt. This approach, coupled with the strategic inclusion of personal anecdotes and a reflective conclusion, will not only meet but exceed the expectations set forth in the TOK guide and video transcript.
 
-Paragraph 3 (Counterclaim):
 
-- However, the most established theories in natural sciences were once challenged by new evidence later proven incorrect.
-- Example: Discuss Barbara McClintock's initial rejection and later verification in genetics.
-- Explain how the example shows recent evidence is not inevitably the strongest.
 
-Paragraph 4 (Summary):
-
-- Summarize insights from natural sciences discussion on whether recent evidence is strongest, with reference to changing paradigms.
-
-## Body Part 2 - History
-
-Paragraph 5 (Claim):
-
-- In history, new artifacts/documents are often viewed as providing most accurate insights into the past.
-- Example: Discuss What NEW declassified Cold-War spy photos tell us about ancient Rome in the context of the Tok essay and use it as evidence to prove your claim.
-- Explain how example supports the claim for strength of recent history evidence. 
-
-Paragraph 6 (Counterclaim):
-
-- However, reinterpreting past history evidence through different lenses can challenge narratives.
-- Example: Discuss historians reinterpreting the fall of Rome through social lenses.
-- Explain how this challenges notion of recent evidence inevitably being strongest.
-
-Paragraph 7 (Summary):
-
-- Summarize insights from history discussion on whether recent evidence is strongest, with reference to reinterpretation over time.
-
-## Conclusion
-
-Paragraph 8:
-
-- Synthesize major insights from both AOKs in relation to the title question.
-- Discuss implications of when recent evidence should/should not be assumed strongest.
-- Acknowledge limitations and consider other perspectives.
 
 # TOK essay introduction: 
 "In the pursuit of knowledge, the newest is not always the truest," wisely cautioned Johann Wolfgang von Goethe. With these words as our guide, let's embark on a journey that takes us through the realms of the natural sciences and history, as we seek to answer a fundamental question: "Are we too quick to assume that the most recent evidence is inevitably the strongest?"

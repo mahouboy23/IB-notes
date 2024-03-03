@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK EXHIBITION DRAFT.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt and object.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,15 +268,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
-    "TOK Exhibition.md",
     "common core/TOK.md",
     "IB overview.md",
     "TOK EXHIBITION DRAFT.md",
     "TOK Essay draft.md",
-    "TOK Essay.md",
     "Prompt and object.md",
+    "TOK Exhibition.md",
+    "TOK Essay.md",
     "Microéconomie.md",
     "Exercise economie.md",
     "sl subjects/Economie.md",
