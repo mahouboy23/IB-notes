@@ -23,5 +23,6 @@ centrales nucléaires
 [[Recueil de données]]  
 
 [[Physics IA]] 
-
-
+![[Exercices_de_probabilitA_janvier_2024.pdf]]
+![[Get an A in TOK Title 6 Guide.pdf]]
+![[TOK_exhibition.pdf]]

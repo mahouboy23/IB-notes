@@ -42,8 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b0d25183970c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie Mondiale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad3e14920f1f0e8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TOK Essay draft.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,7 +234,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,34 +283,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "9ad3e14920f1f0e8",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
+    "sl subjects/assets/Physics/Get an A in TOK Title 6 Guide.pdf",
+    "sl subjects/assets/Physics/TOK_exhibition.pdf",
+    "sl subjects/assets/Physics",
+    "Mouvement circulaire uniforme et gravitation.md",
+    "new.md",
+    "Le Champ de gravitation.md",
+    "La loi de gravitation universelle de Newton.md",
+    "Electricité et magnétisme.md",
+    "IB overview.md",
+    "Excalidraw/Drawing 2024-03-03 23.28.01.excalidraw.md",
+    "Economie Mondiale.md",
+    "politique d'offre.canvas",
+    "TOK EXHIBITION DRAFT.md",
+    "sl subjects/Economie.md",
+    "TOK Essay draft.md",
     "TOK Essay.md",
     "TOK reference.md",
     "common core/TOK.md",
-    "IB overview.md",
-    "TOK EXHIBITION DRAFT.md",
-    "TOK Essay draft.md",
     "Prompt and object.md",
     "TOK Exhibition.md",
     "Microéconomie.md",
     "Exercise economie.md",
-    "sl subjects/Economie.md",
-    "Economie Mondiale.md",
     "Bases de données.md",
     "Caractéristique d’une base de données.md",
     "KLDS.md",
     "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
     "Macroéconomie.md",
     "DATA STRUCTURE.md",
-    "Contrôles des prix planchers.md",
-    "Qu'est ce que la recurisivite.md",
-    "Physics IA draft.md",
-    "Physics IA.md",
-    "sl subjects/Physics.md",
-    "common core/EE.md",
-    "Computer science exploration.md",
-    "hl subjects/Computer science.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
@@ -313,11 +333,6 @@
     "assets/Les listes chaînées",
     "assets/Subventions",
     "assets/Quotas",
-    "assets/MATH INTERNAL ASSESMENT",
-    "assets/Les files",
-    "assets/Les piles",
-    "politique d'offre.canvas",
-    "assets/Efficacité des politiques d’offre",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
