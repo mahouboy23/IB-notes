@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f15bf864e3c1640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt and object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Prompt and object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Prompt and object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay draft.md"
+                "file": "Prompt and object.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay draft.md",
+                "file": "Prompt and object.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,13 +268,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "TOK Essay.md",
+    "TOK Exhibition.md",
     "common core/TOK.md",
     "IB overview.md",
-    "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
+    "TOK Essay draft.md",
+    "TOK Essay.md",
     "Prompt and object.md",
     "Microéconomie.md",
     "Exercise economie.md",
@@ -273,7 +287,6 @@
     "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
     "Macroéconomie.md",
     "DATA STRUCTURE.md",
-    "TOK Essay draft.md",
     "Contrôles des prix planchers.md",
     "Qu'est ce que la recurisivite.md",
     "Physics IA draft.md",
