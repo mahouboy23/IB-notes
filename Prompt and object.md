@@ -58,13 +58,13 @@ Part 2 or paragraph 2: (the longuest, main part) "not in any specific order"
 - Use specific details of the RWC of the object to explain the prompt
 - Use specific details of the RWC context of the object to explain a Knowledge claim
 - Knowledge claim must be in it but not explicitly stated, must be smootly mention as a part of the argument
-- Link to TOK concept ()
+- Link to TOK concept (use)
 - Provide evidence
 
 Part or paragraph 3: "not in any specific order"
-- Justification
+- Justification (for example refering to significance in Real World)
 - Evaluate the knowledge claim
-- Possibly mention limitations
+- Possibly mention limitations (not necessary)
 
 references : 
 object 1 : 
