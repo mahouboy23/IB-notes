@@ -46,3 +46,17 @@ object 1 :
 - [Fetching Title#s06j](https://en.wikipedia.org/wiki/On_the_Origin_of_Species#:~:text=Darwin%27s%20book%20introduced%20the%20scientific,a%20branching%20pattern%20of%20evolution.)
 - ["Origin of Species" is published | November 24, 1859 | HISTORY](https://www.history.com/this-day-in-history/origin-of-species-is-published-2)
 
+Structure : 
+Part 1 or paragraph 1: (not to long)
+- Give Real World Context of object (RWC), (introduce)
+- Link RWC of object to prompt
+- show specification of by making a personal connection
+
+Part 2 or paragraph 2: (the longuest, main part)
+- Use specific details of the RWC of the object to explain the prompt
+- Use specific details of the RWC context of the object to explain a Knowledge claim
+- Knowledge claim must be in it but not explicitly stated, must be smootly mention as a part of the argument
+- Link to TOK concept ()
+- Provide evidence
+
+
