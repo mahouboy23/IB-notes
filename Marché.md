@@ -12,4 +12,4 @@ Un marché est :: la rencontre entre acheteurs et vendeurs qui effectuent des é
 <!--SR:!2023-11-07,61,170-->
 
 - Un **marché monopole** est un marché :: ou une entité qui détient la totalité de l'[[Offre]] et domine son secteur d'activité respectif.
-<!--SR:!2023-11-09,63,230-->
+<!--SR:!2024-06-09,100,230-->
