@@ -71,9 +71,9 @@ Part or paragraph 3: "not in any specific order"
 - Possibly mention limitations (not necessary)
 
 references : 
-object 1 : 
-- [Fetching Title#s06j](https://en.wikipedia.org/wiki/On_the_Origin_of_Species#:~:text=Darwin%27s%20book%20introduced%20the%20scientific,a%20branching%20pattern%20of%20evolution.)
-- ["Origin of Species" is published | November 24, 1859 | HISTORY](https://www.history.com/this-day-in-history/origin-of-species-is-published-2)
+object  : 
+[- [Pentagon documents leak: Here’s what you need to know | Russia-Ukraine war News | Al Jazeera](https://www.aljazeera.com/news/2023/4/11/pentagon-intelligence-leak-heres-what-you-need-to-know)
+- [U.S. officials were ‘furious’ about leaks exposing Ukraine war concerns - The Washington Post](https://www.washingtonpost.com/national-security/2023/12/13/ukraine-war-discord-leaks/)
   
 Know before you start the structure layed out is just points that should appear in object, don't use it as verbadum and start saying stuff like the justification is or the tok concept are ect... There is a specific way to integrate these elements in a tok exhibition and certain key elements that should appear like "the first object is" also don't add parts like in conclusion and stuff like that follow the ideas of given above and the structure of the example. It is not much of a structure but more like guiding ideas and elements. Here is an example of a and well structured Object : 
 prompt : " _What role do experts play in our consumption or acquisition of knowledge_?"
