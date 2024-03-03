@@ -100,9 +100,11 @@ Guiding Ideas
 - **Body (900 words, divided into three sections instead of two)**:
     
     - **Empirical Evidence in the Natural Sciences (300 words)**:
-        - Present an original example while also introducing a comparative example to broaden the discussion. This could involve comparing the reception of empirical evidence in two different scientific breakthroughs, emphasizing the variability in acceptance and skepticism.
+        - **Natural Sciences (150 words)**: Discuss an original example of where recent empirical evidence was either too quickly accepted or unjustly overlooked. Avoid common examples like Galileo or DNA sexism. Consider discussing the impact of new archaeological findings that challenge or confirm previous understandings, such as the discovery of Homo Naledi and its implications for our understanding of human evolution.
+        - **History (150 words)**: Explore a historical instance where empirical evidence played a crucial role in reshaping our understanding of an event or figure. A fresh example could be the reevaluation of historical narratives based on newly discovered letters or diaries, such as the reinterpretation of Cleopatra’s reign through recent archaeological findings.
     - **Theoretical Evidence in Human Sciences (300 words)**:
-        - Discuss a theoretical framework, adding a comparative analysis with another theory to highlight different receptions or impacts on the field.
+        - **Natural Sciences (150 words)**: Analyze a case where a theoretical framework was initially rejected but later proved to be invaluable, such as the initially controversial theory of plate tectonics. Highlight the skepticism it faced and how it eventually became a cornerstone of geological science.
+        - **Human Sciences (150 words)**: Examine how new theoretical approaches in economics or psychology were received, focusing on a less commonly discussed theory or model that has had significant implications, like the development and acceptance of behavioral economics.
     - **Cross-Area of Knowledge Comparison (300 words)**:
         - Introduce a segment that directly compares empirical and theoretical evidence across the two areas of knowledge, focusing on their reception, impact, and the reasons behind the acceptance or rejection of new evidence. This segment should elaborate on the nuances of why recency appears strong, the nature of strong evidence, and how we should approach new evidence.
 - **Conclusion (250 words)**:
@@ -124,7 +126,6 @@ Guiding Ideas
 - **Personal Anecdote**: Use the introduction to share a brief personal story related to how you or someone you know formed a belief based on new evidence. This anecdote should be revisited in the conclusion to demonstrate how the essay's exploration has informed a deeper understanding of the topic.
 - **Word Count Distribution**: Adhere to the suggested word counts for each section to ensure a well-balanced essay. This distribution allows for an in-depth exploration of each example while maintaining a clear and concise argument throughout.
 
-By expanding the structure to include a comparison and an additional cross-area of knowledge analysis, your essay will provide a more comprehensive and nuanced exploration of the prompt. This approach, coupled with the strategic inclusion of personal anecdotes and a reflective conclusion, will not only meet but exceed the expectations set forth in the TOK guide and video transcript.
 
 
 
