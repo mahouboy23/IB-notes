@@ -48,9 +48,9 @@ object 1 :
 
 
 the prompt : What are the implications of having, or not having, knowledge?
-the knowledge claim : "Access to sensitive information alters public perception and can influence political strategies and outcomes."
+the knowledge claim : "Democratizing access to information accelerates cultural and intellectual advancements, shaping modern society."
 
-Know i want you to write the second object in 300-310 words. ONLY USE INFO FROM REFERENCES, since i have to put where i found the info only use stuff in the references for information, if you want to add other stuff that is not in references state at the end where you found!!!! For writing the object follow this structure below but also the video (transcript).
+Know i want you to write the third object in 300-310 words. ONLY USE INFO FROM REFERENCES, since i have to put where i found the info only use stuff in the references for information, if you want to add other stuff that is not in references state at the end where you found!!!! For writing the object follow this structure below but also the video (transcript).
 Everything is explained in more detailed in the video (transcript) so use also that but here is the structure of a object
 Structure : 
 Part 1 or paragraph 1: (not to long) "not in any specific order"
@@ -72,9 +72,10 @@ Part or paragraph 3: "not in any specific order"
 
 references : 
 object  : 
-[- [Pentagon documents leak: Here’s what you need to know | Russia-Ukraine war News | Al Jazeera](https://www.aljazeera.com/news/2023/4/11/pentagon-intelligence-leak-heres-what-you-need-to-know)
-- [U.S. officials were ‘furious’ about leaks exposing Ukraine war concerns - The Washington Post](https://www.washingtonpost.com/national-security/2023/12/13/ukraine-war-discord-leaks/)
-  
+- [7 Ways the Printing Press Changed the World | HISTORY](https://www.history.com/news/printing-press-renaissance)
+- [The Social Impact of the Printing Press - Brilliantio](https://brilliantio.com/the-social-impact-of-the-printing-press/)
+
+
 Know before you start the structure layed out is just points that should appear in object, don't use it as verbadum and start saying stuff like the justification is or the tok concept are ect... There is a specific way to integrate these elements in a tok exhibition and certain key elements that should appear like "the first object is" also don't add parts like in conclusion and stuff like that follow the ideas of given above and the structure of the example. It is not much of a structure but more like guiding ideas and elements. Here is an example of a and well structured Object : 
 prompt : " _What role do experts play in our consumption or acquisition of knowledge_?"
 knowledge question : "experts play an exemplary role in the acquisition of  knowledge"
