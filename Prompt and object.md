@@ -48,9 +48,9 @@ object 1 :
 
 
 the prompt : What are the implications of having, or not having, knowledge?
-the knowledge claim : Introducing revolutionary scientific concepts challenges traditional beliefs and transforms societal understanding.
+the knowledge claim : "Access to sensitive information alters public perception and can influence political strategies and outcomes."
 
-Know i want you to write the first object in 300-310 words. ONLY USE INFO FROM REFERENCES, since i have to put where i found the info only use stuff in the references for information, if you want to add other stuff that is not in references state at the end where you found!!!! For writing the object follow this structure below but also the video (transcript).
+Know i want you to write the second object in 300-310 words. ONLY USE INFO FROM REFERENCES, since i have to put where i found the info only use stuff in the references for information, if you want to add other stuff that is not in references state at the end where you found!!!! For writing the object follow this structure below but also the video (transcript).
 Everything is explained in more detailed in the video (transcript) so use also that but here is the structure of a object
 Structure : 
 Part 1 or paragraph 1: (not to long) "not in any specific order"
@@ -76,7 +76,8 @@ object 1 :
 - ["Origin of Species" is published | November 24, 1859 | HISTORY](https://www.history.com/this-day-in-history/origin-of-species-is-published-2)
   
 Know before you start the structure layed out is just points that should appear in object, don't use it as verbadum and start saying stuff like the justification is or the tok concept are ect... There is a specific way to integrate these elements in a tok exhibition and certain key elements that should appear like "the first object is" also don't add parts like in conclusion and stuff like that follow the ideas of given above and the structure of the example. It is not much of a structure but more like guiding ideas and elements. Here is an example of a and well structured Object : 
-prompt : ""
+prompt : " _What role do experts play in our consumption or acquisition of knowledge_?"
+knowledge question : "experts play an exemplary role in the acquisition of  knowledge"
 
 Magic: The Gathering CCG Deck
 The first object is a deck called Grual Control from Magic: The Gathering, a combat card game that I've been playing since elementary school. The deck is important to my exhibition because it is symbolic of the first of the three roles of an expert I have identified: the examplary role. 
