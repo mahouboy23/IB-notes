@@ -46,6 +46,10 @@ object 1 :
 - [Fetching Title#s06j](https://en.wikipedia.org/wiki/On_the_Origin_of_Species#:~:text=Darwin%27s%20book%20introduced%20the%20scientific,a%20branching%20pattern%20of%20evolution.)
 - ["Origin of Species" is published | November 24, 1859 | HISTORY](https://www.history.com/this-day-in-history/origin-of-species-is-published-2)
 
+
+the prompt : What are the implications of having, or not having, knowledge?
+the knowledge claim : Introducing revolutionary scientific concepts challenges traditional beliefs and transforms societal understanding.
+
 Know i want you to write the first object in 300-310 words. ONLY USE INFO FROM REFERENCES, since i have to put where i found the info only use stuff in the references for information, if you want to add other stuff that is not in references state at the end where you found!!!! For writing the object follow this structure below but also the video (transcript).
 Everything is explained in more detailed in the video (transcript) so use also that but here is the structure of a object
 Structure : 
@@ -81,4 +85,4 @@ Gruul Control is a deck archetype that I first saw being used by my favorite MG 
 
 However, there are limitations to this role, just like the other two. In the exemplary role, the limitation to experts impact on our acquisition of knowledge is their inability to directly influence the knower's interaction with knowledge. This limitation is evident in the example. There are two components to games such as MG: creating a deck, and piloting it, and the latter is a process that experts cannot dictate for you-you must learn what cards to play and at what times, and how to adapt the deck to your opponent by yourself.
 
-and as last advice always remember to not stray out of the prompt or knowledge claim always remember the purpose of the object and keep the arguments relevant
+and as last advice always remember to not stray out of the prompt or knowledge claim always remember the purpose of the object and keep the arguments relevant. One more thing don't add stuff like "For detailed information, please refer to the original sources provided in the references." or conclusion because it was not in the example follow the example, structure and video (transcript, if you forgot tell me i will provide it to you before you write). remember the longuest part is part 2.
