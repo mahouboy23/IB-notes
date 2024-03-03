@@ -169,7 +169,8 @@ Consider an anecdote related to discovering something unexpected or revising a l
 
 
 # TOK essay introduction: 
-
+  
+Reflecting on the interplay between new discoveries and established truths, this essay embarks on an exploration within the realms of natural sciences and history. I recall, vividly, a moment from my youth, when a visit to a museum unveiled the grandeur of the Spinosaurus, challenging my then-unquestioned acceptance of dinosaurs as purely terrestrial beings. This personal revelation mirrors the broader theme of our inquiry: the evaluation of evidence, both empirical and theoretical, across disciplines. Here, we question the premise: Are we too quick to accept the most recent evidence as the strongest? By delving into cases such as the aquatic adaptations of Spinosaurus in natural sciences, and the historical reevaluation of the Vinland Map, alongside theoretical advancements in quantum computing and historical events like "The Great Dying," we aim to uncover the nuanced dynamics of evidence evaluation. This essay, therefore, seeks to not merely present a binary stance but to unfold the complexities and consequences of our haste or hesitance in embracing new knowledge, ultimately shedding light on the intricate dance between discovery and skepticism.
 
 # Tok essay body:
 Let's dive into the heart of our exploration by addressing a fundamental claim: "Recent evidence is inherently the strongest." This assertion resonates with a common perception - that what's new always carries the most weight. But does this belief hold true when it comes to our pursuit of knowledge?
