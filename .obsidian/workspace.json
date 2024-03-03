@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "TOK Essay draft.md"
               }
             }
           },
@@ -218,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK Essay draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,10 +267,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "177385bbf71d7bb9",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "TOK reference.md",
     "TOK Essay.md",
+    "TOK reference.md",
     "common core/TOK.md",
     "IB overview.md",
     "TOK EXHIBITION DRAFT.md",
