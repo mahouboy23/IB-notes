@@ -13,7 +13,7 @@ The first object I have chosen is a book. I believe that books represent knowled
 
 The second object I have chosen is a locked safe. I believe that the locked safe represents the lack of knowledge, as the contents of the safe are unknown until it is opened. This can lead to feelings of uncertainty or even fear, as the unknown can be daunting. In the same way, when we lack knowledge on a certain topic, we may feel unsure or hesitant about making decisions or forming opinions.
 
-The third object I have chosen is a map. I believe that maps represent the acquisition of knowledge, as they provide a visual representation of geographic locations and can help us navigate the world around us. Maps also provide context and can give us a better understanding of the relationships between different places. By using a map, we can gain knowledge about different regions and cultures, and this can lead to a deeper appreciation and understanding of the world.
+The third object I have chosen is a map. I believe that maps represent the acquisition of knowledge, as they provide a visual representation of geographic locations and can help us navigate the world around us. Maps also provide context and can give us a better understanding of the relationships between different places. By using a map, we can gain knowledge about different regions and cultures, and this can lead to a deeper appreciation and understanding of the world. a
 
 To answer the questions provided, I could explore the following:
 
@@ -71,7 +71,7 @@ object 1 :
 - [Fetching Title#s06j](https://en.wikipedia.org/wiki/On_the_Origin_of_Species#:~:text=Darwin%27s%20book%20introduced%20the%20scientific,a%20branching%20pattern%20of%20evolution.)
 - ["Origin of Species" is published | November 24, 1859 | HISTORY](https://www.history.com/this-day-in-history/origin-of-species-is-published-2)
   
-Know before you start the structure layed out is just points that should appear in object, don't use it as verbadum and start saying stuff like the justification is or the tok concept are ect... There is a specific way to integrate these elements in a tok exhibition and certain key elements that should appear like "the first object is" . It is not much of a structure but more like guiding ideas and elements. Here is an example of a comple and well structured Object : 
+Know before you start the structure layed out is just points that should appear in object, don't use it as verbadum and start saying stuff like the justification is or the tok concept are ect... There is a specific way to integrate these elements in a tok exhibition and certain key elements that should appear like "the first object is" also don't add parts like in conclusion and stuff like that follow the ideas of given above and the structure of the example. It is not much of a structure but more like guiding ideas and elements. Here is an example of a and well structured Object : 
 prompt : ""
 
 Magic: The Gathering CCG Deck
