@@ -99,12 +99,12 @@ Guiding Ideas
     - **Thesis Statement**: Clearly state your stance, avoiding a simple yes/no and instead hinting at the complexities of recency in evidence evaluation.
 - **Body (900 words, divided into three sections instead of two)**:
     
-    - **Empirical Evidence in the Natural Sciences (300 words)**:
-        - **Natural Sciences (150 words)**: Discuss an original example of where recent empirical evidence was either too quickly accepted or unjustly overlooked. Avoid common examples like Galileo or DNA sexism. Consider discussing the impact of new archaeological findings that challenge or confirm previous understandings, such as the discovery of Homo Naledi and its implications for our understanding of human evolution.
-        - **History (150 words)**: Explore a historical instance where empirical evidence played a crucial role in reshaping our understanding of an event or figure. A fresh example could be the reevaluation of historical narratives based on newly discovered letters or diaries, such as the reinterpretation of Cleopatra’s reign through recent archaeological findings.
-    - **Theoretical Evidence in Human Sciences (300 words)**:
-        - **Natural Sciences (150 words)**: Analyze a case where a theoretical framework was initially rejected but later proved to be invaluable, such as the initially controversial theory of plate tectonics. Highlight the skepticism it faced and how it eventually became a cornerstone of geological science.
-        - **Human Sciences (150 words)**: Examine how new theoretical approaches in economics or psychology were received, focusing on a less commonly discussed theory or model that has had significant implications, like the development and acceptance of behavioral economics.
+    - **Empirical Evidence in the Natural Sciences (400 words)**:
+        - **Natural Sciences (200 words)**: Discuss an original example of where recent empirical evidence was either too quickly accepted or unjustly overlooked. Avoid common examples like Galileo or DNA sexism. Consider discussing the impact of new archaeological findings that challenge or confirm previous understandings, such as the discovery of Homo Naledi and its implications for our understanding of human evolution.
+        - **History (200 words)**: Explore a historical instance where empirical evidence played a crucial role in reshaping our understanding of an event or figure. A fresh example could be the reevaluation of historical narratives based on newly discovered letters or diaries, such as the reinterpretation of Cleopatra’s reign through recent archaeological findings.
+    - **Theoretical Evidence in Human Sciences (400 words)**:
+        - **Natural Sciences (200 words)**: Analyze a case where a theoretical framework was initially rejected but later proved to be invaluable, such as the initially controversial theory of plate tectonics. Highlight the skepticism it faced and how it eventually became a cornerstone of geological science.
+        - **Human Sciences (200 words)**: Examine how new theoretical approaches in economics or psychology were received, focusing on a less commonly discussed theory or model that has had significant implications, like the development and acceptance of behavioral economics.
     - **Cross-Area of Knowledge Comparison (300 words)**:
         - Introduce a segment that directly compares empirical and theoretical evidence across the two areas of knowledge, focusing on their reception, impact, and the reasons behind the acceptance or rejection of new evidence. This segment should elaborate on the nuances of why recency appears strong, the nature of strong evidence, and how we should approach new evidence.
 - **Conclusion (250 words)**:
