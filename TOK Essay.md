@@ -165,7 +165,7 @@ Guiding Ideas
 Consider an anecdote related to discovering something unexpected or revising a long-held belief due to new theoretical insights or empirical evidence. This could relate to a personal or observed experience that highlights the dynamic nature of knowledge and understanding, particularly in the face of groundbreaking discoveries or theoretical developments.
 
 
-
+[[TOK reference]] 
 # TOK essay introduction: 
 "In the pursuit of knowledge, the newest is not always the truest," wisely cautioned Johann Wolfgang von Goethe. With these words as our guide, let's embark on a journey that takes us through the realms of the natural sciences and history, as we seek to answer a fundamental question: "Are we too quick to assume that the most recent evidence is inevitably the strongest?"
 

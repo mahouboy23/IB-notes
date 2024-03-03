@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "TOK reference.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "TOK reference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,13 +270,14 @@
   },
   "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
+    "TOK Essay.md",
+    "TOK reference.md",
     "common core/TOK.md",
     "IB overview.md",
     "TOK EXHIBITION DRAFT.md",
     "TOK Essay draft.md",
     "Prompt and object.md",
     "TOK Exhibition.md",
-    "TOK Essay.md",
     "Microéconomie.md",
     "Exercise economie.md",
     "sl subjects/Economie.md",
@@ -295,7 +296,6 @@
     "common core/EE.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
-    "MATH INTERNAL ASSESMENT.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
