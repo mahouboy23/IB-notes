@@ -178,6 +178,8 @@ Let's dive into the heart of our exploration by addressing a fundamental claim: 
 To tackle this, we'll begin with a critical observation: who exactly are the "we" that tend to place unwavering trust in the most recent evidence? Is it the collective human consciousness, driven by a desire for the latest and the shiniest, or does it extend to certain professionals and experts who work within specialized fields, such as the natural sciences? In essence, the perspective of who "we" are can significantly influence our stance on this matter.
 In a world marked by ever-advancing technology, where the information flows in torrents, it's no surprise that the 'new' can seem irresistible. The question arises: does our sense of being swayed by what's recent merely stem from a fascination with novelty, or does it have deeper roots in our society's relentless march towards progress? This technological advancement is a powerful force shaping our relationship with evidence
 
+
+----
 # Introduction
 
 In our modern, technology-driven world, it is easy to see the appeal of the newest discoveries and latest evidence. With unprecedented access to information, we often privilege what is immediate, viewing recent findings as most authoritative due to their relative newness. However, as the philosopher Johann Wolfgang von Goethe cautioned, “the newest is not always the truest.” This essay will critically examine whether we are too hasty in presuming recent evidence to be strongest through an analysis of the natural sciences and history.

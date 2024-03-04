@@ -54,17 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ad3e14920f1f0e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TOK Essay.md"
+              }
             }
           },
           {
@@ -234,6 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,8 +280,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ad3e14920f1f0e8",
+  "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
+    "Economie Mondiale.md",
     "IB overview.md",
     "Méthode de formation.md",
     "Notion de système.md",
@@ -299,7 +297,6 @@
     "La loi de gravitation universelle de Newton.md",
     "Electricité et magnétisme.md",
     "Excalidraw/Drawing 2024-03-03 23.28.01.excalidraw.md",
-    "Economie Mondiale.md",
     "politique d'offre.canvas",
     "TOK EXHIBITION DRAFT.md",
     "sl subjects/Economie.md",
