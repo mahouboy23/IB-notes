@@ -128,7 +128,7 @@ Evaluating this situation reveals the consequences of access to knowledge, highl
 ## Object 3
 **The Invention of the Printing Press**
 
-The third object of my exhibition is the invention of the printing press by Johannes Gutenberg in the 15th century. This technological advancement has personal significance to me as an avid reader and student of history, representing the democratization of knowledge and its profound impact on society. The printing press revolutionized the way information was disseminated, making books and documents more accessible and fostering a culture of literacy and intellectual exchange that was previously unimaginable.
+The third object of my exhibition is the invention of the printing press by Johannes Gutenberg in the 15th century. The printing press revolutionized the way information was disseminated, making books and documents more accessible and fostering a culture of literacy and intellectual exchange that was previously unimaginable.
 
 The ability to mass-produce written material led to an exponential increase in the availability of knowledge, breaking down barriers that had limited education and intellectual growth to the elite classes. This spread of information catalyzed cultural and intellectual advancements, such as the Renaissance and the Reformation, highlighting the transformative power of accessible knowledge. The printing press not only facilitated the spread of new ideas but also encouraged critical thinking and debate, essential components of intellectual advancement.
 
@@ -140,3 +140,5 @@ references :
 object  : 
 - [7 Ways the Printing Press Changed the World | HISTORY](https://www.history.com/news/printing-press-renaissance)
 - [The Social Impact of the Printing Press - Brilliantio](https://brilliantio.com/the-social-impact-of-the-printing-press/)
+
+
