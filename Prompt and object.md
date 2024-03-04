@@ -121,10 +121,9 @@ The very contribution of Darwin through "The Origin of Species" was more than bi
 The second object is the leaked Pentagon documents concerning the Ukraine/Russia war. My interest was peaked by their leak on Discord and the widespread sharing across social media platforms. The leak, which disclosed detailed assessments of the Ukraine war and NATO's ammunition levels, has big implications for understanding the power of information in shaping public opinion.
 
 These documents, who was once confined within the power of the Pentagon, became a starting point for public unrest and debate upon their unauthorized release. The revelation not only exposed the sensitive perspectives of the U.S. government's on the Ukraine conflict but also highlighted the vulnerabilities in handling classified information. This event demonstrate the delicate balance between transparency and security, showcasing how access to such sensitive information can significantly influence public perception and potentially alter political relations.
-
 The significance of these documents lies in their real-world impact, illustrating the concrete effects of spreading information in the digital world. The public and international reaction to the leaks online highlighted the spread of misinformation, as it visibly affected political views and diplomatic ties between nations. Furthermore, the incident led to a critical assessment of security measures and how information is handled, emphasizing the dangers and obligations that come with the possession and distribution of sensitive information at this level.
 
-Evaluating this situation reveals the implications of access to knowledge, highlighting both the empowerment it offers and the challenges it poses. It accentuates the necessity for ethical considerations in information sharing, emphasizing the profound effects such knowledge can have on global politics and public understanding.
+Evaluating this situation reveals the consequences of access to knowledge, highlighting both the empowerment it offers and the challenges it poses. It accentuates the need for ethical considerations in information sharing, emphasizing the significant effects such knowledge can have on global politics and public understanding.
 
 ## Object 3
 **The Invention of the Printing Press**
