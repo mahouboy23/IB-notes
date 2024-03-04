@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Prompt and object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Prompt and object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Essay.md"
+                "file": "Prompt and object.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Essay.md",
+                "file": "Prompt and object.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,8 +280,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "177385bbf71d7bb9",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "TOK Essay.md",
     "Economie Mondiale.md",
     "IB overview.md",
     "Méthode de formation.md",
@@ -301,7 +302,6 @@
     "TOK EXHIBITION DRAFT.md",
     "sl subjects/Economie.md",
     "TOK Essay draft.md",
-    "TOK Essay.md",
     "TOK reference.md",
     "common core/TOK.md",
     "Prompt and object.md",
