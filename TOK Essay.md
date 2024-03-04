@@ -187,6 +187,22 @@ In the domain of natural sciences, quantum computing stands as a profound challe
   
 The "Great Dying," or the Permian-Triassic extinction event, represents a pivotal area where theoretical evidence in history, specifically within geological and paleontological domains, has profoundly reshaped our understanding of Earth's past. This mass extinction event, which eradicated a significant portion of Earth's species, is theorized to have been caused largely by massive volcanic eruptions, particularly the Siberian Traps, leading to drastic environmental changes. The development and acceptance of the volcanism theory as a primary cause for "The Great Dying" underscore the critical role of theoretical evidence in historical sciences. This theory, supported by a wealth of geological and chemical evidence, including global mercury spikes indicative of volcanic activity, challenges previous notions and invites a reevaluation of extinction dynamics and Earth's vulnerability to extreme environmental shifts. This instance illustrates the intricate relationship between theoretical frameworks and empirical data in constructing historical narratives. The volcanism theory not only provides insights into the causes of mass extinction but also enhances our understanding of Earth's geological and biological evolution. It exemplifies how theoretical evidence, grounded in interdisciplinary research, can illuminate historical events, demonstrating the dynamic and ever-evolving nature of historical knowledge. Through such theoretical explorations, history and science converge to deepen our comprehension of the natural world and its past events.
 
+  
+The comparison between empirical evidence in natural sciences and theoretical evidence in history, specifically through the lenses of the Spinosaurus discovery and the Great Dying volcanism theory, illustrates a fascinating cross-disciplinary dialogue about how we approach and interpret new knowledge. In natural sciences, the Spinosaurus discovery challenged previous assumptions about dinosaur ecology, demonstrating the importance of empirical evidence in reshaping scientific understanding. This discovery not only altered our conception of prehistoric life but also emphasized the necessity of being open to new evidence that contradicts established beliefs.
+Similarly, in history, the theory of volcanism as the cause of the Great Dying offers a theoretical framework that helps explain one of the most significant extinction events in Earth's history. This theory, supported by geological and chemical evidence, underscores the role of theoretical evidence in historical sciences, where integrating data from various disciplines leads to a more comprehensive understanding of past events.
+Both examples highlight the dynamic nature of knowledge across disciplines. The acceptance and integration of new evidence, whether empirical or theoretical, demand a critical and open-minded approach. They demonstrate that advancements in understanding often require revisiting and revising our interpretations of evidence. This cross-disciplinary comparison reveals the complexities of evidence evaluation, showing that the strength of evidence does not solely depend on its recency but on its ability to withstand rigorous scrutiny and its capacity to offer coherent explanations within established frameworks.
+Through these examples, we see the interplay between direct evidence and theoretical modeling in advancing knowledge, emphasizing the importance of interdisciplinary approaches in deepening our understanding of both the natural world and our historical past. These case studies reflect the ongoing quest for knowledge, reminding us of the necessity to critically evaluate new evidence while remaining open to its potential to redefine our understanding of complex phenomena.
+
+# Conclusion
+
+
+
+
+
+
+
+
+
 ----
 # Introduction
 
@@ -207,6 +223,7 @@ While recent evidence enabled by innovative techniques understandably assumes re
 However, McClintock's revelation of "jumping genes" faced skepticism from those wedded more rigidly to existing precepts than open inquiry. Her evidence contravened entrenched stances yet has since withstood the test of time. While initially dismissed, later corroborating experiments established her watershed idea as visionary rather than wrong. This example cautions the natural sciences against too swiftly relegating past understandings on grounds of perceived inadequacy alone.
 
 Even rudimentary evidence thoughtfully marshalled through painstaking investigation holds potential to reshape prevailing narratives, if impartially evaluated on merit rather than bias toward novelty. As was shown, theoretical revolutions sometimes originate from the very lack of complication defining earlier eras yet allow problems previously invisible to emerge. This suggests modern evidence, however powerful, does not necessarily surpass all predecessors in reliability or significance. Discoveries of every age may augment collective knowledge when vetted rigorously rather than being preemptively discredited.
+
 
 # Body (History *Not finished*)
 Historical research relies on understanding the past through available evidence like artifacts, documents and accounts. This allows narratives of bygone eras to be reconstructed. In this section, I will discuss whether recent discoveries provide the strongest insights in history, or if reinterpreting older evidence can also challenge established views.
