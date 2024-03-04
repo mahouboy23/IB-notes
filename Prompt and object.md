@@ -124,7 +124,7 @@ These documents, who was once confined within the power of the Pentagon, became 
 
 The significance of these documents lies in their real-world impact, illustrating the concrete effects of spreading information in the digital world. The public and international reaction to the leaks online highlighted the spread of misinformation, as it visibly affected political views and diplomatic ties between nations. Furthermore, the incident led to a critical assessment of security measures and how information is handled, emphasizing the dangers and obligations that come with the possession and distribution of sensitive information at this level.
 
-Evaluating this situation reveals the implications of access knowledge, highlighting both the empowerment it offers and the challenges it poses. It accentuates the necessity for ethical considerations in information sharing, emphasizing the profound effects such knowledge can have on global politics and public understanding.
+Evaluating this situation reveals the implications of access to knowledge, highlighting both the empowerment it offers and the challenges it poses. It accentuates the necessity for ethical considerations in information sharing, emphasizing the profound effects such knowledge can have on global politics and public understanding.
 
 ## Object 3
 **The Invention of the Printing Press**
