@@ -76,12 +76,5 @@ Created: 2024-01-08
 
 ![[image-20240305093206766.png]]
 
-| Longueur du tube (cm) |  |  |
-| ---- | ---- | ---- |
-| 16 cm |  |  |
-| 12,6 cm |  |  |
-| 9.3 cm |  |  |
-| 6.1 cm |  |  |
-| 2.5 cm |  |  |
 
-i want you to create a table like this using Overleaf and latex
+J'ai changer le focus de mon exploration de "Dans quelle mesure la longueur d'un tube d'un réservoir affecte la durée de vidange"
