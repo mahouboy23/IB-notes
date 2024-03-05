@@ -73,18 +73,9 @@ Created: 2024-01-08
   
   - *Attente : Mise en Évidence de l'Influence de la Viscosité sur la Perte de Charge*
 
-Now Make the Theoretical RELATION part of the IA (\section{Relation Théorique}). You can use this AS AN EXAMPLE but do it for my IA in the format of overlead (no nead to put the header, documents ect... part directly go to the \section{Relation Théorique})
 
-example
-﻿III. Theoretical Relationship of Height of Incline and Moment of Inertia
-A. Variable Relationship As Determined Through D. Mulhayatiah et al. (2018)
-According to D. Mulhayatiah et al. (2018), height is independent of moment of inertia. Their study conducted by rolling a hollow, solid, and layered tubular object on a wooden plane found that although height hand angle of inclination affect a circular object&#039;s angular acceleration, it does not impact the magnitude of its moment of inertia.
-In doing so, they mathematically derived each object&#039;s geometric constant k and substituted this into the equation of inertia. In their discussion, they found that while inertia differed per tubular object, its numerical magnitude remained constant per height h increase as the graph that plotted these variables was perfectly horizontal, indicating an independent relationship.
-B. Variable Relationship As Determined Through Quintic (2007)
-mgh = 1/2mv2 hα v2
-2
-ναω
--1
-According to Quintic (2007), height is inversely proportional moment of inertia, based on the virtue of squared angular velocity. Their experimentation on forward and backward pike dives found that as the angular velocity increased when a swimmer tumbled (circular motion) from higher positions, the moment of inertia decreased; this suggests that while most relationships are positively correlated, the squared inversely proportional relationship noted in, w2×1 ̄1, imply height would possess the same relationship.
-ωα
-Overall, the clear dispute between presented theories prompts the need to conduct further investigations of this topic.
+![[image-20240305093206766.png]]
+
+| Longueur du tube (cm) |  |  |
+| ---- | ---- | ---- |
+|  |  |  |

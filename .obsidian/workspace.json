@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Physics IA draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Physics IA draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Physics IA draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt and object.md"
+                "file": "Physics IA draft.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Physics IA draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,14 +280,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "0b0d25183970c9bd",
   "lastOpenFiles": [
-    "TOK Essay.md",
-    "Economie Mondiale.md",
+    "assets/Physics IA draft/image-20240305093206766.png",
+    "assets/Physics IA draft",
+    "Physics IA.md",
+    "sl subjects/Physics.md",
     "IB overview.md",
+    "Economie Mondiale.md",
+    "Prompt and object.md",
+    "TOK Essay.md",
     "Méthode de formation.md",
     "Notion de système.md",
-    "sl subjects/Physics.md",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
     "sl subjects/assets/Physics/Get an A in TOK Title 6 Guide.pdf",
     "sl subjects/assets/Physics/TOK_exhibition.pdf",
@@ -304,15 +308,12 @@
     "TOK Essay draft.md",
     "TOK reference.md",
     "common core/TOK.md",
-    "Prompt and object.md",
     "TOK Exhibition.md",
     "Microéconomie.md",
     "Exercise economie.md",
     "Bases de données.md",
     "Caractéristique d’une base de données.md",
     "KLDS.md",
-    "Excalidraw/Drawing 2024-03-01 09.49.30.excalidraw.md",
-    "Macroéconomie.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
@@ -330,7 +331,6 @@
     "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées",
     "assets/Subventions",
-    "assets/Quotas",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
