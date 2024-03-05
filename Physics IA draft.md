@@ -77,5 +77,6 @@ Created: 2024-01-08
 ![[image-20240305093206766.png]]
 
 
-J'ai changer le focus de mon exploration de " Dans quelle mesure la longueur d'un tube de vidange d'un réservoir affecte le débit d'écoulement" a "Dans quelle mesure la longueur d'un tube d'un réservoir affecte la durée de vidange". Maintenant il faut que ma théorie reflète ce changement.  (partie experience et autre est déjà bon). Maintenant dit moi qu'elle changement dans ma théorie sera plus pertinente et utile dans mon exploration. 
 
+
+peut créer un graph comme sa qui utilise mes données
