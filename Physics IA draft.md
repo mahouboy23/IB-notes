@@ -83,3 +83,5 @@ Created: 2024-01-08
 | 9.3 cm |  |  |
 | 6.1 cm |  |  |
 | 2.5 cm |  |  |
+
+i want you to create a table like this using Overleaf and latex
