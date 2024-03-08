@@ -9,7 +9,7 @@ tags: EE
 
 ### Updated 
 I want you to find the perfect problem and database to use to complete this research question, give why it is good and think of the implementation and the code and everything else. Then finish and upgrade the structure because after based on the foundation, structure and dataset i want to write and give me the complete code to run the experiment and test (i will give you more details later).
-**Research question:** How effective is particle swarm optimization compared to a genetic algorithm in optimizing the hyperparameters of a convolutional neural network for problem?
+**Research question:** How effective is particle swarm optimization compared to a genetic algorithm in optimizing the hyperparameters of a convolutional neural network for classifying Land Cover using the EuroSAT datatbase?
 
 The problem structure would be:
 
