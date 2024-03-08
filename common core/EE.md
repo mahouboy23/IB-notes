@@ -101,3 +101,53 @@ By focusing on the EuroSAT dataset and the problem of land cover classification,
 
 now i want you to do the steps for hyperparameter optimization. which is step two here is the result btw : Test Accuracy: 83.60%
 code : 
+
+---
+
+**Contents**
+
+- **Introduction**
+    
+    - Overview of hyperparameter optimization in CNNs
+    - Importance of land cover classification
+    - Introduction to the EuroSAT database
+    - Brief overview of PSO and GA
+- **Theoretical Background**
+    
+    - **Neural Networks**
+        - Basic concepts and historical development
+    - **Convolutional Neural Networks**
+        - Architecture and applications in image classification
+    - **Convolution and Sub-sampling Operations**
+        - Detailed explanation of operations within CNNs
+    - **Epochs and Cross-Validation**
+        - Importance in model training and validation
+- **Experimental Methodology & Materials**
+    
+    - **Experimental Procedure**
+        - Description of the experimental setup and procedures
+    - **The Dataset Used**
+        - Detailed overview of the EuroSAT database
+    - **Pre-processing**
+        - Steps taken to prepare the data for training
+    - **Model Architecture**
+        - Detailed architecture of the CNN used in experiments
+- **Experimental Results & Reflection**
+    
+    - **Results Tables**
+        - Presentation of experimental results in tabular form
+    - **Results Graphs**
+        - Graphical representation of the results for better understanding
+- **Analysis & Conclusion**
+    
+    - **Evaluation Metric Explanations**
+        - Explanation of metrics used to evaluate model performance
+    - **Results Analysis**
+        - In-depth analysis of the experimental results
+    - **Experimental Analysis & Limitations**
+        - Discussion on the limitations and potential biases in the experiments
+    - **Conclusion**
+        - Summary of findings, implications, and suggestions for future research
+- **References**
+    
+    - Comprehensive list of all sources cited throughout the essay
