@@ -151,3 +151,5 @@ code :
 - **References**
     
     - Comprehensive list of all sources cited throughout the essay
+
+conda create --name tf_gpu tensorflow-gpu=2.10 cudatoolkit=11.8
