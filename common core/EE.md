@@ -157,3 +157,56 @@ conda create --name tf_gpu python=3.10 tensorflow=2.10 cudatoolkit=11.8 -c conda
 
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 
+#### Réseaux de Neurones
+
+- **Définition et Principes Fondamentaux**: Introduction aux concepts de base des réseaux de neurones, y compris les neurones artificiels, la topologie du réseau, et les types de réseaux de neurones
+    
+    1
+    
+    .
+- **Apprentissage et Backpropagation**: Explication du processus d'apprentissage et de l'algorithme de rétropropagation.
+- **Graphiques et Figures**: Illustration des architectures de réseau typiques et des exemples de propagation avant et arrière.
+
+#### Réseaux de Neurones Convolutifs
+
+- **Architecture des CNN**: Description des couches convolutives, des couches de pooling, des couches entièrement connectées, et des fonctions d'activation utilisées dans les CNN
+    
+    2
+    
+    .
+- **Applications dans la Classification d'Images**: Exemples d'applications des CNN dans la classification d'images, avec des études de cas pertinentes.
+- **Graphiques et Figures**: Schémas détaillés d'une architecture CNN typique et visualisation des opérations de convolution et de pooling.
+
+#### Opérations de Convolution et de Sous-échantillonnage
+
+- **Mécanismes de Convolution**: Explication détaillée de l'opération de convolution, y compris les filtres et les cartes de caractéristiques
+    
+    3
+    
+    .
+- **Sous-échantillonnage (Pooling)**: Discussion sur les différentes méthodes de pooling, telles que le max pooling et l'average pooling, et leur impact sur la réduction de la dimensionnalité.
+- **Graphiques et Figures**: Visualisation des opérations de convolution et de pooling sur des images d'exemple.
+
+#### Époques et Validation Croisée
+
+- **Importance des Époques**: Analyse de l'importance du nombre d'époques dans l'entraînement des modèles de réseaux de neurones.
+- **Méthodes de Validation Croisée**: Présentation des techniques de validation croisée pour évaluer la performance des modèles et éviter le surajustement.
+- **Graphiques et Figures**: Graphiques illustrant l'évolution de l'erreur de validation et de l'erreur d'entraînement au fil des époques.
+
+#### Références à Utiliser
+
+1. Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015 - Ce livre fournit une introduction complète aux réseaux de neurones et à l'apprentissage profond
+    
+    1
+    
+    .
+2. Tatsuki Serizawa et al., "Optimization of Convolutional Neural Network Using the Linearly Decreasing Weight Particle Swarm Optimization", 2022 - Cette étude présente l'optimisation des hyperparamètres des CNN à l'aide de l'optimisation par essaim de particules
+    
+    1
+    
+    .
+3. Yasunori Yamada et Tetsuro Morimura, "Weight Features for Predicting Future Model Performance of Deep Neural Networks", JMLR, 2016 - Cet article explore les caractéristiques de poids pour la prédiction des performances des modèles de réseaux de neurones profonds
+    
+    3
+    
+    .
