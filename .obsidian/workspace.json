@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA draft.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA draft.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,11 +282,18 @@
   },
   "active": "0b0d25183970c9bd",
   "lastOpenFiles": [
+    "Learn ee.md",
+    "common core/EE.md",
+    "Possible structure.md",
+    "Experiment.md",
+    "EE NEW.md",
+    "IB overview.md",
+    "University.md",
+    "Physics IA draft.md",
     "assets/Physics IA draft/image-20240305093206766.png",
     "assets/Physics IA draft",
     "Physics IA.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Economie Mondiale.md",
     "Prompt and object.md",
     "TOK Essay.md",
@@ -308,12 +315,6 @@
     "TOK Essay draft.md",
     "TOK reference.md",
     "common core/TOK.md",
-    "TOK Exhibition.md",
-    "Microéconomie.md",
-    "Exercise economie.md",
-    "Bases de données.md",
-    "Caractéristique d’une base de données.md",
-    "KLDS.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
@@ -328,7 +329,6 @@
     "assets/Physics IA/image-20240115182726125.png",
     "assets/Physics IA",
     "assets/Les listes chaînées/image-20240111161153202.png",
-    "assets/Les listes chaînées/image-20240111161051443.png",
     "assets/Les listes chaînées",
     "assets/Subventions",
     "Eléctricite et magnétisme fiche revision.canvas",

@@ -7,15 +7,17 @@ tags: EE
 ***ENGLISH***
 ## **Topic**: Comparing optimization algorithms for neural network hyperparameter tuning
 
-### **Updated Research question:** How effective is particle swarm optimization compared to a genetic algorithm in optimizing the hyperparameters of a convolutional neural network for defect detection in industrial products?
+### Updated 
+I want you to find the perfect problem and database to use to complete this research question, give why it is good and think of the implementation and the code and everything else. Then finish and upgrade the structure because after based on the foundation, structure and dataset i want to write and give me the complete code to run the experiment and test (i will give you more details later).
+**Research question:** How effective is particle swarm optimization compared to a genetic algorithm in optimizing the hyperparameters of a convolutional neural network for problem?
 
 The problem structure would be:
 
-1. Choose the MVTec AD dataset which contains high-resolution industrial product images with defect annotations. Divide it into training, validation and test sets.
+1. Choose the dataset which contains high-resolution images with proper annotations. Divide it into training, validation and test sets.
     
-2. Implement a convolutional neural network with appropriate layers for defect detection in the product images.
+2. Implement a convolutional neural network with appropriate layers for "problem" in the data.
     
-3. Define the hyperparameters to optimize: filter sizes, number of filters, dropout rate, learning rate, etc.
+3. Define the hyperparameters to optimize. like: filter sizes, number of filters, dropout rate, learning rate, etc.
     
 4. Implement the optimization algorithms:
 
