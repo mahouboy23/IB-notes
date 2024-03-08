@@ -152,4 +152,4 @@ code :
     
     - Comprehensive list of all sources cited throughout the essay
 
-conda create --name tf_gpu tensorflow-gpu=2.10 cudatoolkit=11.2
+conda create --name tf_gpu python=3.10 cudatoolkit=11.8 -c conda-forge
