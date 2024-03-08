@@ -154,3 +154,6 @@ code :
 
 conda create --name tf_gpu python=3.10 tensorflow=2.10 cudatoolkit=11.8 -c conda-forge
 
+
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+
