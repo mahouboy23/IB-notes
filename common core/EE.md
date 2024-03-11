@@ -268,7 +268,8 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
 - **Principes de PSO et GA**
     
     - Introduction et fondements théoriques de PSO et GA
-    - Comparaison des mécanismes de PSO et GA
+    - Fonctionnement des deux algorithm
+    - Études de cas et résultats antérieurs dans la littérature
     
 - **Application de PSO et GA dans l'Optimisation des Hyperparamètres des CNNs**
     
