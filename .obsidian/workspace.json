@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt and object.md"
+                "file": "TOK Essay.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "TOK Essay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,14 +280,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b0d25183970c9bd",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "common core/TOK.md",
+    "IB overview.md",
+    "Prompt and object.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
-    "common core/TOK.md",
     "TOK Essay.md",
     "TOK reference.md",
-    "IB overview.md",
     "common core/EE.md",
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
@@ -303,7 +304,6 @@
     "Physics IA.md",
     "sl subjects/Physics.md",
     "Economie Mondiale.md",
-    "Prompt and object.md",
     "Méthode de formation.md",
     "Notion de système.md",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
