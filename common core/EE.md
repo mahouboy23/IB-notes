@@ -210,3 +210,67 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
     3
     
     .
+
+## Réseaux de Neurones (NNs)
+
+- **Définition et Principes Fondamentaux**
+    
+    - Introduction aux NNs
+    - Historique et évolution
+    
+- **Fonctionnement des NNs**
+    
+    - Neurones artificiels : structure et fonctionnement
+    - Architecture des NNs : couches d'entrée, cachées, et de sortie
+    - Processus d'apprentissage dans les NNs
+    - Fonctions d'activation : types et rôles
+    
+
+## Réseaux de Neurones Convolutifs (CNNs)
+
+- **Introduction aux CNNs**
+    
+    - Spécificités et avantages des CNNs par rapport aux NNs classiques
+    
+- **Architecture des CNNs**
+    
+    - Convolution et pooling : principes et objectifs
+    - Couches entièrement connectées dans les CNNs
+    
+- **CNNs dans la Classification d'Images**
+    
+    - Exemples d'applications des CNNs dans la vision par ordinateur
+    - Importance des CNNs dans l'analyse d'images satellites
+    
+
+## Hyperparamètres dans les CNNs
+
+- **Définition et Importance des Hyperparamètres**
+    
+    - Différence entre paramètres et hyperparamètres
+    - Impact des hyperparamètres sur la performance des CNNs
+    
+- **Hyperparamètres Clés dans les CNNs**
+    
+    - Taux d'apprentissage
+    - Nombre de couches et de neurones par couche
+    - Taille des filtres et stride dans les couches de convolution
+    - Taux de dropout et techniques de régularisation
+    
+- **Optimisation des Hyperparamètres**
+    
+    - Nécessité d'optimiser les hyperparamètres
+    - Méthodes traditionnelles d'optimisation des hyperparamètres
+    
+
+## Optimisation par Essaim de Particules (PSO) et Algorithme Génétique (GA)
+
+- **Principes de PSO et GA**
+    
+    - Introduction et fondements théoriques de PSO et GA
+    - Comparaison des mécanismes de PSO et GA
+    
+- **Application de PSO et GA dans l'Optimisation des Hyperparamètres des CNNs**
+    
+    - Avantages et défis de l'utilisation de PSO et GA pour l'optimisation des hyperparamètres
+    - Études de cas et résultats antérieurs dans la littérature
