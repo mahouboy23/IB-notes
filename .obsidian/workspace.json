@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prompt and object.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prompt and object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prompt and object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common core/EE.md"
+                "file": "Prompt and object.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "common core/EE.md",
+                "file": "Prompt and object.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,15 +282,20 @@
   },
   "active": "0b0d25183970c9bd",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
+    "TOK EXHIBITION DRAFT.md",
+    "common core/TOK.md",
+    "TOK Essay.md",
+    "TOK reference.md",
+    "IB overview.md",
+    "common core/EE.md",
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
     "common core/assets",
     "Experiment.md",
-    "common core/EE.md",
     "EE NEW.md",
     "Learn ee.md",
     "Possible structure.md",
-    "IB overview.md",
     "University.md",
     "Physics IA draft.md",
     "assets/Physics IA draft/image-20240305093206766.png",
@@ -299,7 +304,6 @@
     "sl subjects/Physics.md",
     "Economie Mondiale.md",
     "Prompt and object.md",
-    "TOK Essay.md",
     "Méthode de formation.md",
     "Notion de système.md",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
@@ -313,10 +317,7 @@
     "Electricité et magnétisme.md",
     "Excalidraw/Drawing 2024-03-03 23.28.01.excalidraw.md",
     "politique d'offre.canvas",
-    "TOK EXHIBITION DRAFT.md",
     "sl subjects/Economie.md",
-    "TOK Essay draft.md",
-    "TOK reference.md",
     "assets/Ondes static/image-20240129115154496.png",
     "assets/Ondes static/image-20240129114646404.png",
     "assets/Ondes static/image-20240129114503808.png",
@@ -330,7 +331,6 @@
     "assets/Physics IA/image-20240115183224652.png",
     "assets/Physics IA/image-20240115182726125.png",
     "assets/Physics IA",
-    "assets/Les listes chaînées/image-20240111161153202.png",
     "Eléctricite et magnétisme fiche revision.canvas",
     "Extended Essay.canvas"
   ]
