@@ -277,3 +277,5 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
     - Études de cas et résultats antérieurs dans la littérature
 
 [Principle diagram of convolution process | Download Scientific Diagram](https://www.researchgate.net/figure/Principle-diagram-of-convolution-process_fig1_339918931)
+
+[Explorez les réseaux de neurones en couches - Initiez-vous au Deep Learning - OpenClassrooms](https://openclassrooms.com/fr/courses/5801891-initiez-vous-au-deep-learning/5814616-explorez-les-reseaux-de-neurones-en-couches) 
