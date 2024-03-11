@@ -275,3 +275,5 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
     
     - Avantages et défis de l'utilisation de PSO et GA pour l'optimisation des hyperparamètres
     - Études de cas et résultats antérieurs dans la littérature
+
+[Principle diagram of convolution process | Download Scientific Diagram](https://www.researchgate.net/figure/Principle-diagram-of-convolution-process_fig1_339918931)
