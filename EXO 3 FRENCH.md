@@ -74,4 +74,30 @@ Created: 2024-03-12
 14. En d'autres termes
 15. À long terme
 
-I want you to completly change and redo the
+I want you to completly change and redo the "2.4.2 l’algorithm d’essaim de particules", still in french. MAKE IT AS LONG and add a graph or figure that will with the explanation. it has to be in FRENCH and use the overleaf format.
+\subsubsection{l'algorithm d'essaim de particules}
+
+L'Optimisation par Essaims Particulaires (PSO) est une technique d'optimisation inspirée par le comportement social des oiseaux et des poissons. Dans PSO, un groupe de particules, représentant des solutions potentielles, navigue à travers l'espace de solutions d'un problème pour trouver la meilleure solution possible. Chaque particule ajuste sa position en fonction de sa meilleure solution connue (meilleur personnel) et de la meilleure solution découverte par l'ensemble du groupe (meilleur global). Ce mouvement collaboratif permet aux particules de converger vers des solutions optimales au fil des itérations.
+
+PSO est largement utilisé pour les problèmes d'optimisation dans divers domaines, tirant parti de l'intelligence collective pour explorer des espaces de solutions complexes et trouver des résultats optimaux de manière efficace. L'algorithme PSO commence par créer une "population" d'agents (particules) répartis uniformément sur l'espace de solutions. Chaque particule ajuste sa position en fonction de son meilleur résultat personnel et du meilleur résultat global découvert par le groupe, ce qui aide à trouver la meilleure réponse plus rapidement.
+
+Le fonctionnement de PSO peut être décrit par plusieurs paramètres clés, notamment la vitesse de la particule, la position de la particule, le meilleur personnel (pBest), et le meilleur global (gBest). Chaque particule modifie sa position en fonction de sa position actuelle, de sa vitesse actuelle, de la distance entre sa position actuelle et pBest, et de la distance entre sa position actuelle et gBest.
+
+PSO est un algorithme métaheuristique, ce qui signifie qu'il ne garantit pas de trouver le maximum global ou minimum global exact, mais il s'en approche très près. C'est pourquoi PSO est considéré comme un modèle heuristique. Trouver le maximum global ou minimum global peut être problématique, surtout si la fonction est complexe et comporte de nombreux maxima et minima locaux. PSO tente de capturer le maximum global ou minimum global. Même s'il ne peut pas capturer exactement le maximum global/minimum global, il s'en approche de très près.
+
+Pour une explication visuelle de PSO, considérons la fonction à minimiser :
+\[ f(x, y) = x^2 + (y + 1)^2 - 5\cos(1.5x + 1.5) - 3\cos(2x - 1.5) \]
+
+Avant de plonger dans notre cas d'application simple, revenons un peu en arrière. L'Optimisation par Essaims Particulaires est une technique d'optimisation stochastique basée sur la population développée par le Dr. Eberhart et le Dr. Kennedy en 1995, inspirée par le comportement social des oiseaux ou des bancs de poissons.
+
+Chaque particule représente une solution potentielle dans un espace de recherche. Aucune des particules ne sait où se trouve la solution optimale, mais toutes les particules ont des valeurs de fitness évaluées par la fonction de fitness à optimiser.
+
+Avant d'expliquer l'algorithme PSO, concentrons-nous sur nos particules. Chacune de ces particules est une solution potentielle de la fonction à minimiser. Elles sont définies par leurs coordonnées dans l'espace de recherche.
+
+Les particules ont déjà été réparties aléatoirement dans l'espace de recherche. Leur vitesse doit alors être initialisée. Définie par sa vitesse dans chaque direction, le vecteur vitesse sera une fois de plus aléatoire.
+
+PSO partage de nombreuses similitudes avec les techniques d'évolution computationnelle telles que les Algorithmes Génétiques (GA). Le système est initialisé avec une population de solutions aléatoires et recherche des optima en mettant à jour les générations. Cependant, contrairement aux GA, PSO n'a pas d'opérateurs d'évolution tels que le croisement et la mutation. La différence réside dans la manière dont les générations sont mises à jour.
+
+Concrètement, à chaque itération, chaque particule est mise à jour en fonction de sa vitesse. Cette vitesse est soumise à l'inertie et est gouvernée par les deux meilleures valeurs trouvées jusqu'à présent.
+
+Le challenge sera de déterminer l'impact de ces coefficients pour trouver un bon équilibre entre exploration et exploitation. 
