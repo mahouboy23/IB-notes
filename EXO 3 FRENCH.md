@@ -58,3 +58,18 @@ Created: 2024-03-12
 11. en cours
 
 ## exo 4
+1. Paragraphe 1 : B : Les activités de loisirs sont aussi bonnes que le sport pour notre bien-être.
+2. Paragraphe 2 : D : Les activités récréatives aident à diminuer le stress.
+3. Paragraphe 3 : E : Les activités récréatives produisent des hormones favorisant un bien-être physique et mental.
+4. Paragraphe 4 : A : Toutes les activités de loisir ne sont pas bénéfiques à la santé.
+5. Paragraphe 5 : C : Il faut équilibrer le travail avec les activités récréatives.
+6. inactif (paragraphe 1) : sédentaires
+7. mauvais (paragraphe 4) : néfastes
+8. travailler trop et quand le travail nuit à la santé (paragraphe 5) : Se tuer au travail
+9. elles diminuent les hormones du stress : les activités qui nous procurent du plaisir
+10. les choses qui leur plaît : les activités de loisirs
+11. que celles qui sont constamment stressées : les personnes
+12. Alors que
+13. En contrepartie
+14. En d'autres termes
+15. À long terme
