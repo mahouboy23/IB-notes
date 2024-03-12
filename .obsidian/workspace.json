@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO.md",
+                "file": "EXO 3 FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IO.md",
+                "file": "EXO 3 FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO.md"
+                "file": "EXO 3 FRENCH.md"
               }
             }
           },
@@ -254,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IO.md",
+                "file": "EXO 3 FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,10 +303,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6103d4a044526482",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "IO.md",
+    "Prompt and object.md",
     "Individual Oral.md",
+    "IO.md",
     "sl subjects/English and Literature.md",
     "IB overview.md",
     "EXO 3 FRENCH.md",
@@ -316,7 +316,6 @@
     "common core/EE.md",
     "TOK Essay.md",
     "common core/TOK.md",
-    "Prompt and object.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "TOK reference.md",
