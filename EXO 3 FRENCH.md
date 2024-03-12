@@ -74,4 +74,4 @@ Created: 2024-03-12
 14. En d'autres termes
 15. À long terme
 
-I want you to completly
+I want you to completly change and redo the
