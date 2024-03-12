@@ -20,9 +20,22 @@ Created: 2024-03-12
 
 
 ## exo 2
-
-
-
+1. **Quel est l’objectif de ce reportage ?** La réponse correcte est D : De nous sensibiliser à une égalité envers les femmes
+   
+2. **Quels types de produits ne sont pas touchés par la taxe rose ?** La réponse correcte est C : les produits alimentaires
+   
+3. **Parmi ces objets et services pour les femmes, lequel a une différence de prix plus grande par rapport à ceux des hommes ?** La réponse correcte est C : un coupe de cheveux courts
+   
+4. **Donnez quatre produits de toilette qui sont plus chers pour les femmes que pour les hommes.**
+    - Déodorants
+    - Rasoirs
+    - Crèmes hydratantes
+    - Antisudorifiques
+5. **De quelles deux manières les vêtements de femmes mentionnés dans le reportage se différencient ils de ceux des hommes ?** Les vêtements de femmes se différencient des vêtements d'hommes par la couleur et le prix plus élevé pour des articles identiques
+   
+6. **Pourquoi l’auteur dit-il que les femmes sont « doublement désavantagées » ?** Les femmes sont considérées comme "doublement désavantagées" car elles sont soumises à une TVA plus élevée sur des produits exclusivement féminins et gagnent en moyenne 25% de moins que les hommes en France
+   
+7. **Quels sont les deux arguments du présentateur du reportage pour conclure ?** Les deux arguments du présentateur pour conclure sont la nécessité d'alerter le public sur cette inégalité et l'importance d'arrêter le marketing genré pour le bien de tous les consommateurs et de la société
 
 ## exo 3
 1. De quel type de texte s’agit-il ?  
@@ -44,4 +57,4 @@ Created: 2024-03-12
 10. jamais
 11. en cours
 
-##
+## exo 4
