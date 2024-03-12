@@ -92,4 +92,4 @@ Concrètement, à chaque itération, chaque particule est mise à jour en foncti
 Le challenge sera de déterminer l'impact de ces coefficients pour trouver un bon équilibre entre exploration et exploitation. 
 ![[image-20240312113126650.png]]
 
-i have a few thinks that should be possible, when you first load in there will be no table yet, then when you choose
+i have a few thinks that should be possible, when you first load in there will be no table yet, then when you choose a class it takes only a students from that class (there is a all version ), for student there is also a (all version). The add grade and delete grade updates to see the modification autimaticaly with the different changes automaticaly applied.
