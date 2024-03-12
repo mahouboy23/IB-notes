@@ -3,6 +3,8 @@ tags : mod Francais
 ---
 Created: 2024-03-12
 
+
+## exo 1
 1. La bonne réponse est C : informer de cette nouvelle forme de divertissement. Le texte aborde la manière dont les écrans sont devenus une forme de divertissement prédominante, en particulier chez les adolescents, et comment cela s'inscrit dans les pratiques culturelles et sociales actuelles.
 2. Examiner a le même sens que "faire le même constat" (paragraphe 1).
 3. En plus de a le même sens que "Outre" (paragraphe 1).
@@ -14,3 +16,32 @@ Created: 2024-03-12
 9. À peine rentrés... D : les jeunes se connectent sur leur téléphone pour tchatter (paragraphe 5).
 10. Le niveau de vie... B : influence la façon de se cultiver et de se divertir (paragraphe 6).
 11. L’usage excessif d’écrans... C : gêne la communication au cœur de la famille (paragraphe 7).
+
+
+
+## exo 2
+
+
+
+
+## exo 3
+1. De quel type de texte s’agit-il ?  
+    C : Un blog
+2. Selon l’auteur du texte…  
+    D : la science et la technologie avancent ensemble dans le domaine médical
+3. Donnez l’affirmation qui est correcte.  
+    B : C’est un étudiant en médecine qui est intéressé par l’utilisation de la technologie en médecine.
+4. La chirurgie robotique rend le travail du chirurgien plus facile.  
+    Vrai  
+    Justification : La chirurgie assistée par robot permet aux chirurgiens d'avoir une meilleure visibilité, une vision précise en 3D, une manipulation plus précise des instruments, et des incisions plus petites, ce qui améliore la qualité de vie du patient et sa guérison (paragraphe 4).
+5. Le test sanguin développé par l’Université de Stanford est entièrement efficace.  
+    Faux  
+    Justification : Les chercheurs estiment la fiabilité de leurs résultats à 80% pour diagnostiquer les risques de naissances prématurées (paragraphe 5).
+6. L'avantage des électrocardiogrammes portables à l'avenir comparé à la situation actuelle serait leur capacité à prévenir les troubles cardiaques dans des situations de la vie quotidienne.
+7. Les particularités du dernier modèle d'électrocardiogramme portable sont qu'il utilise les signaux de l'oreille, peut être contrôlé d'une seule main, et est particulièrement utile aux conducteurs de voiture pour garder une main sur le volant en cas d'alerte (paragraphe 6).
+8. actuellement
+9. afin de
+10. jamais
+11. en cours
+
+##
