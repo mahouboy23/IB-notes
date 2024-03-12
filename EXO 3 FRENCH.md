@@ -90,3 +90,5 @@ Les particules ont déjà été réparties aléatoirement dans l'espace de reche
 PSO partage de nombreuses similitudes avec les techniques d'évolution computationnelle telles que les Algorithmes Génétiques (GA). Le système est initialisé avec une population de solutions aléatoires et recherche des optima en mettant à jour les générations. Cependant, contrairement aux GA, PSO n'a pas d'opérateurs d'évolution tels que le croisement et la mutation. La différence réside dans la manière dont les générations sont mises à jour.
 Concrètement, à chaque itération, chaque particule est mise à jour en fonction de sa vitesse. Cette vitesse est soumise à l'inertie et est gouvernée par les deux meilleures valeurs trouvées jusqu'à présent.
 Le challenge sera de déterminer l'impact de ces coefficients pour trouver un bon équilibre entre exploration et exploitation. 
+![[image-20240312113126650.png]]
+
