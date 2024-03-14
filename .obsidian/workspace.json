@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "DATA STRUCTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "DATA STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "DATA STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "DATA STRUCTURE.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "DATA STRUCTURE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,15 +306,16 @@
   },
   "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
-    "IB overview.md",
-    "web app.md",
+    "Computer science exploration.md",
     "hl subjects/Computer science.md",
+    "IB overview.md",
+    "sl subjects/Economie.md",
+    "web app.md",
     "common core/TOK.md",
     "common core/CAS.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "EXO 3 FRENCH.md",
-    "Computer science exploration.md",
     "Computer science classwork.md",
     "common core/EE.md",
     "TOK Essay.md",
@@ -336,7 +337,6 @@
     "EE NEW.md",
     "Learn ee.md",
     "Possible structure.md",
-    "University.md",
     "assets/Physics IA draft/image-20240305093206766.png",
     "assets/Physics IA draft",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
