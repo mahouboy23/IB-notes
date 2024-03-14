@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,10 +305,13 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
     "IB overview.md",
-    "EXO 3 FRENCH.md",
+    "common core/TOK.md",
+    "common core/CAS.md",
+    "MATH INTERNAL ASSESMENT.md",
     "web app.md",
+    "hl subjects/Math AA.md",
+    "EXO 3 FRENCH.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "Computer science classwork.md",
@@ -322,7 +325,6 @@
     "sl subjects/English and Literature.md",
     "hl subjects/Français B.md",
     "TOK Essay draft.md",
-    "common core/TOK.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
     "TOK reference.md",
@@ -334,10 +336,8 @@
     "Learn ee.md",
     "Possible structure.md",
     "University.md",
-    "Physics IA draft.md",
     "assets/Physics IA draft/image-20240305093206766.png",
     "assets/Physics IA draft",
-    "Physics IA.md",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
     "sl subjects/assets/Physics/Get an A in TOK Title 6 Guide.pdf",
     "sl subjects/assets/Physics/TOK_exhibition.pdf",
