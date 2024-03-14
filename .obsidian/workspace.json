@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web app.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -253,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,17 +304,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
     "IB overview.md",
+    "web app.md",
+    "hl subjects/Computer science.md",
     "common core/TOK.md",
     "common core/CAS.md",
     "MATH INTERNAL ASSESMENT.md",
-    "web app.md",
     "hl subjects/Math AA.md",
     "EXO 3 FRENCH.md",
     "Computer science exploration.md",
-    "hl subjects/Computer science.md",
     "Computer science classwork.md",
     "common core/EE.md",
     "TOK Essay.md",
