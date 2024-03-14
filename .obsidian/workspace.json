@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXO 3 FRENCH.md"
+                "file": "MATH INTERNAL ASSESMENT.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,14 +305,15 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "EXO 3 FRENCH.md",
     "web app.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "Computer science classwork.md",
-    "IB overview.md",
     "common core/EE.md",
     "TOK Essay.md",
-    "EXO 3 FRENCH.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "Prompt and object.md",
@@ -337,7 +338,6 @@
     "assets/Physics IA draft/image-20240305093206766.png",
     "assets/Physics IA draft",
     "Physics IA.md",
-    "sl subjects/Physics.md",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
     "sl subjects/assets/Physics/Get an A in TOK Title 6 Guide.pdf",
     "sl subjects/assets/Physics/TOK_exhibition.pdf",
