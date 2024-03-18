@@ -42,4 +42,36 @@ Le planning
 Le scénario 
 De nombreuses personnes ont du mal à gérer leurs tâches personnelles et leurs listes de choses à faire, ce qui peut entraîner des retards, des oublis. C’est le cas de mon client/camarade de classe, Mr.Dia qui a des problèmes d’organisation et qui souhaite avoir une meilleure gestion de son temps et une meilleure vue sur ses activités scolaires comme extra scolaires. Donc je veux créer un site qui affiche un emploie du temps avec les taches dedans et une forme pour creer un tache avec plusieur parametre comme la date, type de tache, difficulte ect... Je veux utiliser HTML et bootstrap mais pour la logic et la fonctionnalite je suis pas sur de quoi utiliser, mais je vais utiliser Mysql pour la base de donnees. Donc organise moi mes idees et creer une structure du site avec les pages leur fonctionnalite, la structure et aussi qu'est ce que je vais utiliser.
 
-I want you to help me fix my web app, there are things that need to change for it to work. First is the grade/boundaries logic and database implementation. I want the teacher to be able to when he inputs a grade it will automatically convert it over 7 thanks to the boundaries. the logic should be that the teacher can be any grade (3, 6, 100, 1000 ect) and it could be over anything (but the grades the teacher can input has to have the grade and what it is over like (5/10 or 5/100) it has to be specified in the grade boundaries for example he set gradeboundaries for over 100 it can convert if for example he did not set a gradeboundarie for over 20 it will automaticaly do calculation to convert but first warn them that no grade boundarie has been set and it will automatically convert). In the boundaries part, for each of his subject in different classes he can set grades boundaries to convert to 7, first he chooses from his (class - subject (for example class 12 math or class 11 math)) and then adds a new gradeboundarie (for example the boundaries for over 20) and then he can start adding intervals (for example from 0 to 5 is 1 and 5 to 8 is 2 etc...) but the system has to have boundaries for 1 to 7 to complete the gradeboundarie. now i have some stuff set up but i did not think that far ahead so i did really well set up my sql database and tables and variables so i cannot implement it correctly, even in the backend the crud operations work but are not enough for all my functionnalies and the logic in the react app is not enough or focuse. so I want you to fix all of this so i can correctly implement
+I want you to help me fix my web app, there are things that need to change for it to work. First is the grade/boundaries logic and database implementation. I want the teacher to be able to when he inputs a grade it will automatically convert it over 7 thanks to the boundaries. the logic should be that the teacher can be any grade (3, 6, 100, 1000 ect) and it could be over anything (but the grades the teacher can input has to have the grade and what it is over like (5/10 or 5/100) it has to be specified in the grade boundaries for example he set gradeboundaries for over 100 it can convert if for example he did not set a gradeboundarie for over 20 it will automaticaly do calculation to convert but first warn them that no grade boundarie has been set and it will automatically convert). In the boundaries part, for each of his subject in different classes he can set grades boundaries to convert to 7, first he chooses from his (class - subject (for example class 12 math or class 11 math)) and then adds a new gradeboundarie (for example the boundaries for over 20) and then he can start adding intervals (for example from 0 to 5 is 1 and 5 to 8 is 2 etc...) but the system has to have boundaries for 1 to 7 to complete the gradeboundarie. now i have some stuff set up but i did not think that far ahead so i did really well set up my sql database and tables and variables so i cannot implement it correctly, even in the backend the crud operations work but are not enough for all my functionnalies and the logic in the react app is not enough or focuse. so I want you to fix all of this so i can correctly implement the feature.
+
+context : 
+### Database Schema
+
+1. **Users Table** (For storing user information including teachers, students, and coordinators)
+    
+    - `user_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `username` VARCHAR(255) UNIQUE NOT NULL
+    - `password` VARCHAR(255) NOT NULL
+    - `role` ENUM('teacher', 'student', 'coordinator') NOT NULL
+    - `full_name` VARCHAR(255) NOT NULL
+2. **Classes Table** (For storing class details)
+    
+    - `class_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `class_name` VARCHAR(255) NOT NULL
+    - `grade_level` ENUM('11', '12') NOT NULL
+    - `subject` VARCHAR(255) NOT NULL
+    - `teacher_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
+3. **Grades Table** (For storing grades of students)
+    
+    - `grade_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `student_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
+    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
+    - `grade_value` DECIMAL(5,2) NOT NULL
+    - `trimester` ENUM('1', '2', '3') NOT NULL
+4. **GradeBoundaries Table** (For storing grade boundaries for subjects)
+    
+    - `boundary_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
+    - `minimum_value` DECIMAL(5,2) NOT NULL
+    - `maximum_value` DECIMAL(5,2) NOT NULL
+    - `ib_grade` INT NOT NULL
