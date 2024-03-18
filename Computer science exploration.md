@@ -142,3 +142,5 @@ Adjust the `Grades.css` file to style the new form elements and interfaces for
 ## Summary
 
 The above modifications provide a comprehensive approach to implementing the required feature. The backend logic ensures that grades are converted according to predefined boundaries or through an automatic conversion when boundaries are not set. The frontend interface allows teachers to manage these boundaries and input grades in a flexible format.
+
+ok now after implement the basics everything is kinda working but there is a lot of stuff to modify and fi
