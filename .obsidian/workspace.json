@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXO 3 FRENCH.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -254,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,13 +303,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "177385bbf71d7bb9",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "EXO 3 FRENCH.md",
     "hl subjects/Français B.md",
     "Exploration francais.md",
     "IB overview.md",
     "DATA STRUCTURE.md",
-    "hl subjects/Computer science.md",
     "Computer science classwork.md",
     "IO.md",
     "Individual Oral.md",
@@ -322,7 +322,6 @@
     "common core/CAS.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
-    "EXO 3 FRENCH.md",
     "common core/EE.md",
     "TOK Essay.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
