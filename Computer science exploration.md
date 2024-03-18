@@ -67,6 +67,7 @@ context :
     - `student_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
     - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
     - `grade_value` DECIMAL(5,2) NOT NULL
+    -  `total_value` DECIMAL(5,2) NOT NULL AFTER
     - `trimester` ENUM('1', '2', '3') NOT NULL
 4. **GradeBoundaries Table** (For storing grade boundaries for subjects)
     
