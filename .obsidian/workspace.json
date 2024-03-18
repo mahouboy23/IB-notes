@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt and object.md",
+                "file": "Imagerie.md",
                 "mode": "source",
                 "source": false
               }
@@ -305,17 +305,19 @@
   },
   "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "DATA STRUCTURE.md",
+    "Imagerie.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Prompt and object.md",
     "Computer science exploration.md",
+    "DATA STRUCTURE.md",
     "hl subjects/Computer science.md",
     "EXO 3 FRENCH.md",
     "hl subjects/Français B.md",
     "Exploration francais.md",
-    "IB overview.md",
     "Computer science classwork.md",
     "IO.md",
     "Individual Oral.md",
-    "Prompt and object.md",
     "sl subjects/Economie.md",
     "web app.md",
     "common core/TOK.md",
@@ -334,8 +336,6 @@
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
     "common core/assets",
-    "Experiment.md",
-    "EE NEW.md",
     "assets/Physics IA draft/image-20240305093206766.png",
     "assets/Physics IA draft",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",

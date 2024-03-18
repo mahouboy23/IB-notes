@@ -78,9 +78,13 @@ context :
 
 To fully implement the feature that allows teachers to input grades in any format and have them automatically converted to the IB scale of 1 to 7 based on predefined grade boundaries, we need to make several modifications to the current application structure. This includes changes to the database schema, backend logic, and frontend interface.
 
+Here i want you to again develop the structure and answer to the notes in the different partd
+# structure:
+
 ## Database Schema Modifications
 
 We need to modify the `GradeBoundaries` table to include the `over_value` column, which specifies the total value over which the grade is calculated.
+*Note* : Add possible modification to the the grades table to better work and implement the features, and work out all the kinks of the logic so that we can properly add all the features and functionality.
 
 sql
 
@@ -104,6 +108,7 @@ javascript
 
 `// boundariesController.js  exports.addBoundary = async (req, res) => {     // Implementation for adding a new grade boundary };  exports.updateBoundary = async (req, res) => {     // Implementation for updating an existing grade boundary };  exports.deleteBoundary = async (req, res) => {     // Implementation for deleting a grade boundary };  exports.getBoundariesByClass = async (req, res) => {     // Implementation for fetching grade boundaries by class };`
 
+*Note* : add all the operations we will need crud and other so that we can implement all the features and when we do the logic nothing will be missing or incomplete.
 ## 3. Define routes for `GradeBoundaries` in `boundariesRoute.js`
 
 javascript
@@ -117,7 +122,7 @@ javascript
 `// server.js  const boundariesRoutes = require('./routes/boundariesRoute'); // ... other requires  // Use boundariesRoutes for any requests to /api/boundaries app.use('/api', boundariesRoutes);  // ... rest of the server.js code`
 
 ## Frontend Modifications
-
+*Note*: Even if you don't give the code develop this part by outlying all the logic and ways we are gonna implement it in the frontend. EXPLAIN and details the different techniques, ways and logic to implement all the features. TELL me exactly how you are gonna do and implement everything
 ## 1. Update the grade input form
 
 The form for inputting grades should allow teachers to specify the grade and the total value over which the grade is calculated (e.g., 5/10).
