@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "MATH IA HL.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "MATH IA HL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "MATH IA HL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "MATH IA HL.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "MATH IA HL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,8 +245,9 @@
   },
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "IO.md",
     "MATH INTERNAL ASSESMENT.md",
+    "MATH IA HL.md",
+    "IO.md",
     "Imagerie.md",
     "Computer science exploration.md",
     "EXO 4 FRENCH.md",
@@ -272,7 +273,6 @@
     "sl subjects/English and Literature.md",
     "TOK Essay draft.md",
     "TOK Exhibition.md",
-    "TOK EXHIBITION DRAFT.md",
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
     "common core/assets",
