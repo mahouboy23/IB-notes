@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXO 3 FRENCH.md",
+                "file": "EXO 4 FRENCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "EXO 4 FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "EXO 4 FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "EXO 4 FRENCH.md"
               }
             }
           },
@@ -253,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "EXO 4 FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,17 +304,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "177385bbf71d7bb9",
   "lastOpenFiles": [
+    "hl subjects/Français B.md",
+    "EXO 4 FRENCH.md",
+    "IB overview.md",
+    "EXO 3 FRENCH.md",
+    "Computer science exploration.md",
     "Imagerie.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Prompt and object.md",
-    "Computer science exploration.md",
     "DATA STRUCTURE.md",
     "hl subjects/Computer science.md",
-    "EXO 3 FRENCH.md",
-    "hl subjects/Français B.md",
     "Exploration francais.md",
     "Computer science classwork.md",
     "IO.md",
@@ -332,7 +334,6 @@
     "TOK Essay draft.md",
     "TOK Exhibition.md",
     "TOK EXHIBITION DRAFT.md",
-    "TOK reference.md",
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
     "common core/assets",
