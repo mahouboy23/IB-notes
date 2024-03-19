@@ -68,4 +68,12 @@ Standard Deviation: 4.03
 
 ---
 
-$$X $$
+
+$$X \sim \mathcal{N}(\mu,\,\sigma^{2})$$
+$$f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}$$
+a) Calculer $f'(x)$ et $f''(x)$ *Use chaine rule*
+b) Prouver que $f(x)$ admet un maximum local en $x=u$ 
+c) Montrer que $C_f$  admet un point d'inflection en $x=u+\sigma$ et $u-\sigma$ 
+d) $$E(X)=\int_{-\infty}^{+\infty} xf(x) \, dx$$$$\text{Si} \hspace4mm F(x)=\int f(x)\,dx$$
+
+$$\text{Montrer} \hspace4mm F(x)=\int f(x)\,dx$$
