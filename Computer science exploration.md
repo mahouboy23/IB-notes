@@ -153,3 +153,5 @@ ok now after implement the basics everything is kinda working but there is a lot
 - fix the css, when i click add boundaries the model pop is not centered to my screen and can move by scrolling also the black transparent background is ugly and not good be consistent with other model from the grades page.
 
 there have to be tables showing all the boundaries for different over value depending on the class AND grade_level not or. Implement these features now. the grade_level is in classes table. also in the boundaries.js remove the subject part and put grade_level (drop down where he chooses from the grade_levels)
+
+ok think there are some stuff that you you did not understand. there should be table showing the class
