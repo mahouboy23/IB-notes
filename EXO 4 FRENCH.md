@@ -47,7 +47,7 @@ Les affirmations correctes sont :
 
 8. Le concept de la ville quart d’heure est **A : est de réduire les déplacements et de donner l’accès à un maximum de services proche de chez soi**.
 9. Améliorer la ville est **C : c’est permettre d’améliorer le bien vivre ensemble**.
-10. La ville du quart d’heure **A : a été testée à Paris**.
+10. La ville du quart d’heure **C : assurera sa propre production maraîchère et sa fruiticulture.**.
 
 # Texte 3 :
 1. Les cinq affirmations correctes sont :
