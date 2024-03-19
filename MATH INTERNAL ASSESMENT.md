@@ -66,3 +66,6 @@ Mean WPM: 41.74
 Standard Deviation: 4.03
 
 
+---
+
+$$X $$
