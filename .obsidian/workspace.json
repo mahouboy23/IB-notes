@@ -234,7 +234,7 @@
             }
           },
           {
-            "id": "cb14390ee73a1e98",
+            "id": "702d052766f9b738",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -297,14 +297,14 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "notion-like-tables:Create loom": false,
+      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "702d052766f9b738",
   "lastOpenFiles": [
     "hl subjects/Math AA.md",
     "IB overview.md",
