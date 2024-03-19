@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXO 4 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXO 4 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXO 4 FRENCH.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -254,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EXO 4 FRENCH.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,10 +303,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "177385bbf71d7bb9",
+  "active": "31dc98916e9a3d2e",
   "lastOpenFiles": [
-    "hl subjects/Français B.md",
     "EXO 4 FRENCH.md",
+    "hl subjects/Français B.md",
     "IB overview.md",
     "EXO 3 FRENCH.md",
     "Computer science exploration.md",

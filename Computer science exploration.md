@@ -151,3 +151,5 @@ ok now after implement the basics everything is kinda working but there is a lot
 .Issues to fix : 
 - in the modal i have to be able to input different max and min value for grade (1 to 7) but right for one field i fill ti similteanously fields all the other, each one is supposed to be seperate. 
 - fix the css, when i click add boundaries the model pop is not centered to my screen and can move by scrolling also the black transparent background is ugly and not good be consistent with other model from the grades page.
+
+there have to be tables showing all the boundaries for different over value depending on the class AND subject not or. Implement these features now.
