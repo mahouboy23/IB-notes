@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common core/EE.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "MATH INTERNAL ASSESMENT.md"
               }
             }
           },
@@ -253,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,13 +304,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31dc98916e9a3d2e",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "common core/EE.md",
+    "Computer science exploration.md",
     "EXO 4 FRENCH.md",
     "hl subjects/Français B.md",
-    "IB overview.md",
     "EXO 3 FRENCH.md",
-    "Computer science exploration.md",
     "Imagerie.md",
     "sl subjects/Physics.md",
     "Prompt and object.md",
@@ -324,8 +327,6 @@
     "common core/TOK.md",
     "common core/CAS.md",
     "MATH INTERNAL ASSESMENT.md",
-    "hl subjects/Math AA.md",
-    "common core/EE.md",
     "TOK Essay.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
