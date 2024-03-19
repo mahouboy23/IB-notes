@@ -26,3 +26,25 @@ Les affirmations correctes sont :
 10. Les coupables vont avoir 7500 euros d’amende **A : On ne sait pas, c’est au tribunal de juger**.
 
 # TEXT 2
+##   Complétez le texte:
+
+1. **heures**
+2. **transports en commun**
+3. **espaces verts**
+4. **pots d’échappement**
+
+## Réponses aux Questions:
+
+5. Selon Isabelle, les solutions aux problèmes évoqués pourraient être trouvées dans un futur proche.
+6. Les aspirations concernant les villes sont :
+    
+    - Protéger et améliorer les conditions de vie des habitants.
+    - Rendre les métropoles plus agréables à vivre et plus humaines.
+    
+7. Une des raisons pour lesquelles les villes doivent se réinventer est de répondre aux défis majeurs de notre temps, ceux de la planète et des citoyens.
+
+## Bonne Réponse:
+
+8. Le concept de la ville quart d’heure est **A : est de réduire les déplacements et de donner l’accès à un maximum de services proche de chez soi**.
+9. Améliorer la ville est **C : c’est permettre d’améliorer le bien vivre ensemble**.
+10. La ville du quart d’heure **A : a été testée à Paris**.
