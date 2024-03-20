@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3ec62e0e1521e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie Mondiale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Economie Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Economie Mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH IA HL.md"
+                "file": "Economie Mondiale.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Economie Mondiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,16 +256,17 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "1ea2cb0a21f14309",
+  "active": "a3ec62e0e1521e9f",
   "lastOpenFiles": [
-    "MATH INTERNAL ASSESMENT.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
     "MATH IA HL.md",
+    "MATH INTERNAL ASSESMENT.md",
     "IO.md",
     "Imagerie.md",
     "Computer science exploration.md",
     "EXO 4 FRENCH.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "common core/EE.md",
     "hl subjects/Français B.md",
     "EXO 3 FRENCH.md",
@@ -263,7 +277,6 @@
     "Exploration francais.md",
     "Computer science classwork.md",
     "Individual Oral.md",
-    "sl subjects/Economie.md",
     "web app.md",
     "common core/TOK.md",
     "common core/CAS.md",
