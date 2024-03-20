@@ -216,7 +216,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 8,
+                  "scale": 0.5497357285448267,
                   "close": true
                 }
               }
@@ -243,7 +243,7 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "1ea2cb0a21f14309",
   "lastOpenFiles": [
     "MATH INTERNAL ASSESMENT.md",
     "MATH IA HL.md",
