@@ -40,7 +40,7 @@ Voici les principaux points de discussion, arguments et analyses qui pourraient 
     - Discutez de la décision de l'UE de soutenir l'économie ukrainienne en réduisant les tarifs douaniers et les quotas sur les importations de volaille et d'œufs, en soulignant les avantages escomptés pour l'Ukraine.
     - Analysez la répartition inégale des avantages, les grandes entreprises ukrainiennes comme MHP, Ovostar et Avangard en bénéficiant le plus, tandis que la population ukrainienne au sens large et les petits producteurs peuvent ne pas voir de gains significatifs.
     - Examinez les conséquences potentielles à long terme pour les agriculteurs français, notamment la réduction de leur part de marché, la baisse des prix et les menaces pour leurs moyens de subsistance, car ils peinent à concurrencer les importations ukrainiennes moins chères.
-    - Considérez les implications pour la souveraineté alimentaire française et le rôle de l'Union européenne dans la prise de décisions commerciales qui affectent les États membres individuels.
+    - Considérez les implications pour la souveraineté alimentaire française.
     
 5. Évaluation
     
