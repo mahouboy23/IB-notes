@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
+                "file": "Economie Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
+                "file": "Economie Mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md"
+                "file": "Economie Mondiale.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
+                "file": "Economie Mondiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,17 +266,17 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "a3ec62e0e1521e9f",
   "lastOpenFiles": [
+    "MATH IA HL.md",
+    "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw/Pasted Image 20240320231415_208.png",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
-    "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
     "Economie Mondiale.md",
     "assets/Economie Mondiale/image-20240320213531636.png",
     "assets/Economie Mondiale",
     "sl subjects/Economie.md",
     "IB overview.md",
-    "MATH IA HL.md",
     "MATH INTERNAL ASSESMENT.md",
     "IO.md",
     "Imagerie.md",
@@ -314,7 +314,6 @@
     "assets/Ondes static/image-20240129114503808.png",
     "assets/Ondes static/image-20240129114354681.png",
     "assets/Ondes static/image-20240129113843565.png",
-    "assets/Ondes static/image-20240129102146795.png",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
