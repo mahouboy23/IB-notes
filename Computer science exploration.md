@@ -74,9 +74,7 @@ context :
     - `boundary_id` INT AUTO_INCREMENT PRIMARY KEY
     - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
     - `over_value` DECIMAL(5,2) NOT NULL AFTER
-    - `minimum_value` DECIMAL(5,2) NOT NULL
-    - `maximum_value` DECIMAL(5,2) NOT NULL
-    - `ib_grade` INT NOT NULL
+    - `grades` TEXT NOT NULL
     
 
 To fully implement the feature that allows teachers to input grades in any format and have them automatically converted to the IB scale of 1 to 7 based on predefined grade boundaries, we need to make several modifications to the current application structure. This includes changes to the database schema, backend logic, and frontend interface.

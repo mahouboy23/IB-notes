@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "MATH IA HL.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "objectivity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie Mondiale.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Economie Mondiale.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,37 +265,38 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "Economie Mondiale.md",
     "MATH IA HL.md",
+    "PDF/Flask.md",
+    "EXO 3 FRENCH.md",
+    "DATA STRUCTURE.md",
+    "Computer science exploration.md",
+    "sl subjects/Economie.md",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
+    "hl subjects/Français B.md",
+    "EXO 4 FRENCH.md",
+    "Untitled 11.md",
+    "Untitled 10.md",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw/Pasted Image 20240320231415_208.png",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
-    "Economie Mondiale.md",
     "assets/Economie Mondiale/image-20240320213531636.png",
     "assets/Economie Mondiale",
-    "sl subjects/Economie.md",
-    "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
     "IO.md",
     "Imagerie.md",
-    "Computer science exploration.md",
-    "EXO 4 FRENCH.md",
     "hl subjects/Math AA.md",
     "common core/EE.md",
-    "hl subjects/Français B.md",
-    "EXO 3 FRENCH.md",
     "sl subjects/Physics.md",
     "Prompt and object.md",
-    "DATA STRUCTURE.md",
-    "hl subjects/Computer science.md",
     "Exploration francais.md",
     "Computer science classwork.md",
     "Individual Oral.md",
     "web app.md",
     "common core/TOK.md",
-    "common core/CAS.md",
-    "TOK Essay.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
