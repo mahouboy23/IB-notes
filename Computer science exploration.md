@@ -78,6 +78,7 @@ I have a bit of a problem right now i need to be able assign to assign to each c
     - `over_value` DECIMAL(5,2) NOT NULL AFTER
     - `grades` TEXT NOT NULL
 5. **StudentClasses Table** 
+
 - `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
