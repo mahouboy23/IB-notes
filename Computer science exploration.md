@@ -46,7 +46,7 @@ I want you to help me fix my web app, there are things that need to change for i
 
 context : 
 
-I have a bit of a problem right now i need to be able 
+I have a bit of a problem right now i need to be able assign to assign to each class a number of student (could be multiple 5 or 4 or 20 ect...), so i could I in the most efficient and intuitive way implement it with my current database set up
 ### Database Schema
 
 1. **Users Table** (For storing user information including teachers, students, and coordinators)
