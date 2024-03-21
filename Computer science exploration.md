@@ -77,7 +77,9 @@ I have a bit of a problem right now i need to be able assign to assign to each c
     - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
     - `over_value` DECIMAL(5,2) NOT NULL AFTER
     - `grades` TEXT NOT NULL
-    
+5. **StudentClasses Table** 
+- `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
+- `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
 To fully implement the feature that allows teachers to input grades in any format and have them automatically converted to the IB scale of 1 to 7 based on predefined grade boundaries, we need to make several modifications to the current application structure. This includes changes to the database schema, backend logic, and frontend interface.
 
