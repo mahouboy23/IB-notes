@@ -41,3 +41,5 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 
 - `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
+
+Je veux 
