@@ -25,3 +25,23 @@ j) Montrer que $\sum P(X=X)=1$
 K) $f(x)$ approche la loi normale trouver $E(X)$ et $Q_2$  on utilisant les intégrales définis
 l) Prouver X est une loi normale avec $\text{Moyenne = Mediane = Mode}$ 
 m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$ 
+
+
+Oui, on peut appliquer la loi de Poiseuille pour décrire l'écoulement lors de la vidange d'un réservoir cylindrique ouvert à travers un tube de longueur L, mais seulement dans certaines conditions spécifiques.La loi de Poiseuille décrit l'écoulement laminaire d'un fluide visqueux newtonien incompressible dans un tube cylindrique. Elle relie le débit volumique Q au gradient de pression ΔP, au rayon R du tube et à la viscosité dynamique μ du fluide selon l'équation:Q = πR^4ΔP / (8μL)Pour que cette loi soit applicable, les conditions suivantes doivent être remplies :
+
+1. L'écoulement doit être laminaire, c'est-à-dire que le nombre de Reynolds Re = ρvD/μ doit être inférieur à une valeur critique (typiquement Re < 2300 pour un tube cylindrique).
+2. Le fluide doit être newtonien et incompressible.
+3. L'écoulement doit être établi et pleinement développé, ce qui nécessite une longueur d'entrée suffisante.
+4. Les effets d'entrée et de sortie doivent être négligeables.
+
+Si ces conditions sont respectées, alors la loi de Poiseuille peut être utilisée pour prédire le débit de vidange. Cependant, lors de la vidange, le niveau du liquide dans le réservoir diminue avec le temps, ce qui modifie la charge (différence de pression) et donc le débit n'est pas constant.Si les conditions ne sont pas remplies, par exemple si l'écoulement devient turbulent (Re > 2300) ou si les effets d'entrée/sortie ne sont plus négligeables, alors d'autres lois empiriques doivent être utilisées pour décrire l'écoulement, comme les corrélations pour l'écoulement en régime turbulent.En résumé, la loi de Poiseuille peut s'appliquer pour la vidange d'un réservoir à travers un tube dans des conditions d'écoulement laminaire établi, mais des modèles plus complexes sont souvent nécessaires pour décrire avec précision l'évolution du débit au cours de la vidange.
+
+Share Link
+
+Share
+
+Rewrite
+
+Copy
+
+Edit Query
