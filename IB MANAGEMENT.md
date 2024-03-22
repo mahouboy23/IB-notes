@@ -42,7 +42,7 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 - `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
-Je veux normaliser ma base de données donc donne comme dans "Database Schema" :
+Je veux normaliser ma base de données donc donne comme dans "Database Schema". tu peux voir l'exemplw :
 Formes de normalisation 1NF, 2NF, 3NF 
  Procédure de normalisation : 
  Diviser en tables logiques distinctes (par entité) Exemple : Elève, Classe, Professeur sont des entités distinctes Qu'est-ce qui est associé UNIQUEMENT à chaque entité ? 
