@@ -7,6 +7,8 @@ aliases:
 ---
 Created: 2023-09-07
 
+[[IB MANAGEMENT]] 
+
 ----
 
 Creation d'une app web qui permet de montrer/afficher et organiser les info, leçon et devoir envoyer par des profs sur Gmail mais aussi de téléverser et télécharger des fichier dans un google drive commun a travers l'app web pour les élèves d'une classe
@@ -158,3 +160,4 @@ ok now after implement the basics everything is kinda working but there is a lot
 there have to be tables showing all the boundaries for different over value depending on the class AND grade_level not or. Implement these features now. the grade_level is in classes table. also in the boundaries.js remove the subject part and put grade_level (drop down where he chooses from the grade_levels)
 
 ok i think there are some stuff that you you did not understand. there should be table showing the boundaries by class and overvalue and then it shows in the table for each grade (1 to 7) but you can still modify and when you click update it will just take the bounadaries id or something to find that specific boundaries and updating the json (in text in the database) for boundarie.
+
