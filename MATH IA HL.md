@@ -9,7 +9,7 @@ je veux trouver un nouveau question de recherche pour mon exploration en Math AA
 $$X \sim \mathcal{N}(\mu,\,\sigma^{2})$$
 $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}$$
 a) Calculer $f'(x)$ et $f''(x)$ *Use chaine rule and other* 
-b) Prouver que $f(x)$ admet un maximum local en $x=u$ 
+b) Prouver que $f(x)$ admet un maximum local en $x=u$  
 c) Montrer que $C_f$  admet un point d'inflection en $x=u+\sigma$ et $u-\sigma$ 
 d) $$E(X)=\int_{-\infty}^{+\infty} xf(x) \, dx$$$$\text{Si} \hspace4mm F(x)=\int f(x)\,dx$$
 $$\text{Montrer} \hspace4mm F(x)=\int (x-u)f(x)\,dx \,+\sigma^{2}f(x)=0$$
