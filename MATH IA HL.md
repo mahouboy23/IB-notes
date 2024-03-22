@@ -25,5 +25,3 @@ j) Montrer que $\sum P(X=X)=1$
 K) $f(x)$ approche la loi normale trouver $E(X)$ et $Q_2$  on utilisant les intégrales définis
 l) Prouver X est une loi normale avec $\text{Moyenne = Mediane = Mode}$ 
 m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$ 
-
-Ok i want to overhaul the filter and search function of the grades, I want that when you first click on the page the filters a set to none and once you use drop to filter for example the class you will only get grades of that class and it also affects the student filter by only showing the students of that class in the filter dropdown list. And then after filtering the class you can compound filter the student from that class meaning that only the grades from that class AND that student will show up. if the filter class is set to none the dropdown of the filter students will be all the students. The trimester filter can also be compounded with the others or act alone when the others are set to none but it does depend or the dropdown is not affected by the others. also plan on adding a search bar functionality but that is for later if you want you can lay the ground work.
