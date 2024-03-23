@@ -12,7 +12,7 @@ a) Calculer $f'(x)$ et $f''(x)$ *Use chaine rule and other*
 b) Prouver que $f(x)$ admet un maximum local en $x=u$  
 c) Montrer que $C_f$  admet un point d'inflection en $x=u+\sigma$ et $u-\sigma$ 
 d) $$E(X)=\int_{-\infty}^{+\infty} xf(x) \, dx$$$$\text{Si} \hspace4mm F(x)=\int f(x)\,dx$$
-$$\text{Montrer} \hspace4mm F(x)=\int (x-u)f(x)\,dx \,+\sigma^{2}f(x)=0$$
+$$\text{Montrer} \hspace4mm \int (x-u)f(x)\,dx \,+\sigma^{2}f(x)=0$$
 Pour $u=50$ et $\sigma=4$ 
 e) Construire la fonction $f(x)$
 f) Calculer $P(a<X<b)$ que dur $P(X=a)$ et $P(X=b)$ 
