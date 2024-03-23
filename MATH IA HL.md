@@ -100,5 +100,5 @@ g) Representation de $f$
 
 ![[image-20240323104626808.png]]
 
-
+h)
 
