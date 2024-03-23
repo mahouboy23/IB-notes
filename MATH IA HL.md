@@ -96,7 +96,7 @@ $$
 f)
 
 
-g)
+g) Representation de $f$ 
 
-
+![[dist1.png]]
 
