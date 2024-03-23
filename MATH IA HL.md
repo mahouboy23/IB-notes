@@ -2,8 +2,6 @@
 tags : mod Math
 ---
 Created: 2024-03-19
-
-je veux trouver un nouveau question de recherche pour mon exploration en Math AA HL qui me permet d'incorporet tout c'est calcul et questions and mon exploration. Je veux que la question de recherche a un aim qui permet de relier tout c'est question pour un but spécifique et permet de relier et donner un context pour tout c'est calcul et question.
 ## Évaluation de calculus et la probabilités dans la distribution normale
 
 $$X \sim \mathcal{N}(\mu,\,\sigma^{2})$$
@@ -101,6 +99,6 @@ g) Representation de $f$
 ![[image-20240323104626808.png]]
 
 h) ![[image-20240323105307196.png]]
+La courbe bleue montre la distribution normale centrée autour de la moyenne $\mu=50$ avec un écart-type $\sigma=4$. Les points rouges indiquent les points d'inflexion, situés à $\mu \pm \sigma$, soit 46 et 54 dans ce cas. La concavité de la courbe change en ces points : elle est concave vers le bas (comme un "∩") entre eux et concave vers le haut (comme un "U") en dehors de cette plage. La courbe verte représente la seconde dérivée de la fonction de densité, qui traverse zéro aux points d'inflexion, confirmant le changement de concavité.
 
-
-
+I)
