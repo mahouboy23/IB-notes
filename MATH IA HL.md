@@ -27,7 +27,7 @@ l) Prouver X est une loi normale avec $\text{Moyenne = Mediane = Mode}$
 m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$ 
 
 
-## Answer
+## SOLUTION
 
 a)$$
 \begin{aligned}
@@ -68,4 +68,35 @@ $$
 $$
 Cela indique que la pente de la tangente a la courbe $f(x)$ en $x=u$ est nulle et $f^{\prime \prime}(x)$ est négative
 donc $f(x)$ en $x=u$
+
+c) On peut montrer que la courbe de f(x) admet un point d'inflection en $x=u+\sigma$ et $x=u-\sigma$ en posons $f^{\prime\prime}(x)=0$ 
+$$
+\begin{aligned}
+& \frac{-f(x)}{\sigma^2}+\frac{(x-u)^2 f(x)}{\sigma^4}=0 \\
+& \frac{\frac{-f(x)}{\sigma^2}+\frac{(x-u)^2 f(x)}{\sigma 4}}{f(x)}=\frac{0}{f(x)} \\
+& \sigma^4\left(\frac{-1}{\sigma^2}+\frac{(x-u)^2}{\sigma^4}\right)=0 \times \sigma^4 \\
+& -\sigma^2+(x-u)^2=0 \\
+& (x-u)^2=\sigma^2 \\
+& x-4= \pm \sigma \\
+& x=u \pm \sigma
+\end{aligned}
+$$
+d)
+
+
+e) La fonction de densité de probabilité $f(x)$ pour une variable aléatoire $X$ suivant une distribution normale avec une moyenne $\mu$ et un écart-type $\sigma$ est donnée par la formule :
+$$
+f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x-\mu)^2}{2 \sigma^2}}
+$$
+
+En substituant $\mu=50$ et $\sigma=4$, nous obtenons :
+$$
+f(x)=\frac{1}{4 \sqrt{2 \pi}} e^{-\frac{(x-50)^2}{2 \cdot 4^2}}
+$$
+f)
+
+
+g)
+
+
 
