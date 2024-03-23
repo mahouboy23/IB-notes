@@ -98,5 +98,7 @@ f)
 
 g) Representation de $f$ 
 
-![[dist1.png]]
+![[image-20240323104626808.png]]
+
+
 
