@@ -27,5 +27,14 @@ l) Prouver X est une loi normale avec $\text{Moyenne = Mediane = Mode}$
 m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$ 
 
 
+## Answer
 
+a) $$
+\begin{aligned}
+& \frac{d y}{d x}=\frac{d y}{d x} \times \frac{d u}{d x} \\
+& \frac{d y}{d x}=e^{\frac{-(x-u)^2}{2 \sigma^2}} \times\left(-\frac{(x-u)^2}{2 \sigma^2}\right)^{\prime} \\
+& \frac{d y}{d x}=e^{-\frac{-1 x-y)^2}{2 \sigma^2} \times-\frac{1}{2 \sigma^2} 2(x-u)} \\
+& \frac{d y}{d x}=e^{\frac{-(x-u)^2}{2 \sigma^2} \times-\frac{x-v}{\sigma^2}}
+\end{aligned}
+$$
 
