@@ -88,9 +88,7 @@ f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x-\mu)^2}{2 \sigma^2}}
 $$
 
 En substituant $\mu=50$ et $\sigma=4$, nous obtenons :
-$$
-f(x)=\frac{1}{4 \sqrt{2 \pi}} e^{-\frac{(x-50)^2}{2 \cdot 4^2}}
-$$
+$$f(x)=\frac{1}{4 \sqrt{2 \pi}} e^{-\frac{(x-50)^2}{2 \cdot 4^2}}$$
 f)
 
 
