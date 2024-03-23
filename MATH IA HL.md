@@ -66,3 +66,6 @@ $$
 & f^{\prime \prime}(u)=\frac{-f(u)}{\sigma^2}+\frac{(u-u)^2 f(u)}{\sigma^4}=\frac{-f(u)}{\sigma^2}
 \end{aligned}
 $$
+Cela indique que la pente de la tangente a la courbe $f(x)$ en $x=u$ est nulle et $f^{\prime \prime}(x)$ est négative
+donc $f(x)$ en $x=u$
+
