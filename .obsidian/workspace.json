@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "Physics IA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Physics IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Physics IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH IA HL.md"
+                "file": "Physics IA.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "Physics IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,16 +280,19 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
-    "assets/MATH IA HL/image-20240323105307196.png",
+    "Physics IA draft.md",
+    "Physics IA.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "MATH INTERNAL ASSESMENT.md",
     "MATH IA HL.md",
+    "assets/MATH IA HL/image-20240323105307196.png",
     "assets/MATH IA HL/image-20240323104626808.png",
     "assets/MATH IA HL/dist1.png",
     "assets/MATH IA HL",
-    "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
@@ -311,10 +314,8 @@
     "IO.md",
     "Imagerie.md",
     "common core/EE.md",
-    "sl subjects/Physics.md",
     "Prompt and object.md",
     "Exploration francais.md",
-    "Computer science classwork.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
