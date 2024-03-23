@@ -29,12 +29,24 @@ m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$
 
 ## Answer
 
-a) $$
+a)$$
 \begin{aligned}
-& \frac{d y}{d x}=\frac{d y}{d x} \times \frac{d u}{d x} \\
+& f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x-y)^2}{2 \sigma^2}} \\
+& f^{\prime}(x)=\frac{1}{\sigma \sqrt{2 \pi}}\left(c^{-\frac{(x-\omega)^2}{x \sigma^2}}\right)^{\prime}
+\end{aligned}
+$$
+En applicant chain sulle sur $\left[e^{-\frac{(x-u)^2}{2 \sigma^2}}\right] \frac{d}{d x}$ 
+$$
+\begin{aligned}
+& \frac{d y}{d x}=\frac{d y}{du} \times \frac{d u}{d x} \\
 & \frac{d y}{d x}=e^{\frac{-(x-u)^2}{2 \sigma^2}} \times\left(-\frac{(x-u)^2}{2 \sigma^2}\right)^{\prime} \\
 & \frac{d y}{d x}=e^{-\frac{-1 x-y)^2}{2 \sigma^2} \times-\frac{1}{2 \sigma^2} 2(x-u)} \\
 & \frac{d y}{d x}=e^{\frac{-(x-u)^2}{2 \sigma^2} \times-\frac{x-v}{\sigma^2}}
 \end{aligned}
 $$
-
+$$
+\begin{aligned}
+& f^{\prime}(x)=\frac{1}{\sigma \sqrt{2 \pi^2}} \times e^{-\frac{(x-u)^2}{2 e^2}} \times-\frac{x-u}{\sigma^2} \\
+& f^{\prime}(x)=-\frac{e^{-\frac{(x-u)^2}{2 \sigma^2}(x-u)}}{\sigma^3 \sqrt{2 \pi}}=-\frac{(x-u)}{\sigma^2} f(x)
+\end{aligned}
+$$
