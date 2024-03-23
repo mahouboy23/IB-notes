@@ -34,14 +34,3 @@ Oui, on peut appliquer la loi de Poiseuille pour décrire l'écoulement lors de 
 3. L'écoulement doit être établi et pleinement développé, ce qui nécessite une longueur d'entrée suffisante.
 4. Les effets d'entrée et de sortie doivent être négligeables.
 
-Si ces conditions sont respectées, alors la loi de Poiseuille peut être utilisée pour prédire le débit de vidange. Cependant, lors de la vidange, le niveau du liquide dans le réservoir diminue avec le temps, ce qui modifie la charge (différence de pression) et donc le débit n'est pas constant.Si les conditions ne sont pas remplies, par exemple si l'écoulement devient turbulent (Re > 2300) ou si les effets d'entrée/sortie ne sont plus négligeables, alors d'autres lois empiriques doivent être utilisées pour décrire l'écoulement, comme les corrélations pour l'écoulement en régime turbulent.En résumé, la loi de Poiseuille peut s'appliquer pour la vidange d'un réservoir à travers un tube dans des conditions d'écoulement laminaire établi, mais des modèles plus complexes sont souvent nécessaires pour décrire avec précision l'évolution du débit au cours de la vidange.
-
-Share Link
-
-Share
-
-Rewrite
-
-Copy
-
-Edit Query
