@@ -59,4 +59,10 @@ $$
 
 \end{aligned}
 $$
-b) 
+b) Pour prouver que $f(x)$ admet un maximum local en $x=u$ posons $x=4$  $f^{\prime}(x)$ or $f^{\prime \prime}(x)$
+$$
+\begin{aligned}
+& f^{\prime}(u)=-\frac{u-u}{\sigma^2} f(u)=0 \\
+& f^{\prime \prime}(u)=\frac{-f(u)}{\sigma^2}+\frac{(u-u)^2 f(u)}{\sigma^4}=\frac{-f(u)}{\sigma^2}
+\end{aligned}
+$$
