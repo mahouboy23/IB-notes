@@ -29,6 +29,9 @@ _Méthode :_
 **Hypothèse/déduction** :  Selon la longueur du tube, Le régime d'écoulement Diminuera au fil du temps. L'influence de la viscosité sur la perte de charge sera mit en évidence.
 ### [[Physics IA draft]] 
 
-| 16cm | 14cm |
-| --- | --- |
-|  |  |
+|  | 16cm | 14cm | 12cm | 10cm | 7cm | 4cm | 1cm | 0cm |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| temps de h_1 en s | 4.09 | 5.50 | 8.06 | 6.59 | 6.22 | 5.43 | 7.09 | 8.47 |
+| temps de h_2en s | 6.15 | 7.88 | 9.73 | 8.15 | 7.81 | 6.78 | 8.62 | 9.81 |
+
+
