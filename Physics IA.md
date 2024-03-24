@@ -29,3 +29,6 @@ _Méthode :_
 **Hypothèse/déduction** :  Selon la longueur du tube, Le régime d'écoulement Diminuera au fil du temps. L'influence de la viscosité sur la perte de charge sera mit en évidence.
 ### [[Physics IA draft]] 
 
+| 16cm | 14cm |
+| --- | --- |
+|  |  |
