@@ -122,3 +122,6 @@ G : Il est possible d’obtenir des aides financières.
 11. L’envie…
 
 - D : de suivre le même type de projet est suscitée par les autres communes.
+  
+  ## EXO 6
+  
