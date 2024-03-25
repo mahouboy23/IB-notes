@@ -58,4 +58,67 @@ G : Il est possible d’obtenir des aides financières.
 8. Quand on cherche un logement, il est important de commencer les recherches le plus tôt possible.
 
 ## EXO 4
+1. Le mariage pour tous est…
+    
+    - A : un sujet controversé.
+    
+2. Dans le cas de la mort d’un conjoint, l’autre peut…
+    
+    - C : hériter de la personne décédée.
+    
+3. La loi permet aux conjoints mariés de…
+    
+    - F : adopter.
+    
+4. Vrai/Faux **Vrai**Justification : De nombreuses manifestations eurent lieu après que la loi fût votée, ce qui montre qu'il y a encore beaucoup de gens contre la loi.
+5. Vrai/Faux **Vrai**Justification : Les principaux détracteurs s’interrogent sur la capacité d’un couple homosexuel à élever un enfant et sur les conséquences sur le développement personnel de l’enfant.
+6. Vrai/Faux **Faux**Justification : L’idée du besoin de parents de sexe opposé n’a pas encore été vérifiée de manière scientifique.
+7. drastique
+    
+    - Changement radical
+    
+8. il est certain
+    
+    - Force est de constater
+    
+9. décourageante
+    
+    - Clairement dissuasive
+    
+10. La loi est anti-discriminatoire car elle montre une réalité de notre société et gomme peut-être quelques préjugés homophobes, s'inscrivant dans le droit pour tous de vivre heureux et reconnaissant l'union de deux êtres qui s'aiment, indépendamment de leur sexe.
 
+## EXO 5
+1. Le but de « Communes sympas » est de/d’…
+    
+    - A : promouvoir le vivre ensemble.
+    
+2. participent
+    
+    - impliqués
+    
+3. à propos de
+    
+    - en ce qui concerne
+    
+4. entre autres
+    
+    - notamment
+    
+5. coordonne
+    
+    - pilote
+    
+6. Les facteurs les plus importants et nécessaires pour cohabiter harmonieusement sont : partager, aller vers son prochain, être prêt à rendre service, se confronter, communiquer et agir ensemble.
+7. Un acteur indispensable dans ce parcours de courtoisie mutuelle est : les autorités.
+8. La phrase qui montre qu’il y a plus d’un avantage au projet « Communes sympas » est : "Ce projet a de nombreux atouts dans la mesure où il développe et renforce la participation locale dans les communes tout en mettant en avant les ressources locales et en favorisant une culture d’accueil et d’ouverture."
+9. Un agent sympa…
+    
+    - C : doit impérativement venir de la région.
+    
+10. Il est…
+
+- E : obligatoire d’apprécier les challenges pour être agent sympa.
+
+11. L’envie…
+
+- D : de suivre le même type de projet est suscitée par les autres communes.
