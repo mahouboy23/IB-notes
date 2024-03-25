@@ -38,3 +38,24 @@ Created: 2024-03-25
 10. On joue seulement pendant la journée au Suriname car on craint que la nuit, les fantômes des défunts viennent jouer et voler l’âme des joueurs.
 
 ## EXO 3
+1. Les quatre affirmations correctes sont :
+
+B : Campus France est un site dont le but est d’aider les étudiants étrangers à faire des études en France.  
+D : Mme Garneau pense qu’étudier en France peut aider à trouver un bon emploi.  
+E : On peut faire une demande d’admission à une université française sur Campus France.  
+G : Il est possible d’obtenir des aides financières.
+
+2. Une expérience incroyable = une chance inouïe
+3. Le style de vie des Français = l’art de vivre à la française
+4. Donner la chance de visiter = leur ouvrir les portes de nos lieux culturels
+5. Chacun peut trouver quelque chose qui lui plaît = il y en a pour tous les goûts
+6. Les étudiants qui n’ont pas beaucoup d’argent peuvent étudier en France grâce aux frais d’inscription très bas dans les universités d’État (170 euros pour une année d’études au niveau de la licence) et grâce aux bourses disponibles financées par le ministère français des Affaires étrangères et les ambassades de France à l’étranger.
+7. Pour les étudiants qui ont peur de se sentir seuls, deux formules de logement recommandées seraient :
+
+- En résidence étudiante, où ils peuvent rencontrer d'autres étudiants.
+- En chambre chez l’habitant, ce qui peut offrir une expérience plus familiale et intégrée.
+
+8. Quand on cherche un logement, il est important de commencer les recherches le plus tôt possible.
+
+## EXO 4
+
