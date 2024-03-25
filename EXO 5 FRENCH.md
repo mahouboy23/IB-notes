@@ -24,4 +24,17 @@ Created: 2024-03-25
 9. G : Le règlement permet d'éviter des problèmes aux élèves.
 10. H : Dans certains établissements, des lycéennes ont manifesté.
     
-    
+
+## EXO 2
+1. Vrai
+2. Faux
+3. Vrai
+4. Faux
+5. Vrai
+6. Vrai
+7. Le but du jeu est d'avoir le plus de graines à la fin de la partie.
+8. Un joueur peut prendre les graines d’une case de son adversaire si sa dernière graine semée tombe dans une case adverse qui contient alors deux ou trois graines.
+9. Au Suriname, le jeu de Adji (Adji Boto) est un rituel car on y joue pendant les 10 jours de deuil avant l'inhumation d'une personne décédée.
+10. On joue seulement pendant la journée au Suriname car on craint que la nuit, les fantômes des défunts viennent jouer et voler l’âme des joueurs.
+
+## EXO 3
