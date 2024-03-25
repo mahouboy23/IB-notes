@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "hl subjects/Français B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58b0e9ba317cf15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXO 5 FRENCH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA.md",
+                "file": "EXO 5 FRENCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA.md",
+                "file": "EXO 5 FRENCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA.md"
+                "file": "EXO 5 FRENCH.md"
               }
             }
           },
@@ -230,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA.md",
+                "file": "EXO 5 FRENCH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,12 +292,14 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "b58b0e9ba317cf15",
   "lastOpenFiles": [
-    "Physics IA draft.md",
-    "Physics IA.md",
-    "sl subjects/Physics.md",
+    "hl subjects/Français B.md",
+    "EXO 5 FRENCH.md",
     "IB overview.md",
+    "Physics IA.md",
+    "Physics IA draft.md",
+    "sl subjects/Physics.md",
     "MATH INTERNAL ASSESMENT.md",
     "MATH IA HL.md",
     "assets/MATH IA HL/image-20240323105307196.png",
@@ -303,7 +317,6 @@
     "PDF/Flask.md",
     "EXO 3 FRENCH.md",
     "sl subjects/Economie.md",
-    "hl subjects/Français B.md",
     "EXO 4 FRENCH.md",
     "Untitled 11.md",
     "Untitled 10.md",
@@ -315,7 +328,6 @@
     "Imagerie.md",
     "common core/EE.md",
     "Prompt and object.md",
-    "Exploration francais.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
