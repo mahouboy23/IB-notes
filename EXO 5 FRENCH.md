@@ -124,4 +124,11 @@ G : Il est possible d’obtenir des aides financières.
 - D : de suivre le même type de projet est suscitée par les autres communes.
   
   ## EXO 6
-  
+  1. Faux
+2. Vrai
+3. Vrai
+4. Vrai
+5. Faux
+6. Beaucoup d’habitants ont quitté Détroit pour des **raisons économiques** car **l'industrie automobile** n’est pas aussi importante qu’auparavant.
+7. Pour améliorer la situation de la ville de Détroit, le maire a pris l’initiative d’accueillir des immigrés venant d’**Afrique**, des pays du **Golfe** et d’**Amérique du Sud**.
+8. Les banques donnent des **prêts** à ces immigrés qui ont un projet concret pour **revitaliser** le commerce.
