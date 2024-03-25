@@ -35,3 +35,4 @@ _Méthode :_
 | temps de h_2en s | 6.15 | 7.88 | 9.73 | 8.15 | 7.81 | 6.78 | 8.62 | 9.81 |
 
 
+Ok maintenant refait completement la parti théorique et utilise et inspire toi du fichier 1911.13221 (4).pdf. La parti théorique doit sortir un relation entre la longueur du tube et le temps de vidange/debit. et sa doit parler de que d'est truc relevant et utile pour mon exploration : 
