@@ -114,3 +114,87 @@ The coordinator's role in your React web app is central to managing the entire I
     - Provide clear instructions and feedback to the coordinator for every action taken.
     
 
+# backend
+## Dashboard part in Overview Page
+
+- **Endpoint**: `GET /api/dashboard`
+- **Logic**: Aggregate and return counts of users, classes, and recent activities. This may involve querying multiple tables and summarizing the data.
+
+## User Management Page
+
+- **Endpoints**:
+    
+    - `POST /api/users` to add new users.
+    - `GET /api/users` to list users with search and filter capabilities.
+    - `PUT /api/users/:userId` to edit user details.
+    - `DELETE /api/users/:userId` to remove users.
+    
+- **Logic**: Implement CRUD operations for user management. Ensure proper authentication and authorization checks are in place.
+
+## Class Management Page
+
+- **Endpoints**:
+    
+    - `POST /api/classes` to create new classes.
+    - `GET /api/classes` to list all classes.
+    - `PUT /api/classes/:classId` to edit class details.
+    - `DELETE /api/classes/:classId` to remove classes.
+    - `POST /api/classes/:classId/students` to assign students to classes.
+    - `DELETE /api/classes/:classId/students/:studentId` to unassign students from classes.
+    
+- **Logic**: Manage class details. Ensure referential integrity when adding or removing students from classes.
+
+## Grade Management part in Overview Page
+
+- **Endpoints**:
+    
+    - `GET /api/grades/report` to generate class performance reports.
+    
+- **Logic**: Compile grade data to create comprehensive reports on class performance, including averages and grade distributions. bets grade and worst grande and there is an option to filter for the class
+
+## Settings Page
+
+- **Endpoints**:
+    
+    - `GET /api/settings` to retrieve current settings.
+    - `PUT /api/settings` to update system settings.
+    
+- **Logic**: Allow the coordinator to manage system-wide settings, including academic calendar and grading scales.
+
+## Database and System Integration
+
+- **Logic**:
+    
+    - Ensure that all coordinator actions are properly reflected in the database.
+    - Use transactions where necessary to maintain data consistency.
+    - Implement foreign key constraints to ensure data integrity.
+    
+
+## User Experience and Accessibility
+
+- **Logic**:
+    
+    - Design the API to be intuitive and consistent.
+    - Provide meaningful status codes and messages for all operations.
+    
+
+## Additional Endpoints for Coordinator Role
+
+- **Endpoints**:
+    
+    - `POST /api/users` to add teachers and students.
+    - `PUT /api/users/:userId` to edit user roles and details.
+    - `DELETE /api/users/:userId` to delete users.
+    - `POST /api/classes` to create classes.
+    - `PUT /api/classes/:classId` to edit classes.
+    - `DELETE /api/classes/:classId` to delete classes.
+    - `POST /api/classes/:classId/students/:studentId` to assign students to classes.
+    - `DELETE /api/classes/:classId/students/:studentId` to remove students from classes.
+    - `GET /api/grades` to view all grades.
+    - `POST /api/grades` to add grades.
+    - `PUT /api/grades/:gradeId` to update grades.
+    - `DELETE /api/grades/:gradeId` to delete grades.
+    
+- **Logic**: Implement the necessary backend logic to support these endpoints, ensuring that the coordinator can perform all required actions.
+
+The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
