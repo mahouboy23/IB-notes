@@ -19,7 +19,7 @@ h) Déduire la concavité de $f(x)$
 I) Trouver l'aire $P(40<X<60)$
     i/ Méthode probabilité
     ii/ Méthode integral
-j) Montrer que $\sum P(X=X)=1$ 
+j) Montrer que $\sum P(X=x)=1$ 
 K) $f(x)$ approche la loi normale trouver $E(X)$ et $Q_2$  on utilisant les intégrales définis
 l) Prouver X est une loi normale avec $\text{Moyenne = Mediane = Mode}$ 
 m) $P(X>b)=0,30825$ avec l'aide des intégrales $k$ 
