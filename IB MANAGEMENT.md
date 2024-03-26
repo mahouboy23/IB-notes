@@ -43,9 +43,7 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
 
-Now i want you to 
-
-
+Now i want you to implement the complete backend code to implement all the features of the coordinator role.
 ## Overview of Coordinator Functionality
 
 The coordinator's role in your React web app is central to managing the entire IB grade reporting system. The coordinator will have comprehensive access and control over users, classes, and grades. Below is a detailed plan for the coordinator's functionality, structured by pages and the logic behind them.
