@@ -43,4 +43,4 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
 
-I want you to implement all the functionality of the coordinatoor
+I want you to implement all the functionality of the coordinatoor.
