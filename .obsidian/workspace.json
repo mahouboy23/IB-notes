@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "IB MANAGEMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "IB MANAGEMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH IA HL.md"
+                "file": "IB MANAGEMENT.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "IB MANAGEMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "071ea4e13a927a13",
   "lastOpenFiles": [
+    "MATH IA HL.md",
     "EXO 5 FRENCH.md",
     "hl subjects/Français B.md",
     "IB overview.md",
@@ -301,7 +302,6 @@
     "Physics IA draft.md",
     "sl subjects/Physics.md",
     "MATH INTERNAL ASSESMENT.md",
-    "MATH IA HL.md",
     "assets/MATH IA HL/image-20240323105307196.png",
     "assets/MATH IA HL/image-20240323104626808.png",
     "assets/MATH IA HL/dist1.png",
