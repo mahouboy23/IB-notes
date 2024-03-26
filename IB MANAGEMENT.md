@@ -2,6 +2,7 @@
 tags : mod cs
 ---
 Created: 2024-03-22
+Now using all this information that is provided below especially the backend part i want you to give me the complete code (actual code i can copy and paste and it works) for all the backend code so i can then just implement the front end
 
 the idea for my web app: 
 I want to create a react web app that manages grade report for the IB program and help manage them by class (11th and 12th grade) and students with each teacher being a user that can input there grades for their own class and the coordinator with accès to everything (will be the moderator). Students will also be able to get Access to there grade report and have automatic conversion in different format from french to GPA to English's grading system etc.... and people can download a pdf version all of this information stored in a central MySQL database with multiple tables for all info. The Teacher can set grade boundaries for their whole subject and for individual grades so that wen it is inputted in the app it is automatically converted to the IB grading format (over 7). The students can see there grades. There is also auto calculation of average and show worst and best grade anonymously. The coordinator can add and manage student, teacher and classes (add a student and then add him to a class or a teacher to a class ect...). and he has a general overview of everything.
@@ -42,8 +43,6 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 - `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
-
-Now i want you to implement the complete backend code to implement all the features of the coordinator role.
 ## Overview of Coordinator Functionality
 
 The coordinator's role in your React web app is central to managing the entire IB grade reporting system. The coordinator will have comprehensive access and control over users, classes, and grades. Below is a detailed plan for the coordinator's functionality, structured by pages and the logic behind them.
