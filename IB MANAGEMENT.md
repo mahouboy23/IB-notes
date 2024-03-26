@@ -70,7 +70,7 @@ The coordinator's role in your React web app is central to managing the entire I
     
 - **Logic**: Implement CRUD operations for user management. Ensure proper authentication and authorization checks are in place.
 
-## Dashboard Page in overview page
+## Dashboard Part in overview page
 
 - **Summary**: A landing page that provides a quick overview of the system's status, including the number of active classes, teachers, and students.
 - **Features**:
