@@ -200,23 +200,23 @@ The coordinator's role in your React web app is central to managing the entire I
     - Provide meaningful status codes and messages for all operations.
     
 
-## Additional Endpoints for Coordinator Role
-
-- **Endpoints**:
-    
-    - `POST /api/users` to add teachers and students.
-    - `PUT /api/users/:userId` to edit user roles and details.
-    - `DELETE /api/users/:userId` to delete users.
-    - `POST /api/classes` to create classes.
-    - `PUT /api/classes/:classId` to edit classes.
-    - `DELETE /api/classes/:classId` to delete classes.
-    - `POST /api/classes/:classId/students/:studentId` to assign students to classes.
-    - `DELETE /api/classes/:classId/students/:studentId` to remove students from classes.
-    - `GET /api/grades` to view all grades.
-    - `POST /api/grades` to add grades.
-    - `PUT /api/grades/:gradeId` to update grades.
-    - `DELETE /api/grades/:gradeId` to delete grades.
-    
-- **Logic**: Implement the necessary backend logic to support these endpoints, ensuring that the coordinator can perform all required actions.
+	## Additional Endpoints for Coordinator Role
+	
+	- **Endpoints**:
+	    
+	    - `POST /api/users` to add teachers and students.
+	    - `PUT /api/users/:userId` to edit user roles and details.
+	    - `DELETE /api/users/:userId` to delete users.
+	    - `POST /api/classes` to create classes.
+	    - `PUT /api/classes/:classId` to edit classes.
+	    - `DELETE /api/classes/:classId` to delete classes.
+	    - `POST /api/classes/:classId/students/:studentId` to assign students to classes.
+	    - `DELETE /api/classes/:classId/students/:studentId` to remove students from classes.
+	    - `GET /api/grades` to view all grades.
+	    - `POST /api/grades` to add grades.
+	    - `PUT /api/grades/:gradeId` to update grades.
+	    - `DELETE /api/grades/:gradeId` to delete grades.
+	    
+	- **Logic**: Implement the necessary backend logic to support these endpoints, ensuring that the coordinator can perform all required actions.
 
 The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
