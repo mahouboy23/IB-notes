@@ -43,4 +43,6 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 
 
-I want you to implement all the functionality of the coordinatoor.
+I want you to implement all the functionality of the coordinatoor. In the overview we can add teacher's and students. in the classes we can add, remove and modify students and students. So i want you to give me a complete plan (no talk about how to implement) but the features and how to structure it in the pages and what needs to be done and the logic.
+![[image-20240326103230636.png]]
+
