@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "hl subjects/Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "hl subjects/Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB MANAGEMENT.md"
+                "file": "hl subjects/Français B.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "hl subjects/Français B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,11 +292,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "MATH IA HL.md",
+    "IB MANAGEMENT.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
-    "MATH IA HL.md",
     "EXO 5 FRENCH.md",
     "hl subjects/Français B.md",
     "IB overview.md",
@@ -310,7 +311,6 @@
     "assets/MATH IA HL",
     "hl subjects/Math AA.md",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
-    "IB MANAGEMENT.md",
     "Computer science exploration.md",
     "DATA STRUCTURE.md",
     "web app.md",
@@ -340,7 +340,6 @@
     "sl subjects/assets/Physics/Get an A in TOK Title 6 Guide.pdf",
     "politique d'offre.canvas",
     "assets/Ondes static/image-20240129115154496.png",
-    "assets/Ondes static/image-20240129114646404.png",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
