@@ -37,6 +37,55 @@ _Méthode :_
 
 Ok maintenant refait completement la parti théorique et utilise et inspire toi du fichier 1911.13221 (4).pdf. La parti théorique doit sortir un relation entre la longueur du tube et le temps de vidange/debit. et sa doit parler de que d'est truc relevant et utile pour mon exploration : 
 
+I to draw detailed physics diagrams, Like the ones we see in textbooks and research papers. it is for representing this experiment t'all set up :
+\section{Expérience et Matériel}
+
+\subsection{Installation Expérimentale}
+
+%faire un figure
+
+\subsection{Matériaux et Appareillage}
+Les matériaux et l'appareillage utilisés pour cette expérience comprennent :
+\begin{itemize}
+    \item Un chronomètre précis à la seconde pour mesurer avec exactitude le temps de vidange.
+    \item Une règle graduée offrant une précision de $\pm$ 0,1 cm, utilisée pour mesurer les dimensions de la bouteille et les longueurs des pailles.
+    \item Une bouteille d'eau standard de 1,5 litre, servant de réservoir dans l'expérience.
+    \item Une paille en plastique, qui agissent comme des tubes de vidange de différentes longueurs.
+    \item Un outil de perforation chauffé, utilisé pour créer un trou au fond de la bouteille afin d'insérer la paille.
+    \item Une colle liquide
+\end{itemize}
+
+\subsection{Évaluation des Risques et Sécurité}
+L'expérience nécessite une attention particulière à la sécurité, notamment :
+\begin{itemize}
+    \item L'utilisation d'un outil de perforation à pointe chauffée exige une manipulation soigneuse. Des mesures de protection, telles que le port de gants résistants à la chaleur, sont essentielles pour prévenir tout risque de blessure.
+    \item Pour assurer l'intégrité des mesures et éviter l'altération de l'échantillon, une paille en plastique est préférée à une paille en papier. Cela offre une résistance adéquate à l'humidité et à l'usure liée à l'expérience.
+\end{itemize}
+
+\subsection{Essais Préliminaires}
+Les essais préliminaires ont révélé que :
+\begin{itemize}
+    \item L'orientation de la bouteille a un impact significatif sur la régularité de l'écoulement de l'eau.
+    \item Afin de stabiliser l'écoulement et d'obtenir des mesures fiables, la méthode a été ajustée pour stabiliser la bouteille pendant toute la durée de l'expérience.
+\end{itemize}
+
+\section{Procédure Expérimentale}
+
+\subsection{Processus d'Expérimentation}
+La procédure expérimentale suit les étapes suivantes :
+\begin{enumerate}
+    \item Utiliser une règle pour :
+    \begin{itemize}
+        \item[a.] Mesurer le rayon de la bouteille (en cm).
+        \item[b.] Mesurer les hauteurs initiale et finale de l'eau dans la bouteille (en cm).
+    \end{itemize}
+    \item Remplir une bouteille d'eau jusqu'au bord, puis ouvrir la bouteille après avoir ajouté l'eau.
+    \item Percer un trou au fond de la bouteille avec un outil de perforation chauffé pour y insérer la paille.
+    \item Boucher les espaces autour de la paille avec un colle pour empêcher l'eau de passer
+    \item Placer la bouteille en hauteur pour permettre à l'eau de s'écouler à travers la paille, et chronométrer le temps de vidange.
+    \item Répéter le processus (étape 4) pour cinq longueurs différentes de paille, en réalisant plusieurs essais pour chaque longueur afin d'assurer la fiabilité des résultats
+    \item Mesurer le temps de vidange pour chaque longueur du tube pour deux hauteur très proche
+\end{enumerate}
 
 tikz code : 
 reverse bottle : 
@@ -71,3 +120,4 @@ reverse bottle :
     \end{tikzpicture}
 \end{document}
 ```
+
