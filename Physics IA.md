@@ -36,3 +36,38 @@ _Méthode :_
 
 
 Ok maintenant refait completement la parti théorique et utilise et inspire toi du fichier 1911.13221 (4).pdf. La parti théorique doit sortir un relation entre la longueur du tube et le temps de vidange/debit. et sa doit parler de que d'est truc relevant et utile pour mon exploration : 
+
+
+tikz code : 
+reverse bottle : 
+```latex
+\documentclass[border=5pt,tikz]{standalone}
+\usetikzlibrary{decorations.text,backgrounds}
+\definecolor{wine}{RGB}{216,198,62}
+\definecolor{bottle}{RGB}{76,163,58}
+\tikzset{
+    my/.style={
+        postaction={decorate},decoration={text along path,
+            text={#1},text align=center}
+    }
+}
+\begin{document}
+    \begin{tikzpicture}
+        \begin{scope}
+            \clip (0,-2.5) --+ (0,2.5) arc (0:180:1.5) -- (-3,-2.5) arc (180:235:3) --+ (0,-.25) --+ (.45,-.25) --+ (.45,.015) (0,-2.5) arc (0:-55:3);
+            \fill[inner color=bottle!50,outer color=bottle] (0,-2.5) --+ (0,2.5) arc (0:180:1.5) -- (-3,-2.5) arc (180:235:3) --+ (0,-.25) --+ (.45,-.25) --+ (.45,.015) (0,-2.5) arc (0:-55:3);
+                \fill[wine!60] (-3,-5.5) rectangle ++(3,3.5);
+                \fill[wine!40] (-1.5,-2) circle ({1.5cm-0.4pt} and 0.5cm);
+            \foreach \x in {-5,-4.9,...,5}
+            \foreach \y in {-5,...,-3}
+            {
+                \pgfmathsetmacro\opacity{random(1,10)*(1/10)}
+                \pgfmathsetmacro\radius{random(1,2)*(.05/2)}
+                    \fill[white,opacity=\opacity] (\x+1.3*rnd,\y+1.4*rnd) circle(\radius);
+            }
+            \draw[very thick] (0,-2.5) --+ (0,2.5) arc (0:180:1.5) -- (-3,-2.5) arc (180:235:3) --+ (0,-.25) --+ (.45,-.25) --+ (.45,.015) (0,-2.5) arc (0:-55:3);
+            \path[my={The magic of Ti{\emph{\color{orange}k}}Z}] (-3.5,.5) arc(-180:0:2 and 1);
+           \end{scope}
+    \end{tikzpicture}
+\end{document}
+```
