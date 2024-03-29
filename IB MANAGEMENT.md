@@ -221,7 +221,7 @@ The coordinator's role in your React web app is central to managing the entire I
 
 The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
 
-the submission of create/edit class i not working, even tho the routes(api) and operations are working (tested with postman) when hit submit in both modal it does not work.
+the submission of create/edit class i not working, even tho the routes(api) and operations are working (tested with postman) when hit submit in both modal it does not work. fix it or find the problem
 more info : 
 
 the idea for my web app: 
