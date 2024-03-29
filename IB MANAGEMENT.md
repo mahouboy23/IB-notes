@@ -221,16 +221,3 @@ The coordinator's role in your React web app is central to managing the entire I
 
 The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
 
-the delete button is still not working, the select teacher dropdown does not show any teacher and when clicking the assign student and remove student modal there is an error :
-Uncaught runtime errors:
-ERROR
-
-Cannot read properties of undefined (reading 'map') TypeError: Cannot read properties of undefined (reading 'map') at ClassManagement (http://localhost:3001/static/js/bundle.js:1213:59) at renderWithHooks (http://localhost:3001/static/js/bundle.js:28025:22) at updateFunctionComponent (http://localhost:3001/static/js/bundle.js:30905:24) at beginWork (http://localhost:3001/static/js/bundle.js:32617:20) at HTMLUnknownElement.callCallback (http://localhost:3001/static/js/bundle.js:17621:18) at Object.invokeGuardedCallbackDev (http://localhost:3001/static/js/bundle.js:17665:20) at invokeGuardedCallback (http://localhost:3001/static/js/bundle.js:17722:35) at beginWork$1 (http://localhost:3001/static/js/bundle.js:37586:11) at performUnitOfWork (http://localhost:3001/static/js/bundle.js:36834:16) at workLoopSync (http://localhost:3001/static/js/bundle.js:36757:9)
-
-ERROR
-
-Cannot read properties of undefined (reading 'map') TypeError: Cannot read properties of undefined (reading 'map') at ClassManagement (http://localhost:3001/static/js/bundle.js:1213:59) at renderWithHooks (http://localhost:3001/static/js/bundle.js:28025:22) at updateFunctionComponent (http://localhost:3001/static/js/bundle.js:30905:24) at beginWork (http://localhost:3001/static/js/bundle.js:32617:20) at HTMLUnknownElement.callCallback (http://localhost:3001/static/js/bundle.js:17621:18) at Object.invokeGuardedCallbackDev (http://localhost:3001/static/js/bundle.js:17665:20) at invokeGuardedCallback (http://localhost:3001/static/js/bundle.js:17722:35) at beginWork$1 (http://localhost:3001/static/js/bundle.js:37586:11) at performUnitOfWork (http://localhost:3001/static/js/bundle.js:36834:16) at workLoopSync (http://localhost:3001/static/js/bundle.js:36757:9)
-
-ERROR
-
-Cannot read properties of undefined (reading 'map') TypeError: Cannot read properties of undefined (reading 'map') at ClassManagement (http://localhost:3001/static/js/bundle.js:1213:59) at renderWithHooks (http://localhost:3001/static/js/bundle.js:28025:22) at updateFunctionComponent (http://localhost:3001/static/js/bundle.js:30905:24) at beginWork (http://localhost:3001/static/js/bundle.js:32617:20) at beginWork$1 (http://localhost:3001/static/js/bundle.js:37564:18) at performUnitOfWork (http://localhost:3001/static/js/bundle.js:36834:16) at workLoopSync (http://localhost:3001/static/js/bundle.js:36757:9) at renderRootSync (http://localhost:3001/static/js/bundle.js:36730:11) at performSyncWorkOnRoot (http://localhost:3001/static/js/bundle.js:36422:24) at flushSyncCallbacks (http://localhost:3001/static/js/bundle.js:24458:26)
