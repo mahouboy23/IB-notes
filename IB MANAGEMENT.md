@@ -222,4 +222,7 @@ The coordinator's role in your React web app is central to managing the entire I
 The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
 
 ok there is a few thing's to modify :
-- first of all the asign student should show a little
+- first of all the assign student should show a little modal where it lists out all the students but there is a search bar to search for the student using : "full_name".
+- remove student should show all the students of that class and have a delete button where we can delete that student in  modal. 
+- for the teacher it should selection in add and update/edit modals it should show a list of all teachers and you can then assign or change it.
+- the delete/add/edit submit is not working even tho the actuall methode's in the backend are (tested with postman)
