@@ -69,7 +69,7 @@ Standard Deviation: 4.03
 ---
 # [[MATH IA HL]]
 
-SO i want you to recreate a structure and detail how and what we are gonna by focusing one main objectives and mathematics points of the research questionm
+SO i want you to recreate a structure and detail how and what we are gonna by focusing one main objectives and mathematics points of the research question.
 **question de recherche** :Comment ma vitesse de frappe se compare-t-elle à la vitesse de frappe optimale.
 
 here are the main mathematics points that i want to appear :
