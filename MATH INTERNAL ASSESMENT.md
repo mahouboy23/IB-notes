@@ -128,10 +128,10 @@ description et info : Intégrez la fonction de densité de probabilité approxim
 
 # Analyse et Interprétation des Résultats
 
-description et info : Fait une analyse des résultat, fait aussi une analyse mathématique dit ce qu'on peut déduire et autre details bien et fait que sa soir coherent mais aussi une analyse analytique. Puit introduit l'idee que je peux m'ameliorer mais quelle vitesse de frappe moyenne $\mu$ pour que la probabilite d'avoir 60 wpm soit 80% 
+description et info : Fait une analyse des résultat, fait aussi une analyse mathématique dit ce qu'on peut déduire et autre details bien et fait que sa soir coherent mais aussi une analyse analytique. Puit introduit l'idee que je peux m'ameliorer mais quelle vitesse de frappe moyenne $\mu$ pour que la probabilité d'avoir 60 wpm soit 80% 
 
 ## Utilisation des Valeurs Z
-description et info : 
+description et info : Introduit comment la normalisation des données et utilisation du Z values et la formule du Z-score peut trouver la nouvelle moyenne, introduit la formule et les chose a connaite pouit fait les calculs 
 
 ## Amélioration et Objectifs
 
