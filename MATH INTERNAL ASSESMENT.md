@@ -103,3 +103,10 @@ here are the main mathematics points that i want to appear :
 
 ## l'approximation de la série de Maclaurin
 
+# Analyse et Interprétation des Résultats
+
+## Utilisation des Valeurs Z
+
+## Amélioration et Objectifs
+
+# Conclusion et evaluation
