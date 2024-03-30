@@ -131,6 +131,7 @@ description et info : Intégrez la fonction de densité de probabilité approxim
 description et info : Fait une analyse des résultat, fait aussi une analyse mathématique dit ce qu'on peut déduire et autre details bien et fait que sa soir coherent mais aussi une analyse analytique. Puit introduit l'idee que je peux m'ameliorer mais quelle vitesse de frappe moyenne $\mu$ pour que la probabilite d'avoir 60 wpm soit 80% 
 
 ## Utilisation des Valeurs Z
+description et info : 
 
 ## Amélioration et Objectifs
 
