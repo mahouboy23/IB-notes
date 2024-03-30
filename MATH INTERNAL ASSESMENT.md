@@ -69,5 +69,10 @@ Standard Deviation: 4.03
 ---
 # [[MATH IA HL]]
 
-
+SO i want you to recreate a structure and detail how and what we are gonna by focusing one main objectives and mathematics points of the research questionm
 **question de recherche** :Comment ma vitesse de frappe se compare-t-elle à la vitesse de frappe optimale.
+
+here are the main mathematics points that i want to appear :
+- use the math_ex and other to evaluate the normal distribution and find the parameters like variance, mean ect... and create the probability density function while explaining and proving the proprieties we are gonna use and some important aspects (relevant to the IA),
+- To find the probability i want to use integration (of the pdf) and the area under the curve to find the probability that i achieve the optimal typing speed, but since the pdf functions is to hard or possibly impossible to integrate to normal means we are gonna use the McLaurin series to find an approximation of the probability
+- Use z values and the z formula to find a new mean required for bringing up the probability to a realistic number and to give an idea where i need to get to improve.
