@@ -89,7 +89,7 @@ description et info : Présentez la fonction de densité de probabilité (PDF) 
 # Propriétés de la Distribution Normale
 
 ## Dérivées Première et Seconde
-description et info : Calculez la première et la seconde dérivée de la PDF, $f'(x)$ et $f''(x)$, pour identifier le comportement de la courbe de la distribution normale, y compris les points critiques et les points d'inflexion.
+description et info : Introduit d'abord et pourquoi on fait cette section (calcul des derives et maximum/inflexion) Calculez la première et la seconde dérivée de la PDF, $f'(x)$ et $f''(x)$, pour identifier le comportement de la courbe de la distribution normale, y compris les points critiques et les points d'inflexion.
 ## Maximum Local et Points d'Inflexion
 description et info : Démontrez que la PDF a un maximum local en $x=u$  et des points d'inflexion en $x=u+\sigma$ et $u-\sigma$, ce qui est pertinent pour comprendre la forme de la distribution de votre vitesse de frappe
 # Collecte et traitement des Données
