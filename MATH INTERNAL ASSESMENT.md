@@ -98,7 +98,7 @@ description et info : Décris comment j'ai avez collecté les données de vitess
 ## Calcule de la moyenne ($\mu$) et l’écart-type ($\sigma$)
 
 ## Visualisation de la Distribution des Données
-
+description et info : Construisez la fonction de densité de probabilité (PDF) pour ma vitesse de frappe. et utilisez les propriétés (dans, Maximum Local et Points d'Inflexion et Dérivées Première et Seconde ect...) pour discuter de la forme et des caractéristiques de la distribution de ma vitesse de frappe et qu'est ce que cela implique dans plusieurs chose (mon entrainement, les donnees sur ma vitesse de frappe ect...).
 #  Calcul de Probabilité 
 ## Probabilité d'Atteindre la Vitesse Optimale
 
