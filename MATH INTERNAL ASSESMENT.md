@@ -95,6 +95,25 @@ description et info : Démontrez que la PDF a un maximum local en $x=u$  et de
 # Collecte et traitement des Données
 ## Collecte des Données 
 description et info : Décris comment j'ai avez collecté les données de vitesse de frappe sur une période donnée.
+
+graphique :
+\begin{figure}[h]
+    \centering
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{Nombre de Test} & \textbf{Temps (minutes)} & \textbf{Mots Par Minutes} \\
+        \hline
+        1 & 1.0 & 48.556209 \\
+        2 & 1.0 & 43.100629 \\
+        3 & 1.0 & 45.414952 \\
+        4 & 1.0 & 50.463573 \\
+        5 & 1.0 & 48.970232 \\
+        $n$ & 1.0 & $x_n$ \\
+        \hline
+    \end{tabular}
+    \caption{Échantillons du jeu de données de la vitesse de frappe.}
+    \label{fig:data-samples}
+\end{figure}
 ## Calcule de la moyenne ($\mu$) et l’écart-type ($\sigma$)
 
 ## Visualisation de la Distribution des Données
