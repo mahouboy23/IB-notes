@@ -86,4 +86,6 @@ here are the main mathematics points that i want to appear :
 
 ## PDF d'une distribution normale
 
-#
+# ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
+
+## Collecte des Données
