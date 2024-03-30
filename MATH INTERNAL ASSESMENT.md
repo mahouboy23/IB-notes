@@ -79,11 +79,11 @@ here are the main mathematics points that i want to appear :
 
 
 # Introduction et objectif
-
+description et info :  Définissez clairement l'objectif de l'experience, qui est de comparer ma vitesse de frappe personnelle à la vitesse de frappe optimale. Expliquez l'importance de cette comparaison dans le contexte de l'ère numérique, l'ecole, le travaille ect...
 # Information général
 
 ## Distribution normale
-
+description et info :
 ## PDF d'une distribution normale
 
 # ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
@@ -93,7 +93,7 @@ here are the main mathematics points that i want to appear :
 
 # Collecte et traitement des Données
 ## Collecte des Données 
-
+description et info : Décris comment j'ai avez collecté les données de vitesse de frappe sur une période donnée.
 ## Calcule de la moyenne ($\mu$) et l’écart-type ($\sigma$)
 
 ## Visualisation de la Distribution des Données
@@ -110,3 +110,7 @@ here are the main mathematics points that i want to appear :
 ## Amélioration et Objectifs
 
 # Conclusion et evaluation
+
+# bibliographie
+
+# Annexe
