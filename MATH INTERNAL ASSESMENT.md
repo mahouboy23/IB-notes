@@ -85,7 +85,7 @@ description et info :  Définissez clairement l'objectif de l'experience, qui es
 ## Distribution normale
 description et info : Commencez par définir la vitesse de frappe comme une variable aléatoire $X$ qui suit une distribution normale $X \sim \mathcal{N}(\mu,\,\sigma^{2})$. Cela établit le cadre pour l'analyse statistique
 ## PDF d'une distribution normale
-description et info : Présentez la fonction de densité de probabilité (PDF) $f(x)$ de la distribution normale et expliquez son rôle dans la modélisation de la probabilité de différentes vitesses de frappe
+description et info : Présentez la fonction de densité de probabilité (PDF) $f(x)$ de la distribution normale et expliquez son rôle dans la modélisation de la probabilité de différentes vitesses de frappe. N'oublie pas on suppose que me données suis une distribution normale.
 # ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
 
 ## Dérivées Première et Seconde
@@ -98,10 +98,10 @@ description et info : Décris comment j'ai avez collecté les données de vitess
 ## Calcule de la moyenne ($\mu$) et l’écart-type ($\sigma$)
 
 ## Visualisation de la Distribution des Données
-description et info : Construisez la fonction de densité de probabilité (PDF) pour ma vitesse de frappe. et utilisez les propriétés (dans, Maximum Local et Points d'Inflexion et Dérivées Première et Seconde ect...) pour discuter de la forme et des caractéristiques de la distribution de ma vitesse de frappe et qu'est ce que cela implique dans plusieurs chose (mon entrainement, les donnees sur ma vitesse de frappe ect...).
+description et info : Construisez la fonction de densité de probabilité (PDF) pour ma vitesse de frappe. et utilisez les propriétés (dans, Maximum Local et Points d'Inflexion et Dérivées Première et Seconde ect...) pour discuter de la forme et des caractéristiques de la distribution de ma vitesse de frappe et qu'est ce que cela implique dans plusieurs chose (mon entrainement, les données sur ma vitesse de frappe ect...).
 #  Calcul de Probabilité 
 ## Probabilité d'Atteindre la Vitesse Optimale
-
+description et info : expliquer comment on trouve la probabilité avec l'aire en dessous de la courbe et comment on fait pour trouver la probabilité de ma 
 ## l'approximation de la série de Maclaurin
 
 # Analyse et Interprétation des Résultats
