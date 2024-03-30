@@ -84,6 +84,6 @@ here are the main mathematics points that i want to appear :
 
 ## Distribution normale
 
-## PDF d'un distribution normale
+## PDF d'une distribution normale
 
 #
