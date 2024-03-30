@@ -88,4 +88,8 @@ here are the main mathematics points that i want to appear :
 
 # ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
 
+## Dérivées Première et Seconde
+## Maximum Local et Points d'Inflexion
 ## Collecte des Données
+
+#
