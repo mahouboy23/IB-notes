@@ -116,6 +116,16 @@ Intégrez la fonction de densité de probabilité approximée pour calculer l'ai
 # Conclusion et evaluation
 
 # bibliographie
+- \begin{thebibliography}{9}  
+\bibitem{normal1}  
+de Moivre, A. (1738). \textit{The Doctrine of Chances: or, A Method of Calculating the Probabilities of Events in Play}. London: Pearson.  
+\bibitem{normal2}  
+Patel, J. K., & Read, C. B. (1996). \textit{Handbook of the normal distribution} (Vol. 150). CRC Press.  
+\bibitem{normal3}  
+Kwak, S. G., & Kim, J. H. (2017). Central limit theorem: the cornerstone of modern statistics. \textit{Korean journal of anesthesiology}, 70(2), 144.  
+\bibitem{normal4}  
+Walla, P. (2017). Comparison of speed of reading and information processing in five different font styles. \textit{EC Neurology}, 5, 189-192.  
+\end{thebibliography}
 - 
 
 # Annexe
