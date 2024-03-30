@@ -116,6 +116,7 @@ Intégrez la fonction de densité de probabilité approximée pour calculer l'ai
 # Conclusion et evaluation
 
 # bibliographie
+- 
 
 # Annexe
 
