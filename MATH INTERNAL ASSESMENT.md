@@ -90,6 +90,12 @@ here are the main mathematics points that i want to appear :
 
 ## Dérivées Première et Seconde
 ## Maximum Local et Points d'Inflexion
-## Collecte des Données
 
-#
+# Collecte et traitement des Données
+## Collecte des Données 
+
+## Calcule de la moyenne ($\mu$) et l’écart-type ($\sigma$)
+
+## Visualisation de la Distribution des Données
+
+#  Calcul de Probabilité 
