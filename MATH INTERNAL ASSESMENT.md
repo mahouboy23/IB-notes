@@ -118,3 +118,36 @@ Intégrez la fonction de densité de probabilité approximée pour calculer l'ai
 # bibliographie
 
 # Annexe
+
+example :
+This topic is about how derivatives are applied in Zeno's arrow paradox. This
+paradox basically states that a moving arrow moves no distance at an instant, which lasts
+O seconds, as it occupies a space equal to its size, nor does it move at any instant for the
+same reason, concluding that the arrow, therefore, has no motion.
+
+Zeno's arrow paradox looks absurd at first glance, as you can see the arrow moving, but
+the longer you think about it the more sense it makes. It is a good example of how
+complicated can the mathematisation of change be, even when talking about something
+as "simple" as movement. I therefore consider it to be extremely interesting, as the
+more you investigate the more you understand how complex it can be. Calculus is the
+mathematical study of change. For this reason, it can be useful to approach Zeno's arrow
+paradox, because accepting the concept of infinity, and of a number approaching to
+infinity and zero is necessary to try to find a mathematical solution to the paradox. For
+example, Zeno defines an instant as O seconds, but if time was entirely composed of
+instants of O seconds, as Zeno assumes, there would not be time at all, and consequently
+no movement. Calculus allows as to think of an instant as an infinitely small unit of time,
+therefore allowing, in this case, movement to exist. To try to answer Zeno's paradox, I
+will use the derivative of the velocity of the arrow (distance over time), and make time
+shrink towards zero, which is what happens at each instant during the movement of the
+arrow. Hopefully, this will help me explain that the arrow moves an infinitesimal amount
+of distance each infinitesimal amount of time, which could be the reason why the arrow
+would seem to have no movement at each instant.
+
+Something as essential as change, that happens everywhere at every time, looks like a
+quite complicated topic in mathematics, and only a small portion of society can
+understand the mathematisation Of change, so this work's main aim is to use calculus to
+"solve" Zeno's paradox, and explain Why I consider Zeno was not entirely correct
+assuming certain things. It Will also help to understand derivatives and rates Of change,
+using Zeno's paradox as an example Of Why is calculus necessary to approach some areas
+or cases where other mathematical approaches wouldn't be possible, or would be
+ineffective.
