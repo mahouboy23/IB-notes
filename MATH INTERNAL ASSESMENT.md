@@ -86,7 +86,7 @@ here are the main mathematics points that i want to appear :
 
 ## PDF d'une distribution normale
 
-# ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
+# ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici, ou bien est ce que c'est dans general)
 
 ## Dérivées Première et Seconde
 ## Maximum Local et Points d'Inflexion
