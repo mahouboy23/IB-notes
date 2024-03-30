@@ -124,9 +124,11 @@ description et info : expliquer comment on trouve la probabilité avec l'aire en
 ## l'approximation de la série de Maclaurin
 description et info : Expliquez comment la série de Maclaurin peut être utilisée pour approximer la PDF et faciliter le calcul de l'aire sous la courbe, ce qui est nécessaire pour trouver la probabilité recherchée.
 ## Intégration et Aire sous la Courbe
-Intégrez la fonction de densité de probabilité approximée pour calculer l'aire sous la courbe, ce qui vous donnera la probabilité de dépasser la vitesse de frappe optimale.
+description et info : Intégrez la fonction de densité de probabilité approximée pour calculer l'aire sous la courbe, ce qui vous donnera la probabilité de dépasser la vitesse de frappe optimale.
 
 # Analyse et Interprétation des Résultats
+
+description et info : Fait une analyse des résultat, fait aussi une analyse mathématique dit ce qu'on peut déduire et autre details bien et fait que sa soir coherent mais aussi une analyse analytique. Puit introduit l'idee que je peux m'ameliorer mais quelle vitesse de frappe moyenne $\mu$ pour que la probabilite d'avoir 60 wpm soit 80% 
 
 ## Utilisation des Valeurs Z
 
