@@ -101,8 +101,11 @@ description et info : Décris comment j'ai avez collecté les données de vitess
 description et info : Construisez la fonction de densité de probabilité (PDF) pour ma vitesse de frappe. et utilisez les propriétés (dans, Maximum Local et Points d'Inflexion et Dérivées Première et Seconde ect...) pour discuter de la forme et des caractéristiques de la distribution de ma vitesse de frappe et qu'est ce que cela implique dans plusieurs chose (mon entrainement, les données sur ma vitesse de frappe ect...).
 #  Calcul de Probabilité 
 ## Probabilité d'Atteindre la Vitesse Optimale
-description et info : expliquer comment on trouve la probabilité avec l'aire en dessous de la courbe et comment on fait pour trouver la probabilité de ma 
+description et info : expliquer comment on trouve la probabilité avec l'aire en dessous de la courbe et comment on fait pour trouver la probabilité de ma vitesse de frappe et mentionne que la fonction de densité de probabilité est complexe à intégrer directement.
 ## l'approximation de la série de Maclaurin
+description et info : Expliquez comment la série de Maclaurin peut être utilisée pour approximer la PDF et faciliter le calcul de l'aire sous la courbe, ce qui est nécessaire pour trouver la probabilité recherchée.
+## Intégration et Aire sous la Courbe
+Intégrez la fonction de densité de probabilité approximée pour calculer l'aire sous la courbe, ce qui vous donnera la probabilité de dépasser la vitesse de frappe optimale.
 
 # Analyse et Interprétation des Résultats
 
