@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXO 5 FRENCH.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB MANAGEMENT.md"
+                "file": "MATH INTERNAL ASSESMENT.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,18 +292,19 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "b58b0e9ba317cf15",
   "lastOpenFiles": [
-    "MATH IA HL.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
     "EXO 5 FRENCH.md",
+    "MATH IA HL.md",
+    "IB MANAGEMENT.md",
     "Physics IA.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "sl subjects/Economie.md",
     "Microéconomie.md",
     "ressources communes.md",
     "hl subjects/Français B.md",
-    "IB MANAGEMENT.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
     "Physics IA draft.md",
@@ -312,7 +313,6 @@
     "assets/MATH IA HL/image-20240323104626808.png",
     "assets/MATH IA HL/dist1.png",
     "assets/MATH IA HL",
-    "hl subjects/Math AA.md",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
     "Computer science exploration.md",
     "DATA STRUCTURE.md",

@@ -68,3 +68,6 @@ Standard Deviation: 4.03
 
 ---
 # [[MATH IA HL]]
+
+
+**question de recherche** :Comment ma vitesse de frappe se compare-t-elle à la vitesse de frappe optimale.
