@@ -80,6 +80,10 @@ here are the main mathematics points that i want to appear :
 
 # Introduction et objectif
 
-# Information general
+# Information général
 
-## 
+## Distribution normale
+
+## PDF d'un distribution normale
+
+#
