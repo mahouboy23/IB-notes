@@ -99,3 +99,7 @@ here are the main mathematics points that i want to appear :
 ## Visualisation de la Distribution des Données
 
 #  Calcul de Probabilité 
+## Probabilité d'Atteindre la Vitesse Optimale
+
+## l'approximation de la série de Maclaurin
+
