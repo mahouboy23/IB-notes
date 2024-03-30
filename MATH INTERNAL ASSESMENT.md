@@ -83,14 +83,15 @@ description et info :  Définissez clairement l'objectif de l'experience, qui es
 # Information général
 
 ## Distribution normale
-description et info :
+description et info : Commencez par définir la vitesse de frappe comme une variable aléatoire $X$ qui suit une distribution normale $X \sim \mathcal{N}(\mu,\,\sigma^{2})$. Cela établit le cadre pour l'analyse statistique
 ## PDF d'une distribution normale
-
+description et info : Présentez la fonction de densité de probabilité (PDF) $f(x)$ de la distribution normale et expliquez son rôle dans la modélisation de la probabilité de différentes vitesses de frappe
 # ---- ((je connais pas un bon titre court et un titre complet perspicace qui fonctionne ici)
 
 ## Dérivées Première et Seconde
+description et info : Calculez la première et la seconde dérivée de la PDF, $f'(x)$ et $f''(x)$, pour identifier le comportement de la courbe de la distribution normale, y compris les points critiques et les points d'inflexion.
 ## Maximum Local et Points d'Inflexion
-
+description et info : Démontrez que la PDF a un maximum local en $x=u$  et des points d'inflexion en $x=u+\sigma$ et $u-\sigma$, ce qui est pertinent pour comprendre la forme de la distribution de votre vitesse de frappe
 # Collecte et traitement des Données
 ## Collecte des Données 
 description et info : Décris comment j'ai avez collecté les données de vitesse de frappe sur une période donnée.
