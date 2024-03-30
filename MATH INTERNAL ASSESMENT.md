@@ -182,36 +182,6 @@ using Zeno's paradox as an example Of Why is calculus necessary to approach some
 or cases where other mathematical approaches wouldn't be possible, or would be
 ineffective.
 
-\subsection{Calcul de l'Aire sous la Courbe} 
-
-Pour calculer la probabilité que ma vitesse de frappe soit supérieure à la moyenne, nous utiliserons des séries de Maclaurin pour approximer la fonction de densité de probabilité de la distribution normale et l'intégration pour calculer l'aire sous la courbe.
-
-\subsubsection{Approximation avec des Séries de Maclaurin}
-
-La série de Maclaurin pour la fonction exponentielle $e^x$ est donnée par :
-
-\begin{equation}
-e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots
-\end{equation}
-
-Nous utiliserons cette série pour approximer la fonction de densité de probabilité de la distribution normale autour de zéro.
-
-\subsection{Calcul de l'Aire sous la Courbe}
-
-Pour calculer l'aire sous la courbe de la distribution normale à partir de la moyenne jusqu'à l'infini, nous intégrons la fonction de densité de probabilité approximée :
-
-\begin{equation}
-P(X > \bar{x}) = \int_{\bar{x}}^{\infty} f(x) \, dx
-\end{equation}
-
-où $f(x)$ est la fonction de densité de probabilité de la distribution normale.
-
-\subsubsection{Résultats du Calcul de Probabilité}
-
-Après avoir effectué l'intégration, nous obtenons la probabilité que ma vitesse de frappe soit supérieure à la moyenne. Les résultats sont les suivants :
-
-\begin{align*}
-P(X > \bar{x}) &= \text{Valeur calculée de la probabilité}
-\end{align*}
-
-Cela nous donne la probabilité que ma vitesse de frappe dépasse la moyenne calculée de 47.74 WPM.
+```py
+import math def normal_pdf(x, mean, std_dev): return (1 / (std_dev * math.sqrt(2*math.pi))) * math.exp(-0.5*((x-mean)/std_dev)**2) def normal_approx(x, mean, std_dev, order): z = (x - mean) / (math.sqrt(2) * std_dev) approx = 0 for i in range(order+1): if i % 2 == 0: approx += z**(2*i) / math.factorial(i) else: approx -= z**(2*i) / math.factorial(i) return approx * normal_pdf(x, mean, std_dev) def integrate_normal_approx(lower, upper, mean, std_dev, order, num_points=1000): dx = (upper - lower) / num_points integral = 0 for i in range(num_points): x = lower + i*dx integral += normal_approx(x, mean, std_dev, order) * dx return integral # Example usage mean = 46.8 std_dev = 8.30 lower = 60 upper = math.inf order = 3 prob = integrate_normal_approx(lower, upper, mean, std_dev, order) print(f"P(X >= 60) is approximately {prob:.4f}")
+```
