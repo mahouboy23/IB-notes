@@ -222,3 +222,16 @@ The coordinator's role in your React web app is central to managing the entire I
 The provided `gradeRoutes.js` file already includes routes for managing grades, and you will need to create similar route files for managing users and classes. Each controller will need to handle the logic for its respective domain, such as adding, updating, and deleting records, as well as handling any special business logic like grade conversions or report generation.
 
 ok it works now but there are still some to do but first lets fix a small issue, where we click the edit button on a class it first shows all the original parameters "class name, subject ect...." but it does not do it for teacher and it is annoying to but it back everytime if you don't want to modify it so fix it.
+
+--- 
+
+## Features for the Classes Page
+
+- **Class Overview**: Display a list of classes the teacher is responsible for, including class names, subjects, and grade levels.
+- **Student Overview**: Enable teachers to view the list of students enrolled in each class
+
+## Backend Logic
+
+## Endpoints
+
+- `GET /api/teachers/:teacherId/classes`: Retrieve all classes associated with the teacher.
