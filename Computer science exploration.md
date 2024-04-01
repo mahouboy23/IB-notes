@@ -161,3 +161,23 @@ there have to be tables showing all the boundaries for different over value depe
 
 ok i think there are some stuff that you you did not understand. there should be table showing the boundaries by class and overvalue and then it shows in the table for each grade (1 to 7) but you can still modify and when you click update it will just take the bounadaries id or something to find that specific boundaries and updating the json (in text in the database) for boundarie.
 
+
+Classes Page for Students:
+
+1. Display a list of classes the student is enrolled in:
+    
+    - Show the class name, subject, grade level, and teacher's name for each class.
+    - Retrieve the classes data from the server using an API endpoint like `/api/students/:studentId/classes`.
+    - Use the `useEffect` hook to fetch the classes data when the component mounts.
+
+Grades Page for Students:
+
+1. Display the student's grades for each class:
+    
+    - Show the class name, subject, and the student's grade for each class.
+    - Retrieve the grades data from the server using an API endpoint like `/api/students/:studentId/grades`.
+    - Use the `useEffect` hook to fetch the grades data when the component mounts.
+
+1. Display the student's overall GPA:
+    
+    - Calculate and display the student's overall GPA based on their grades across all classes.

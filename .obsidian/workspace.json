@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB MANAGEMENT.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -242,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,15 +291,17 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "DATA STRUCTURE.md",
     "Computer science exploration.md",
+    "web app.md",
+    "IB MANAGEMENT.md",
     "MATH IA HL.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "EXO 5 FRENCH.md",
-    "IB MANAGEMENT.md",
     "Physics IA.md",
     "sl subjects/Physics.md",
     "sl subjects/Economie.md",
@@ -315,8 +316,6 @@
     "assets/MATH IA HL/dist1.png",
     "assets/MATH IA HL",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
-    "DATA STRUCTURE.md",
-    "web app.md",
     "hl subjects/Computer science.md",
     "Economie Mondiale.md",
     "PDF/Flask.md",
