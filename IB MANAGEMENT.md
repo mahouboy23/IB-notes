@@ -234,4 +234,4 @@ ok it works now but there are still some to do but first lets fix a small issue,
 
 ## Endpoints
 
-- `GET /api/teachers/:teacherId/classes`: Retrieve all classes associated with the teacher.
+- `GET /api/classes/:teacherId`: Retrieve all classes associated with the teacher.
