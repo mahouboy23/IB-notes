@@ -188,3 +188,7 @@ ineffective.
 ```py
 import math def normal_pdf(x, mean, std_dev): return (1 / (std_dev * math.sqrt(2*math.pi))) * math.exp(-0.5*((x-mean)/std_dev)**2) def normal_approx(x, mean, std_dev, order): z = (x - mean) / (math.sqrt(2) * std_dev) approx = 0 for i in range(order+1): if i % 2 == 0: approx += z**(2*i) / math.factorial(i) else: approx -= z**(2*i) / math.factorial(i) return approx * normal_pdf(x, mean, std_dev) def integrate_normal_approx(lower, upper, mean, std_dev, order, num_points=1000): dx = (upper - lower) / num_points integral = 0 for i in range(num_points): x = lower + i*dx integral += normal_approx(x, mean, std_dev, order) * dx return integral # Example usage mean = 46.8 std_dev = 8.30 lower = 60 upper = math.inf order = 3 prob = integrate_normal_approx(lower, upper, mean, std_dev, order) print(f"P(X >= 60) is approximately {prob:.4f}")
 ```
+
+no : 
+-  De plus, des études antérieures ont montré que les compétences humaines, comme la vitesse de lecture ou de traitement de l'information, sont souvent distribuées normalement dans la population.
+- 
