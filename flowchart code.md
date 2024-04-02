@@ -2,7 +2,7 @@
 tags : mod cs
 ---
 Created: 2024-04-02
-use plantuml to make the diagrams, give me the complete plantuml for the flowchart diagrams and use
+use plantuml to make the diagrams, give me the complete plantuml code for the flowchart diagrams and use the plantuml Sequence Diagram and syntax to respect the norms of a computer science flowchart, use the plantuml documentation to fully is it's capabilities
 ## Login Functionality
 
 plaintext
