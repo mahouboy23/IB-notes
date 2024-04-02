@@ -12,39 +12,44 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 
 ### Database Schema
 
-1. **Users Table** (For storing user information including teachers, students, and coordinators)
+1. **Users Table** (For storing user information including teachers, students, and coordinators)
     
-    - `user_id` INT AUTO_INCREMENT PRIMARY KEY
-    - `username` VARCHAR(255) UNIQUE NOT NULL
-    - `password` VARCHAR(255) NOT NULL
-    - `role` ENUM('teacher', 'student', 'coordinator') NOT NULL
-    - `full_name` VARCHAR(255) NOT NULL
-1. **Classes Table** (For storing class details)
+    - `user_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `username` VARCHAR(255) UNIQUE NOT NULL
+    - `password` VARCHAR(255) NOT NULL
+    - `role` ENUM('teacher', 'student', 'coordinator') NOT NULL
+    - `full_name` VARCHAR(255) NOT NULL
+    - `created_at` DATETIME NOT NULL
     
-    - `class_id` INT AUTO_INCREMENT PRIMARY KEY
-    - `class_name` VARCHAR(255) NOT NULL
-    - `grade_level` ENUM('11', '12') NOT NULL
-    - `subject` VARCHAR(255) NOT NULL
-    - `teacher_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
-3. **Grades Table** (For storing grades of students)
+2. **Classes Table** (For storing class details)
     
-    - `grade_id` INT AUTO_INCREMENT PRIMARY KEY
-    - `student_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
-    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
-    - `grade_value` DECIMAL(5,2) NOT NULL
-    -  `total_value` DECIMAL(5,2) NOT NULL AFTER
-    - `trimester` ENUM('1', '2', '3') NOT NULL
-4. **GradeBoundaries Table** (For storing grade boundaries for subjects)
+    - `class_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `class_name` VARCHAR(255) NOT NULL
+    - `grade_level` ENUM('11', '12') NOT NULL
+    - `subject` VARCHAR(255) NOT NULL
+    - `teacher_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
     
-    - `boundary_id` INT AUTO_INCREMENT PRIMARY KEY
-    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
-    - `over_value` DECIMAL(5,2) NOT NULL AFTER
-    - `grades` TEXT NOT NULL
-5. **StudentClasses Table** 
-
-- `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id) `
-- `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
-
+3. **Grades Table** (For storing grades of students)
+    
+    - `grade_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `student_id` INT, FOREIGN KEY REFERENCES `Users`(`user_id`)
+    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
+    - `grade_value` DECIMAL(5,2) NOT NULL
+    - `total_value` DECIMAL(5,2) NOT NULL
+    - `trimester` ENUM('1', '2', '3') NOT NULL
+    - `date` DATE NOT NULL
+    
+4. **GradeBoundaries Table** (For storing grade boundaries for subjects)
+    
+    - `boundary_id` INT AUTO_INCREMENT PRIMARY KEY
+    - `class_id` INT, FOREIGN KEY REFERENCES `Classes`(`class_id`)
+    - `over_value` DECIMAL(5,2) NOT NULL
+    - `grades` TEXT NOT NULL
+    
+5. **StudentClasses Table** (For storing the students in different classes)
+    
+    - `student_id` INT, FOREIGN KEY REFERENCES `Users(user_id)`
+    - `class_id` INT, FOREIGN KEY REFERENCES `Classes(class_id)`
 ## Overview of Coordinator Functionality
 
 The coordinator's role in your React web app is central to managing the entire IB grade reporting system. The coordinator will have comprehensive access and control over users, classes, and grades. Below is a detailed plan for the coordinator's functionality, structured by pages and the logic behind them.
