@@ -240,3 +240,5 @@ ok it works now but there are still some to do but first lets fix a small issue,
 ## Endpoints
 
 - `GET /api/classes/:teacherId`: Retrieve all classes associated with the teacher.
+
+[[flowchart code]] 

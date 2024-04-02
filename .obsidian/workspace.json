@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "flowchart code.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "flowchart code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "flowchart code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB MANAGEMENT.md"
+                "file": "flowchart code.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB MANAGEMENT.md",
+                "file": "flowchart code.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,10 +294,11 @@
   },
   "active": "071ea4e13a927a13",
   "lastOpenFiles": [
-    "Computer science exploration.md",
-    "DATA STRUCTURE.md",
-    "web app.md",
     "IB MANAGEMENT.md",
+    "flowchart code.md",
+    "Computer science exploration.md",
+    "web app.md",
+    "DATA STRUCTURE.md",
     "MATH IA HL.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
@@ -329,7 +330,6 @@
     "assets/Economie Mondiale/image-20240320213531636.png",
     "assets/Economie Mondiale",
     "IO.md",
-    "Imagerie.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
