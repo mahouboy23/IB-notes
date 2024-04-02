@@ -148,7 +148,7 @@ Kwak, S. G., & Kim, J. H. (2017). Central limit theorem: the cornerstone of mode
 \bibitem{normal4}  
 Walla, P. (2017). Comparison of speed of reading and information processing in five different font styles. \textit{EC Neurology}, 5, 189-192.  
 \end{thebibliography}
-- 
+- [Vitesse de frappe | Fiche pédagogique Tap'Touche](https://www.taptouche.com/fr/documentation/edition-scolaire/ressources-pedagogiques/vitesse)
 
 # Annexe
 
