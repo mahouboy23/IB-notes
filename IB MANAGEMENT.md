@@ -19,7 +19,7 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
     - `password` VARCHAR(255) NOT NULL
     - `role` ENUM('teacher', 'student', 'coordinator') NOT NULL
     - `full_name` VARCHAR(255) NOT NULL
-2. **Classes Table** (For storing class details)
+1. **Classes Table** (For storing class details)
     
     - `class_id` INT AUTO_INCREMENT PRIMARY KEY
     - `class_name` VARCHAR(255) NOT NULL
