@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH INTERNAL ASSESMENT.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,15 +294,15 @@
   },
   "active": "b58b0e9ba317cf15",
   "lastOpenFiles": [
+    "IB overview.md",
+    "MATH INTERNAL ASSESMENT.md",
     "MATH IA HL.md",
     "flowchart code.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
     "web app.md",
     "DATA STRUCTURE.md",
-    "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "EXO 5 FRENCH.md",
     "Physics IA.md",
     "sl subjects/Physics.md",
