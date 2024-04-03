@@ -43,4 +43,3 @@ Structure :
 
 
 
-quel est le role des prix dans un économie de marche
