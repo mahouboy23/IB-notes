@@ -158,4 +158,148 @@ return jsonify(evenements)`
 if __name__ == '__main__':     app.run(debug=True)`
 ```
 
-Ce fichier app.py contient donc la logique principale de l'application, y compris la configuration, la définition du modèle de données, les routes pour les différentes actions (affichage, ajout, mise à jour, suppression de tâches) et la route pour récupérer les événements du calendrier1.
+Ce fichier app.py contient donc la logique principale de l'application, y compris la configuration, la définition du modèle de données, les routes pour les différentes actions (affichage, ajout, mise à jour, suppression de tâches) et la route pour récupérer les événements du calendrier.
+
+## Explication index.html :
+
+1-13: Configuration de l'en-tête HTML, y compris les métadonnées, le titre et les liens vers les fichiers CSS et JavaScript nécessaires.
+
+```html
+<!DOCTYPE html> 
+<html lang="fr"> 
+<head>     
+ <meta charset="UTF-8">     
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">              <title>Gestionnaire de Tâches</title>     
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.css" />     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.js"></script>     <script src="/static/calendar.js"></script>  </head>`
+```
+
+16-48: Formulaire pour ajouter une nouvelle tâche, avec des champs pour le titre, la description, la date d'échéance, le statut et la priorité.
+
+```html
+<div class="mt-4">     
+<h3>Ajouter une Nouvelle Tâche</h3>     
+<form action="/ajouter_tache" method="POST">         
+<div class="form-group">             
+<label for="tacheTitre">Titre</label>             
+<input type="text" class="form-control" id="tacheTitre" name="titre" required>         </div>         
+<div class="form-group">             
+<label for="tacheDescription">Description</label>             
+<textarea class="form-control" id="tacheDescription" name="description" rows="3"></textarea>         
+</div>         
+<div class="form-group">             
+<label for="tacheDate">Date</label>             
+<input type="date" class="form-control" id="tacheDate" name="date_echeance" required>   </div>         
+<div class="form-group">             
+<label for="tachestatut">Statut</label>             
+<select class="form-control" id="tachestatut" name="statut">                 
+<option value="non_commence" selected>Non Commencé</option>                 
+<option value="En Attente">En Attente</option>                 
+<option value="Terminé">Terminé</option>             
+</select>         
+</div>         
+<div class="form-group">             
+<label for="tachePriority">Priorité</label>             
+<select class="form-control" id="tachePriority" name="priorite">                 <option value="1" selected>Pas Important</option>                 
+<option value="2">Important</option>                 
+<option value="3">Très Important</option>             
+</select>         
+</div>         
+<button type="submit" class="btn btn-primary">Ajouter Tâche</button>     
+</form>         
+</div>
+```
+
+51: Emplacement où le calendrier sera rendu.
+
+```html
+<div id="calendar" class="mt-5"></div>
+```
+
+54-98: Tableau des tâches prévues, filtré par date et statut. Il affiche les détails de chaque tâche et permet de les modifier ou de les supprimer.
+
+```html
+<div class="mt-5">     
+<h2>Tâches Prévues</h2>     
+<form method="GET">         
+<input type="date" id="date_echeance_tache" name="date_echeance_tache" value="{{ date_selectionnee }}">         
+<select name="statut" id="filtreStatut">             
+<option value="tous" {{ 'selected' if filtre_statut == 'tous' }}>Tous</option>             <option value="Non Commencé" {{ 'selected' if filtre_statut == 'Non Commencé' }}>Non Commencé</option>             
+<option value="En Attente" {{ 'selected' if filtre_statut == 'En Attente' }}>En Attente</option>             
+<option value="Terminé" {{ 'selected' if filtre_statut == 'Terminé' }}>Terminé</option>         </select>         
+<button type="submit" class="btn btn-primary">Afficher les Tâches</button>     </form>     <table class="table" id="tachesDueTable">         
+<thead>             
+<tr>                 
+<th>Titre</th>                 
+<th>Description</th>                 
+<th>Date d'Échéance</th>                 
+<th>Statut</th>                 
+<th>Priorité</th>                 
+<th>Actions</th>             
+</tr>         
+</thead>         
+<tbody>             
+{% for tache in taches_prevues %}             
+<tr class="{{ 'table-success' if tache.statut == 'Terminé' else 'table-secondary' if tache.statut == 'En Attente' else 'table-danger' }}">                 
+<td>                     
+<input type="text" class="form-control" value="{{ tache.titre }}" onchange="updateTache({{ tache.id }}, 'titre', this.value)">                 
+</td>                 
+<td>                     
+<textarea class="form-control" onchange="updateTache({{ tache.id }}, 'description', this.value)">{{ tache.description }}</textarea>                 
+</td>                 
+<td>                     
+<input type="date" class="form-control" value="{{ tache.date_echeance.strftime('%Y-%m-%d') }}" onchange="updateTache({{ tache.id }}, 'date_echeance', this.value)">         
+</td>                 
+<td>                     
+<select class="form-control" onchange="updateTache({{ tache.id }}, 'statut', this.value)">                         
+<option value="Non Commencé" {{ 'selected' if tache.statut == 'Non Commencé' }}>Non Commencé</option>                         
+<option value="En Attente" {{ 'selected' if tache.statut == 'En Attente' }}>En Attente</option>                         
+<option value="Terminé" {{ 'selected' if tache.statut == 'Terminé' }}>Terminé</option>                     </select>                 
+</td>                 
+<td>                     
+<select class="form-control" onchange="updateTache({{ tache.id }}, 'priorite', this.value)">                         
+<option value="1" {{ 'selected' if tache.priorite == 1 }}>Pas Important</option>                         <option value="2" {{ 'selected' if tache.priorite == 2 }}>Important</option>                         
+<option value="3" {{ 'selected' if tache.priorite == 3 }}>Très Important</option>                     </select>                 
+</td>                 
+<td>                     
+<button class="btn btn-danger" onclick="supprimer_tache({{ tache.id }})">Supprimer</button>                 
+</td>             
+</tr>             
+{% endfor %}         
+</tbody>     
+</table> 
+</div>
+```
+
+100-129: Scripts JavaScript pour gérer la mise à jour et la suppression des tâches via des requêtes fetch vers les routes Flask correspondantes.
+
+html
+
+```html
+<script>     
+function updateTache(tacheId, field, value) {         
+const formData = new FormData();         
+formData.append(field, value);              
+fetch(`/mettre_a_jour_tache/${tacheId}`, {             
+method: 'POST',             
+body: formData         
+}).then(response => response.json())         
+.then(data => {             
+if (data.message) {                 
+console.log(data.message);                 
+location.reload();            
+}         
+})         
+.catch(error => console.error('Erreur lors de la mise à jour de la tâche:', error));     }          
+function supprimer_tache(tacheId) {         
+fetch(`/supprimer_tache/${tacheId}`, {             
+method: 'DELETE'         
+}).then(response => response.json())         
+.then(data => {             
+console.log(data);             
+location.reload();         
+})         
+.catch(error => console.error('Erreur lors de la suppression de la tâche:', error));     }     
+</script>
+```
+
+Ce fichier index.html contient la structure et le contenu de la page principale de l'application. Il inclut un formulaire pour ajouter de nouvelles tâches, un emplacement pour afficher le calendrier et un tableau pour afficher et gérer les tâches prévues. Les scripts JavaScript gèrent les interactions utilisateur, telles que la mise à jour et la suppression des tâches, en communiquant avec le backend Flask via des requêtes fetch2.
