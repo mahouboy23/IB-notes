@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "IB MANAGEMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "flowchart code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "flowchart code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "flowchart code.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "flowchart code.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,21 +292,21 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "b58b0e9ba317cf15",
+  "active": "071ea4e13a927a13",
   "lastOpenFiles": [
+    "IB MANAGEMENT.md",
+    "Computer science exploration.md",
+    "Physics IA.md",
+    "flowchart code.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
     "MATH IA HL.md",
-    "flowchart code.md",
-    "IB MANAGEMENT.md",
-    "Computer science exploration.md",
     "web app.md",
     "DATA STRUCTURE.md",
     "hl subjects/Math AA.md",
     "EXO 5 FRENCH.md",
-    "Physics IA.md",
     "sl subjects/Physics.md",
-    "sl subjects/Economie.md",
     "Microéconomie.md",
     "ressources communes.md",
     "hl subjects/Français B.md",
