@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH IA HL.md",
+                "file": "MATH INTERNAL ASSESMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3dc59cb027c0214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "malick exploration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flowchart code.md",
+                "file": "malick exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flowchart code.md",
+                "file": "malick exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flowchart code.md"
+                "file": "malick exploration.md"
               }
             }
           },
@@ -242,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flowchart code.md",
+                "file": "malick exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,19 +304,21 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "a3dc59cb027c0214",
   "lastOpenFiles": [
+    "malick exploration.md",
+    "Untitled 12.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "MATH IA HL.md",
+    "flowchart code.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
     "Physics IA.md",
-    "flowchart code.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "MATH INTERNAL ASSESMENT.md",
-    "MATH IA HL.md",
     "web app.md",
     "DATA STRUCTURE.md",
-    "hl subjects/Math AA.md",
     "EXO 5 FRENCH.md",
     "sl subjects/Physics.md",
     "Microéconomie.md",
@@ -324,12 +338,10 @@
     "EXO 3 FRENCH.md",
     "EXO 4 FRENCH.md",
     "Untitled 11.md",
-    "Untitled 10.md",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw/Pasted Image 20240320231415_208.png",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
     "assets/Economie Mondiale/image-20240320213531636.png",
     "assets/Economie Mondiale",
-    "IO.md",
     "assets/EXO 3 FRENCH/image-20240312113126650.png",
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
