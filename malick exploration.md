@@ -129,7 +129,14 @@ return jsonify({'message': 'Tache mise à jour avec succès'}), 200     else:   
 - Si la tâche n'est pas trouvée, `return jsonify({'message': 'Tache non trouvée'}), 404` renvoie un message JSON d'erreur avec un code de statut HTTP 404.
 ```python
 
-@app.route('/supprimer_tache/<int:id_tache>', methods=['DELETE']) def supprimer_tache(id_tache):     tache = Tache.query.get(id_tache)     if tache:         db.session.delete(tache)         db.session.commit()         return jsonify({'message': 'Tache supprimée avec succès'}), 200     return jsonify({'message': 'Tache non trouvée'}), 404`
+@app.route('/supprimer_tache/<int:id_tache>', 
+methods=['DELETE']) def supprimer_tache(id_tache):     
+tache = Tache.query.get(id_tache)     
+if tache:         
+db.session.delete(tache)         
+db.session.commit()         
+return jsonify({'message': 'Tache supprimée avec succès'}), 200     
+return jsonify({'message': 'Tache non trouvée'}), 404`
 ```
 
 
@@ -302,7 +309,7 @@ location.reload();
 </script>
 ```
 
-Ce fichier index.html contient la structure et le contenu de la page principale de l'application. Il inclut un formulaire pour ajouter de nouvelles tâches, un emplacement pour afficher le calendrier et un tableau pour afficher et gérer les tâches prévues. Les scripts JavaScript gèrent les interactions utilisateur, telles que la mise à jour et la suppression des tâches, en communiquant avec le backend Flask via des requêtes fetch2.
+Ce fichier index.html contient la structure et le contenu de la page principale de l'application. Il inclut un formulaire pour ajouter de nouvelles tâches, un emplacement pour afficher le calendrier et un tableau pour afficher et gérer les tâches prévues. Les scripts JavaScript gèrent les interactions utilisateur, telles que la mise à jour et la suppression des tâches, en communiquant avec le backend Flask via des requêtes fetch.
 
 ## Explication calendar.js :
 
@@ -322,28 +329,28 @@ calendar.render(); });
 
 3-7: Configuration de la barre d'outils d'en-tête du calendrier.
 
-javascript
-
-`headerToolbar: {     left: 'prev,next today',     center: 'title',     right: 'dayGridMonth,timeGridWeek,timeGridDay' },`
+```javascript
+headerToolbar: {     left: 'prev,next today',     center: 'title',     right: 'dayGridMonth,timeGridWeek,timeGridDay' },
 
 - `left: 'prev,next today'` affiche les boutons de navigation "précédent", "suivant" et "aujourd'hui" à gauche de la barre d'outils.
 - `center: 'title'` affiche le titre du calendrier au centre de la barre d'outils.
 - `right: 'dayGridMonth,timeGridWeek,timeGridDay'` affiche les boutons de sélection de vue "mois", "semaine" et "jour" à droite de la barre d'outils.
+```
 
 8: Définition de la vue initiale du calendrier.
 
-javascript
-
-`initialView: 'dayGridMonth',`
+```javascript
+initialView: 'dayGridMonth',
+```
 
 - `initialView: 'dayGridMonth'` définit la vue par défaut du calendrier sur la vue mensuelle.
 
 9: Configuration de la source d'événements pour le calendrier.
 
-javascript
-
-`events: '/evenements_calendrier',`
+```javascript
+events: '/evenements_calendrier',
+```
 
 - `events: '/evenements_calendrier'` indique au calendrier de récupérer les événements à partir de la route Flask '/evenements_calendrier', qui doit renvoyer des données JSON représentant les tâches.
 
-Ce fichier calendar.js est responsable de la configuration et de l'initialisation du calendrier FullCalendar. Il définit la disposition de la barre d'outils d'en-tête, la vue initiale et la source des événements du calendrier. Le calendrier s'attend à ce que la route Flask '/evenements_calendrier' renvoie des données JSON représentant les tâches, qui seront ensuite affichées en tant qu'événements dans le calendrier.La bibliothèque FullCalendar fournit une interface utilisateur riche et interactive pour afficher et gérer les événements du calendrier. Elle offre des fonctionnalités telles que la navigation entre les vues (mois, semaine, jour), l'affichage des détails des événements et la possibilité de personnaliser l'apparence du calendrier3.
+Ce fichier calendar.js est responsable de la configuration et de l'initialisation du calendrier FullCalendar. Il définit la disposition de la barre d'outils d'en-tête, la vue initiale et la source des événements du calendrier. Le calendrier s'attend à ce que la route Flask '/evenements_calendrier' renvoie des données JSON représentant les tâches, qui seront ensuite affichées en tant qu'événements dans le calendrier.La bibliothèque FullCalendar fournit une interface utilisateur riche et interactive pour afficher et gérer les événements du calendrier. Elle offre des fonctionnalités telles que la navigation entre les vues (mois, semaine, jour), l'affichage des détails des événements et la possibilité de personnaliser l'apparence du calendrier.
