@@ -19,5 +19,13 @@ $$\operatorname{\frac{E_{c}}{E_{\eta}}} \approx \frac{\frac{1}{2} v^{2} \rho}{\e
 | 4 | $\frac{0.25}{4}=0.0625$ | écoulement visqueux |
 | 1 | $\frac{0.25}{1}=0.25$ | écoulement visqueux |
 | 0 | NA | écoulement parfait  |
+On peut donc utiliser le modèle visqueux pour la théorie :
+on peut déduire deux grandeurs on utilisant la loi de poiseuille qui relie le profil de la vitesse dans le tube à sa section et longueur :
+$$v(r, t)=\frac{m g h(t)}{4 \eta L}\left[\mathrm{R}^2-r^2\right]$$$$\left\{\begin{array}{l}\Phi(t)=\int_0^R v(r, t) 2 \pi r d r=\frac{\pi \mathrm{R}^4}{8 L \eta} \rho g h(t) \\ v(t)=\frac{\Phi(t)}{s}\end{array}\right.$$ avec : 
+- $v(r,t)$ = la vitesse dans le tube
+- $\Phi(t)$ = le debit massique
+- $v(t)$ = la vitesse moyenne du fluide à la sortie du tube
 
-On peut donc utiliser le modelè visqueux pour la théorie 
+donc le temps de vidange peut être donnée par :
+$T=\frac{V}{\phi(t)}$   
+
