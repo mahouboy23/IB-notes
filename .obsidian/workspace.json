@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malick exploration.md",
+                "file": "Physics IA NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malick exploration.md",
+                "file": "Physics IA NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "malick exploration.md"
+                "file": "Physics IA NOTES.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "malick exploration.md",
+                "file": "Physics IA NOTES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,10 +304,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a3dc59cb027c0214",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
+    "Physics IA.md",
+    "Physics IA NOTES.md",
+    "Physics IA draft.md",
     "malick exploration.md",
+    "sl subjects/Economie.md",
     "Untitled 12.md",
     "MATH INTERNAL ASSESMENT.md",
     "hl subjects/Math AA.md",
@@ -316,7 +319,6 @@
     "flowchart code.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
-    "Physics IA.md",
     "web app.md",
     "DATA STRUCTURE.md",
     "EXO 5 FRENCH.md",
@@ -326,7 +328,6 @@
     "hl subjects/Français B.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
-    "Physics IA draft.md",
     "assets/MATH IA HL/image-20240323105307196.png",
     "assets/MATH IA HL/image-20240323104626808.png",
     "assets/MATH IA HL/dist1.png",
@@ -337,7 +338,6 @@
     "PDF/Flask.md",
     "EXO 3 FRENCH.md",
     "EXO 4 FRENCH.md",
-    "Untitled 11.md",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw/Pasted Image 20240320231415_208.png",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
     "assets/Economie Mondiale/image-20240320213531636.png",

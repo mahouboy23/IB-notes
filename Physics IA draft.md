@@ -78,5 +78,3 @@ Created: 2024-01-08
 
 
 
-
-peut tu créer un graph comme sa qui utilise mes données avec python
