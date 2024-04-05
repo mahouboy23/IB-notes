@@ -29,6 +29,3 @@ La base de données est gérée par SQLite et SQLAlchemy. SQLite est un système
 2. **Serveur et Base de données**: Flask utilise SQLAlchemy pour interagir avec la base de données. Par exemple, lors de l'ajout d'une nouvelle tâche, un objet `Tache` est créé et ajouté à la base de données.
 3. **Serveur et Client (réponse)**: Flask renvoie une réponse au client, qui peut être une page HTML mise à jour (générée à partir du template `index.html`), une redirection vers une autre route, ou des données JSON (dans le cas de requêtes AJAX faites par `calendar.js`).
 
-```python
-
-```
