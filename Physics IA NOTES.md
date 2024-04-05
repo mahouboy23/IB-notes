@@ -29,4 +29,4 @@ $$v(r, t)=\frac{m g h(t)}{4 \eta L}\left[\mathrm{R}^2-r^2\right]$$$$\left\{\begi
 donc le temps de vidange peut être donnée par :
 $$T=\frac{V}{\phi}$$  
 ## Note partie experience et analyse
-Apres avoirs collecter les données je peux commencer par representer les données sur les temps de vidange pour chaque longueur du tube. Puis on tr
+Apres avoirs collecter les données je peux commencer par representer les données sur les temps de vidange pour chaque longueur du tube. Puis on tro
