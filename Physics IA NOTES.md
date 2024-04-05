@@ -36,8 +36,8 @@ Apres avoirs collecter les données je peux commencer par representer les donné
 - $\quad$ est la masse volumique de l'eau $\left(1000 \mathrm{~kg} / \mathrm{m}^{\wedge} 3\right)$
 - $V$ est le volume d'eau écoulé entre les deux hauteurs proches, $V=\pi r^2(h 1-h 2)$
 - $r$ est le rayon de la bouteille $(8,7 \mathrm{~cm}=0,087 \mathrm{~m})$
-- h1-h2 est la différence de hauteur $(0,5 \mathrm{~cm}=0,005 \mathrm{~m})$
-- t est le temps mis par le niveau pour passer de h1 à h2 (valeurs du Tableau 3)
+- $h1-h2$ est la différence de hauteur $(0,5 \mathrm{~cm}=0,005 \mathrm{~m})$
+- $t$ est le temps mis par le niveau pour passer de h1 à h2 (valeurs du Tableau 3)
 - Par exemple, pour $L=16 \mathrm{~cm}$ :
 $\mathrm{Q_m}=1000 \times \pi \times(0,087)^2 \times 0,005 / 2,38=0,0119 \mathrm{~kg} / \mathrm{s}$
 3. Calcul des incertitudes sur le débit massique:
