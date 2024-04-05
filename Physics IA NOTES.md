@@ -29,3 +29,4 @@ $$v(r, t)=\frac{m g h(t)}{4 \eta L}\left[\mathrm{R}^2-r^2\right]$$$$\left\{\begi
 donc le temps de vidange peut être donnée par :
 $T=\frac{V}{\phi(t)}$   
 
+## Note partie experience et analyse
