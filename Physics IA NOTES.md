@@ -53,3 +53,15 @@ $(\frac{\Delta \mathrm{Q_m}}{\mathrm{Q_m}})^2=(\frac{\Delta \mathrm{p}} {\mathrm
 - Pour L $=16 \mathrm{~cm}: \Delta \mathrm{Q_m}=0,364 \times 0,0119=0,00433 \mathrm{~kg} / \mathrm{s}$
 ![[image-20240408104527245.png]]
 
+The unit of ρ in the given equation Q_v = (Φ/ρ) = (πR^4/8ηL)gh(t) is density.This equation relates the volumetric flow rate (Q_v) of a fluid to various parameters, including the density of the fluid (ρ).Specifically:
+
+- Q_v is the volumetric flow rate, with units of volume per unit time (e.g. m³/s)
+- Φ is the volume flux, with units of volume per unit time (e.g. m³/s)
+- ρ is the density of the fluid, with units of mass per unit volume (e.g. kg/m³)
+- R is the radius of the pipe/channel, with units of length (e.g. m)
+- η is the dynamic viscosity of the fluid, with units of Pascal-seconds (Pa·s)
+- L is the length of the pipe/channel, with units of length (e.g. m)
+- g is the acceleration due to gravity, with units of length per square second (e.g. m/s²)
+- h(t) is the height of the fluid column, with units of length (e.g. m)
+
+So by dimensional analysis, since Φ has units of volume per unit time, and ρ appears in the denominator, ρ must have units of mass per unit volume, which are the units of density.

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Mesure d'incertitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -307,14 +307,17 @@
   "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
     "assets/Physics IA NOTES/image-20240408104527245.png",
-    "assets/Physics IA NOTES",
+    "Physics IA NOTES.md",
+    "Mesure d'incertitude.md",
+    "Erreurs et incertitudes.md",
+    "Précision et exactitude.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "Physics IA.md",
+    "assets/Physics IA NOTES",
     "malick exploration.md",
     "sl subjects/Economie.md",
     "flowchart code.md",
-    "Physics IA NOTES.md",
-    "sl subjects/Physics.md",
-    "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
     "Physics IA draft.md",
     "Untitled 12.md",
@@ -336,9 +339,6 @@
     "assets/MATH IA HL",
     "Excalidraw/Drawing 2024-03-20 22.49.08.excalidraw.md",
     "hl subjects/Computer science.md",
-    "Economie Mondiale.md",
-    "PDF/Flask.md",
-    "EXO 3 FRENCH.md",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw/Pasted Image 20240320231415_208.png",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
     "assets/Economie Mondiale/image-20240320213531636.png",
@@ -352,7 +352,6 @@
     "assets/Physics IA draft",
     "sl subjects/assets/Physics/Exercices_de_probabilitA_janvier_2024.pdf",
     "politique d'offre.canvas",
-    "assets/Ondes static/image-20240129115154496.png",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
     "Eléctricite et magnétisme fiche revision.canvas",
