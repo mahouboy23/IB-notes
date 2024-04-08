@@ -28,8 +28,8 @@ $$v(r, t)=\frac{m g h(t)}{4 \eta L}\left[\mathrm{R}^2-r^2\right]$$$$\left\{\begi
 
 donc le temps de vidange peut être donnée par :
 $$Q_v=\frac{V}{T}$$
-$$Q_v=\phi\rho=\frac{V}{T}$$
-$$T=\frac{V}{\phi \rho}$$  
+$$Q_v=\frac{\phi}{\rho}=\frac{V}{T}$$
+$$T=\frac{V \rho}{\phi}$$  
 ## Note partie experience et analyse
 Apres avoirs collecter les données je peux commencer par representer les données sur les temps de vidange pour chaque longueur du tube. Après je vais utiliser le temps de vidange entre deux hauteurs très proches et la formule du débit massique $Q_m = \frac{\rho V}{t}$, et développer un graphe entre le débit moyen et la longueur du tube.
 
