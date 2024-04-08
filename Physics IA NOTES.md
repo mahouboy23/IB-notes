@@ -48,6 +48,6 @@ $(\frac{\Delta \mathrm{Q_m}}{\mathrm{Q_m}})^2=(\frac{\Delta \mathrm{p}} {\mathrm
 - $\frac{\Delta \mathrm{p}} {\mathrm{p}}$ est négligeable car la masse volumique de l'eau est considérée constante
 - $\frac{\Delta \mathrm{r}} {\mathrm{r}}=0,1 / 8,7=0,0115$ (incertitude de la règle)
 - $\frac{\Delta \mathrm{h}} {\mathrm{h}}=0,1 / 0,5=0,2$ (incertitude de la règle)
-- $\frac{\Delta \mathrm{p}} {\mathrm{p}}$ provient du Tableau 3 (plus grande valeur relative : $\frac{0,405}{1,34} =0,302$
+- $\frac{\Delta \mathrm{p}} {\mathrm{p}}$ provient du Tableau 3 (plus grande valeur relative : $\frac{0,01}{1,34} =0,0007$
 - Donc $\Delta \mathrm{Q_m} / \mathrm{Q_m}=\sqrt{\left(0^{2}+2 \times 0,0115^{2}+0,2^2+0,302^2\right)}=0,364$
 - Pour L $=16 \mathrm{~cm}: \Delta \mathrm{Q_m}=0,364 \times 0,0119=0,00433 \mathrm{~kg} / \mathrm{s}$
