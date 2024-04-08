@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA.md"
+                "file": "Physics IA NOTES.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA.md",
+                "file": "Physics IA NOTES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,20 +304,20 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "Physics IA.md",
+    "malick exploration.md",
+    "sl subjects/Economie.md",
+    "flowchart code.md",
+    "Physics IA NOTES.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "MATH INTERNAL ASSESMENT.md",
-    "Physics IA NOTES.md",
-    "Physics IA.md",
     "Physics IA draft.md",
-    "malick exploration.md",
-    "sl subjects/Economie.md",
     "Untitled 12.md",
     "hl subjects/Math AA.md",
     "MATH IA HL.md",
-    "flowchart code.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
     "web app.md",
