@@ -122,3 +122,24 @@ reverse bottle :
 ```
 
 [[Physics IA NOTES]] 
+
+Enfin, nous pouvons estimer le temps de vidange $T$ du réservoir en écrivant la conservation du volume de liquide :
+\begin{equation}
+\Phi(t) = -\frac{dV}{dt} = -S \frac{dh}{dt}
+\end{equation}
+où $V$ est le volume de liquide dans le réservoir et $S$ est la section du réservoir.
+En combinant cette équation avec l'expression du débit volumique, nous obtenons une équation différentielle pour la hauteur de liquide :
+\begin{equation}
+\frac{dh}{dt} = -\frac{\pi R^4}{8\eta L S} \rho g h(t)
+\end{equation}
+La solution de cette équation, avec la condition initiale $h(0) = h_0$, est une décroissance exponentielle :
+\begin{equation}
+h(t) = h_0 \exp\left(-\frac{\pi R^4}{8\eta L S} \rho g t\right)
+\end{equation}
+Le temps de vidange $T$ peut alors être estimé en posant $h(T) = 0$ :
+\begin{equation}
+T = \frac{8\eta L S}{\pi R^4 \rho g} \ln\left(\frac{h_0}{h_f}\right)
+\end{equation}
+où $h_f$ est une hauteur finale proche de zéro (en pratique, la vidange n'est jamais complète à cause des effets de tension superficielle).
+
+Cette formule montre que le temps de vidange augmente linéairement avec la longueur du tube, ce qui est cohérent avec nos observations expérimentales. Elle fournit également une base théorique pour analyser quantitativement nos résultats.
