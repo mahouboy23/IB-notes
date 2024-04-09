@@ -18,3 +18,4 @@ $$\Large{T=kx=k(l-l_{0})}$$
  - $k$ = constante 
 - $l$ = longueur finale
 - $l_{0}$ = longueur initiale
+
