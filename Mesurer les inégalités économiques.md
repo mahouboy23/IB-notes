@@ -6,6 +6,7 @@ tags:
 Created: 2023-10-19
 
 Deux méthodes qui tentent de mesurer les inégalités économiques:: la courbe de Lorenz et le coefficient de Gini (indice).
+<!--SR:!2024-04-12,3,272-->
 
 Courbe de Lorenz (graphe et tableau):
 ?

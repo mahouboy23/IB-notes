@@ -13,5 +13,6 @@ La courbe keynésienne est divisée en trois sections :
 -   La section horizontale, où:: il y a beaucoup de capacités inutilisées dans l'économie
 <!--SR:!2024-04-10,1,230-->
 -   La section en pente ascendante, où:: il y a une certaine capacité de réserve mais nous commençons à voir une certaine concurrence pour les ressources rares
+<!--SR:!2024-04-11,2,248-->
 -   La section verticale, où:: le plein emploi est atteint
 <!--SR:!2024-04-12,3,250-->
