@@ -31,10 +31,39 @@ plaintext
 
 plaintext
 
-`si (l'utilisateur est connecté en tant que coordinateur) {   récupérer la liste des classes;   si (l'utilisateur sélectionne 'Ajouter une nouvelle classe') {     ouvrir le formulaire d'ajout de classe;     si (le formulaire est soumis) {       ajouter la nouvelle classe;     }   } sinon si (l'utilisateur sélectionne 'Modifier') {     ouvrir le formulaire de modification de classe;     si (le formulaire est soumis) {       mettre à jour les informations de la classe;     }   } sinon si (l'utilisateur sélectionne 'Supprimer') {     supprimer la classe;   } sinon si (l'utilisateur sélectionne 'Assigner un étudiant') {     ouvrir le formulaire d'assignation d'étudiant;     si (un étudiant est sélectionné) {       assigner l'étudiant à la classe;     }   } }`
+flowchart TB A[Coordinateur accède à la page de gestion des utilisateurs] --> B{La liste des utilisateurs est-elle vide ?} B -->|Oui| C[Afficher un message indiquant qu'aucun utilisateur n'est disponible] B -->|Non| D[Afficher la liste des utilisateurs] D --> E{Le coordinateur souhaite-t-il ajouter un nouvel utilisateur ?} E -->|Oui| F[Ouvrir le formulaire d'ajout d'utilisateur] F --> G[Saisir les informations de l'utilisateur] G --> H{Les informations sont-elles valides ?} H -->|Non| I[Afficher un message d'erreur] I --> G H -->|Oui| J[Soumettre le formulaire] J --> K[Envoyer une requête POST à l'API pour ajouter l'utilisateur] K --> L{La requête a-t-elle réussi ?} L -->|Oui| M[Rafraîchir la liste des utilisateurs] L -->|Non| N[Afficher un message d'erreur] M --> D N --> D E -->|Non| O{Le coordinateur souhaite-t-il modifier un utilisateur ?} O -->|Oui| P[Sélectionner l'utilisateur à modifier] P --> Q[Ouvrir le formulaire de modification d'utilisateur] Q --> R[Modifier les informations de l'utilisateur] R --> S{Les informations sont-elles valides ?} S -->|Non| T[Afficher un message d'erreur] T --> R S -->|Oui| U[Soumettre le formulaire] U --> V[Envoyer une requête PUT à l'API pour mettre à jour l'utilisateur] V --> W{La requête a-t-elle réussi ?} W -->|Oui| X[Rafraîchir la liste des utilisateurs] W -->|Non| Y[Afficher un message d'erreur] X --> D Y --> D O -->|Non| Z{Le coordinateur souhaite-t-il supprimer un utilisateur ?} Z -->|Oui| AA[Sélectionner l'utilisateur à supprimer] AA --> AB[Confirmer la suppression] AB --> AC[Envoyer une requête DELETE à l'API pour supprimer l'utilisateur] AC --> AD{La requête a-t-elle réussi ?} AD -->|Oui| AE[Rafraîchir la liste des utilisateurs] AD -->|Non| AF[Afficher un message d'erreur] AE --> D AF --> D Z -->|Non| AG[Le coordinateur termine la gestion des utilisateurs]
 
 ## Managing Grade Boundaries as a Teacher
 
 plaintext
 
-`si (l'utilisateur est connecté en tant qu'enseignant) {   récupérer les limites de notes;   si (l'utilisateur sélectionne 'Ajouter une nouvelle limite') {     ouvrir le formulaire d'ajout de limite de notes;     si (le formulaire est soumis) {       ajouter la nouvelle limite de notes;     }   } sinon si (l'utilisateur sélectionne 'Modifier') {     ouvrir le formulaire de modification de limite de notes;     si (le formulaire est soumis) {       mettre à jour la limite de notes;     }   } sinon si (l'utilisateur sélectionne 'Supprimer') {     supprimer la limite de notes;   } }`
+flowchart TD
+    A[Initialiser] --> B[Vérifier l'enseignant]
+    B -->|Oui| C[Obtenir limites existantes]
+    C --> D[Obtenir classes enseignant]
+    D --> E[Afficher modal]
+    E --> F[Sélectionner classe et valeurs]
+    F --> G[Entrer les plages de notes]
+    G --> H[Envoyer]
+    H --> I[Traiter l'ajout]
+    I --> J[Actualiser les limites]
+    J --> K[Fin]
+
+    B -->|Non| K[Fin]
+
+    F -.->|Ajouter des plages| G
+    G -->|Toutes les valeurs saisies?| H
+    H -->|Oui| I
+    I --> J
+
+    style A fill:#F9F,stroke:#333,stroke-width:2px
+    style B fill:#F9F,stroke:#333,stroke-width:2px
+    style C fill:#F9F,stroke:#333,stroke-width:2px
+    style D fill:#F9F,stroke:#333,stroke-width:2px
+    style E fill:#FFF,stroke:#333,stroke-width:2px
+    style F fill:#FFF,stroke:#333,stroke-width:2px
+    style G fill:#FFF,stroke:#333,stroke-width:2px
+    style H fill:#FFF,stroke:#333,stroke-width:2px
+    style I fill:#F9F,stroke:#333,stroke-width:2px
+    style J fill:#F9F,stroke:#333,stroke-width:2px
+    style K fill:#F9F,stroke:#333,stroke-width:2px
