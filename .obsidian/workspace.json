@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key features of poems.md",
+                "file": "Le modèle de traitement des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key features of poems.md",
+                "file": "Le modèle de traitement des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key features of poems.md",
+                "file": "Le modèle de traitement des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key features of poems.md"
+                "file": "Le modèle de traitement des ordinateurs.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key features of poems.md",
+                "file": "Le modèle de traitement des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,10 +306,12 @@
   },
   "active": "071ea4e13a927a13",
   "lastOpenFiles": [
-    "sl subjects/English and Literature.md",
-    "Key features of poems.md",
-    "Paralanguage.md",
+    "Architecture des ordinateurs.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Key features of poems.md",
+    "sl subjects/English and Literature.md",
+    "Paralanguage.md",
     "flowchart code.md",
     "Physics IA NOTES.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
@@ -332,8 +334,6 @@
     "DATA STRUCTURE.md",
     "EXO 5 FRENCH.md",
     "Microéconomie.md",
-    "ressources communes.md",
-    "hl subjects/Français B.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
     "assets/MATH IA HL/image-20240323105307196.png",

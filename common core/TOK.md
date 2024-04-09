@@ -1,19 +1,19 @@
 #TOK  #subject
-# Theory of Knowledge 
+# Theory of Knowledge
 ## - COURSE
-## **Part 1 :** 
- [[knowers and knowing]] $\rightarrow$ *core themes* 
- [[12concepts|12 TOK concepts]]   
-  [[key word]] 
-  
+## **Part 1 :**
+ [[knowers and knowing]] $\rightarrow$ *core themes*
+ [[12concepts|12 TOK concepts]]
+  [[key word]]
+
 ## **Part 2 :** Optional themes
 ?
 - knowledge and technology
-- knowledge and language 
-- knowledge and religion 
+- knowledge and language
+- knowledge and religion
 - knowledge and politics
-- knowledge and indigenous societies  
-<!--SR:!2023-10-16,39,270-->
+- knowledge and indigenous societies
+<!--SR:!2024-07-18,100,270-->
 
 ## **Part 3 :** Areas of knowledge
 ?
