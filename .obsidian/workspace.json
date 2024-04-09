@@ -234,7 +234,7 @@
             }
           },
           {
-            "id": "702d052766f9b738",
+            "id": "b646e4cc5c8a271a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -299,12 +299,12 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create loom": false
+      "notion-like-tables:Create loom": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "b646e4cc5c8a271a",
   "lastOpenFiles": [
     "Réseaux.md",
     "hl subjects/Computer science.md",
