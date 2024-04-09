@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le modèle de traitement des ordinateurs.md",
+                "file": "Nécessité des protocoles.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le modèle de traitement des ordinateurs.md",
+                "file": "Nécessité des protocoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le modèle de traitement des ordinateurs.md",
+                "file": "Nécessité des protocoles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le modèle de traitement des ordinateurs.md"
+                "file": "Nécessité des protocoles.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le modèle de traitement des ordinateurs.md",
+                "file": "Nécessité des protocoles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,9 +306,11 @@
   },
   "active": "071ea4e13a927a13",
   "lastOpenFiles": [
-    "Architecture des ordinateurs.md",
+    "Réseaux.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
+    "Le modèle de traitement des ordinateurs.md",
+    "Architecture des ordinateurs.md",
     "Key features of poems.md",
     "sl subjects/English and Literature.md",
     "Paralanguage.md",
@@ -332,8 +334,6 @@
     "Computer science exploration.md",
     "web app.md",
     "DATA STRUCTURE.md",
-    "EXO 5 FRENCH.md",
-    "Microéconomie.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
     "assets/MATH IA HL/image-20240323105307196.png",
