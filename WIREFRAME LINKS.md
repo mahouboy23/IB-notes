@@ -11,3 +11,4 @@ grades - teacher page : [Wireframe.cc – The Go-to Free, Online Wireframing Too
 boundaries - teacher page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/i6MqUm)
 classes - students page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/U291zz) 
 Grades -  students page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/OyB0Gu)
+add new user modal : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/BE7dfm)
