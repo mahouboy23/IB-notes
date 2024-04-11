@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "WIREFRAME LINKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "WIREFRAME LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "WIREFRAME LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tension d'un ressort.md"
+                "file": "WIREFRAME LINKS.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "WIREFRAME LINKS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,19 +306,22 @@
   },
   "active": "071ea4e13a927a13",
   "lastOpenFiles": [
-    "Untitled 13.md",
+    "IB MANAGEMENT.md",
+    "WIREFRAME LINKS.md",
+    "Computer science exploration.md",
+    "hl subjects/Computer science.md",
+    "Computer science classwork.md",
+    "IB overview.md",
     "Tension d'un ressort.md",
+    "Untitled 13.md",
     "hl subjects/Français B.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Force a distance.md",
     "Loi de gravitation de Newton.md",
     "Mécanique.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "common core/CAS.md",
-    "IB MANAGEMENT.md",
     "Réseaux.md",
-    "hl subjects/Computer science.md",
     "Le modèle de traitement des ordinateurs.md",
     "Architecture des ordinateurs.md",
     "Key features of poems.md",
@@ -330,10 +333,7 @@
     "Mesure d'incertitude.md",
     "Erreurs et incertitudes.md",
     "Précision et exactitude.md",
-    "Physics IA.md",
     "assets/Physics IA NOTES",
-    "malick exploration.md",
-    "sl subjects/Economie.md",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
     "assets/MATH IA HL/image-20240323105307196.png",
