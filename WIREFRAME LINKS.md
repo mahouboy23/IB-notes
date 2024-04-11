@@ -9,3 +9,4 @@ classes - coordinator page : [Wireframe.cc – The Go-to Free, Online Wireframin
 classes - teacher page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/kHCWuc) 
 grades - teacher page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/M7KDPP)
 boundaries - teacher page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/i6MqUm)
+classes - students page : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/U291zz) 
