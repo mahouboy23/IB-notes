@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIREFRAME LINKS.md",
+                "file": "Critere D.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIREFRAME LINKS.md",
+                "file": "Critere D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIREFRAME LINKS.md",
+                "file": "Critere D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIREFRAME LINKS.md"
+                "file": "Critere D.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WIREFRAME LINKS.md",
+                "file": "Critere D.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,12 +306,13 @@
   },
   "active": "071ea4e13a927a13",
   "lastOpenFiles": [
-    "IB MANAGEMENT.md",
-    "WIREFRAME LINKS.md",
     "Computer science exploration.md",
+    "Critere D.md",
     "hl subjects/Computer science.md",
-    "Computer science classwork.md",
     "IB overview.md",
+    "WIREFRAME LINKS.md",
+    "IB MANAGEMENT.md",
+    "Computer science classwork.md",
     "Tension d'un ressort.md",
     "Untitled 13.md",
     "hl subjects/Français B.md",
@@ -332,7 +333,6 @@
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "Mesure d'incertitude.md",
     "Erreurs et incertitudes.md",
-    "Précision et exactitude.md",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",

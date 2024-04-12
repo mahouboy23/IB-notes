@@ -9,6 +9,7 @@ Created: 2023-09-07
 
 [[IB MANAGEMENT]] 
 
+[[Critere D]] 
 ----
 
 Creation d'une app web qui permet de montrer/afficher et organiser les info, leçon et devoir envoyer par des profs sur Gmail mais aussi de téléverser et télécharger des fichier dans un google drive commun a travers l'app web pour les élèves d'une classe
