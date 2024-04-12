@@ -14,4 +14,5 @@ Grades -  students page : [Wireframe.cc – The Go-to Free, Online Wireframing T
 add new user modal : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/BE7dfm)
 add new class modal : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/U3pTqs)
 assign new student modal : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/NENuPn)
+ add new grade modal : [Wireframe.cc – The Go-to Free, Online Wireframing Tool.](https://wireframe.cc/2QOJBc) 
  
