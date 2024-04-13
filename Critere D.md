@@ -413,9 +413,9 @@ L'ajout d'une nouvelle note se fait via une fenêtre modale, où le professeur s
 00:05:20.000  
 La page de gestion des intervalles de notation permet au professeur de définir les seuils de conversion des notes vers le système de notation de l'IB. Il peut ajouter, modifier et supprimer ces intervalles selon les besoins.
 00:05:45.000  
-Du côté des étudiants, la page "Mes classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.
+Du côté des étudiants, la page "Classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.
 00:06:10.000  
-En naviguant vers la page "Mes notes", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.
+En naviguant vers la page "Grades", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.
 00:06:35.000  
 La structure du code de l'application suit les meilleures pratiques de développement, avec une organisation claire des dossiers et des fichiers, des conventions de nommage intuitives et des commentaires pertinents dans le code pour faciliter la maintenance par une tierce partie.
 00:06:55.000  
