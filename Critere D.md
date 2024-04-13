@@ -416,6 +416,14 @@ La page de gestion des intervalles de notation permet au professeur de définir 
 Du côté des étudiants, la page "Classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.
 00:06:10.000  
 En naviguant vers la page "Grades", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.
+00:06:15.000  
+Un exemple d'extensibilité serait l'ajout d'un système de messagerie intégré permettant une communication directe entre les enseignants, les étudiants et le coordinateur.
+00:06:30.000  
+Une interface utilisateur dédiée serait développée pour afficher les conversations et permettre aux utilisateurs de composer de nouveaux messages. Le backend serait étendu avec de nouvelles routes API pour gérer l'envoi, la réception et la suppression des messages.
+00:06:45.000  
+Un autre exemple d'extensibilité serait l'intégration d'un système de génération de rapports personnalisables. Cette fonctionnalité permettrait de créer des rapports détaillés sur les performances des étudiants, en sélectionnant des critères spécifiques.
+00:07:00.000  
+Les rapports seraient générés dynamiquement en utilisant les données stockées dans la base de données et pourraient être exportés dans des formats courants pour un partage et une analyse ultérieurs.
 
 Fonctionnalité d'extensibilité 1 :  
 Un exemple d'extensibilité pour mon application web serait l'ajout d'un système de messagerie intégré permettant une communication directe entre les enseignants, les étudiants et le coordinateur. Cette fonctionnalité pourrait être implémentée en créant une nouvelle table dans la base de données MySQL pour stocker les messages, avec des champs tels que l'identifiant de l'expéditeur, l'identifiant du destinataire, le contenu du message et l'horodatage. Une interface utilisateur dédiée serait développée en utilisant React pour afficher les conversations et permettre aux utilisateurs de composer de nouveaux messages. Le backend Node.js et Express serait étendu avec de nouvelles routes API pour gérer l'envoi, la réception et la suppression des messages. Cette extension améliorerait considérablement la collaboration et la communication au sein de la plateforme, offrant un moyen pratique aux utilisateurs d'échanger des informations relatives aux notes, aux classes et aux performances des étudiants.
