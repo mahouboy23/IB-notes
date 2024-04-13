@@ -372,3 +372,30 @@ authentication system first with the
 emine password and second with their
 00:06:44.100
 biometric authentication system
+
+note : 
+00:00:00.000  
+Bonjour et bienvenue dans la démonstration de mon application web IB Management, développée pour mon client, Monsieur le Coordinateur du programme IB.00:00:10.000  
+IB Management est une plateforme centralisée permettant une gestion efficace des notes et des classes pour les différents utilisateurs du programme IB, notamment les professeurs, les étudiants et le coordinateur.00:00:25.000  
+Voici les horodatages correspondant à chaque critère de réussite démontré dans cette vidéo.00:00:32.000  
+Lorsque vous accédez à l'application, vous êtes dirigé vers la page de connexion, où vous devez saisir votre nom d'utilisateur et votre mot de passe pour vous authentifier.00:00:45.000  
+Si les informations d'identification sont correctes, vous êtes redirigé vers la page d'accueil. Sinon, un message d'erreur s'affiche.00:01:00.000  
+Après une authentification réussie, si l'utilisateur a le rôle de coordinateur, il est redirigé vers la page d'administration, d'où il peut accéder à la gestion des utilisateurs.00:01:15.000  
+Sur la page de gestion des utilisateurs, le coordinateur peut ajouter, modifier et supprimer des utilisateurs via une interface intuitive.00:01:30.000  
+En cliquant sur le bouton "Ajouter un utilisateur", une fenêtre modale s'ouvre, permettant de saisir les informations du nouvel utilisateur. Une fois le formulaire rempli et validé, l'utilisateur est ajouté à la base de données.00:01:50.000  
+La barre de recherche permet de filtrer les utilisateurs par nom d'utilisateur ou nom complet, grâce à une requête de recherche optimisée.00:02:10.000  
+En naviguant vers la page de gestion des classes, le coordinateur peut ajouter, modifier et supprimer des classes, ainsi qu'assigner des étudiants à une classe spécifique.00:02:30.000  
+L'ajout d'une nouvelle classe se fait via une fenêtre modale, où le coordinateur saisit les informations requises. Une fois validé, la classe est créée dans la base de données.00:02:50.000  
+Pour assigner des étudiants à une classe, le coordinateur utilise la fenêtre modale dédiée, où il peut sélectionner les étudiants à ajouter à partir d'une liste.00:03:10.000  
+En cliquant sur le bouton "Développer", le coordinateur peut visualiser la liste des étudiants inscrits dans une classe et, si nécessaire, retirer un étudiant de cette classe.00:03:30.000  
+Du côté des professeurs, la page "Mes classes" affiche les différentes classes assignées à l'enseignant, avec des informations sur la matière et le niveau de chaque classe.00:03:50.000  
+En sélectionnant une classe, le professeur peut consulter la liste des étudiants inscrits.00:04:10.000  
+Sur la page de gestion des notes, le professeur peut ajouter, modifier et supprimer les notes des étudiants. Pour afficher les notes, il doit d'abord sélectionner une classe, puis un étudiant.00:04:35.000  
+Le professeur peut également filtrer les notes par trimestre (premier, deuxième ou troisième) pour une visualisation plus précise.00:05:00.000  
+L'ajout d'une nouvelle note se fait via une fenêtre modale, où le professeur saisit la valeur de la note et le total des points possibles.00:05:20.000  
+La page de gestion des intervalles de notation permet au professeur de définir les seuils de conversion des notes vers le système de notation de l'IB. Il peut ajouter, modifier et supprimer ces intervalles selon les besoins.00:05:45.000  
+Du côté des étudiants, la page "Mes classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.00:06:10.000  
+En naviguant vers la page "Mes notes", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.00:06:35.000  
+La structure du code de l'application suit les meilleures pratiques de développement, avec une organisation claire des dossiers et des fichiers, des conventions de nommage intuitives et des commentaires pertinents dans le code pour faciliter la maintenance par une tierce partie.00:06:55.000  
+L'application a été conçue de manière modulaire, permettant une extensibilité aisée. L'ajout de nouvelles fonctionnalités ou la modification des fonctionnalités existantes peuvent être réalisés de manière simple et efficace, sans compromettre l'intégrité de l'ensemble du système.00:07:10.000  
+En conclusion, IB Management est une application web robuste et intuitive, qui répond parfaitement aux besoins de gestion des notes et des classes du programme IB. Sa conception modulaire et son code bien structuré en font un produit facile à maintenir et à faire évoluer.
