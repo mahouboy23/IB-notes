@@ -375,7 +375,8 @@ biometric authentication system
 
 note : 
 00:00:00.000  
-Bonjour et bienvenue dans la démonstration de mon application web IB Management, développée pour mon client, Monsieur le Coordinateur du programme IB.00:00:10.000  
+Bonjour et bienvenue dans la démonstration de mon application web IB Management, développée pour mon client, Monsieur le Coordinateur du programme IB.
+00:00:10.000  
 IB Management est une plateforme centralisée permettant une gestion efficace des notes et des classes pour les différents utilisateurs du programme IB, notamment les professeurs, les étudiants et le coordinateur.
 00:00:25.000  
 Voici les horodatages correspondant à chaque critère de réussite démontré dans cette vidéo.
