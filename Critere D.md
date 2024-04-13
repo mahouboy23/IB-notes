@@ -416,9 +416,3 @@ La page de gestion des intervalles de notation permet au professeur de définir 
 Du côté des étudiants, la page "Classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.
 00:06:10.000  
 En naviguant vers la page "Grades", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.
-00:06:35.000  
-La structure du code de l'application suit les meilleures pratiques de développement, avec une organisation claire des dossiers et des fichiers, des conventions de nommage intuitives et des commentaires pertinents dans le code pour faciliter la maintenance par une tierce partie.
-00:06:55.000  
-L'application a été conçue de manière modulaire, permettant une extensibilité aisée. L'ajout de nouvelles fonctionnalités ou la modification des fonctionnalités existantes peuvent être réalisés de manière simple et efficace, sans compromettre l'intégrité de l'ensemble du système.
-00:07:10.000  
-En conclusion, IB Management est une application web robuste et intuitive, qui répond parfaitement aux besoins de gestion des notes et des classes du programme IB. Sa conception modulaire et son code bien structuré en font un produit facile à maintenir et à faire évoluer.
