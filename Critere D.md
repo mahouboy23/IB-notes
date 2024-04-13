@@ -391,7 +391,7 @@ Sur la page de gestion des utilisateurs, le coordinateur peut ajouter, modifier 
 00:01:30.000  
 En cliquant sur le bouton "Ajouter un utilisateur", une fenêtre modale s'ouvre, permettant de saisir les informations du nouvel utilisateur. Une fois le formulaire rempli et validé, l'utilisateur est ajouté à la base de données.
 00:01:50.000  
-La barre de recherche permet de filtrer les utilisateurs par nom d'utilisateur ou nom complet, grâce à une requête de recherche optimisée.
+La barre de recherche permet de filtrer les utilisateurs par leur nom complet, grâce à une requête de recherche.
 00:02:10.000  
 En naviguant vers la page de gestion des classes, le coordinateur peut ajouter, modifier et supprimer des classes, ainsi qu'assigner des étudiants à une classe spécifique.
 00:02:30.000  
@@ -399,9 +399,9 @@ L'ajout d'une nouvelle classe se fait via une fenêtre modale, où le coordinate
 00:02:50.000  
 Pour assigner des étudiants à une classe, le coordinateur utilise la fenêtre modale dédiée, où il peut sélectionner les étudiants à ajouter à partir d'une liste.
 00:03:10.000  
-En cliquant sur le bouton "Développer", le coordinateur peut visualiser la liste des étudiants inscrits dans une classe et, si nécessaire, retirer un étudiant de cette classe.
+En cliquant sur le bouton "Expand", le coordinateur peut visualiser la liste des étudiants inscrits dans une classe et, si nécessaire, retirer un étudiant de cette classe.
 00:03:30.000  
-Du côté des professeurs, la page "Mes classes" affiche les différentes classes assignées à l'enseignant, avec des informations sur la matière et le niveau de chaque classe.
+Du côté des professeurs, la page "Classes" affiche les différentes classes assignées à l'enseignant, avec des informations sur la matière et le niveau de chaque classe.
 00:03:50.000  
 En sélectionnant une classe, le professeur peut consulter la liste des étudiants inscrits.
 00:04:10.000  
