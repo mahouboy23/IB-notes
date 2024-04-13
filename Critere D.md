@@ -416,3 +416,7 @@ La page de gestion des intervalles de notation permet au professeur de définir 
 Du côté des étudiants, la page "Classes" affiche les différentes classes auxquelles l'étudiant est inscrit, avec les informations pertinentes pour chacune d'entre elles.
 00:06:10.000  
 En naviguant vers la page "Grades", l'étudiant peut consulter ses notes pour chaque classe. Les notes sont affichées par classe et peuvent être filtrées par trimestre à l'aide d'un menu déroulant.
+
+extensibility :
+extensibility feature 1
+extensibility feature 2
