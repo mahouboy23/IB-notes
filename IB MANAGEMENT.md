@@ -265,3 +265,16 @@ Ce diagramme de flux représente le processus d'ajout d'un utilisateur par le co
     \caption{}
     \label{fig:data-visualization}
 \end{figure}
+
+Liste des exploration que j'ai reçu :
+Math AA HL : 
+- Peres 
+- Breal 
+- Abdoul wahab
+- Mahouna 
+- Mangara
+  Math AA SL :
+  - Mbene
+Math AI HL :
+- Sylvain
+- Sohkna
