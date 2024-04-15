@@ -143,3 +143,4 @@ T = \frac{8\eta L S}{\pi R^4 \rho g} \ln\left(\frac{h_0}{h_f}\right)
 où $h_f$ est une hauteur finale proche de zéro (en pratique, la vidange n'est jamais complète à cause des effets de tension superficielle).
 
 Cette formule montre que le temps de vidange augmente linéairement avec la longueur du tube, ce qui est cohérent avec nos observations expérimentales. Elle fournit également une base théorique pour analyser quantitativement nos résultats.
+
