@@ -149,3 +149,8 @@ Cette formule montre que le temps de vidange augmente linéairement avec la long
 -L'erreur des mesures de distance h, r, R et de grandeur avec la règle a pour erreur $\pm$ 0.05 
 
 -L'erreur dans les mesures entre les deux temps de vidange durant la video qui est de $\pm$ 0.005 
+
+
+Le temps de vidange a été mesuré à l'aide d'un chronomètre, ce qui peut introduire une erreur aléatoire dans les valeurs obtenues. Pour le temps de vidange l'erreur était de $\Delta x=\frac{x_{\max }-x_{\min }}{2} = \frac{0.81}{2} = 0.405$
+Les distances $h, r, R$ et la taille du récipient ont été mesurées à l'aide d'une règle avec une erreur de $\pm 0,05$.
+Durant l'experience, le temps de vidange a été mesuré pour deux hauteurs, ce qui a introduit une erreur de $\pm 0,005$ entre les mesures.
