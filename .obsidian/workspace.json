@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics IA.md",
+                "file": "IB MANAGEMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics IA.md",
+                "file": "IB MANAGEMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics IA.md"
+                "file": "IB MANAGEMENT.md"
               }
             }
           },
@@ -254,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics IA.md",
+                "file": "IB MANAGEMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,12 +303,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "Critere D.md",
+    "Physics IA.md",
     "sl subjects/Physics.md",
     "IB overview.md",
     "Mesure d'incertitude.md",
-    "Critere D.md",
     "IB MANAGEMENT.md",
     "flowchart code.md",
     "Computer science exploration.md",
@@ -332,7 +332,6 @@
     "Paralanguage.md",
     "Physics IA NOTES.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
-    "Erreurs et incertitudes.md",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",

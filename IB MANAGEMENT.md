@@ -242,3 +242,25 @@ ok it works now but there are still some to do but first lets fix a small issue,
 - `GET /api/classes/:teacherId`: Retrieve all classes associated with the teacher.
 
 [[flowchart code]] 
+
+## cut :
+ extradiagram : 
+\textbf{Ajout d'intervalle}
+Ce diagramme de flux représente le processus d'ajout d'un intervalle par un professeur
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.30
+    \textwidth]{lol (1).png}
+    \caption{}
+    \label{fig:data-visualization}
+\end{figure}
+
+\textbf{Gestion des utilisateurs}
+
+Ce diagramme de flux représente le processus d'ajout d'un utilisateur par le coordinateur 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{sasa.drawio.png}
+    \caption{}
+    \label{fig:data-visualization}
+\end{figure}
