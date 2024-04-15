@@ -144,3 +144,4 @@ où $h_f$ est une hauteur finale proche de zéro (en pratique, la vidange n'est 
 
 Cette formule montre que le temps de vidange augmente linéairement avec la longueur du tube, ce qui est cohérent avec nos observations expérimentales. Elle fournit également une base théorique pour analyser quantitativement nos résultats.
 
+L'erreur des mesures du temps de vidange : J'ai mesurer
