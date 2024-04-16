@@ -10,6 +10,37 @@ modélisation de la base de données et configuration du serveur/backend (ce n'e
 - Et parle de la configuration du server et l'utilisation de routes et controllers dans node.js on montrer du code
   RESPECTE LE CRITERE ET CONDITION DONNEES PREALABLEMENT
 
+## Modélisation de la base de données avec MySQL
+
+La modélisation de la base de données est une étape cruciale dans le développement d'une application web. Elle permet de définir la structure des données et les relations entre les différentes entités. Dans notre cas, nous avons utilisé MySQL pour créer la base de données de notre application de gestion des notes du programme IB. Voici le code SQL pour créer les différentes tables de notre base de données :
+
+CODE
+
+Chaque table représente une entité spécifique de notre application, comme les utilisateurs, les classes, les notes, les limites de notes et les associations entre les étudiants et les classes.[screenshot de la création des tables dans MySQL Workbench]
+
+## Connexion à la base de données
+
+Pour établir la connexion entre notre application Node.js et la base de données MySQL, nous avons utilisé le module `mysql2`. Voici un extrait du code pour configurer la connexion :
+
+Code
+
+Nous avons créé un pool de connexions pour optimiser les performances et la gestion des ressources. Les informations de connexion sont stockées dans des variables d'environnement pour des raisons de sécurité.
+
+## Configuration du serveur et utilisation des routes et contrôleurs
+
+Pour structurer notre application Node.js, nous avons suivi une architecture basée sur les routes et les contrôleurs. Cette approche permet de séparer les préoccupations et de rendre le code plus modulaire et maintenable.
+## Routes
+
+Les routes définissent les différents endpoints de notre API et associent chaque route à un contrôleur spécifique. Voici un exemple de fichier de routes pour la gestion des notes :
+CODE
+Dans cet exemple, nous définissons les routes pour les opérations CRUD (Create, Read, Update, Delete) sur les notes. Chaque route est associée à une fonction du contrôleur `gradeController`.
+
+## Contrôleurs
+
+Les contrôleurs contiennent la logique métier de notre application. Ils gèrent les requêtes entrantes, interagissent avec la base de données et renvoient les réponses appropriées. Voici un extrait du contrôleur `gradeController` :
+CODE
+
+
 Authentification : 
 - Aspect jwt token, parametre du token
 - authContext et comment sa marche / integrer dans l'application
