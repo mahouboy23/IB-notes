@@ -9,6 +9,7 @@ Created: 2023-09-07
 
 [[IB MANAGEMENT]] 
 
+## [[Critere C]] 
 [[Critere D]] 
 ----
 
