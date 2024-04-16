@@ -34,3 +34,4 @@ RESPECTE LE CRITERE ET CONDITION DONNEES PREALABLEMENT ET UTILISE LES FICHIERS F
 - "Express.js." Express.js, [Express routing](https://expressjs.com/en/guide/routing.html). Accessed 16 Apr. 2024.
 
 - Linsley, Tanner. "Table Instance Guide." TanStack Table Docs, tanstack.com/table/v8/docs/guide/tables. Accessed 16 Apr. 2024.
+- [jsonwebtoken - npm](https://www.npmjs.com/package/jsonwebtoken) 
