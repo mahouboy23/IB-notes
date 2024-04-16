@@ -12,4 +12,4 @@ Les changements qui pourraient survenir dans les institutions ont également un 
 -   degré de concurrence
 -   quantité et qualité des réglementations gouvernementales
 -   bureaucratie (ou son absence)
-<!--SR:!2024-04-10,1,230-->
+<!--SR:!2024-04-18,2,230-->

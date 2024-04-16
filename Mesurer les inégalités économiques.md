@@ -20,4 +20,4 @@ Calcule du coefficient de Gini (graphe) avec formule:
 ?
 ![[Pasted image 20231019090244.png]]Pour calculer le coefficient de Gini, il faut utiliser la formule suivante :
 $$\text{Gini coefficient}=\frac{A}{A+B}$$
-<!--SR:!2024-04-12,3,250-->
+<!--SR:!2024-04-23,7,250-->
