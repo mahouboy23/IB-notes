@@ -20,7 +20,8 @@ Authentification :
 
 
 ok maintenant je veux continuer ma partit C. Les reponce que tu dois me donner ne dois pas etre par fichier et ou par page sa doit etre part technique ou concept ou fonctionnaliter (comment j'ai fait pour faire cette fonctionnaliter quel technique utiliser). Tu dois me donner tes reponse sur format overleaf et PRENDRE DES SNIPPET de code, apres je vais prendre les screenshot et les remplacer mais je dois savoir quel code du parle ou reference donc inclut les snippet de code que tu utilise. Si on doit montrer un screenshot de quelque chose qui se passe dans l'application mes [screenshot de (description de ce que je dois mettre la)] puis je vais l'ajouter apres. Les variable, parametre, code, fonction ect doit etre one to one et ne traduit pas ces elements mes le reste et explication DOIT etre en francais. Quand on fait une nouvelle parti donne un titre de quelque mots qui exprime bien la technique ou concept ou fonctionnaliter qui represente cette section. Quand tu remarque une technique ou concept ou fonctionnaliter assez complexe ou autre trouve un reference pour sa mais ne le fait pas pour des truc qui allere originel ou qui sont vraiment simple et intuitif. finalement a la fin donne moi un compte des mots que tu a utiliser a la fin qui compte pas les titre, diagram, tableau. Donc continu avec : 
-Authentification : 
+Modal et Table :
+- Explique en general 
 
 RESPECTE LE CRITERE ET CONDITION DONNEES PREALABLEMENT ET UTILISE LES FICHIERS FOURNIE
   
