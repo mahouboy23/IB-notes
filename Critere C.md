@@ -23,6 +23,8 @@ ok maintenant je veux continuer ma partit C. Les reponce que tu dois me donner n
 Modal et Table :
 - Explique en general comment le modal fonctionne et utilise l'exemple/code de User.js pour illustrer et expliquer
 - Explique en general comment la Table fonctionne et utilise l'exemple/code de User.js pour illustrer et expliquer, mentionne aussi 
+  
+also don't just drop a large code and explain, explain while using code snippet (not like one line either)
 
 RESPECTE LE CRITERE ET CONDITION DONNEES PREALABLEMENT ET UTILISE LES FICHIERS FOURNIE
   
