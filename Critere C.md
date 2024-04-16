@@ -12,7 +12,7 @@ modélisation de la base de données et configuration du serveur/backend (ce n'e
 
 ## Modélisation de la base de données avec MySQL
 
-La modélisation de la base de données est une étape cruciale dans le développement d'une application web. Elle permet de définir la structure des données et les relations entre les différentes entités. Dans notre cas, nous avons utilisé MySQL pour créer la base de données de notre application de gestion des notes du programme IB. Voici le code SQL pour créer les différentes tables de notre base de données :
+La modélisation de la base de données est une étape cruciale dans le développement d'une application web. Elle permet de définir la structure des données et les relations entre les différentes entités. Dans notre cas, nous avons utilisé MySQL pour créer la base de données de notre application de gestion des notes du programme IB. Voici un extrait du code SQL pour créer la Table Users :
 
 CODE
 
