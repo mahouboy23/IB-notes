@@ -40,7 +40,8 @@ Dans cet exemple, nous définissons les routes pour les opérations CRUD (Create
 Les contrôleurs contiennent la logique métier de notre application. Ils gèrent les requêtes entrantes, interagissent avec la base de données et renvoient les réponses appropriées. Voici un extrait du contrôleur `gradeController` :
 CODE
 Dans cet exemple, nous avons deux fonctions du contrôleur : `getStudentGrades` pour récupérer les notes d'un étudiant, et `createGrade` pour ajouter une nouvelle note. Ces fonctions interagissent avec la base de données en utilisant des requêtes SQL et renvoient les réponses appropriées.
-
+ 
+ ### 344
 
 
 Authentification : 
