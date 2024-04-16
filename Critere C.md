@@ -29,5 +29,7 @@ also don't just drop a large code and explain, explain while using code snippet 
 RESPECTE LE CRITERE ET CONDITION DONNEES PREALABLEMENT ET UTILISE LES FICHIERS FOURNIE
 
 ## Reference :
-
+- "React Modal." React Modal Documentation, reactcommunity.org/react-modal/. Accessed 16 Apr. 2024.
+  
+  - "Express.js." Express.js, [Express routing](https://expressjs.com/en/guide/routing.html). Accessed 16 Apr. 2024.
   
