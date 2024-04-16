@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critere C.md",
+                "file": "RDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critere C.md",
+                "file": "RDT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Critere C.md"
+                "file": "RDT.md"
               }
             }
           },
@@ -266,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Critere C.md",
+                "file": "RDT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,10 +315,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "071ea4e13a927a13",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "Untitled 14.md",
     "Critere C.md",
+    "Untitled 14.md",
     "IB MANAGEMENT.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",

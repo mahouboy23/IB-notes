@@ -3,6 +3,7 @@ tags : mod cs
 ---
 Created: 2024-04-16
 
+je veux quand utilise en tout ce que j'ai fait et va faire et en utilisant l'exemple tu creer un tableau record de ta
 The “Criterion” selection should NOT use the letters A-E and instead should use the words “Plan”, “Design”, “Develop”, “Test”, and “Implement”
 
 | N°  | Action Prévue                                                  | Résultat Attendu                                                                               | Temps Estimé | Date de Fin | Critère |
