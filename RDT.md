@@ -3,7 +3,9 @@ tags : mod cs
 ---
 Created: 2024-04-16
 
-je veux que
+je veux que tu utilise tout ce que j'ai fait et va faire pour faire le table record des taches. Mais sur le format overleaf en longtable. Utilise l'example pour voir comment faire les temps date ect... . Mais il y a une petit erreur dans l'example la parti Critère ne doit pas avoir de lettre. Note that this doesn’t include information about the **writing**, only the actual doing the project. Ne copie pas l'example mais plutot fait le pour mon exploration.
+
+This table is provided by the IB directly, and this exact format MUST be used to keep track of the tasks associated with the planning, designing, developing, testing, and implementing your solution. (I know the format is a little clunky, but you CANNOT CHANGE IT)
 The “Criterion” selection should NOT use the letters A-E and instead should use the words “Plan”, “Design”, “Develop”, “Test”, and “Implement”
 
 | N°  | Action Prévue                                                  | Résultat Attendu                                                                               | Temps Estimé | Date de Fin | Critère |
