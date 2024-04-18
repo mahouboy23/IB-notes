@@ -405,7 +405,7 @@ Du côté des professeurs, la page "Classes" affiche les différentes classes as
 00:03:50.000  
 En sélectionnant une classe, le professeur peut consulter la liste des étudiants inscrits.
 00:04:10.000  
-Sur la page de gestion des notes, le professeur peut ajouter, modifier et supprimer les notes des étudiants. Pour afficher les notes, il doit d'abord sélectionner une classe, puis un étudiant.
+Sur la page de gestion des notes, le professeur peut ajouter, modifier et supprimer les notes des étudiants. Pour afficher les notes, le professeur doit d'abord sélectionner une classe, puis un étudiant.
 00:04:35.000  
 Le professeur peut également filtrer les notes par trimestre (premier, deuxième ou troisième).
 00:05:00.000  
