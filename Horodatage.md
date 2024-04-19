@@ -1,8 +1,9 @@
 ---
 tags : mod cs
 ---
- - lol 
- - lol 
- - lol
+ ## Critère de réussite
+ 
+ - 00.32 : i 
+ - 
    
    
