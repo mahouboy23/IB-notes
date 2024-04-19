@@ -26,4 +26,4 @@ utilisateurs.
  - 05:36 = f
  - 05:47 = d
    
-   
+   Oui, la gestion des notes est très simple mais efficace
