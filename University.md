@@ -20,13 +20,18 @@ CAS = B
 
 Papier 3 Banque de vocabulaire
 - Ajustement du faisceau - technique de vision par ordinateur utilisée pour affiner une reconstruction 3D en minimisant l'erreur de reprojection entre les points observés et les points prédits.
+
 - Vision par ordinateur - algorithmes et techniques qui permettent aux ordinateurs d'analyser, d'interpréter et de donner un sens à des images ou des vidéos numériques.
+
 - calcul à l'aveugle (dead reckoning) : méthode d'estimation de la position d'un capteur ou d'un objet (localisation) et de construction numérique d'un environnement inconnu (cartographie).
+
 - Données à l'estime - Estimation de la position actuelle réalisée à l'aide de la méthode à l'estime.
+
 - Informatique périphérique - Le traitement des données s'effectue au niveau des dispositifs locaux (c'est-à-dire les robots), plutôt que de dépendre d'un serveur centralisé.
+
 - Optimisation globale de la carte - processus consistant à renforcer la cohérence visuelle sur l'ensemble d'une carte (à l'aide de l'ajustement des paquets et d'autres processus, mais à plus grande échelle)
+
 - Signal du système de positionnement global (GPS) : signal de radiofréquence transmis par les satellites du système de positionnement global (GPS); utilisé pour déterminer l'emplacement, la vitesse et la position du récepteur.
-l'emplacement, la vitesse et l'heure du récepteur.
 - Environnement GPS dégradé - situation dans laquelle les signaux GPS sont affaiblis ; ils sont toujours disponibles, mais la qualité, la précision et le temps d'acquisition se dégradent.
 qualité, la précision et le temps d'acquisition sont dégradés
 - Environnement dépourvu de GPS - aucun signal disponible
