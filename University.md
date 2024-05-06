@@ -32,13 +32,17 @@ Papier 3 Banque de vocabulaire
 - Optimisation globale de la carte - processus consistant à renforcer la cohérence visuelle sur l'ensemble d'une carte (à l'aide de l'ajustement des paquets et d'autres processus, mais à plus grande échelle)
 
 - Signal du système de positionnement global (GPS) : signal de radiofréquence transmis par les satellites du système de positionnement global (GPS); utilisé pour déterminer l'emplacement, la vitesse et la position du récepteur.
+
 - Environnement GPS dégradé - situation dans laquelle les signaux GPS sont affaiblis ; ils sont toujours disponibles, mais la qualité, la précision et le temps d'acquisition se dégradent.
-qualité, la précision et le temps d'acquisition sont dégradés
+
 - Environnement dépourvu de GPS - aucun signal disponible
+
 - Estimation de la pose humaine (HPE) - utilisée pour identifier des points clés sur des objets animés.
+
 - estimation de la pose rigide (RPE) - utilisée pour identifier des points clés sur des objets inanimés
+
 - Unité de mesure inertielle (IMU) - Dispositif combinant trois capteurs pour mesurer l'accélération, la rotation et l'orientation du champ magnétique.
-l'accélération, la rotation et l'orientation du champ magnétique.
+
 - Sélection d'images clés : processus d'identification et de sélection d'images significatives dans une séquence vidéo afin de construire une carte éparse de l'environnement et d'estimer la position de la caméra.
 d'une séquence vidéo afin de construire une carte éparse de l'environnement et d'estimer la trajectoire de la caméra avec précision.
 la trajectoire de la caméra avec précision
