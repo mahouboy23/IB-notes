@@ -43,15 +43,14 @@ Papier 3 Banque de vocabulaire
 
 - Unité de mesure inertielle (IMU) - Dispositif combinant trois capteurs pour mesurer l'accélération, la rotation et l'orientation du champ magnétique.
 
-- Sélection d'images clés : processus d'identification et de sélection d'images significatives dans une séquence vidéo afin de construire une carte éparse de l'environnement et d'estimer la position de la caméra.
-d'une séquence vidéo afin de construire une carte éparse de l'environnement et d'estimer la trajectoire de la caméra avec précision.
-la trajectoire de la caméra avec précision
+- Sélection d'images clés : processus d'identification et de sélection d'images significatives dans une séquence vidéo afin de construire une carte éparse de l'environnement et d'estimer la position et trajectoire de la caméra.
+
 - Points/paires clés : emplacements ou régions distinctifs et identifiables au sein d'une image ou d'une séquence vidéo.
-d'une image ou d'une séquence vidéo
+
 - Détection et télémétrie par la lumière (LIDAR) : système de détection utilisé dans le cadre de vSLAM, qui utilise des lasers pour créer des représentations 3D détaillées de l'environnement et de l'espace.
-créer des représentations 3D détaillées de l'environnement et mesurer les distances.
- occlusion d'objet - situation dans laquelle des objets ou des parties d'objets d'une scène sont partiellement ou totalement obstrués par d'autres objets.
-partiellement ou totalement obstrués par d'autres objets.
+
+ - occlusion d'objet - situation dans laquelle des objets ou des parties d'objets d'une scène sont partiellement ou totalement obstrués par d'autres objets.
+
 - Capteur d'odométrie - fournit des informations sur le mouvement et la position des robots en
 mesurant - la rotation des roues et/ou d'autres pièces mobiles
 - Optimisation : processus consistant à affiner les poses estimées de la caméra et les positions des points 3D afin d'améliorer la précision et la cohérence du système.
