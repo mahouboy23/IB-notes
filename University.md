@@ -68,7 +68,6 @@ Localisation et cartographie visuelles simultanées (VSLAM) :
 initialisation - la capture initiale de données visuelles sur un site de sauvetage
 cartographie locale - l'utilisation du « processus » vSLAM dans le but de construire une carte en 3D
 fermeture de boucle - utilisation de cas où la caméra (sur le robot) revisite un emplacement ou une scène précédente pour améliorer la carte 3D.
-ou une scène précédente afin d'améliorer la carte 3D
 relocalisation - processus consistant à rétablir la position et l'orientation d'une caméra dans un
 environnement connu
 Suivi - Suivi de caractéristiques visuelles sur plusieurs images à des fins de localisation.
