@@ -53,15 +53,17 @@ Papier 3 Banque de vocabulaire
 
 - Capteur d'odométrie - fournit des informations sur le mouvement et la position des robots en
 mesurant - la rotation des roues et/ou d'autres pièces mobiles
+
 - Optimisation : processus consistant à affiner les poses estimées de la caméra et les positions des points 3D afin d'améliorer la précision et la cohérence du système.
-afin d'améliorer la précision et la cohérence de la reconstruction 3D et de la position de la caméra
-- relocalisation - processus de rétablissement de la position et de l'orientation d'une caméra dans un
-dans un environnement connu
-- Dérive du robot - situation dans laquelle l'erreur cumulée dans la navigation à l'estime entraîne un écart important entre la position calculée et la position réelle.
-significative de la position calculée par rapport à la position réelle
-- Localisation et cartographie simultanées (SLAM) - Méthode d'estimation de la position d'un capteur ou d'un objet (localisation) et de numérisation de la position de l'objet.
-(localisation) et de construire numériquement un environnement inconnu (cartographie).
+
+- relocalisation - processus de rétablissement de la position et de l'orientation d'une caméra dans un environnement connue.
+
+- Dérive du robot - situation dans laquelle l'erreur cumulée dans la navigation à l'estime (dead reckoning) entraîne un écart important entre la position calculée et la position réelle.
+
+- Localisation et cartographie simultanées (SLAM) - Méthode d'estimation de la position d'un capteur ou d'un objet (localisation) et la construction numérique d'un environnement inconnu (cartographie)
+
 - Modèle de fusion de capteurs - paradigme dans lequel les informations provenant de plusieurs capteurs sont combinées pour obtenir une meilleure compréhension de l'environnement.
+
 Localisation et cartographie visuelles simultanées (VSLAM) :
 initialisation - la capture initiale de données visuelles sur un site de sauvetage
 cartographie locale - l'utilisation du « processus » vSLAM dans le but de construire une carte en 3D
