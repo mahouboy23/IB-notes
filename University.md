@@ -18,9 +18,7 @@ EE = A
 CAS = B
 
 -Just Enough Items
--OptiFine
 -JourneyMap
 -Waystones
 -Nature’s Compass
--WHTIT
 -Simple Voice Chat
