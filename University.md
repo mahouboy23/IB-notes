@@ -23,3 +23,4 @@ CAS = B
 -Waystones
 -Nature’s Compass
 -WHTIT
+-Simple Voice Chat
