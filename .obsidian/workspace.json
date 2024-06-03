@@ -61,9 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Loi de la demande.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "257144b1152dbe1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md"
               }
             }
           },
@@ -100,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md"
+              }
             }
           },
           {
@@ -270,6 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,8 +334,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "923eec248aebc18c",
+  "active": "257144b1152dbe1f",
   "lastOpenFiles": [
+    "Loi de la demande.md",
+    "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
+    "Loi d'utilité marginale décroissante.md",
+    "Microéconomie.md",
+    "sl subjects/Economie.md",
+    "Economie Mondiale.md",
+    "Quotas.md",
+    "Physique thermique.md",
+    "Equilibre thermique et principe de thermomètre.md",
+    "guides/Latex guide.md",
     "University.md",
     "Untitled 2.canvas",
     "2024-05-31.md",
@@ -332,21 +357,12 @@
     "Physique nucléaire, atomique et des particules.md",
     "Réactions nucléaires.md",
     "sl subjects/Physics.md",
-    "sl subjects/Economie.md",
     "Architecture des ordinateurs.md",
     "Le besoin de stockage persistent.md",
     "Le cycle Fetch-Execute.md",
     "La mémoire ROM.md",
     "La mémoire RAM.md",
     "L'unité de contrôle.md",
-    "Le CPU.md",
-    "Le modèle de traitement des ordinateurs.md",
-    "Horodatage.md",
-    "Critere D.md",
-    "Untitled 14.md",
-    "Computer science exploration.md",
-    "Critere C.md",
-    "RDT.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
