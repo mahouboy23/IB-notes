@@ -10,74 +10,56 @@
           {
             "id": "5dcf7c63-f8ec-4a35-bfac-81bd1f2b639b",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "University of Waterloo",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "3734db4b-ab76-40a6-8eda-b1ef07d0c328",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Math AA HL Analysis and Approaches, minimum 6; HL or SL English A. Total 32.",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "a79fc2e5-95d5-4271-b82a-e4bd99e0f72b",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "TOP",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "ff4b5d13-ef8c-4caa-9591-d28caf7dcee9",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": " Bachelor of Computer Science",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "2e1710b6-97f0-45ed-86d5-eef302599e08",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "55000",
-            "tagIds": []
+            "value": 55000,
+            "hasValidFrontmatter": null
           },
           {
             "id": "e3b8e3cd-be6a-42cb-8b03-1c11d2292016",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Canada/ontario",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "ea4eca5a-fa5f-41a7-a9d3-0b1b3f20883e",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "4",
-            "tagIds": []
+            "value": 4,
+            "hasValidFrontmatter": null
           },
           {
             "id": "8930bde5-32ec-4b57-9f27-79038e9ac3c8",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": true,
-            "dateTime": null,
             "content": "https://uwaterloo.ca",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "7eb802c6-e840-4a89-9e9a-34b6478a2de5",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
@@ -93,74 +75,56 @@
           {
             "id": "0b44c6b5-b984-48a9-9b38-620900b63763",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Georgia Tech  University",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "ad96c3f4-8049-474a-acde-8244217e4673",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "- English proficiency using a USG approved method\n- Higher Level Math and Sciences courses ",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "afe8e11b-10f5-49f3-a23c-a7fd5999d00b",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "TOP",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "487b8881-7434-45a8-a2f4-3939a11d2a32",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "cc02581e-2c11-4c87-a41e-c492c99afe4f",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "34000",
-            "tagIds": []
+            "value": 34000,
+            "hasValidFrontmatter": null
           },
           {
             "id": "2cd6d0e3-fe73-4fcf-8769-4175f834cc6a",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "USA/Georgia",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "19d9e113-010e-40ec-9e00-3fc5737f281e",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "4",
-            "tagIds": []
+            "value": 4,
+            "hasValidFrontmatter": null
           },
           {
             "id": "4e0d0974-8923-4dee-8fc6-a46658855602",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "https://admission.gatech.edu",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "41fa27ab-7de5-44ad-977d-8c88eb5e38b6",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
@@ -176,74 +140,56 @@
           {
             "id": "b2413b69-d129-4d25-80ec-eab2828dd929",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "University of toronto",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "fc8faa4e-4e33-4687-a5e9-3d1b560f38ca",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "- English HL or SL\nMath SL or HL, \n- Math Analysis and Approaches HL or SL, Math Applications and Interpretations HL\n- High 30s\t\nEnglish HL or SL – 6 to 7\n- Math HL or SL – 6 to 7",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "2d425791-b6db-4634-9daf-ea686d173309",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "c15b53d9-fa29-4c38-80fc-74e6d297de4c",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Computer Science Program",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "36ff2c3b-b034-42f6-b883-c942d7ef6f89",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "60510",
-            "tagIds": []
+            "value": 60510,
+            "hasValidFrontmatter": null
           },
           {
             "id": "834fe9f7-3941-4c01-b693-c1407a7228c5",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Canada/Toronto",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "56772fe4-1451-4aea-908a-e136612b6515",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "4",
-            "tagIds": []
+            "value": 4,
+            "hasValidFrontmatter": null
           },
           {
             "id": "00cf8889-1b41-4ae5-89b7-6f617c92de04",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "https://www.artsci.utoronto.ca/",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "98b3d474-3827-4901-8695-f66e8e263407",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
@@ -259,74 +205,56 @@
           {
             "id": "ade0e639-a746-40df-83af-1ba7f010897a",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "University of California, Berkeley",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "a10bb00f-6633-4df5-ab28-624481124a2f",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "-  3.5 GPA \n- 37 IB score",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "d14651f6-364b-49bb-a7d7-4c96ac4ee939",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "TOP",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "24bef73d-9e3f-473d-8bae-70019f1dfd05",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Computer Science Program",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "f461ce64-e0a5-4cf1-9ae1-27a091443575",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "52269",
-            "tagIds": []
+            "value": 52269,
+            "hasValidFrontmatter": null
           },
           {
             "id": "d46f92ce-807a-45b9-b9de-056cc9cad745",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "USA/California",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "bfc19893-51f7-4a22-819a-09735dbf3a46",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "4",
-            "tagIds": []
+            "value": 4,
+            "hasValidFrontmatter": null
           },
           {
             "id": "b2f0f0f4-c287-4eac-9170-9589058bec74",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "https://eecs.berkeley.edu/",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "fdef78e8-ca0e-47bc-be5c-debefd64d375",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
@@ -342,74 +270,56 @@
           {
             "id": "ad27233c-25e9-4b5e-a399-945d865bab8e",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "University of Illinois Urbana-Champaign",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "0066c87b-560a-427d-9c37-926144179aed",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "- 35 IB score\n- ",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "b44ff213-12d9-4ee7-a019-85398895a7b4",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "39309818-5d16-430e-98c3-a2bb25aa2b37",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "Bachelor of Science in Computer Science",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "b2f5a3f2-ee44-499e-b390-139adb47b11d",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "41110",
-            "tagIds": []
+            "value": 41110,
+            "hasValidFrontmatter": null
           },
           {
             "id": "476f37d3-6a27-4cb5-83d3-e5544942bd75",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "USA/Illioana",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "64cf14ce-8cd2-4fe7-a27f-898609408922",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "3",
-            "tagIds": []
+            "value": 3,
+            "hasValidFrontmatter": null
           },
           {
             "id": "9375626e-b68e-4ece-9749-1940fbca72e2",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "https://illinois.edu",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "89b950f4-e4a6-46da-9469-fc78bc3f79e5",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
@@ -425,78 +335,60 @@
           {
             "id": "8897ba25-7770-4576-9e34-8d9ceb1cb941",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "university of california san diego",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "e43756df-1f57-4080-927a-68201e3605b5",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "810da6aa-6a3f-440f-b532-fe633b537616",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "",
-            "tagIds": []
+            "content": "Bottom",
+            "hasValidFrontmatter": null
           },
           {
             "id": "cfebdca9-0932-418d-9024-ff7556b52587",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "",
-            "tagIds": []
+            "content": "Bachelor of Science in Computer Science ",
+            "hasValidFrontmatter": null
           },
           {
             "id": "96e411eb-9b4d-40fa-b8a6-c0d8383ae060",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "",
-            "tagIds": []
+            "value": 55000,
+            "hasValidFrontmatter": null
           },
           {
             "id": "7c62cb4f-3db1-425d-b9ab-b01d1d37aa61",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "bd129c57-f266-4b22-8b7f-2b2ede5597c8",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "isExternalLink": false,
-            "dateTime": null,
-            "content": "",
-            "tagIds": []
+            "value": 0,
+            "hasValidFrontmatter": null
           },
           {
             "id": "38f8b150-a197-434c-9647-469704c9fd7e",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "isExternalLink": false,
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           },
           {
             "id": "522e3211-c123-4eca-844d-6cc2f348acb2",
-            "isExternalLink": false,
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "dateTime": null,
             "content": "",
-            "tagIds": []
+            "hasValidFrontmatter": null
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2023-10-01T22:09:15.429Z",
+        "lastEditedDateTime": "2024-06-15T22:36:33.932Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
@@ -726,5 +618,5 @@
     "externalRowOrder": [],
     "sources": []
   },
-  "pluginVersion": "8.12.2"
+  "pluginVersion": "8.15.12"
 }
