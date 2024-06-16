@@ -396,7 +396,7 @@
         "index": 6,
         "sourceId": null,
         "creationDateTime": "2024-06-16T18:49:13.310Z",
-        "lastEditedDateTime": "2024-06-16T19:18:45.211Z",
+        "lastEditedDateTime": "2024-06-16T19:20:09.476Z",
         "cells": [
           {
             "id": "d5ccebe2-956c-418d-828f-890fca207a74",
@@ -407,7 +407,7 @@
           {
             "id": "b294cfc2-f802-4d28-b9ee-650ef9a6d09a",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "content": "--",
+            "content": "-- (no specific admission requirement found)",
             "hasValidFrontmatter": null
           },
           {
