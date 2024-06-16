@@ -459,7 +459,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-06-16T19:28:45.930Z",
-        "lastEditedDateTime": "2024-06-16T19:40:50.819Z",
+        "lastEditedDateTime": "2024-06-16T19:48:06.331Z",
         "cells": [
           {
             "id": "38a67d2c-a708-4831-85d7-cd83948c5fcc",
@@ -470,7 +470,7 @@
           {
             "id": "9a45eb0e-f935-4ead-ad5a-359a8922b561",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "content": "",
+            "content": "- Freshmen: GPA 2.5 minimum on 4.0 U.S or equivalent scale (weighted, U.S. high school only).\n",
             "hasValidFrontmatter": null
           },
           {
@@ -513,6 +513,69 @@
             "id": "f15aab8a-c5c9-4fa0-962d-17f0bbe1c261",
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
             "content": "https://www.uncg.edu/costs-aid-scholarships/financial-aid/\n(scholarship and financial aid not really available for most international students)",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a7af3692-d2de-4372-b225-affd9910ce79",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-06-16T19:48:33.349Z",
+        "lastEditedDateTime": "2024-06-16T19:48:33.349Z",
+        "cells": [
+          {
+            "id": "7f907769-da55-454e-9a80-1d183b7c181e",
+            "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3cd84124-8514-4621-be0f-4082f7835ebd",
+            "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4fe9a8ce-4381-40a0-b9ce-a2a2b96a28d3",
+            "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "162a7a5b-f93f-49d0-927d-e599e1f03f00",
+            "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d89acddc-f774-4dfc-9709-898c4a30d901",
+            "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85529cd9-f93b-4fda-a49c-ed216247932b",
+            "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "41610c8d-961b-4199-8eaa-1199ad16af2f",
+            "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e36f9346-d041-4156-acf4-49a51a1fbdec",
+            "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5db86f64-022b-49f1-b061-35478f79909d",
+            "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
+            "content": "",
             "hasValidFrontmatter": null
           }
         ]
