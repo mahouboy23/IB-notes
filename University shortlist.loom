@@ -396,7 +396,7 @@
         "index": 6,
         "sourceId": null,
         "creationDateTime": "2024-06-16T18:49:13.310Z",
-        "lastEditedDateTime": "2024-06-16T19:20:09.476Z",
+        "lastEditedDateTime": "2024-06-16T19:22:22.637Z",
         "cells": [
           {
             "id": "d5ccebe2-956c-418d-828f-890fca207a74",
@@ -413,7 +413,7 @@
           {
             "id": "0a9d6860-19c2-4f0a-a6e1-0b43675bcadb",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "content": "- Has the pathway Dual Enrollment (https://www.forsythtech.edu/students/courses-programs/career-college-promise-dual-enrollment-at-forsyth-tech/) ",
+            "content": "- Has the pathway Dual Enrollment (https://www.forsythtech.edu/students/courses-programs/career-college-promise-dual-enrollment-at-forsyth-tech/) \n- Has Paths to Bachelor Degrees most notably College Transfer Programs(https://www.forsythtech.edu/students/courses-programs/paths-to-4-year-degrees/)",
             "hasValidFrontmatter": null
           },
           {
