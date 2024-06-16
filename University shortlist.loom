@@ -396,7 +396,7 @@
         "index": 6,
         "sourceId": null,
         "creationDateTime": "2024-06-16T18:49:13.310Z",
-        "lastEditedDateTime": "2024-06-16T19:22:22.637Z",
+        "lastEditedDateTime": "2024-06-16T19:27:12.698Z",
         "cells": [
           {
             "id": "d5ccebe2-956c-418d-828f-890fca207a74",
@@ -419,7 +419,7 @@
           {
             "id": "eeaf79de-f3d5-4c2b-998b-b6a89666265e",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "content": "",
+            "content": "Associate in Engineering* (https://www.forsythtech.edu/program_tracks/associate-in-engineering/)",
             "hasValidFrontmatter": null
           },
           {
