@@ -459,7 +459,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-06-16T19:28:45.930Z",
-        "lastEditedDateTime": "2024-06-16T19:29:43.994Z",
+        "lastEditedDateTime": "2024-06-16T19:31:57.225Z",
         "cells": [
           {
             "id": "38a67d2c-a708-4831-85d7-cd83948c5fcc",
@@ -488,7 +488,7 @@
           {
             "id": "c43c5a2c-195a-4fbd-a6c9-71342bc6157b",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "content": "",
+            "content": "- Tuition (16+ cd/h) : 4,288.00   \n - Cost of attendance* : --\n\nmore info : ",
             "hasValidFrontmatter": null
           },
           {
