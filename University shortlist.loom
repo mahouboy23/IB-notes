@@ -459,7 +459,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-06-16T19:28:45.930Z",
-        "lastEditedDateTime": "2024-06-16T19:37:01.711Z",
+        "lastEditedDateTime": "2024-06-16T19:38:05.095Z",
         "cells": [
           {
             "id": "38a67d2c-a708-4831-85d7-cd83948c5fcc",
@@ -512,7 +512,7 @@
           {
             "id": "f15aab8a-c5c9-4fa0-962d-17f0bbe1c261",
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "content": "\n",
+            "content": "https://www.uncg.edu/costs-aid-scholarships/financial-aid/\n(scholarship and financial aid not really available for most international students)",
             "hasValidFrontmatter": null
           }
         ]
