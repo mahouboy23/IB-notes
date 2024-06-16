@@ -347,7 +347,7 @@
           {
             "id": "810da6aa-6a3f-440f-b532-fe633b537616",
             "columnId": "cbba2df9-e01f-4f7f-a63a-898de486f2de",
-            "content": "Bottom",
+            "content": "- Has the path way C-step (https://www.gtcc.edu/admissions-and-aid/admissions-requirements/c-step.php)",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:20:41.109Z",
+        "lastEditedDateTime": "2024-06-16T18:22:21.931Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
