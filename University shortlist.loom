@@ -459,7 +459,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-06-16T19:28:45.930Z",
-        "lastEditedDateTime": "2024-06-16T19:38:05.095Z",
+        "lastEditedDateTime": "2024-06-16T19:40:50.819Z",
         "cells": [
           {
             "id": "38a67d2c-a708-4831-85d7-cd83948c5fcc",
@@ -482,7 +482,7 @@
           {
             "id": "e2439892-b866-446c-831f-b152699a9d8c",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "content": "",
+            "content": "Computer Science Program",
             "hasValidFrontmatter": null
           },
           {
@@ -494,7 +494,7 @@
           {
             "id": "0737e06c-7e46-4ad4-9927-a24bb9aeacc9",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "content": "",
+            "content": "University of North Carolina at Greensboro (Adresse: 1400 Spring Garden St, Greensboro, NC 27402-6170)",
             "hasValidFrontmatter": null
           },
           {
