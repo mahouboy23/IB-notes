@@ -359,7 +359,7 @@
           {
             "id": "a144ecb2-2d9e-43ad-9be9-623ffda87c32",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "content": "- Tuition : 19066   \n - Cost of attendance* : 41 552\n\nmore info : https://www.gtcc.edu/_files/financial-aid/TuitionandFees.pdf",
+            "content": "- Tuition : 19066   \n - Cost of attendance* : 41 552\n\nmore info : https://www.gtcc.edu/_files/financial-aid/TuitionandFees.pdfC",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:47:38.317Z",
+        "lastEditedDateTime": "2024-06-16T18:54:11.956Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       },
       {
@@ -396,12 +396,12 @@
         "index": 6,
         "sourceId": null,
         "creationDateTime": "2024-06-16T18:49:13.310Z",
-        "lastEditedDateTime": "2024-06-16T18:49:13.310Z",
+        "lastEditedDateTime": "2024-06-16T18:54:58.007Z",
         "cells": [
           {
             "id": "d5ccebe2-956c-418d-828f-890fca207a74",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "content": "",
+            "content": "Forsyth Tech\nCOMMUNITY COLLEGE",
             "hasValidFrontmatter": null
           },
           {
@@ -425,13 +425,13 @@
           {
             "id": "fa57f5b0-8a5f-4dba-99c6-fa0299d2ceef",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "content": "",
+            "content": "- Tuition : 19066   \n - Cost of attendance* : 41 552\n\nmore info : ",
             "hasValidFrontmatter": null
           },
           {
             "id": "c2132404-962c-44ed-9681-812d2b8d5d5b",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "content": "",
+            "content": "Forsyth Tech\nCOMMUNITY COLLEGE\n(Adresse: 2100 Silas Creek Pkwy, Winston-Salem, NC 27103)",
             "hasValidFrontmatter": null
           },
           {
