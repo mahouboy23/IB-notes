@@ -32,9 +32,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "2e1710b6-97f0-45ed-86d5-eef302599e08",
+            "id": "67da639d-6bda-4667-8622-d9d61e9f5e9a",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 19066,
+            "content": "19066",
             "hasValidFrontmatter": null
           },
           {
@@ -97,9 +97,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "cc02581e-2c11-4c87-a41e-c492c99afe4f",
+            "id": "3b17ec23-660d-4a3b-8e97-59e209d8fb4a",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 34000,
+            "content": "34000",
             "hasValidFrontmatter": null
           },
           {
@@ -162,9 +162,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "36ff2c3b-b034-42f6-b883-c942d7ef6f89",
+            "id": "8b70c980-5d21-47ed-8082-ef41a4e5c95a",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 60510,
+            "content": "60510",
             "hasValidFrontmatter": null
           },
           {
@@ -227,9 +227,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "f461ce64-e0a5-4cf1-9ae1-27a091443575",
+            "id": "a8a7eb9b-0257-4435-9374-177f4d26b595",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 52269,
+            "content": "52269",
             "hasValidFrontmatter": null
           },
           {
@@ -292,9 +292,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "b2f5a3f2-ee44-499e-b390-139adb47b11d",
+            "id": "323b8b4a-0734-4896-8a8b-086f6c11e3bc",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 41110,
+            "content": "41110",
             "hasValidFrontmatter": null
           },
           {
@@ -357,9 +357,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "96e411eb-9b4d-40fa-b8a6-c0d8383ae060",
+            "id": "a144ecb2-2d9e-43ad-9be9-623ffda87c32",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "value": 55000,
+            "content": "55000",
             "hasValidFrontmatter": null
           },
           {
@@ -494,7 +494,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "number",
+        "type": "text",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
