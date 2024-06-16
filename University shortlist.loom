@@ -341,7 +341,7 @@
           {
             "id": "e43756df-1f57-4080-927a-68201e3605b5",
             "columnId": "6759c35e-b000-4366-a78f-f1065667d044",
-            "content": "- Avg. High School GPA \n2.55 \n- Typical High School Grades \nC+\n\n",
+            "content": "- Avg. High School GPA \n2.55 \n- Typical High School Grades \nC+\n\nNot very clear on admission requirements (more info here : https://www.gtcc.edu/admissions-and-aid/admissions-requirements/index.php) ",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:28:12.798Z",
+        "lastEditedDateTime": "2024-06-16T18:30:04.113Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
