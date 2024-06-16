@@ -335,7 +335,7 @@
           {
             "id": "8897ba25-7770-4576-9e34-8d9ceb1cb941",
             "columnId": "19e44ddb-09f3-4433-a8e8-33dea0ada89e",
-            "content": "university of california san diego",
+            "content": "Guilford technical community college",
             "hasValidFrontmatter": null
           },
           {
@@ -353,7 +353,7 @@
           {
             "id": "cfebdca9-0932-418d-9024-ff7556b52587",
             "columnId": "d1d501cb-a3ae-4bd8-85c1-e3003599828c",
-            "content": "Bachelor of Science in Computer Science ",
+            "content": "Associate in Science to Bachelor of Science/Art in Computer Science Pathway (A10400C2)",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:16:45.076Z",
+        "lastEditedDateTime": "2024-06-16T18:18:10.162Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
