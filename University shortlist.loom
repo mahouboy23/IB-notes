@@ -34,7 +34,7 @@
           {
             "id": "67da639d-6bda-4667-8622-d9d61e9f5e9a",
             "columnId": "7087865b-1db8-40b4-bc6a-17cf7789b2e8",
-            "content": "19066",
+            "content": "- Tuition : 19066   \n - Cost of attendance* : 41 552\n\nmore info : https://admissions.charlotte.edu/afford/cost-attendance/",
             "hasValidFrontmatter": null
           },
           {
@@ -44,9 +44,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "ea4eca5a-fa5f-41a7-a9d3-0b1b3f20883e",
+            "id": "8f018fb6-6568-4dbd-87c0-51cedf610164",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 3,
+            "content": "4 year university",
             "hasValidFrontmatter": null
           },
           {
@@ -63,7 +63,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:07:42.322Z",
+        "lastEditedDateTime": "2024-06-16T18:15:36.859Z",
         "creationDateTime": "2023-09-07T19:42:00.222Z"
       },
       {
@@ -109,9 +109,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "19d9e113-010e-40ec-9e00-3fc5737f281e",
+            "id": "0724d0ee-9938-4e01-8e5b-f67c512978a7",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 4,
+            "content": "4 year university",
             "hasValidFrontmatter": null
           },
           {
@@ -128,7 +128,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2023-10-02T13:24:15.586Z",
+        "lastEditedDateTime": "2024-06-16T18:15:57.528Z",
         "creationDateTime": "2023-09-07T20:35:20.456Z"
       },
       {
@@ -174,9 +174,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "56772fe4-1451-4aea-908a-e136612b6515",
+            "id": "689abe51-dba6-4382-ae1a-72e7cdbf4a2b",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 4,
+            "content": "4 year university",
             "hasValidFrontmatter": null
           },
           {
@@ -193,7 +193,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2023-09-24T19:40:30.655Z",
+        "lastEditedDateTime": "2024-06-16T18:16:07.884Z",
         "creationDateTime": "2023-09-24T19:32:24.612Z"
       },
       {
@@ -239,9 +239,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "bfc19893-51f7-4a22-819a-09735dbf3a46",
+            "id": "982bf114-23b0-4190-8593-c101449c51e2",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 4,
+            "content": "4 year university",
             "hasValidFrontmatter": null
           },
           {
@@ -258,7 +258,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2023-10-02T13:24:25.186Z",
+        "lastEditedDateTime": "2024-06-16T18:16:16.183Z",
         "creationDateTime": "2023-09-24T19:40:42.837Z"
       },
       {
@@ -304,9 +304,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "64cf14ce-8cd2-4fe7-a27f-898609408922",
+            "id": "4bcefc66-621f-4e45-a57f-cf6cf14df577",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 3,
+            "content": "4 year university",
             "hasValidFrontmatter": null
           },
           {
@@ -323,7 +323,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2023-09-24T20:08:38.894Z",
+        "lastEditedDateTime": "2024-06-16T18:16:19.867Z",
         "creationDateTime": "2023-09-24T19:54:07.861Z"
       },
       {
@@ -369,9 +369,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "bd129c57-f266-4b22-8b7f-2b2ede5597c8",
+            "id": "04fe4841-8d2e-41ab-a617-821f780bc919",
             "columnId": "ddd7901b-3bab-4ae2-8241-3daa1acb6922",
-            "value": 0,
+            "content": "Community College",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-15T22:36:33.932Z",
+        "lastEditedDateTime": "2024-06-16T18:16:45.076Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
@@ -542,7 +542,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "number",
+        "type": "text",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
         "shouldWrapOverflow": true,
@@ -555,7 +555,7 @@
         "numberSuffix": "",
         "numberSeparator": "",
         "numberFormat": "number",
-        "content": "Achievability (1-5)",
+        "content": "Type of college/university",
         "frontmatterKey": null,
         "dateFormatSeparator": "-",
         "hour12": true,
