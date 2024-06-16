@@ -365,7 +365,7 @@
           {
             "id": "7c62cb4f-3db1-425d-b9ab-b01d1d37aa61",
             "columnId": "a4b8d756-5b65-4ebe-8e81-dcac87afa6cc",
-            "content": "601 E Main St, Jamestown, NC 27282, USA",
+            "content": "Guilford technical community college in North Carolina \n(Address: 601 E Main St, Jamestown, NC 27282, USA)",
             "hasValidFrontmatter": null
           },
           {
@@ -377,7 +377,7 @@
           {
             "id": "38f8b150-a197-434c-9647-469704c9fd7e",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "content": "",
+            "content": "https://www.charlotte.edu",
             "hasValidFrontmatter": null
           },
           {
@@ -388,7 +388,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-06-16T18:36:24.120Z",
+        "lastEditedDateTime": "2024-06-16T18:39:47.635Z",
         "creationDateTime": "2023-09-24T20:12:16.143Z"
       }
     ],
