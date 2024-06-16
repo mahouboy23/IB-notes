@@ -459,7 +459,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-06-16T19:28:45.930Z",
-        "lastEditedDateTime": "2024-06-16T19:33:54.470Z",
+        "lastEditedDateTime": "2024-06-16T19:37:01.711Z",
         "cells": [
           {
             "id": "38a67d2c-a708-4831-85d7-cd83948c5fcc",
@@ -506,13 +506,13 @@
           {
             "id": "38c3a625-de60-45d7-8e31-1df829e4e541",
             "columnId": "362dbf8c-491b-4c77-90a5-95443e08bb3a",
-            "content": "",
+            "content": "https://www.uncg.edu/",
             "hasValidFrontmatter": null
           },
           {
             "id": "f15aab8a-c5c9-4fa0-962d-17f0bbe1c261",
             "columnId": "365e3da6-f713-4d54-94ff-33646d3c87c4",
-            "content": "",
+            "content": "\n",
             "hasValidFrontmatter": null
           }
         ]
