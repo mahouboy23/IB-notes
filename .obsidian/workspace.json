@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "IB MANAGEMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "IB MANAGEMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University shortlist.loom"
+                "file": "IB MANAGEMENT.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University shortlist.loom",
+                "file": "IB MANAGEMENT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,10 +309,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "257144b1152dbe1f",
+  "active": "a3ec62e0e1521e9f",
   "lastOpenFiles": [
-    "template/math-.md",
     "University shortlist.loom",
+    "template/math-.md",
     "University.md",
     "Untitled 2.loom",
     "IB overview.md",
@@ -339,7 +339,6 @@
     "Le besoin de stockage persistent.md",
     "Le cycle Fetch-Execute.md",
     "La mémoire ROM.md",
-    "La mémoire RAM.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
