@@ -10,7 +10,7 @@ All of this i am planning to use java-script react and node.js MySQL for the dat
 
 [[WIREFRAME LINKS]] 
 
-[[]]
+	[[]]
 ### Database Schema
 
 1. **Users Table** (For storing user information including teachers, students, and coordinators)
