@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "257144b1152dbe1f",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "University shortlist.loom"
-              }
-            }
-          },
-          {
             "id": "923eec248aebc18c",
             "type": "leaf",
             "state": {
@@ -239,7 +229,7 @@
             }
           },
           {
-            "id": "b646e4cc5c8a271a",
+            "id": "5dea8ca30a085684",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -309,7 +299,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "5dea8ca30a085684",
   "lastOpenFiles": [
     "University shortlist.loom",
     "template/math-.md",
