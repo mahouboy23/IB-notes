@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDT.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardsurface modeling.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardsurface modeling.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardsurface modeling.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hardsurface modeling.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,10 +299,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a3ec62e0e1521e9f",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "Geometric shapes.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
+    "RDT.md",
     "Hardsurface modeling.md",
+    "Geometric shapes.md",
     "Learn/Blender.md",
     "Organic shapes.md",
     "Terms.md",
@@ -312,7 +315,6 @@
     "template/math-.md",
     "University.md",
     "Untitled 2.loom",
-    "IB overview.md",
     "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
     "Loi de la demande.md",
     "Loi d'utilité marginale décroissante.md",
@@ -325,11 +327,9 @@
     "Untitled 2.canvas",
     "2024-05-31.md",
     "Réseaux.md",
-    "hl subjects/Computer science.md",
     "Notion de système.md",
     "Energie Discrete et radioactivite.md",
     "Physique nucléaire, atomique et des particules.md",
-    "Réactions nucléaires.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
