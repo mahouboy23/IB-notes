@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "template/Exercise-.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "template/Exercise-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "template/Exercise-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/TOK-.md"
+                "file": "template/Exercise-.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "template/TOK-.md",
+                "file": "template/Exercise-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +300,12 @@
   },
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "template/CAS-.md",
+    "template/Exercise-.md",
+    "template/Anglais-.md",
+    "template/math-.md",
+    "template/economie-.md",
+    "template/TOK-.md",
     "PDF/Flask.md",
     "Computer science exploration.md",
     "hl subjects/Computer science.md",
@@ -313,7 +319,6 @@
     "guides/Latex guide.md",
     "IB MANAGEMENT.md",
     "University shortlist.loom",
-    "template/math-.md",
     "University.md",
     "Untitled 2.loom",
     "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
@@ -323,12 +328,7 @@
     "sl subjects/Economie.md",
     "Economie Mondiale.md",
     "Quotas.md",
-    "Physique thermique.md",
-    "Equilibre thermique et principe de thermomètre.md",
     "Untitled 2.canvas",
-    "2024-05-31.md",
-    "Réseaux.md",
-    "Notion de système.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
