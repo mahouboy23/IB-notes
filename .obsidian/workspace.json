@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "PDF/Flask.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,8 +135,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "PDF/Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "PDF/Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "PDF/Flask.md"
               }
             }
           },
@@ -249,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "PDF/Flask.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,6 +300,7 @@
   },
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "Computer science exploration.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
     "RDT.md",
@@ -329,7 +329,6 @@
     "Réseaux.md",
     "Notion de système.md",
     "Energie Discrete et radioactivite.md",
-    "Physique nucléaire, atomique et des particules.md",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
