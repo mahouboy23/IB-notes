@@ -187,4 +187,5 @@ Analyzing texts: 5 keys considerations ?
 7. The poem adresses the destructive impact of the slave on African communities as well as reflecting on historical trauma.
 8. Kofi Awonoo explores between traditional African value and the forces of modernisation brought about by colonialization.
 9. Rhythmique patterns reflect the influence of traditional African poems and enhance the oral story telling tradition in his written work.
-10. 
+
+## **Chapter 1:**  

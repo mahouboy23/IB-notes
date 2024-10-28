@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "071ea4e13a927a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Critere D.md",
+                "file": "sl subjects/English and Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,38 +32,6 @@
             }
           },
           {
-            "id": "a3ec62e0e1521e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardsurface modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b58b0e9ba317cf15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loi de la demande.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "923eec248aebc18c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "fd54b5f78a278e66",
             "type": "leaf",
             "state": {
@@ -83,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sl subjects/English and Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sl subjects/English and Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sl subjects/English and Literature.md"
+              }
             }
           },
           {
@@ -254,6 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "sl subjects/English and Literature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,12 +263,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fd54b5f78a278e66",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "IB overview.md",
+    "hl subjects/Math AA.md",
     "Réseaux.md",
+    "Critere D.md",
+    "Physics IA NOTES.md",
+    "Loi de la demande.md",
+    "Hardsurface modeling.md",
     "Protocoles et paquets de données.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "template/Exercise-.md",
     "template/CAS-.md",
     "template/Anglais-.md",
@@ -318,7 +283,6 @@
     "PDF/Flask.md",
     "Computer science exploration.md",
     "RDT.md",
-    "Hardsurface modeling.md",
     "Geometric shapes.md",
     "Learn/Blender.md",
     "Organic shapes.md",
@@ -329,10 +293,6 @@
     "University.md",
     "Untitled 2.loom",
     "Excalidraw/Drawing 2024-05-31 14.46.29.excalidraw.md",
-    "Loi de la demande.md",
-    "Loi d'utilité marginale décroissante.md",
-    "Microéconomie.md",
-    "sl subjects/Economie.md",
     "Untitled 2.canvas",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
