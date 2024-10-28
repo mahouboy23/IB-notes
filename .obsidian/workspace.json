@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Exercise-.md",
+                "file": "Réseaux.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fd54b5f78a278e66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +144,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/Exercise-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/Exercise-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "template/Exercise-.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,7 +254,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "template/Exercise-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,18 +303,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "fd54b5f78a278e66",
   "lastOpenFiles": [
-    "template/CAS-.md",
+    "Réseaux.md",
+    "Protocoles et paquets de données.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "template/Exercise-.md",
+    "template/CAS-.md",
     "template/Anglais-.md",
     "template/math-.md",
     "template/economie-.md",
     "template/TOK-.md",
     "PDF/Flask.md",
     "Computer science exploration.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
     "RDT.md",
     "Hardsurface modeling.md",
     "Geometric shapes.md",
@@ -326,8 +333,6 @@
     "Loi d'utilité marginale décroissante.md",
     "Microéconomie.md",
     "sl subjects/Economie.md",
-    "Economie Mondiale.md",
-    "Quotas.md",
     "Untitled 2.canvas",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
