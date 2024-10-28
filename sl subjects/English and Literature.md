@@ -4,6 +4,7 @@ tags : mod englais
 Created: 2022-09-28
 
 **Contacts** : email : rmcfail@dunis.africa
+dictionnary : dictionary.com / thesaurus.com
 Areas of knowledge :
 1/ [[Time and space]] 
 2/ Readers, writers and texts
