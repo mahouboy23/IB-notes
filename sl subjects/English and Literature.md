@@ -3,6 +3,7 @@ tags : mod englais
 ---
 Created: 2022-09-28
 
+**Contacts** : email : rmcfail@dunis.africa
 Areas of knowledge :
 1/ [[Time and space]] 
 2/ Readers, writers and texts
