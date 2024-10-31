@@ -1,7 +1,7 @@
 ---
 tags : mod economie
 ---
-
+Professor  info 
 # **Theme 1:** [[Microéconomie]] 
 
 # **Theme 2:** [[Macroéconomie]] 
