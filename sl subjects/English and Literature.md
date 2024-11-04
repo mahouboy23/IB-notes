@@ -8,7 +8,9 @@ dictionnary : dictionary.com / thesaurus.com
 
 [[English Composition I vocabulary]] 
 
+# Home/class work
 [[Sample Paragraph 1]] 
+[[Sample  Paragraph 2]] 
 
 **Homework: p7 till 29**
 Areas of knowledge :
