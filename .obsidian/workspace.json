@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample Paragraph 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample Paragraph 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample Paragraph 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Composition I vocabulary.md"
+                "file": "Sample Paragraph 1.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample Paragraph 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +266,7 @@
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
     "sl subjects/English and Literature.md",
+    "Sample Paragraph 1.md",
     "English Composition I vocabulary.md",
     "IB overview.md",
     "sl subjects/Economie.md",
@@ -290,7 +291,6 @@
     "Learn/Blender.md",
     "Organic shapes.md",
     "Terms.md",
-    "guides/Latex guide.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",

@@ -7,6 +7,9 @@ Created: 2022-09-28
 dictionnary : dictionary.com / thesaurus.com
 
 [[English Composition I vocabulary]] 
+
+[[Sample Paragraph 1]] 
+
 **Homework: p7 till 29**
 Areas of knowledge :
 1/ [[Time and space]] 
