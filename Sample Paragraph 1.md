@@ -14,6 +14,8 @@ Created: 2024-11-04
 - price to performance and efficiency
 - design need to be nice (not to gamer centric or not to dull as well)
 - why is it important? Benefits and inconveniences to me
+- the guide to
+- shopping?
 
 ## Paragraph
 
