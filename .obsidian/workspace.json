@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "English Composition I vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "English Composition I vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "English Composition I vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "English Composition I vocabulary.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "English Composition I vocabulary.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,8 +265,10 @@
   },
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "IB overview.md",
     "sl subjects/English and Literature.md",
+    "English Composition I vocabulary.md",
+    "IB overview.md",
+    "sl subjects/Economie.md",
     "hl subjects/Math AA.md",
     "Réseaux.md",
     "Critere D.md",
@@ -289,9 +291,7 @@
     "Organic shapes.md",
     "Terms.md",
     "guides/Latex guide.md",
-    "IB MANAGEMENT.md",
     "University shortlist.loom",
-    "University.md",
     "Untitled 2.loom",
     "Untitled 2.canvas",
     "assets/Physics IA NOTES/image-20240408104527245.png",
