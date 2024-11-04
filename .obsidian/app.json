@@ -1,15 +1,1 @@
-{
-  "promptDelete": false,
-  "spellcheck": true,
-  "attachmentFolderPath": "./assets/Economie",
-  "fileSortOrder": "byCreatedTimeReverse",
-  "alwaysUpdateLinks": true,
-  "spellcheckLanguages": null,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
-}
+{}
