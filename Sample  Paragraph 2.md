@@ -9,3 +9,5 @@ Created: 2024-11-04
 
 **list** : 
 - The main policy i would like to implement would be healthcare
+- Access to Healthcare Services
+- Healthcare Workforce Training and Retention
