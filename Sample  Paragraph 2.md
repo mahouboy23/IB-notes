@@ -19,4 +19,4 @@ Created: 2024-11-04
 - digital awareness and education programs
 
 ## Paragraph 
-If I were president of Senegal, my top priority would be transforming the healthcare system to ensure accessible, high-quality care for all citizens.
+If I were president of Senegal, my top priority would be changing and improving the healthcare system to ensure accessible, high-quality care for all Senegalese especially in rural and deprived zones.
