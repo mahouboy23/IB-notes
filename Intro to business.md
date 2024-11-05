@@ -10,7 +10,7 @@ Created: 2024-11-05
 #### 1. **Shareholders**
 
 - **Primary Shareholder**: Mr. Babacar Ngom
-	- **Stake**: As the President, CEO, and founder, with a 98% ownership, Mr. Ngom holds nearly full control of Sedima. His stake in Sedima grants him significant decision-making power and a substantial share of the company’s profits, as well as responsibility for setting Sedima’s strategic direction and mission. Mr. Ngom’s leadership directly shapes the company’s growth and sustainability in Senegal’s agribusiness sector.
+	- **Stake**: As the President, CEO, and founder, withx a 98% ownership, Mr. Ngom holds nearly full control of Sedima. His stake in Sedima grants him significant decision-making power and a substantial share of the company’s profits, as well as responsibility for setting Sedima’s strategic direction and mission. Mr. Ngom’s leadership directly shapes the company’s growth and sustainability in Senegal’s agribusiness sector.
 
 #### 2. **Investors**
 
