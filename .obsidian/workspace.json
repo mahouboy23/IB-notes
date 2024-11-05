@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics IA NOTES.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample  Paragraph 2.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample  Paragraph 2.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample  Paragraph 2.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -213,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sample  Paragraph 2.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,18 +264,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "IB overview.md",
+    "Physics IA NOTES.md",
+    "sl subjects/Economie.md",
+    "Economie Mondiale.md",
+    "Macroéconomie.md",
+    "Microéconomie.md",
+    "Sample  Paragraph 2.md",
     "sl subjects/English and Literature.md",
     "Sample Paragraph 1.md",
-    "Sample  Paragraph 2.md",
     "English Composition I vocabulary.md",
-    "IB overview.md",
-    "sl subjects/Economie.md",
     "hl subjects/Math AA.md",
     "Réseaux.md",
     "Critere D.md",
-    "Physics IA NOTES.md",
     "Loi de la demande.md",
     "Hardsurface modeling.md",
     "Protocoles et paquets de données.md",
@@ -288,9 +292,6 @@
     "PDF/Flask.md",
     "Computer science exploration.md",
     "RDT.md",
-    "Geometric shapes.md",
-    "Learn/Blender.md",
-    "Organic shapes.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",

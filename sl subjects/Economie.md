@@ -24,10 +24,7 @@ Professor  info
    - Le volume des importations : avant : $0m$ / après : $4m$
    - La production domestique : avant : $14m$ / après : $12m$
 
-4) Gain de la participation : $c = \frac{4*2}{2} = 4m$ 
-
-I want to reorganize the structure of the dashboard sideBar which is the hub of the application. Here is the structure of the side bar.
-Structure :
+4) Gain de la participation : $c = \frac{4*2}{2} = 4m$ :
 
 
 | Indicateurs économiques | Indicateurs sociaux | Indicateurs mixtes (composites) | 
