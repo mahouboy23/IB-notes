@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sample  Paragraph 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sample  Paragraph 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sample  Paragraph 2.md"
+              }
             }
           },
           {
@@ -210,6 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sample  Paragraph 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,10 +264,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fd54b5f78a278e66",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "Sample  Paragraph 2.md",
     "Sample Paragraph 1.md",
+    "Sample  Paragraph 2.md",
     "sl subjects/English and Literature.md",
     "IB overview.md",
     "Intro to business.md",

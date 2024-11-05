@@ -8,4 +8,4 @@ Created: 2024-11-04
 ## Brainstorming
 
 **list** : 
-- 
+- The main policie i would like to implement would be  
