@@ -18,6 +18,6 @@ Created: 2024-11-05
   Madeleine Niang : Chef Du Service De Communication
   Adji Sene : Directeur Financier Et Comptable
   Mapenda Thiam : Gestionnaire De Stock
-- customers : 
+- customers : Sedima Group's customers include more than 1,000 broiler, turkey, and egg producers globally
 - suppliers :
   
