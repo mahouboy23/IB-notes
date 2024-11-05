@@ -19,4 +19,4 @@ Created: 2024-11-04
 
 ## Paragraph
 
-My dream computer should have powerful CPU and GPU, sufficient ram and storage but also portable, affordable and sleek.
+IF you are looking for the best creator oriented that money can buy with powerful components, portable
