@@ -19,4 +19,4 @@ Created: 2024-11-04
 
 ## Paragraph
 
-IF you are looking for the best creator oriented laptop that money can buy with powerful components, portable and a minimalistic design look no futher than the 
+IF you are looking for the best creator oriented laptop that money can buy with powerful components, portable and a minimalistic design look no further than the acer swift x. The swift x comes with the newest 14 gen intel CPU'S which are faster and more efficient than the previous generation and will enable you too breeze through all your creative workloads.
