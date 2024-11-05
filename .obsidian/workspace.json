@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Sample  Paragraph 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Sample  Paragraph 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Sample  Paragraph 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Paragraph 1.md"
+                "file": "Sample  Paragraph 2.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Sample  Paragraph 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,8 +266,8 @@
   "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
     "sl subjects/English and Literature.md",
-    "Sample  Paragraph 2.md",
     "Sample Paragraph 1.md",
+    "Sample  Paragraph 2.md",
     "English Composition I vocabulary.md",
     "IB overview.md",
     "sl subjects/Economie.md",
