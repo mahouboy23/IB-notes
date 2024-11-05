@@ -40,3 +40,19 @@ tags : mod economie
 
 
 
+## Sedima Stakeholders
+
+- shareholders : Mr. Babacar Ngom is the President, the CEO, the main shareholder (98%) and founder of Sedima
+-  investors : BIO has granted a € 3 M loan to the Société de Distribution de Matériel Avicole S.A. (SEDIMA), an agribusiness in Senegal.
+- government : Senegalese government
+- communities : Senegalese community and village community.
+- employees : Has 501-1000 employees, 15 managers with some being : 
+  Hawa Sidibé : Contrôleur De Gestion
+  Oumou Ndiaye : Contrôleur Interne
+  Tapha Bao : Director, Marketing & Communications
+  Madeleine Niang : Chef Du Service De Communication
+  Adji Sene : Directeur Financier Et Comptable
+  Mapenda Thiam : Gestionnaire De Stock
+- customers : Sedima Group's customers include more than 1,000 broiler, turkey, and egg producers globally
+- suppliers :Marel is the main supplier of Sedima Group in Senegal. Marel provides poultry solutions for Sedima's processing plant in Dakar, including: Live bird handling, Electrical stunning, Scalding, Defeathering, Evisceration, Water chilling, and Grading.
+  
