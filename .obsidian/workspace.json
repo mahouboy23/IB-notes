@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Sample  Paragraph 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Sample  Paragraph 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to business.md"
+                "file": "Sample  Paragraph 2.md"
               }
             }
           },
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Sample  Paragraph 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,10 +263,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
     "Intro to business.md",
+    "sl subjects/Economie.md",
     "IB overview.md",
     "Physics IA NOTES.md",
     "Economie Mondiale.md",
