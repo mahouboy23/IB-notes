@@ -11,6 +11,6 @@ Created: 2024-11-05
 -  investors : BIO has granted a € 3 M loan to the Société de Distribution de Matériel Avicole S.A. (SEDIMA), an agribusiness in Senegal.
 - government : Senegalese government
 - communities : 
-- employees : 
+- employees : Has 501-1000 employees, 15 managers and 1 director
 - customers : 
 - suppliers :
