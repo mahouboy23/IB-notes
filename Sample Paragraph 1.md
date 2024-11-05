@@ -19,4 +19,4 @@ Created: 2024-11-04
 
 ## Paragraph
 
-IF you are looking for the best creator oriented that money can buy with powerful components, portable
+IF you are looking for the best creator oriented laptop that money can buy with powerful components, portable and a minimalistic design look no futher than the 
