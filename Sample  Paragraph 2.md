@@ -8,7 +8,7 @@ Created: 2024-11-04
 ## Brainstorming
 
 **list** : 
-- The main policy i would like to implement would be healthcare
+- The main policy i would like to change would be healthcare
 - Access to Healthcare Services
 - Healthcare Workforce Training and Retention
 - Increase the reach of healthcare facilities in rural
