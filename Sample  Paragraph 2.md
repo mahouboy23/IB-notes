@@ -10,7 +10,7 @@ Created: 2024-11-04
 **list** : 
 - The main policy i would like to change would be healthcare
 - Access to Healthcare Services
-- Healthcare Workforce Training and Retention
+- Healthcare Workforce Training 
 - Increase the reach of healthcare facilities in rural areas
 - building new clinics
 - help access primary care, maternal health, and vaccination programs.
@@ -19,4 +19,4 @@ Created: 2024-11-04
 - digital awareness and education programs
 
 ## Paragraph 
-If I were president of Senegal, my top priority would be changing and improving the healthcare system to ensure accessible, high-quality care for all Senegalese especially those in rural and deprived zones. First of all we should increase the reach of healthcare facilities in rural areas by building new clinics and upgrading existing ones. This can ensure that people in remote areas have easier access to essential services like primary care, maternal health, and vaccination programs. Second of all we should Invest in training more healthcare professionals like doctors and nurses
+If I were president of Senegal, my top priority would be changing and improving the healthcare system to ensure accessible, high-quality care for all Senegalese especially those in rural and deprived zones. First of all we should increase the reach of healthcare facilities in rural areas by building new clinics and upgrading existing ones. This can ensure that people in remote areas have easier access to essential services like primary care, maternal health, and vaccination programs. Second of all we should Invest in training more healthcare professionals like doctors and nurses, but also offer programs that encourage those healthcare providers to work in rural areas. Lastly 
