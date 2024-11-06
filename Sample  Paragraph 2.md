@@ -24,5 +24,5 @@ If I were president of Senegal, my top priority would be changing and improving 
 Rokhaya Assia Sy 
 topic sentence from if i were president of Senegal to deprived zones
 supporting sentences first of all... upgrading existing ones to finally ze put more... educational programs 
-the last sentence is the concluding one qnd the paragraph is complete with 6 sentences 
+the last sentence is the concluding one and the paragraph is complete with 6 sentences 
 great job 
