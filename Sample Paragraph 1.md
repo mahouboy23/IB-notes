@@ -25,4 +25,7 @@ If you are looking for the best creator-oriented laptop that money can buy with 
 Rokhaya Assia Sy 
 topic sentence is present on this paragraph> if you are looking for the best creator oriented laptop that money can buy... the Acer Swift X it definitely introducing the subject 
 
-supporting details from X comes with the newest 
+supporting details from X comes with the newest to finqlly the Acer Swift X is q joy to look at and use... standing out 
+
+concluding sentence is also here and the paragraph is complete with 7 sentences 
+good job
