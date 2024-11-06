@@ -7,3 +7,4 @@ cathartic / catharsis
 excrement 
 antiquated
 filibuster
+expatriation
