@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Intro to business.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Intro to business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Intro to business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Paragraph 1.md"
+                "file": "Intro to business.md"
               }
             }
           },
@@ -217,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sample Paragraph 1.md",
+                "file": "Intro to business.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,16 +268,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "fd54b5f78a278e66",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "English Composition I vocabulary.md",
+    "Sample Paragraph 1.md",
     "Sample  Paragraph 2.md",
     "Untitled 15.md",
-    "Sample Paragraph 1.md",
-    "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
-    "IB overview.md",
     "Intro to business.md",
-    "sl subjects/Economie.md",
     "Physics IA NOTES.md",
     "Economie Mondiale.md",
     "Macroéconomie.md",
