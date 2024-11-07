@@ -46,4 +46,4 @@ Created: 2024-11-05
 - **Stake**: Marel provides essential poultry processing solutions for Sedima’s operations in Dakar, offering equipment and technology for handling, stunning, scalding, defeathering, evisceration, water chilling, and grading. Marel’s stake is both financial, as it gains revenue from supplying Sedima, and strategic, as it seeks a long-term partnership within Senegal’s agribusiness sector. The stability of this relationship impacts Sedima’s operational efficiency and product quality.
 
 
-## Sedima 
+## Sedima PESTLE
