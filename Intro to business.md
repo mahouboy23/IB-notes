@@ -84,9 +84,15 @@ Created: 2024-11-05
 - **Water Resources**: Agriculture in Senegal is often challenged by limited water resources, pushing companies like Sedima to explore efficient water management systems.
 
 ## Concept
-
+### **1**
 - Liability
 - Management (M.control)
 - Money raising capabilities
 - Taxation (Tax implication)
 
+### **2**
+- Sole proprietorship
+- Partnership
+- Corporation
+- Limited liability Company (LLC)
+- Cooperative
