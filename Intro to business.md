@@ -82,3 +82,11 @@ Created: 2024-11-05
 - **Climate Impact**: Changes in climate can disrupt poultry and crop production, affecting supply chains and costs.
 - **Sustainable Practices**: Increasing pressure to adopt sustainable practices means that Sedima may need to invest in eco-friendly processes and waste management.
 - **Water Resources**: Agriculture in Senegal is often challenged by limited water resources, pushing companies like Sedima to explore efficient water management systems.
+
+## Concept
+
+- Liability
+- Management (M.control)
+- Money raising capabilities
+- Taxation (Tax implication)
+
