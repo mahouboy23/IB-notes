@@ -9,6 +9,7 @@ dictionnary : dictionary.com / thesaurus.com
 [[English Composition I vocabulary]] 
 
 # Home/class work
+[[English comp 1]] 
 [[Sample Paragraph 1]] 
 [[Sample  Paragraph 2]] 
 
