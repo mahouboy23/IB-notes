@@ -11,3 +11,4 @@ expatriation
 tax haven
 famished
 deploy
+dearth
