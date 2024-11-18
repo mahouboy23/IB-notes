@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample  Paragraph 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample  Paragraph 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Composition I vocabulary.md"
+                "file": "Sample  Paragraph 2.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "Sample  Paragraph 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,8 +268,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fd54b5f78a278e66",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
     "English comp 1.md",
     "Sample  Paragraph 2.md",
@@ -277,7 +278,6 @@
     "Intro to business.md",
     "Sample Paragraph 1.md",
     "sl subjects/Economie.md",
-    "English Composition I vocabulary.md",
     "Untitled 15.md",
     "Physics IA NOTES.md",
     "Economie Mondiale.md",
