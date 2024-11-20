@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/English and Literature.md",
+                "file": "English Composition I vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English comp 1.md",
+                "file": "English Composition I vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English comp 1.md",
+                "file": "English Composition I vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English comp 1.md"
+                "file": "English Composition I vocabulary.md"
               }
             }
           },
@@ -217,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English comp 1.md",
+                "file": "English Composition I vocabulary.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,13 +268,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
+    "English comp 1.md",
+    "English Composition I vocabulary.md",
     "IB overview.md",
     "Sample  Paragraph 2.md",
-    "English comp 1.md",
     "Intro to business.md",
     "Sample Paragraph 1.md",
     "sl subjects/Economie.md",
