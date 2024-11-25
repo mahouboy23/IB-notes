@@ -8,6 +8,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "21c3d28867988baf",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "8b4ac0ace799c3fe",
             "type": "leaf",
             "state": {
@@ -43,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English comp 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English comp 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English comp 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,7 +221,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English comp 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,14 +267,17 @@
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "21c3d28867988baf",
   "lastOpenFiles": [
-    "sl subjects/English and Literature.md",
-    "English comp 1.md",
+    "template/(Every M) English comp 1.md",
     "English Composition I vocabulary.md",
+    "English comp 1.md",
+    "sl subjects/English and Literature.md",
     "IB overview.md",
     "Sample  Paragraph 2.md",
     "Intro to business.md",
@@ -295,7 +300,6 @@
     "template/Anglais-.md",
     "template/math-.md",
     "template/economie-.md",
-    "template/TOK-.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
