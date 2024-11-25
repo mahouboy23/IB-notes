@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21c3d28867988baf",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8b4ac0ace799c3fe",
             "type": "leaf",
             "state": {
@@ -25,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "732e8c4905f1b25b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,8 +112,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English comp 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English comp 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English comp 1.md"
+              }
             }
           },
           {
@@ -221,6 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "English comp 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,11 +277,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "21c3d28867988baf",
+  "active": "0498c5d1af558e45",
   "lastOpenFiles": [
     "template/(Every M) English comp 1.md",
-    "English Composition I vocabulary.md",
     "English comp 1.md",
+    "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
     "IB overview.md",
     "Sample  Paragraph 2.md",
