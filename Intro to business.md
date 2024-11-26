@@ -131,3 +131,13 @@ BOTH :
 - supervisory abilities
 - technical knowledge
 - decision making
+
+### Core functions
+
+**Management**
+1. Planning
+2. organizing
+3. leading
+4. controlling
+
+The PDCA
