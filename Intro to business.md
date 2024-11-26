@@ -140,4 +140,8 @@ BOTH :
 3. leading
 4. controlling
 
-The PDCA
+The PDCA :
+1. plan
+2. do
+3. check
+4. act
