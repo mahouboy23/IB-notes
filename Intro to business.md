@@ -96,3 +96,12 @@ Created: 2024-11-05
 - Corporation
 - Limited liability Company (LLC)
 - Cooperative
+
+## Business functions
+- Operations
+- Finance
+- Communication
+- QSE
+- HR
+- IT
+- Marketing
