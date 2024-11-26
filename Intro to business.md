@@ -107,3 +107,27 @@ Created: 2024-11-05
 - Marketing
 
 ## Leadership and Management
+### skills
+MANAGEMENT : 
+- Active listening 
+- coaching
+- empathy
+- motivation
+- communication
+- delegation
+- deeper understanding
+
+LEADERSHIP :
+- discipline 
+- project management
+- negotiation and persuasion
+- ability to understand
+- public speaking
+- supervisory
+- attention to detail
+
+BOTH : 
+- Interpersonal skills
+- supervisory abilities
+- technical knowledge
+- decision making
