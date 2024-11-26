@@ -105,3 +105,5 @@ Created: 2024-11-05
 - HR
 - IT
 - Marketing
+
+## Leadership and Management
