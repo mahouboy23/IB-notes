@@ -169,3 +169,4 @@ Pacesetter
 - Evaluate alternatives
 - Choose the best option
 - Implement the decision
+- Monitor and adjust if necessary
