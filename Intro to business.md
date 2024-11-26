@@ -152,3 +152,20 @@ Practical uses of PDCA :
 - Strategic decision-making and project management
 
 types of management philosophy :
+Transformational
+Bureaucratic
+Transactional leadership
+Laissez-faire
+Democratic
+**Servant leadership**
+Autocratic
+Visionary
+Pacesetter
+
+### Effective decision-making
+**steps** :
+- identify the problem or opportunity
+- Gather relevant information
+- Evaluate alternatives
+- Choose the best option
+- Implement the decision
