@@ -145,3 +145,8 @@ The PDCA :
 2. do
 3. check
 4. act
+
+Practical uses of PDCA : 
+- Process improvement in production and services
+- Quality control and problem-solving.
+- Strategic decision-making and project management
