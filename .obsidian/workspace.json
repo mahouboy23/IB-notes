@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to business.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "2f15bf864e3c1640",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dérivation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Dérivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Dérivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to business.md"
+                "file": "Dérivation.md"
               }
             }
           },
@@ -213,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Dérivation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,15 +266,18 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "English Composition I vocabulary.md",
-    "Intro to business.md",
-    "sl subjects/Economie.md",
+    "Calculus.md",
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "Intro to business.md",
+    "English Composition I vocabulary.md",
+    "sl subjects/Economie.md",
     "English comp 1.md",
     "template/(Every M) English comp 1.md",
     "sl subjects/English and Literature.md",
@@ -280,7 +288,6 @@
     "Economie Mondiale.md",
     "Macroéconomie.md",
     "Microéconomie.md",
-    "hl subjects/Math AA.md",
     "Réseaux.md",
     "Critere D.md",
     "Loi de la demande.md",
@@ -291,7 +298,6 @@
     "template/CAS-.md",
     "template/Anglais-.md",
     "template/math-.md",
-    "template/economie-.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",

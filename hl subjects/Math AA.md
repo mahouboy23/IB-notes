@@ -13,4 +13,4 @@ tags : mod Math subject
  
 [[EXO MATH]] 
 
-[[MATH INTERNAL ASSESMENT]] 
+[[MATH INTERNAL ASSESMENT]] obsidian
