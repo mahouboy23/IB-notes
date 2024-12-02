@@ -15,3 +15,4 @@ dearth
 monolith
 cohesive
 proverbial
+bibliophile
