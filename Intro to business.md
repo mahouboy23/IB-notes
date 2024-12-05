@@ -170,3 +170,10 @@ Pacesetter
 - Choose the best option
 - Implement the decision
 - Monitor and adjust if necessary
+
+# Marketing
+## Core marketing Concepts 
+1. **segmentation**
+2. **Targeting**
+3. **Positioning**
+ 
