@@ -177,4 +177,4 @@ Pacesetter
 2. **Targeting**
 3. **Positioning**
 
-##
+## Customer Value Framework (Kotler's)
