@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to business.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to business.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to business.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intro to business.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +269,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "be9e89993310cb69",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
     "IB overview.md",
