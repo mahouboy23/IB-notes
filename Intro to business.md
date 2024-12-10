@@ -178,3 +178,5 @@ Pacesetter
 3. **Positioning**
 
 ## Customer Value Framework (Kotler's)
+
+# Accounting

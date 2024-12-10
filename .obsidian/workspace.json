@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Intro to business.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,18 +266,19 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
     "sl subjects/Economie.md",
     "IB overview.md",
+    "hl subjects/Math AA.md",
     "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
     "Dérivation.md",
     "Calculus.md",
-    "hl subjects/Math AA.md",
     "Intro to business.md",
     "English comp 1.md",
     "template/(Every M) English comp 1.md",
