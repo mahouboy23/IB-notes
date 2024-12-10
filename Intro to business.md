@@ -180,3 +180,4 @@ Pacesetter
 ## Customer Value Framework (Kotler's)
 
 # Accounting
+- startup funding explainied: Everything you need to know
