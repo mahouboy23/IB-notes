@@ -180,4 +180,60 @@ Pacesetter
 ## Customer Value Framework (Kotler's)
 
 # Accounting
-- startup funding explainied: Everything you need to know
+---
+
+# Summary Notes: Starting and Growing a Startup
+
+#### 1. **Starting with Vision and Incorporation**
+
+- Begins with a vision for a unique product or service.
+- Early stages involve fun tasks (logos, concepts) and serious steps like legal structuring.
+- Incorporating a company in the US costs between $25 and several thousand dollars (fees + legal).
+- Early funding often comes from **family, friends, or crowdfunding**.
+- Initial shares allocation: e.g., 100,000 shares issued, split among founders and investors.  
+    Example: A family friend invests $50,000 for 20% equity (valuing the company at $250,000).
+
+#### 2. **Seed Investment**
+
+- Early funding round is called a **seed round**.
+- Investors provide money in exchange for equity (ownership).
+- Example: 40% shares for each founder, 20% for the investor.
+
+#### 3. **Growth and Series A Funding**
+
+- After initial success (e.g., beta trials), startups need larger funding (**Series A**).
+- Sources: **Angel Investors** (individuals) or **Venture Capitalists (VCs)** (firms).
+- Negotiating valuations:
+    - **Pre-money valuation**: Current value before investment.
+    - **Post-money valuation**: Pre-money valuation + investment amount.
+- Example: $1 million investment for 12.5% stake (post-money valuation = $8M).
+
+#### 4. **Equity Dilution**
+
+- New investments dilute existing owners’ shares (their percentage decreases).
+    - Example: Founders and early investors' 100% stake becomes 75% after Series A.
+- Dilution is proportional but doesn’t reduce the actual number of shares owned.
+
+#### 5. **Subsequent Rounds and Valuations**
+
+- Further rounds (Series B, C, etc.) bring more investment at increasing valuations.
+- Stock splits may occur, increasing the number of shares everyone holds proportionally.
+
+#### 6. **Exit Strategies**
+
+- **Acquisition**: Selling the company to a larger entity.
+    - Founders often stay with the company (vesting agreements).
+- **Initial Public Offering (IPO)**:
+    - Company issues shares to the public via the stock market.
+    - Example: Shares start at $64 and rise to $70+ on the first day.
+
+#### 7. **Outcomes**
+
+- IPO or acquisition creates wealth for founders and investors.
+- Founders often remain involved, continuing to grow the business despite "exit."
+
+#### Key Concepts:
+
+- **Seed Investment**: Early funding for initial growth.
+- **Dilution**: Reduction in ownership percentage as new shares are issued.
+- **IPO**: Selling shares to the public, turning equity into liquid assets.
