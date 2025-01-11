@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Intro to business.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Intro to business.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,16 +269,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
-    "sl subjects/Economie.md",
+    "University.md",
     "IB overview.md",
+    "hl subjects/Math AA.md",
+    "MATH INTERNAL ASSESMENT.md",
+    "Intro to business.md",
+    "sl subjects/Economie.md",
     "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
     "Dérivation.md",
     "Calculus.md",
-    "Intro to business.md",
     "English comp 1.md",
     "template/(Every M) English comp 1.md",
     "Sample  Paragraph 2.md",
@@ -295,8 +297,6 @@
     "Protocoles et paquets de données.md",
     "hl subjects/Computer science.md",
     "template/Exercise-.md",
-    "template/CAS-.md",
-    "template/Anglais-.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
