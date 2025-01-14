@@ -27,4 +27,6 @@ Created: 2025-01-14
 - Whiteness racial group
 - eugenics
   
-## Hidden Color 1: The Untold History of People of Aboridian
+## Hidden Color 1: The Untold History of People of Aborigian moor and African decent
+- Tariq Nasheed
+- 
