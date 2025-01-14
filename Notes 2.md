@@ -10,4 +10,19 @@ Created: 2025-01-14
 - the bering strait and the Strait of Gibraltar 
 
 ## The origin of race in the USA
+- What are some of the earliest def of race?
+- kinship and affiliation: earlier definition
+- why did we see the shift in the 17th and 18th century?
+- the Spanish used slaves of native people
+- England also tried the same methods
+- England wanted to make tobacco so they needed work
+- so they used Africans
+- indenture was a contract
+- enslavement was abusive
+- how did the enlightenment impact that ara
+- enlightenment def
+- Thomas jefferson / Samuel Cartwrieght
+- Kant height
+- Matthew Jacobosom
+- Whiteness racial group
 - 
