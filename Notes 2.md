@@ -38,4 +38,10 @@ Created: 2025-01-14
 - they control the information and limit history to 6 000 years
 - the vatican has a lot of our history
 - Egyptology is created by the Vatican
+- Richter Priers Egypt
+- African established the first Asian dynasties
+- AINU
+- Bodhirama created original martial arts
+- Asian religion really similar to African religion
+- The San Tribe
 - 
