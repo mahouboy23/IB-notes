@@ -45,4 +45,5 @@ Created: 2025-01-14
 - Asian religion really similar to African religion
 - The San Tribe
 - Michelangelo was told by the pope to paint the holy family as European
+- Racism is a system to protect the European
 - 
