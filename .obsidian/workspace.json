@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le CPU.md",
+                "file": "MWC.md",
                 "mode": "source",
                 "source": false
               }
@@ -283,15 +283,17 @@
   },
   "active": "4a7a795f7b568e37",
   "lastOpenFiles": [
-    "template/MWC-.md",
+    "MWC.md",
+    "IB overview.md",
     "Notes 2.md",
-    "template/CAS-.md",
-    "template/francais-.md",
+    "Le CPU.md",
+    "Untitled 15.md",
+    "template/MWC-.md",
     "template/Exercise-.md",
     "template/(Every M) English comp 1.md",
-    "IB overview.md",
+    "template/CAS-.md",
+    "template/francais-.md",
     "English Composition I vocabulary.md",
-    "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Intro to business.md",
@@ -307,8 +309,6 @@
     "Sample Paragraph 1.md",
     "Physics IA NOTES.md",
     "Economie Mondiale.md",
-    "Macroéconomie.md",
-    "Microéconomie.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
