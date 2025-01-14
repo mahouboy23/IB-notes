@@ -9,7 +9,7 @@ Created: 2025-01-14
 - Pangea is a supercontinent that existed about 300–200 million years ago.
 - the bering strait and the Strait of Gibraltar 
 
-## The origin of race in the USA
+## The origin of race in the USA (PBS)
 - What are some of the earliest def of race?
 - kinship and affiliation: earlier definition
 - why did we see the shift in the 17th and 18th century?
@@ -26,3 +26,5 @@ Created: 2025-01-14
 - Matthew Jacobosom
 - Whiteness racial group
 - eugenics
+  
+	## Hidden Color 1: The Untold History of People of 
