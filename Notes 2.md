@@ -6,4 +6,5 @@ tags:
 Created: 2025-01-14
 
 ## Discussion Notes
-- Pandea : Is a super
+- Pangea is a supercontinent that existed about 300–200 million years ago.
+- the bearing stare and the Strait of Gibraltar 
