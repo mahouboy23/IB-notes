@@ -27,6 +27,8 @@ Created: 2025-01-14
 - Whiteness racial group
 - eugenics
   
-## Hidden Color 1: The Untold History of People of Aborigian moor and African decent
+## Hidden Color 1: The Untold History of People of Aboriginian moor and African decent
 - Tariq Nasheed
+- Africa had multiple names
+- Africa was name Cush/Ethiopia
 - 
