@@ -25,4 +25,4 @@ Created: 2025-01-14
 - Kant height
 - Matthew Jacobosom
 - Whiteness racial group
-- 
+-
