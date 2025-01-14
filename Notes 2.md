@@ -31,4 +31,9 @@ Created: 2025-01-14
 - Tariq Nasheed
 - Africa had multiple names
 - Africa was name Cush/Ethiopia
-- 
+- Africa created a lot of stuff
+- Dark tichit
+- Monotapa
+- Mansa Musa king of Mali and did a pilgrimaged to Macca
+- they control the information and limit history to 6 000 years
+- the vatican has a lot of our history
