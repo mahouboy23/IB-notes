@@ -37,3 +37,5 @@ Created: 2025-01-14
 - Mansa Musa king of Mali and did a pilgrimaged to Macca
 - they control the information and limit history to 6 000 years
 - the vatican has a lot of our history
+- Egyptology is created by the Vatican
+- 
