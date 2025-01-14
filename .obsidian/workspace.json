@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Le CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Le CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Le CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to business.md"
+                "file": "Le CPU.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Le CPU.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,16 +266,19 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "be9e89993310cb69",
   "lastOpenFiles": [
-    "University.md",
+    "Architecture des ordinateurs.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Intro to business.md",
+    "University.md",
     "hl subjects/Math AA.md",
     "MATH INTERNAL ASSESMENT.md",
-    "Intro to business.md",
     "sl subjects/Economie.md",
     "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
@@ -295,8 +298,6 @@
     "Loi de la demande.md",
     "Hardsurface modeling.md",
     "Protocoles et paquets de données.md",
-    "hl subjects/Computer science.md",
-    "template/Exercise-.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
@@ -321,7 +322,4 @@
     "politique d'offre.canvas",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
-    "Eléctricite et magnétisme fiche revision.canvas",
-    "Extended Essay.canvas"
-  ]
-}
+    "Eléctricite et magnét
