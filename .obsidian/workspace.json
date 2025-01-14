@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MWC.md",
+                "file": "Notes 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/MWC-.md",
+                "file": "Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/MWC-.md",
+                "file": "Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/MWC-.md"
+                "file": "Notes 2.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "template/MWC-.md",
+                "file": "Notes 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,16 +281,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd54b5f78a278e66",
+  "active": "4a7a795f7b568e37",
   "lastOpenFiles": [
+    "template/MWC-.md",
+    "Notes 2.md",
     "template/CAS-.md",
     "template/francais-.md",
-    "template/MWC-.md",
     "template/Exercise-.md",
     "template/(Every M) English comp 1.md",
     "IB overview.md",
     "English Composition I vocabulary.md",
-    "MWC.md",
     "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",

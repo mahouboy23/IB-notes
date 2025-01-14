@@ -104,5 +104,14 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:template/MWC-.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }
