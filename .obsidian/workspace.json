@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Composition I vocabulary.md",
+                "file": "template/MWC-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a7a795f7b568e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MWC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,8 +116,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le CPU.md",
+                "file": "template/MWC-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le CPU.md",
+                "file": "template/MWC-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le CPU.md"
+                "file": "template/MWC-.md"
               }
             }
           },
@@ -218,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le CPU.md",
+                "file": "template/MWC-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,34 +281,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "fd54b5f78a278e66",
   "lastOpenFiles": [
+    "template/CAS-.md",
+    "template/francais-.md",
+    "template/MWC-.md",
+    "template/Exercise-.md",
+    "template/(Every M) English comp 1.md",
+    "IB overview.md",
+    "English Composition I vocabulary.md",
+    "MWC.md",
+    "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Intro to business.md",
     "University.md",
     "hl subjects/Math AA.md",
     "MATH INTERNAL ASSESMENT.md",
     "sl subjects/Economie.md",
-    "English Composition I vocabulary.md",
     "sl subjects/English and Literature.md",
     "Dérivation.md",
     "Calculus.md",
     "English comp 1.md",
-    "template/(Every M) English comp 1.md",
     "Sample  Paragraph 2.md",
     "Sample Paragraph 1.md",
-    "Untitled 15.md",
     "Physics IA NOTES.md",
     "Economie Mondiale.md",
     "Macroéconomie.md",
     "Microéconomie.md",
-    "Réseaux.md",
-    "Critere D.md",
-    "Loi de la demande.md",
-    "Hardsurface modeling.md",
-    "Protocoles et paquets de données.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
@@ -322,4 +333,7 @@
     "politique d'offre.canvas",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
-    "Eléctricite et magnét
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Extended Essay.canvas"
+  ]
+}

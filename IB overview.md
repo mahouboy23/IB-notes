@@ -17,7 +17,7 @@ tags:
 - [[TOK]] 🧠
 - [[common core/CAS]] ⚽
 - [[EE]] 📑
-
+- [[MWC]]
 ## extracurricular activities
 - [[University]]  
 
