@@ -44,9 +44,10 @@ Created: 2025-01-14
 - Egyptology is created by the Vatican (it was a screening mechanism to hide the discoveries of African history in Egypt)
 - Richter Priers Egypt
 - African established the first Asian dynasties
-- AINU
-- Bodhirama created original martial arts
-- Asian religion really similar to African religion
+- The Japanese was formed when the Ethiopians (AINU) brought the Koreans to the island
+- founder of samurai and ninja were African
+- Bodhidharma created original martial arts by analyzing animal behavior
+- Asian religion really similar to African religion (similar gods and spiritual systems)
 - The San Tribe
 - Michelangelo was told by the pope to paint the holy family as European
 - Racism is a system to protect the European
