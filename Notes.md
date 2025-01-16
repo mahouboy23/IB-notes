@@ -61,3 +61,5 @@
 - OSMAN AND UTHMAN = OTTOMAN
 - Kanun = (book of law)
 - The Balkan war
+
+## Columbian exchange
