@@ -59,4 +59,5 @@
 - Kahi
 - Anatolia
 - OSMAN AND UTHMAN = OTTOMAN
+- Kanun = (book of law)
 - 
