@@ -64,4 +64,4 @@
 
 ## Discussion notes Columbian exchange
 - Alfred Crosby 1972
-- It last
+- It lasted between 1
