@@ -58,7 +58,7 @@ Created: 2025-01-14
 - Increased emphasis on ethnic identity (pride in cultural origins).
 - Persistent debate over biological determinism in race.
   
-## Hidden Colors 1: The Untold History of People of Aboriginal Moor and African Descent
+## Hidden Colors 1: The Untold History of People of Aboriginal, Moor, and African Descent
 
 ### The Naming and Perception of Africa
 - **Multiple Names for Africa**
