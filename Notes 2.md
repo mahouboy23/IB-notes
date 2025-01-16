@@ -58,29 +58,56 @@ Created: 2025-01-14
 - Increased emphasis on ethnic identity (pride in cultural origins).
 - Persistent debate over biological determinism in race.
   
-## Hidden Color 1: The Untold History of People of Aboriginal moor and African decent
-- Tariq Nasheed
-- Africa had multiple names
-- Africa was named after a Roman general that "conquered" it
-- Media coverage of Africa always shows the worst of it
-- Africa was name Cush/Ethiopia
-- Africa created a lot of stuff like the clock/the wheel/mathematics/writing
-- A lot of historical events was happening all over Africa not only in Egypt
-- Dark Tichit
-- Monomotapa (current Zimbabwe)
-- Mansa Musa king of Mali and did a pilgrimaged to Macca
-- Africa was the first to circumvent the whole globe
-- they control the information and limit history to 6 000 years of African history
-- the Vatican has a lot of our history (6 to 8 miles)
-- Egyptology is created by the Vatican (it was a screening mechanism to hide the discoveries of African history in Egypt)
-- Richter Priers Egypt
-- African established the first Asian dynasties
-- The Japanese was formed when the Ethiopians (AINU) brought the Koreans to the island
-- founder of samurai and ninja were African
-- Bodhidharma created original martial arts by analyzing animal behavior
-- Asian religion really similar to African religion (similar gods and spiritual systems)
-- The San Tribe
-- Michelangelo was told by the pope to paint the holy family as European
-- they would hide the color and original painting and artifacts that depicted holy figures for there own benefit
-- Racism is a system to protect the European genotype 
-- Originally European's even worshipped black figures
+## Hidden Colors 1: The Untold History of People of Aboriginal Moor and African Descent
+
+### The Naming and Perception of Africa
+- **Multiple Names for Africa**
+    - Known as Alkebulan, Cush, Ethiopia.
+    - The Atlantic Ocean was once called the Ethiopian Sea.
+- **Origin of the Name 'Africa'**
+    - Named after Roman general Scipio Africanus, who “conquered” it.
+- **Media Representation of Africa**
+    - Media shows only negative aspects (poverty, conflict).
+    - Neglects Africa’s rich cultural history and achievements.
+### African Contributions to Civilization
+- **Innovations**
+    - Inventions: Clock, wheel, mathematics, writing systems.
+    - Africans were not cavemen; they developed early technologies.
+- **Historical Kingdoms and Empires**
+    - **Dark Tichit**: Located in modern-day Ghana.
+    - **Nok Culture**: In present-day Nigeria.
+    - **Monomotapa Empire**: Current Zimbabwe, known for advanced stone structures like Great Zimbabwe.
+    - **Kush Empire**: Thrived simultaneously with Egypt.
+    - **Mansa Musa**:
+        - King of Mali during Europe’s Dark Ages.
+        - Wealthiest man in history; famous for his pilgrimage to Mecca, distributing vast amounts of gold.
+- **Global Influence**
+    - Africans were the first to circumnavigate the globe.
+    - African presence documented in ancient Asia and Europe.
+### The Vatican and African History
+- **Control of History**
+    - Vast African artifacts and records (6-8 miles of storage) hidden in Vatican archives.
+    - Egyptology: Created by the Vatican to control the narrative of African contributions.
+### African Influence in Asia
+- **Dynasties and Cultural Exchange**
+    - African roots in the formation of early Asian dynasties.
+    - **Ainu People**: Ethiopians brought Koreans to Japan, forming Japanese culture.
+    - **Bodhidharma**: An African Dravidian who founded martial arts by studying animal behavior.
+    - Similarities between African and Asian spiritual systems (gods, rituals, beliefs).
+- **Cultural Symbols**
+    - Early Buddha statues depicted African features.
+    - African origin of Samurai and Ninja traditions.
+### Racism and Religious Manipulation
+- **Racism as a System**
+    - Created to protect the European genotype.
+    - Early Europeans revered African figures (e.g., Black popes like Saint Victor, Saint Maurice).
+- **Religious Influence**
+    - **Michelangelo’s Paintings**: Pope ordered the Holy Family painted as European.
+    - Many European religious depictions originally showed African features (e.g., Black Madonna, Black Jesus).
+- **Impact of Christianity**
+    - Used as a tool of mental and physical subjugation for African people.
+    - Reinforced Eurocentric ideals, erasing African contributions to Christianity.
+### Other notes
+- African history spans beyond the 6,000-year limit imposed by Western narratives.
+- Artifacts and records reveal Africa’s foundational role in global history and culture.
+- How can the narrative be reclaimed and shared to restore pride and identity among African-descended people?
