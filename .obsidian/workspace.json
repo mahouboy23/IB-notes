@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11c8fd14748b209b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ottoman empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Ottoman empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Ottoman empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes 2.md"
+                "file": "Ottoman empire.md"
               }
             }
           },
@@ -241,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Ottoman empire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,10 +305,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "11c8fd14748b209b",
   "lastOpenFiles": [
-    "Notes.md",
     "Notes 2.md",
+    "Notes.md",
+    "Ottoman empire.md",
     "template/MWC-.md",
     "MWC.md",
     "IB overview.md",
@@ -320,7 +333,6 @@
     "English comp 1.md",
     "Sample  Paragraph 2.md",
     "Sample Paragraph 1.md",
-    "Physics IA NOTES.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",

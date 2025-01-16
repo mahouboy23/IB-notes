@@ -1,6 +1,6 @@
 ---
 tags:
   - mod
-  - exercise
+  - MWC
 ---
 Created: <% tp.date.now("YYYY-MM-DD") %>

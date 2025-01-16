@@ -1,7 +1,7 @@
 ---
 tags:
   - mod
-  - exercise
+  - MWC
 ---
 Created: 2025-01-14
 
