@@ -44,7 +44,7 @@
 - Originally European's even worshipped black figures
   
 
-## Discussion notes
+## Discussion notes Ottoman empire
 - TURKEY  $\large{\rightarrow}$  middle eastern country
 	- Islamic
 	- 600 years (1299-1922)
@@ -62,4 +62,4 @@
 - Kanun = (book of law)
 - The Balkan war
 
-## Columbian exchange
+## Discussion notes Columbian exchange
