@@ -38,9 +38,10 @@ Created: 2025-01-14
 - Dark Tichit
 - Monomotapa (current Zimbabwe)
 - Mansa Musa king of Mali and did a pilgrimaged to Macca
-- they control the information and limit history to 6 000 years
-- the Vatican has a lot of our history
-- Egyptology is created by the Vatican
+- Africa was the first to circumvent the whole globe
+- they control the information and limit history to 6 000 years of African history
+- the Vatican has a lot of our history (6 to 8 miles)
+- Egyptology is created by the Vatican (it was a screening mechanism to hide the discoveries of African history in Egypt)
 - Richter Priers Egypt
 - African established the first Asian dynasties
 - AINU
