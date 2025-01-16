@@ -30,10 +30,13 @@ Created: 2025-01-14
 ## Hidden Color 1: The Untold History of People of Aboriginal moor and African decent
 - Tariq Nasheed
 - Africa had multiple names
+- Africa was named after a Roman general that "conquered" it
+- Media coverage of Africa always shows the worst of it
 - Africa was name Cush/Ethiopia
-- Africa created a lot of stuff
+- Africa created a lot of stuff like the clock/the wheel/mathematics/writing
+- A lot of historical events was happening all over Africa not only in Egypt
 - Dark Tichit
-- Monotapa
+- Monomotapa (current Zimbabwe)
 - Mansa Musa king of Mali and did a pilgrimaged to Macca
 - they control the information and limit history to 6 000 years
 - the Vatican has a lot of our history
