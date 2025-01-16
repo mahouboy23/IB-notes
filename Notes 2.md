@@ -34,7 +34,6 @@ Created: 2025-01-14
 - **Pseudo-Science of Race**
     - Emerged to justify slavery.
     - Linked physical features to behavior and legal rights.
-
 ### The Enlightenment and Race
 - **Impact of the Enlightenment**
     - Push for "reason" and scientific categorization.
