@@ -63,5 +63,5 @@
 - The Balkan war
 
 ## Discussion notes Columbian exchange
-- Alfred Crosby
+- Alfred Crosby 1972
 - It last
