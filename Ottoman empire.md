@@ -42,7 +42,6 @@ The Ottoman Empire’s interaction with Africa and its black populations provide
     - The Ottoman Empire, as the custodian of Sunni Islam, had religious and cultural connections with sub-Saharan Africa, including the Hausa and Kanem-Bornu empires.
     - Pilgrimage routes to Mecca linked African Muslim communities to Ottoman-controlled regions.
 4. **Anti-Colonial Support**:
-    
     - In the late 19th and early 20th centuries, the Ottomans occasionally supported African resistance against European colonial powers, fostering alliances with leaders in Sudan, Somalia, and beyond.
 
 ---
