@@ -53,7 +53,7 @@ Created: 2025-01-14
 ### The Evolution of Whiteness
 - **Matthew Jacobson’s Insights**
     - Whiteness evolved as a racial group.
-    - Initially exclusive to Anglo-Saxons; other Europeans categorized as separate races (e.g., “Celts,” “Slavs”).
+    - Initially exclusive to Anglo-Saxons; other Europeans categorized as separate races (like “Celts,” “Slavs”).
     - By the 1920s, these groups were unified under "whiteness" to create a cultural majority.
 ### Modern Perspectives
 - Increased emphasis on ethnic identity (pride in cultural origins).
