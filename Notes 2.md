@@ -7,7 +7,7 @@ Created: 2025-01-14
 
 ## Discussion Notes
 - Pangea is a supercontinent that existed about 300–200 million years ago.
-- the bering strait and the Strait of Gibraltar 
+- the Bering strait and the Strait of Gibraltar 
 
 ## The origin of race in the USA (PBS)
 - What are some of the earliest def of race?
@@ -21,13 +21,13 @@ Created: 2025-01-14
 - enslavement was abusive
 - how did the enlightenment impact that ara
 - enlightenment def
-- Thomas jefferson / Samuel Cartwrieght
+- Thomas Jefferson / Samuel Cartwrieght
 - Kant height
 - Matthew Jacobosom
 - Whiteness racial group
 - eugenics
   
-## Hidden Color 1: The Untold History of People of Aboriginian moor and African decent
+## Hidden Color 1: The Untold History of People of Aboriginal moor and African decent
 - Tariq Nasheed
 - Africa had multiple names
 - Africa was name Cush/Ethiopia

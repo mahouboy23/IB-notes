@@ -277,17 +277,18 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4a7a795f7b568e37",
   "lastOpenFiles": [
+    "template/MWC-.md",
     "MWC.md",
-    "IB overview.md",
     "Notes 2.md",
+    "IB overview.md",
     "Le CPU.md",
     "Untitled 15.md",
-    "template/MWC-.md",
     "template/Exercise-.md",
     "template/(Every M) English comp 1.md",
     "template/CAS-.md",
