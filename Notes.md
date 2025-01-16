@@ -45,4 +45,12 @@
   
 
 ## Discussion notes
-- TURKEY  
+- TURKEY  $\large{\rightarrow}$  middle eastern country
+	- Islamic
+	- 600 years (1299-1922)
+	- Colombus (1492)
+	- Anatolia (Asian Minor)
+	- Multi-ethnic
+	- Asian, Europe, Africa, Arabian Peninsula
+	- The Atlantic Slave Trade
+		 - Red Sea, Sahara, Indian Ocean

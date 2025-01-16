@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ottoman empire.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ottoman empire.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ottoman empire.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ottoman empire.md",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,12 +305,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11c8fd14748b209b",
+  "active": "7eb086f7d9f2d693",
   "lastOpenFiles": [
-    "Notes.md",
-    "MWC.md",
-    "Notes 2.md",
     "Ottoman empire.md",
+    "Notes.md",
+    "Notes 2.md",
+    "MWC.md",
     "template/MWC-.md",
     "IB overview.md",
     "Le CPU.md",
