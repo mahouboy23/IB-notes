@@ -56,3 +56,7 @@
 		 - Red Sea, Sahara, Indian Ocean
 
 ## The rise and fall of the Ottoman Empire
+- Kahi
+- Anatolia
+- OSMAN AND UTHMAN = OTTOMAN
+- 
