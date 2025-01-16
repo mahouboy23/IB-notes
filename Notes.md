@@ -42,3 +42,7 @@
 - they would hide the color and original painting and artifacts that depicted holy figures for there own benefit 
 - Racism is a system to protect the European genotype 
 - Originally European's even worshipped black figures
+  
+
+## Discussion notes
+- 
