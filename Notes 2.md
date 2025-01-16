@@ -50,5 +50,6 @@ Created: 2025-01-14
 - Asian religion really similar to African religion (similar gods and spiritual systems)
 - The San Tribe
 - Michelangelo was told by the pope to paint the holy family as European
-- Racism is a system to protect the European
--
+- they would hide the color and original painting and artifacts that depicted holy figures for there own benefit
+- Racism is a system to protect the European genotype 
+- Originally European's even worshipped black figures
