@@ -63,4 +63,5 @@
 - The Balkan war
 
 ## Discussion notes Columbian exchange
-= 
+- Alfred Crosby
+- It last
