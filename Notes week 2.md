@@ -147,3 +147,25 @@ Created: 2025-01-14
 - **World War I**: Joined Central Powers; defeated in 1918.
 - **1922**: Title of Sultan abolished; Ottoman Empire ended.
 - **1923**: Republic of Turkey established.
+
+## Discussion Notes: Columbian Exchange
+### Key Concepts
+- **Introduced by**: Alfred Crosby, 1972.
+- **Definition**: Transfer of plants, animals, diseases between Old World (Europe, Asia, Africa) and New World (North, South and Latin Americas).
+- **Duration**: 200–300 years.
+### Key Points
+- **Food Exchange**:
+    - New World → Old World: Tomatoes, potatoes, maize, chocolate, chilies, avocados.
+    - Old World → New World: Wheat, rice, sugarcane, bananas, coffee, livestock.
+- **Horses**:
+    - Reintroduced to Americas by Spanish conquistadors (late 1400s).
+    - Transformed Native hunting, warfare, and culture.
+- **Atlantic Slave Trade**:
+    - Plantations (tobacco, cotton) fueled demand for enslaved labor.
+    - Disease decimated Natives → increased reliance on enslaved Africans.
+- **Disease Exchange**:
+    - Old World → New World: Smallpox, measles, influenza (80–95% of Native population lost).
+    - New World → Old World: Possibly syphilis.
+- **Cultural Impact**:
+    - Pastoralism introduced to Americas (livestock like pigs, cattle, sheep).
+    - New trade networks → global connectivity.

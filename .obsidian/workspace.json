@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "fd54b5f78a278e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/MWC-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a7a795f7b568e37",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Notes week 2.md"
               }
             }
           },
@@ -240,8 +228,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "d13a06cb4474056d",
@@ -253,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes week 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,13 +292,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7eb086f7d9f2d693",
+  "active": "4a7a795f7b568e37",
   "lastOpenFiles": [
-    "Ottoman empire.md",
-    "Notes week 2.md",
     "Notes.md",
+    "Notes week 2.md",
     "MWC.md",
     "template/MWC-.md",
+    "Ottoman empire.md",
     "IB overview.md",
     "Le CPU.md",
     "Untitled 15.md",
