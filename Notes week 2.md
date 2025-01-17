@@ -116,3 +116,34 @@ Created: 2025-01-14
 	- The Atlantic Slave Trade
 		 - Red Sea, Sahara, Indian Ocean
 
+## The Rise and Fall of the Ottoman Empire - Animated History
+
+### Key Figures and Terms
+- **Kayı Tribe**: Origins of the Ottoman Empire.
+- **Osman (Uthman)**: Founder of the Ottoman Empire.
+- **Kanun**: Ottoman secular legal code.
+### Geographic Expansion
+- **Anatolia**: Starting point of the empire.
+- **Regions Controlled**:
+    - Middle East, Eastern Europe, North Africa.
+    - Notable areas: Turkey, Greece, Egypt, Hungary, Syria, Lebanon, Palestine, North African coast.
+### Suleiman the Magnificent (Golden Age)
+- **Achievements**:
+    - Expanded into Eastern Europe and Asia.
+    - Controlled Hungary (1521–1529) and reached Vienna.
+    - Strong naval power.
+- **Cultural Influence**:
+    - Arts, architecture, science, medicine.
+    - Built mosques, public buildings in Istanbul.
+    - Codified Kanun (tax and law reforms).
+- **Scientific Contributions**:
+    - Early vaccination methods.
+    - Developed medical tools.
+    - Advanced in mathematics, astronomy, chemistry.
+### Decline and Fall
+- **17th Century**: Loss of economic and military power.
+- **Battle of Vienna (1683)**: Major defeat.
+- **Balkan Wars (1912–1913)**: Loss of European territories.
+- **World War I**: Joined Central Powers; defeated in 1918.
+- **1922**: Title of Sultan abolished; Ottoman Empire ended.
+- **1923**: Republic of Turkey established.
