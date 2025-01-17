@@ -5,5 +5,5 @@ tags:
 ---
 Created: 2025-01-14
 - 
-- ## [[Notes 2]]
+- ## [[Notes week 2]]
 - 

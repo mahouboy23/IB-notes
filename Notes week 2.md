@@ -5,6 +5,7 @@ tags:
 ---
 Created: 2025-01-14
 
+# CLASS 1
 ## Discussion Notes
 - Pangea is a supercontinent that existed about 300–200 million years ago.
 - the Bering strait and the Strait of Gibraltar 
@@ -48,9 +49,10 @@ Created: 2025-01-14
     - Prohibited intermarriage between races to maintain racial purity.
 ### The Evolution of Whiteness
 - **Matthew Jacobson’s Insights**
-    - Whiteness evolved as a racial group.
-    - Initially exclusive to Anglo-Saxons; other Europeans categorized as separate races (like “Celts,” “Slavs”).
-    - By the 1920s, these groups were unified under "whiteness" to create a cultural majority.
+	- Whiteness emerged as a racial group.
+	- Initially limited to Anglo-Saxons.
+	- Other Europeans (Celts, Slavs) seen as separate races.
+	- Unified as "whiteness" by 1920s to form majority.
 ### Modern Perspectives
 - Increased emphasis on ethnic identity (pride in cultural origins).
 - Persistent debate over biological determinism in race.
@@ -60,7 +62,6 @@ Created: 2025-01-14
 ### The Naming and Perception of Africa
 - **Multiple Names for Africa**
     - Known as Alkebulan, Cush, Ethiopia.
-    - The Atlantic Ocean was once called the Ethiopian Sea.
 - **Origin of the Name 'Africa'**
     - Named after Roman general Scipio Africanus, who “conquered” it.
 - **Media Representation of Africa**
@@ -69,42 +70,49 @@ Created: 2025-01-14
 ### African Contributions to Civilization
 - **Innovations**
     - Inventions: Clock, wheel, mathematics, writing systems.
-    - Africans were not cavemen; they developed early technologies.
+    - Africans were not cavemen, they developed early technologies.
 - **Historical Kingdoms and Empires**
     - **Dark Tichit**: Located in modern-day Ghana.
     - **Nok Culture**: In present-day Nigeria.
-    - **Monomotapa Empire**: Current Zimbabwe, known for advanced stone structures like Great Zimbabwe.
+    - **Monomotapa Empire**: Current Zimbabwe
     - **Kush Empire**: Thrived simultaneously with Egypt.
     - **Mansa Musa**:
         - King of Mali during Europe’s Dark Ages.
         - Wealthiest man in history; famous for his pilgrimage to Mecca, distributing vast amounts of gold.
 - **Global Influence**
     - Africans were the first to circumnavigate the globe.
-    - African presence documented in ancient Asia and Europe.
 ### The Vatican and African History
 - **Control of History**
     - Vast African artifacts and records (6-8 miles of storage) hidden in Vatican archives.
     - Egyptology: Created by the Vatican to control the narrative of African contributions.
 ### African Influence in Asia
 - **Dynasties and Cultural Exchange**
-    - African roots in the formation of early Asian dynasties.
+    - African roots in old Asian dynasties.
     - **Ainu People**: Ethiopians brought Koreans to Japan, forming Japanese culture.
     - **Bodhidharma**: An African Dravidian who founded martial arts by studying animal behavior.
     - Similarities between African and Asian spiritual systems (gods, rituals, beliefs).
-- **Cultural Symbols**
-    - Early Buddha statues depicted African features.
-    - African origin of Samurai and Ninja traditions.
 ### Racism and Religious Manipulation
 - **Racism as a System**
     - Created to protect the European genotype.
-    - Early Europeans revered African figures (e.g., Black popes like Saint Victor, Saint Maurice).
+    - Early Europeans revered African figures
 - **Religious Influence**
     - **Michelangelo’s Paintings**: Pope ordered the Holy Family painted as European.
-    - Many European religious depictions originally showed African features (e.g., Black Madonna, Black Jesus).
+    - Many European religious depictions originally showed African features 
 - **Impact of Christianity**
-    - Used as a tool of mental and physical subjugation for African people.
-    - Reinforced Eurocentric ideals, erasing African contributions to Christianity.
+    - Used as a tool of mental and physical subjugation 
+    - Reinforced Euro minded ideals
 ### Other notes
-- African history spans beyond the 6,000-year limit imposed by Western narratives.
-- Artifacts and records reveal Africa’s foundational role in global history and culture.
-- How can the narrative be reclaimed and shared to restore pride and identity among African-descended people?
+- African history spans beyond 6,000-year.
+
+# CLASS 2
+## Discussion notes Ottoman empire
+- TURKEY  $\large{\rightarrow}$  middle eastern country
+	- Islamic
+	- 600 years (1299-1922)
+	- Colombus (1492)
+	- Anatolia (Asian Minor)
+	- Multi-ethnic
+	- Asian, Europe, Africa, Arabian Peninsula
+	- The Atlantic Slave Trade
+		 - Red Sea, Sahara, Indian Ocean
+

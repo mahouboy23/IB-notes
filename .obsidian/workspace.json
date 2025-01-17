@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Notes week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes 2.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes 2.md",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,11 +305,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a7a795f7b568e37",
+  "active": "7eb086f7d9f2d693",
   "lastOpenFiles": [
-    "Notes.md",
     "Ottoman empire.md",
-    "Notes 2.md",
+    "Notes week 2.md",
+    "Notes.md",
     "MWC.md",
     "template/MWC-.md",
     "IB overview.md",
