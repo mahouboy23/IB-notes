@@ -22,7 +22,6 @@ Created: 2025-01-14
     - Spanish enslaved Native populations in the Caribbean and Latin America for labor (gold/silver mining).
     - English settlers in Virginia (1607) attempted similar methods.
 - **Transition to Enslaved Africans**
-    - Native resistance (fighting, escaping, blending with other groups) limited success.
     - Labor needed for tobacco cultivation → reliance on enslaved Africans.
 - **Indenture vs. Enslavement**
     - **Indenture**: Contractual labor with fixed terms.
@@ -38,11 +37,9 @@ Created: 2025-01-14
 - **Impact of the Enlightenment**
     - Push for "reason" and scientific categorization.
     - Developed hierarchical systems to classify the natural world, including humans.
-    - Used physical markers to justify social norms like slavery and genocide.
 - **Examples of Enlightenment Thinkers**
     - **Thomas Jefferson**: Claimed enslaved Africans required less sleep to justify inhumane work hours.
     - **Samuel Cartwright**: Introduced "drapetomania" as a supposed mental defect causing slaves to run away.
-    - Philosophers like Hegel and Kant excluded non-European groups from history and progress.
 ### Laws and Social Structures
 - **Naturalization and Citizenship**
     - 1790 U.S. law: citizenship limited to “free white persons.”
