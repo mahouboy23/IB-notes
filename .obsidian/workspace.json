@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MWC.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes week 2.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -228,7 +229,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "d13a06cb4474056d",
@@ -240,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,14 +293,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4a7a795f7b568e37",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
-    "Notes.md",
-    "Notes week 2.md",
+    "Nombre et Algèbre.md",
+    "Polynôme.md",
+    "Séries et Séquences.md",
+    "Logarithmes.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
     "MWC.md",
+    "Notes week 2.md",
+    "Notes.md",
     "template/MWC-.md",
     "Ottoman empire.md",
-    "IB overview.md",
     "Le CPU.md",
     "Untitled 15.md",
     "template/Exercise-.md",
@@ -310,15 +317,10 @@
     "hl subjects/Computer science.md",
     "Intro to business.md",
     "University.md",
-    "hl subjects/Math AA.md",
     "MATH INTERNAL ASSESMENT.md",
     "sl subjects/Economie.md",
     "sl subjects/English and Literature.md",
     "Dérivation.md",
-    "Calculus.md",
-    "English comp 1.md",
-    "Sample  Paragraph 2.md",
-    "Sample Paragraph 1.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
