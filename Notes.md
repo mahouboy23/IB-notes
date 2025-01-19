@@ -68,44 +68,39 @@
 
 
 
-A common way of thinking about racism is as a view or set of beliefs about the inequality of races, in which some are considered inferior to others. Because this inequality or inferiority is frequently conceived biological-ly,6 it has been argued that this position can be traced to the development of a science of race and to modernity.7 For some, however, racism is rather
-a habit of perception that informs and controls the way some people see
-some other people,8 and others focus on actions that affect adversely, or
-discriminate against, those toward whom they are directed.9 Some add the
-condition that racism includes an institutional system of power and in-
-equality,10 so that those who lack power, even if they view or act
-negatively toward members of a race, are not racist. 11 And others stipulate
-the condition that for a view or an action to qualify as racist it needs to be
-motivated by ideology.12 Often these emphases are combined in various
-ways among themselves and with others,13 presenting an almost chaotic
-picture of racism and giving support to those who claim that racism is not
-a unified phenomenon.14 Indeed, recently some postmodernists have
-adopted a position in which racism is considered to be "whatever it is
-claimed to be in discourse," which means that anything anyone says about
-racism is acceptable insofar as there is no way to determine whether any
-view is better than any other.15 The only point on which there seems to be
-wide agreement about racism is in its negative moral quality. 16
-None of the views mentioned is adequate for our present purposes.
-Some are too broad in that they include within racism many phenomena
-that are clearly not so. Others are too narrow in that they leave out of the
-category phenomena that clearly belong in it. And still others do not
-conform to any ordinary understanding of racism or are inadequate for
-any attempt at developing a systematic conception of it. Fortunately, it is
-not necessary for us to settle the question of the appropriate understand-
-ing of racism in order to address the issues that concern us here. For our
-purposes, it suffices that we adopt a view of racism that is sufficiently
-broad to accommodate the parameters of the controversy we address
-without prejudice. I propose the following:
-Racism is an attitude toward individual members of a racial group or
-toward the racial group as a whole, merely in virtue of the race, and a
-racist is someone who has this attitude.
-The conception of racism as an attitude is not universally accepted, but
-the language employed by many of those who discuss racism leaves room for it insofar as in their discourse they use terms such as hostility, contempt
-condescension, and prejudice, which can be interpreted as attitudes. r
-Moreover, the broad conception proposed has advantages for the presen
-discussion in that it allows for a distinction between self-directed racisn
-and other-directed racism and between negative and positive racisms
-without ruling any of these out at the outset. It is for these reasons that
-adopt it, but note also that most of the arguments that follow do no
-depend on this particular conception of racism, nor do I have space
-to justify it; my aim in adopting this view is primarily heuristic.
+Other-directed racism is an attitude that people who consider them-
+elves to belong to a particular race have concerning certain other people
+hat they regard as belonging to a different race precisely because they are
+embers of it. Self-directed racism is an attitude that people who consider
+hemselves to belong to a particular race have concerning themselves
+recisely because they belong to the race. Negative racism consists Of a
+egative attitude toward a race or its members, whereas positive racism
+onsists of a positive one. Other-directed, self-directed, negative, and
+Sitive racisms can be combined. An example of other-directed negative
+acism is the attitude toward "Blacks" that was, and still is, common
+mong some "Whites" in the United States. It is negative because to be
+identified as "Black" carries with it negative connotations and it is other-
+irected because it is held by one group of people against another group.
+n example of self-directed positive racism is the attitude toward
+'Blacks" and being "Black" exemplified by the Black Power Movement
+in the sixties. In this case, the emphasis was on "Black" identity and its
+ositive aspects. The aim was to develop pride on the part of "Blacks" in
+eing "Black" and in those attributes that were thought to be associated
+with being "Black." Similar examples can be given of other-directed
+ositive racism and self-directed negative racism.
+
+In ordinary discourse the term 'racist' is used to refer to groups,
+societies, institutions, and cultures in addition to individual persons, and
+212
+JORGE J.E. GRACIA
+it is often reserved for the negative phenomenon.18 A positive attitude
+toward members of a racial group, or the racial group itself, held merely
+in virtue of racial considerations, on the other hand, is often called racial
+pride or kinship, when the attitude belongs to the members of the racial
+group in question. 19 There is no name in general use for persons who have
+this positive attitude with respect to members of racial groups, or to racial
+groups considered as wholes, to which they do not belong, although there
+are expressions of this sort for particular racial groups, usually pejorative
+and used primarily by those who have a negative racist attitude toward the
+group. This has been one of the reasons many object to the use of 'racism'
+for any kind of positive racial attitude.20
