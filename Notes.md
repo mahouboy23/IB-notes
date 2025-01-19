@@ -65,3 +65,6 @@
 ## Discussion notes Columbian exchange
 - Alfred Crosby 1972
 - It lasted between 200 and 300 years
+
+
+
