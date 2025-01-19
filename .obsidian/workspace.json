@@ -290,12 +290,16 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7eb086f7d9f2d693",
   "lastOpenFiles": [
+    "assets/Notes/file-20250119223820205.png",
+    "assets/Notes",
     "Notes week 2.md",
+    "Notes.md",
     "hl subjects/Math AA.md",
     "Nombre et Algèbre.md",
     "Polynôme.md",
@@ -303,7 +307,6 @@
     "Logarithmes.md",
     "IB overview.md",
     "MWC.md",
-    "Notes.md",
     "template/MWC-.md",
     "Ottoman empire.md",
     "Le CPU.md",
@@ -320,7 +323,6 @@
     "MATH INTERNAL ASSESMENT.md",
     "sl subjects/Economie.md",
     "sl subjects/English and Literature.md",
-    "Dérivation.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
@@ -340,7 +342,6 @@
     "assets/EXO 3 FRENCH",
     "common core/assets/EE/image-20240311072322318.png",
     "common core/assets/EE",
-    "common core/assets",
     "assets/Physics IA draft/image-20240305093206766.png",
     "politique d'offre.canvas",
     "Untitled 1.canvas",

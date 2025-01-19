@@ -68,3 +68,20 @@
 
 
 
+A common way of thinking about racism is as a view or set of beliefs about the inequality of races, in which some are considered inferior to others. Because this inequality or inferiority is frequently conceived biological-ly,6 it has been argued that this position can be traced to the development of a science of race and to modernity.7 For some, however, racism is rather
+a habit of perception that informs and controls the way some people see
+some other people,8 and others focus on actions that affect adversely, or
+discriminate against, those toward whom they are directed.9 Some add the
+condition that racism includes an institutional system of power and in-
+equality,10 so that those who lack power, even if they view or act
+negatively toward members of a race, are not racist. 11 And others stipulate
+the condition that for a view or an action to qualify as racist it needs to be
+motivated by ideology.12 Often these emphases are combined in various
+ways among themselves and with others,13 presenting an almost chaotic
+picture of racism and giving support to those who claim that racism is not
+a unified phenomenon.14 Indeed, recently some postmodernists have
+adopted a position in which racism is considered to be "whatever it is
+claimed to be in discourse," which means that anything anyone says about
+racism is acceptable insofar as there is no way to determine whether any
+view is better than any other.15 The only point on which there seems to be
+wide agreement about racism is in its negative moral quality. 16
