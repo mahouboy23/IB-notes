@@ -100,4 +100,12 @@ Racism is an attitude toward individual members of a racial group or
 toward the racial group as a whole, merely in virtue of the race, and a
 racist is someone who has this attitude.
 The conception of racism as an attitude is not universally accepted, but
-the language employed by many of those who discuss racism leaves room for
+the language employed by many of those who discuss racism leaves room for it insofar as in their discourse they use terms such as hostility, contempt
+condescension, and prejudice, which can be interpreted as attitudes. r
+Moreover, the broad conception proposed has advantages for the presen
+discussion in that it allows for a distinction between self-directed racisn
+and other-directed racism and between negative and positive racisms
+without ruling any of these out at the outset. It is for these reasons that
+adopt it, but note also that most of the arguments that follow do no
+depend on this particular conception of racism, nor do I have space
+to justify it; my aim in adopting this view is primarily heuristic.
