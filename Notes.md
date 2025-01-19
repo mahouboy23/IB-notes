@@ -85,3 +85,6 @@ claimed to be in discourse," which means that anything anyone says about
 racism is acceptable insofar as there is no way to determine whether any
 view is better than any other.15 The only point on which there seems to be
 wide agreement about racism is in its negative moral quality. 16
+
+iscussion in that it allows for a distinction between self-directed racism
+and other-directed racism and between negative and positive racisms,
