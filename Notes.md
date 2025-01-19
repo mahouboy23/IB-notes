@@ -85,6 +85,19 @@ claimed to be in discourse," which means that anything anyone says about
 racism is acceptable insofar as there is no way to determine whether any
 view is better than any other.15 The only point on which there seems to be
 wide agreement about racism is in its negative moral quality. 16
-
-iscussion in that it allows for a distinction between self-directed racism
-and other-directed racism and between negative and positive racisms,
+None of the views mentioned is adequate for our present purposes.
+Some are too broad in that they include within racism many phenomena
+that are clearly not so. Others are too narrow in that they leave out of the
+category phenomena that clearly belong in it. And still others do not
+conform to any ordinary understanding of racism or are inadequate for
+any attempt at developing a systematic conception of it. Fortunately, it is
+not necessary for us to settle the question of the appropriate understand-
+ing of racism in order to address the issues that concern us here. For our
+purposes, it suffices that we adopt a view of racism that is sufficiently
+broad to accommodate the parameters of the controversy we address
+without prejudice. I propose the following:
+Racism is an attitude toward individual members of a racial group or
+toward the racial group as a whole, merely in virtue of the race, and a
+racist is someone who has this attitude.
+The conception of racism as an attitude is not universally accepted, but
+the language employed by many of those who discuss racism leaves room for
