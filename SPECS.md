@@ -2,7 +2,7 @@
 tags : mod englais
 ---
 Created: 2023-10-02
-
+MEAL PLAN ACROYM
 ## SPECS Acronyme
 ?
 **S** = Start with the source
