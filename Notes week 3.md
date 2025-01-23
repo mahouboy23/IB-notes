@@ -33,7 +33,7 @@ Created: 2025-01-21
 - men used for hard work
 - women used as servants
 - Ancient Greece used non Greeks slave in Asia minor
-- 400 bc half the population of athen is enslaved
+- 400 bc half the population of Athens is enslaved
 - Roman use the example of ancient Greece
 - The Muslim conquest in the 7th century
 - In 652 the Nubians have treaty to provide slaves
@@ -54,3 +54,7 @@ Created: 2025-01-21
 - The slave trade act of 1788
 - Saint-Dominique were half a million slave and leads in export of sugar and ressources (1790)
 - Republique of Haiti claims independence in 1804
+- 1815 meet in Viena to end slave trade but it does not really stop yet
+- Liberia is used to send back for the first time Black African's
+- The UK abolishes slave trade (1836)
+- slavery abolished in America
