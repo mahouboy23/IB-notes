@@ -61,10 +61,11 @@ Created: 2025-01-21
 - THE BERLIN CONFERENCE 1885
 - Tippu Tip
 - Gulf slave abolish slavery but makes rules to keep people there to work
-- China admit re-education camps of islamic people.
+- China admit re-education camps of Islamic people.
 
 ## Class discussion
 ### Jamaica
 - 3 tier system
 - lasted 7 years
 - brought black enslaved women to create the next generation of enslaved people
+## The colonial roots of racism (Part 1): Slavery vs Indentured servitude
