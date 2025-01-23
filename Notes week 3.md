@@ -42,10 +42,15 @@ Created: 2025-01-21
 - Baghdad are the center of slaves
 - Domestic slavery are used to train in combat in Abbasid Caliphate
 - The Arab slave trade
-- The Arab discorver the barbor trade route
-- Portuhal use the caravel to discover Akan
+- The Arab discover the barbor trade route
+- Portugal use the caravel to discover Akan
 - Portugal find kongo and develop trade (slave, gold, sugar)
 - The ottoman empire dominate the trade route
-- 300 000  slaves used in america to cultivate
+- 300 000  slaves used in America to cultivate
 - The Netherlands, Portugal, England, France and Spain exchange textile and products to take enslaved Africans to cultivate land in America
-- 
+- The enslave people that escape are called Maroons
+- Fist abolishment movement
+- The Zong massacre
+- The slave trade act of 1788
+- Saint-Dominique were half a million slave and leads in export of sugar and ressources (1790)
+- Republique of Haiti claims independence in 1804
