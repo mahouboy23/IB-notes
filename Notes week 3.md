@@ -88,6 +88,7 @@ Created: 2025-01-21
 ## The Jamaican Maroon Wars: Liberated slaves vs British
 - 1605 english comes
 - 1500 Africans find them self free
+- Maroons mean untamed or wild
 - Spanish called them cimarrones (escaped enslaved Africans and indigenous people)
 - Many died of disease and over work in sugar production
 - heavy punish (like castration or burning alive)
