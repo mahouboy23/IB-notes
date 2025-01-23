@@ -58,9 +58,14 @@ Created: 2025-01-21
 - Liberia is used to send back for the first time Black African's
 - The UK abolishes slave trade (1836)
 - slavery abolished in America
+- THE BERLIN CONFERENCE 1885
+- Tippu Tip
+- Gulf slave abolish slavery but makes rules to keep people there to work
+- China admit re-education camps of islamic people.
 
 ## Class discussion
 ### Jamaica
 - 3 tier system
 - lasted 7 years
 - brought black enslaved women to create the next generation of enslaved people
+- 
