@@ -58,3 +58,9 @@ Created: 2025-01-21
 - Liberia is used to send back for the first time Black African's
 - The UK abolishes slave trade (1836)
 - slavery abolished in America
+
+## Class discussion
+### Jamaica
+- 3 tier system
+- lasted 7 years
+- brought black enslaved women to create the next generation of enslaved people
