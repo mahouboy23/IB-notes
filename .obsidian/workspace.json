@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "Notes week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "Notes week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes week 2.md"
+                "file": "Notes week 3.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes week 2.md",
+                "file": "Notes week 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,11 +306,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4b0cf2fddaeb7aa",
+  "active": "7eb086f7d9f2d693",
   "lastOpenFiles": [
+    "Notes week 2.md",
     "Notes week 3.md",
     "Peace act.md",
-    "Notes week 2.md",
     "MWC.md",
     "IB overview.md",
     "SPECS.md",

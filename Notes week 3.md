@@ -84,3 +84,18 @@ Created: 2025-01-21
 - slavery vs indentured servitude
 	- Gradual transformation
 	- slaves were expensive and longevity was not guaranteed
+
+## The Jamaican Maroon Wars: Liberated slaves vs British
+- 1605 english comes
+- 1500 Africans find them self free
+- Spanish called them cimarrones (escaped enslaved Africans and indigenous people)
+- Many died of disease and over work in sugar production
+- heavy punish (like castration or burning alive)
+- The Maroons fought back during the night
+- Nanny town in the blue mountains were home of Maroons (windword maroons)
+- Maroon elder Nanny
+- leewood maroon led by CAJOS
+- 1730 british send there armies
+- 1737 windward maroons restart the fight
+- 1791 Haiti start the rebellion
+- Nova scatia
