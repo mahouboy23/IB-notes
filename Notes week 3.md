@@ -26,3 +26,7 @@ Created: 2025-01-21
 ### Paragraph structure
 - Main idea
 - supporting evidence/explanation
+
+- ALIOU SOULEY NDIAYE
+- Charles pierre Faye
+- Youssoufa
