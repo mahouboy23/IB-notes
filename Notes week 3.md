@@ -101,3 +101,6 @@ Created: 2025-01-21
 - 1791 Haiti start the rebellion
 - Nova scatia
 
+## 5 reason the Atlantic slave trade ended
+- The enlightenment : it started to change the mind of people in power
+- The quackers : all human being are equal and needs respect
