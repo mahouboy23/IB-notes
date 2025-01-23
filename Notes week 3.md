@@ -68,4 +68,3 @@ Created: 2025-01-21
 - 3 tier system
 - lasted 7 years
 - brought black enslaved women to create the next generation of enslaved people
-- 
