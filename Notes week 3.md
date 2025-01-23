@@ -69,3 +69,18 @@ Created: 2025-01-21
 - lasted 7 years
 - brought black enslaved women to create the next generation of enslaved people
 ## The colonial roots of racism (Part 1): Slavery vs Indentured servitude
+- The Atlantic trade is the advent of choosing who was enslaved and who is not
+- African arrival in 1619
+- Arrived in Jamestown colony on august 20, 1619
+- Status ambiguous
+- European conflict and colonization  
+	 - forced other groups of Europeans into servitude
+	 - the concept was developed in Ireland by England
+	 - Mercantilism : colonies exist solely for the benefit of the mother country
+	 - enclosure movement
+	 - displacement of irish people
+	 - "vagrancy" and indentured servitude
+- Irish indented often banded together for rebellions
+- slavery vs indentured servitude
+	- Gradual transformation
+	- slaves were expensive and longevity was not guaranteed
