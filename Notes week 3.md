@@ -105,3 +105,4 @@ Created: 2025-01-21
 - The enlightenment : it started to change the mind of people in power
 - The quackers : all human being are equal and needs respect
 - The early feminist movement
+- the abolishment movement: it was organized movement to end slavery
