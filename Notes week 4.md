@@ -29,6 +29,5 @@ Created: 2025-01-28
 - seven year war
 - duties 
 - Boston massacre (Christmas attic)
-- 
 
 ## Class discussion
