@@ -35,4 +35,6 @@ Created: 2025-01-28
 - mass frustration
 - shared motivation 
 - state crisis
+  
+## What actually happened when slaves were freed
 ## Class discussion
