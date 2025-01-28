@@ -27,5 +27,6 @@ Created: 2025-01-28
 ## Why did the American Revolution Start?
 - Mercantilism
 - seven year war
+- duties
 
 ## Class discussion
