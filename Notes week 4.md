@@ -25,6 +25,7 @@ Created: 2025-01-28
 - Use pseudo-science to separate themself 
 
 ## Why did the American Revolution Start?
-
+- Mercantilism
+- seven year war
 
 ## Class discussion
