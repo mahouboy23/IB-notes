@@ -37,4 +37,5 @@ Created: 2025-01-28
 - state crisis
   
 ## What actually happened when slaves were freed
+
 ## Class discussion
