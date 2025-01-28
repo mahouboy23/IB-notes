@@ -23,3 +23,5 @@ Created: 2025-01-28
 - 1884 berlin conference
 - new technologies
 - Use pseudo-science to separate themself 
+
+## Class discussion
