@@ -24,4 +24,6 @@ Created: 2025-01-28
 - new technologies
 - Use pseudo-science to separate themself 
 
+## The Difference between French and British Colonialism in Africa
+
 ## Class discussion
