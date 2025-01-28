@@ -30,4 +30,9 @@ Created: 2025-01-28
 - duties 
 - Boston massacre (Christmas attic)
 
+## Revolution 101
+- dissident elites
+- mass frustration
+- shared motivation 
+- state crisis
 ## Class discussion
