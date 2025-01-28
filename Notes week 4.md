@@ -44,3 +44,4 @@ Created: 2025-01-28
 
 ## Class discussion
 - The term Ghetto came form the holocaust
+- Lynching
