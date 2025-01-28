@@ -22,3 +22,4 @@ Created: 2025-01-28
 - Belgium and king Leopold the II
 - 1884 berlin conference
 - new technologies
+- Use pseudo-science to separate themself 
