@@ -12,6 +12,7 @@ tags:
 - [[Economie]] 💰
 - [[English and Literature]] ✍
 - [[Physics]] 🔭
+- [[Chinese]] 
 
 ## Common core
 - [[TOK]] 🧠
