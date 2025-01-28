@@ -38,4 +38,8 @@ Created: 2025-01-28
   
 ## What actually happened when slaves were freed
 
+
+## The great migration & the Harlem Renaissances 
+
+
 ## Class discussion
