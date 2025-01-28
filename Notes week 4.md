@@ -17,7 +17,7 @@ Created: 2025-01-28
 - Macedonia & Bulgaria: languages mutually intelligible, Orthodox with Muslim minorities.
 - Notable smaller groups: Sorbs (Germany), Kashubians (Poland), Pomaks (Muslim Slavs).
 
-## How Europe
+## How Europe stole Africa so Quickly, Mapped
 - White mens grave
 - Belgium and king Leopold the II
 - 1884 berlin conference
