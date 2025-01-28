@@ -7,4 +7,4 @@ Created: 2025-01-28
 
 ## Discussion notes
 
-## Who are the slav
+## Who are the Slavs?
