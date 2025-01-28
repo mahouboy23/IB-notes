@@ -5,8 +5,6 @@ tags:
 ---
 Created: 2025-01-28
 
-## Discussion notes
-
 ## Who are the Slavs?
 - 13 countries, 350M Slavs globally.
 - Russia: largest (140M), Orthodox, Russian widely spoken.
@@ -18,3 +16,6 @@ Created: 2025-01-28
 - Montenegro: smallest Slavic country (620K), Orthodox, youngest (2006).
 - Macedonia & Bulgaria: languages mutually intelligible, Orthodox with Muslim minorities.
 - Notable smaller groups: Sorbs (Germany), Kashubians (Poland), Pomaks (Muslim Slavs).
+
+## How Europe
+- White mens grave
