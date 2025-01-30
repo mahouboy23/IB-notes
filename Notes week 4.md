@@ -82,6 +82,8 @@ Created: 2025-01-28
 - the aristocracy, the clergy and peasant were the previous classes
 - entrepreneurs and investors grew more in social class, power and money
 - new educated class appeared (middle class)
-- the service sector (white color jobs )
+- the service sector (white color jobs)
+- search of equality from women and was helped by the industrial revolution
+- 
 
 ## Class discussion
