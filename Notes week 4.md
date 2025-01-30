@@ -108,8 +108,8 @@ Created: 2025-01-28
 - Women suffrage
 
 ## The
-- Elizabeth and Cady standy
-- African women organised in churches
+- Elizabeth and Cathy standy
+- African women organized in churches
 - Seneca falls black women was not invited
 - Sojourner truth a abolitionist
 - Mid 19th s century
