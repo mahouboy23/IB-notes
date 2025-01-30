@@ -46,3 +46,4 @@ Created: 2025-01-28
 - The term Ghetto came form the holocaust
 - Lynching
 - Legacy
+- Harlem renaissance
