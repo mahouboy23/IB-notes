@@ -107,4 +107,19 @@ Created: 2025-01-28
 - Jackie Speier
 - Women suffrage
 
+## The
+- Elizabeth and Cady standy
+- African women organised in churches
+- Seneca falls black women was not invited
+- Sojourner truth a abolitionist
+- Mid 19th s century
+- Seneca falls meeting and movement undermine black women
+- Alpha suffrage club were mistreated in the greater women suffrage mouvement
+- suffrage mouvement walk IDA B WELLS was rejected
+- the 19th amendment was not the end of women injustice
+- African women can not vote and was still subject to laws like Jim Crow
+- new movement was created till 1965 with the voting act
+- Nse Ufon
+- 
+
 ## Class discussion
