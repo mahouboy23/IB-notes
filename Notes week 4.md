@@ -50,4 +50,13 @@ Created: 2025-01-28
 - Harlem renaissance
 
 # CLASS 2
-## Origins of the
+## Origins of the industrial revolution | World History Project
+- Produces goods on a larger scale (mass production)
+- it changed the landscape, environment, nutrition etc...
+- It started in Northern England in the mid 18th century
+- Colliery fueled the industrialisation
+- invented first in China
+- large amount of coal in Britain 
+- engines and steam
+
+## Class discussion
