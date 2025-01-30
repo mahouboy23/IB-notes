@@ -65,7 +65,7 @@ Created: 2025-01-28
 - using enslaved African to fund the Britain industrialisation
 - exploitation of workers
 
-## How did the industrial revolution
+## How did the industrial revolution affect people's Lives
 - The Samaritans
 - progress in transportation and communication
 - change in quantitative and qualitative manner
@@ -84,6 +84,6 @@ Created: 2025-01-28
 - new educated class appeared (middle class)
 - the service sector (white color jobs)
 - search of equality from women and was helped by the industrial revolution
-- 
+- Pollution grew exponentially 
 
 ## Class discussion
