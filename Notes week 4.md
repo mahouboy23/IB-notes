@@ -98,7 +98,7 @@ Created: 2025-01-28
 - 1872 suthans
 - Women ran for position of power
 - 1890 they deicded to stick together
-- marchs and other activites like wearing all white, purple that repesented purity
+- march's and other activites like wearing all white, purple that repesented purity
 - Big turning point was world war I
 - women had a lot of important jobs in the war
 - Alice Paul Equal right mouvement
@@ -116,10 +116,11 @@ Created: 2025-01-28
 - Seneca falls meeting and movement undermine black women
 - Alpha suffrage club were mistreated in the greater women suffrage mouvement
 - suffrage mouvement walk IDA B WELLS was rejected
+- she joined Illinois delegation
 - the 19th amendment was not the end of women injustice
 - African women can not vote and was still subject to laws like Jim Crow
 - new movement was created till 1965 with the voting act
 - Nse Ufon
-- 
+
 
 ## Class discussion
