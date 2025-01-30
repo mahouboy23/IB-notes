@@ -301,14 +301,15 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4a7a795f7b568e37",
   "lastOpenFiles": [
-    "Notes week 3.md",
-    "Notes week 4.md",
     "Notes week 2.md",
+    "Notes week 4.md",
+    "Notes week 3.md",
     "Chinese.md",
     "MWC.md",
     "IB overview.md",
