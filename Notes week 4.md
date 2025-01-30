@@ -58,5 +58,11 @@ Created: 2025-01-28
 - invented first in China
 - large amount of coal in Britain 
 - engines and steam
+- textile and trade
+- lace was produced in Nottingham
+- Finance / high wages
+- Empire trade (Colonies)
+- using enslaved African to fund the Britain industrialisation
+- exploitation of workers
 
 ## Class discussion
