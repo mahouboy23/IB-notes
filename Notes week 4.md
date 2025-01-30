@@ -86,4 +86,25 @@ Created: 2025-01-28
 - search of equality from women and was helped by the industrial revolution
 - Pollution grew exponentially 
 
+## What You need to know about women suffrage | Knowthis
+- The 19th amendment 1920
+- country policies
+- 6% were the ones who could vote
+- The view was that women was not capable
+- Elizabeth and cashi mawth
+- the independence of sentiment
+- Racism was a divider in the movement
+- France thurther
+- 1872 suthans
+- Women ran for position of power
+- 1890 they deicded to stick together
+- marchs and other activites like wearing all white, purple that repesented purity
+- Big turning point was world war I
+- women had a lot of important jobs in the war
+- Alice Paul Equal right mouvement
+- 19th amendment
+- Oprah Winfrey
+- Jackie Speier
+- Women suffrage
+
 ## Class discussion
