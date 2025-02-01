@@ -35,7 +35,7 @@ Created: 2025-01-28
 - duties 
 - Boston massacre (Christmas attic)
 
-## Revolution 101
+##  Revolutions 101 | National Geographic
 - dissident elites
 - mass frustration
 - shared motivation 
