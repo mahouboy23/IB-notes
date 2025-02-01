@@ -36,10 +36,22 @@ Created: 2025-01-28
 - Boston massacre (Christmas attic)
 
 ##  Revolutions 101 | National Geographic
-- dissident elites
-- mass frustration
-- shared motivation 
-- state crisis
+- Dissident elites (wealthy/powerful challengers)
+- Mass frustration (public anger at systems)
+- Shared motivation (unifying cause across classes)
+- State crises (govt. failure)
+- **American Revolution (1776-1783)**:
+    - Led by elites like Thomas Jefferson.
+    - Colonial revolt against British rule.
+- **French Revolution (1789)**:
+    - Economic crisis + feudal inequality.
+    - Monarchy overthrown → republic.
+- **Latin American Revolutions (early 1800s)**:
+    - Inspired by Enlightenment ideas.
+    - Multi-class rebellion vs. Spain/Portugal.
+- **Russian Revolution (1917)**:
+    - WWI losses crippled govt.
+    - Imperial rule → communist regime.
   
 ## What actually happened when slaves were freed
 
