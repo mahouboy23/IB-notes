@@ -72,7 +72,18 @@ Created: 2025-01-28
 - Systemic racism post-freedom
 
 ## The great migration & the Harlem Renaissances 
-
+- Great Migration: South → North (Jim Crow, KKK, lynchings)
+- Disenfranchisement (literacy tests, grandfather clause)
+- Harlem Renaissance: jazz, literature, art explosion
+- Louis Armstrong (jazz), Duke Ellington (sophistication)
+- Langston Hughes: "The Negro Speaks of Rivers" (pride)
+- Zora Neale Hurston, James Weldon Johnson (writers)
+- Oscar Micheaux: black filmmaker (caste, Jim Crow themes)
+- Racial pride: rejecting "Uncle Tom" stereotypes
+- Harlem: cultural hub (intellectuals, artists)
+- Inspired 1950s-60s civil rights movements
+- Hollywood stereotypes vs. black-led films
+- Legacy: cultural validation, progress foundation
 
 ## Class discussion
 - The term Ghetto came form the holocaust
@@ -153,5 +164,3 @@ Created: 2025-01-28
 - new movement was created till 1965 with the voting act
 - Nse Ufon
 
-
-## Class discussion
