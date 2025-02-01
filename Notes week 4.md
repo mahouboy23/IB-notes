@@ -21,6 +21,9 @@ Created: 2025-01-28
 ## How Europe stole Africa so Quickly, Mapped
 - White mens grave
 - Belgium and king Leopold the II
+- - Arbitrary borders causing modern conflicts.
+- Global economic systems favoring Europe.
+- Spread of European languages (e.g., English).
 - 1884 berlin conference
 - new technologies
 - Use pseudo-science to separate themself 
