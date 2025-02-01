@@ -54,7 +54,22 @@ Created: 2025-01-28
     - Imperial rule → communist regime.
   
 ## What actually happened when slaves were freed
-
+- Emancipation Proclamation 1862
+- Post-Civil War complexity
+- Older ex-slaves stayed (paid work)
+- Booker T. Washington’s anxiety
+- Thomas Rutling: 2 years post-freedom → Nashville, Fisk University
+- Annie L. Burton: young fled, sick stayed
+- Plantation contracts (delayed pay)
+- Charles Hays: hidden news, drunken "Jubilee"
+- James T. Ayres: Union recruiter, armed confrontations
+- Mixed emotions: celebration + pity
+- Samuel Spottford Clement: newspaper announcement, most stayed
+- Ashby’s warnings → thrift advice
+- Aunt Susan: saved, bought house
+- Juneteenth 1865 (Texas), 1980 state holiday
+- Wage labor replacing slavery
+- Systemic racism post-freedom
 
 ## The great migration & the Harlem Renaissances 
 
