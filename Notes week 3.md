@@ -107,3 +107,29 @@ Created: 2025-01-21
 - The early feminist movement
 - the abolishment movement: it was organized movement to end slavery
 - The american civil war
+
+Ok i have an assignment from a modern world civilization class (HIST 111). So I want you to do it. here is the question : Base the following question on our in-class discussions, video viewing, textbook readings, and your individual study research.
+
+What have you learned or been exposed to in Weeks 3 and 4 that impacted you personally or opened your mind about the history of modern world civilizations and your connection to it?
+
+Ok know i want you to answer to this question but there are a few things you need to know.
+
+First of all when answering the assignment you have to use the MLA format and respect it's rules. You need to also use simple English, no complicated words or sophisticated vocabulary. Keep it as simple and concise as possible and try not to sound AI. Also answer as if you were me, as if I'm the one answering.
+
+Second of all as it was stated in the question you have to use what we did in our class so I will provide with my class notes and other stuff that you need to know.
+
+Last of all How i want you to answer to this question is to first of all tell what impacted me the most and detail why (The Jamaican Maroon Wars and jamaican enslaved period).
+
+then talk a bit of the subject and what i got retained and then go into a parralel and how it relates to modern times about the tactic of how white people used conflict between black people to take control and how it still happens.
+
+then finaly close it with further research i did (something i learned more while doing "research") but just one source and one piece of thing of course provide the reference and use MLA STYLE.
+
+Also for the length and how it should like here is a previous example of an assignment i did. Use this as an example and reference :
+
+I would like to add a widely debated topic in the modern day related to the evolution of “race”: the concept of “racism.” As it was said in the video The Origin of Race in the USA, early definitions of race were about kinship and affiliation. However, a shift in the 17th and 18th centuries, brought about by slavery and the need for superiority, created the pseudoscience of race. Over the years, racism has been rooted in segregation, prejudice, and discrimination based on race, particularly between groups like “blacks” and “whites.” In our day and age, the term has become ambiguous and has many definitions, often tied to physical appearance, societal structures, and harmful ideas.
+
+What I would like to add to this discussion is the idea, brought from a text by Jorge J. E. Gracia titled “Racism: Negative and Positive?” Gracia argues that racism has four important aspects: self-directed racism, other-directed racism, and the distinctions between negative and positive forms of racism (Gracia 211).
+
+This brings me to the second part of the question, where I believe the concept of self-directed racism and other-directed racism is useful in analyzing positive and negative contexts of racism. Self-directed racism is an attitude individuals hold about their own race, whether positive or negative. For example, the Black Power Movement in the 1960s is an example of self-directed positive racism because it focused on having pride in “Black” identity and showing its positive aspects. Other-directed racism, on the other hand, is an attitude one racial group holds about another. A historical example of other-directed negative racism is the discrimination against “Black” individuals by White individuals in the United States, where being identified as “Black” carried negative connotations.
+
+Source : Gracia, Jorge J. E. “Racism: Negative and Positive?” The Monist, vol. 93, no. 2, 2010, pp. 208–27. JSTOR, http://www.jstor.org/stable/41418989. Accessed 19 Jan. 2025.
