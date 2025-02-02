@@ -118,9 +118,15 @@ First of all when answering the assignment you have to use the MLA format and re
 
 Second of all as it was stated in the question you have to use what we did in our class so I will provide with my class notes and other stuff that you need to know.
 
-Last of all How i want you to answer to this question is to first of all tell what impacted me the most and detail why (The Jamaican Maroon Wars and jamaican enslaved period).
+Last of all How i want you to answer to this question is to first of all tell what impacted me the most and detail why (The Jamaican Maroon Wars and jamaican enslaved period). the subject is : The Jamaican Maroon Wars: Liberated slaves vs British. also use this if you want ## Class discussion
 
-then talk a bit of the subject and what i got retained and then go into a parralel and how it relates to modern times about the tactic of how white people used conflict between black people to take control and how it still happens.
+### Jamaica
+
+- 3 tier system
+
+- lasted 7 years
+
+- brought black enslaved women to create the next generation of enslaved peoplethen talk a bit of the subject and what i got retained and then go into a parralel and how it relates to modern times about the tactic of how white people used conflict between black people to take control and how it still happens.
 
 then finaly close it with further research i did (something i learned more while doing "research") but just one source and one piece of thing of course provide the reference and use MLA STYLE.
 
