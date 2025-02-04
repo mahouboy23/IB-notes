@@ -13,3 +13,16 @@ Created: 2025-02-04
 - Nigeria joined BRICS
 
 ## Overview of the 2nd Industrial Revolution
+- Second Industrial Revolution: 1870–1914
+- Steel replaces iron (Bessemer process: cheaper, stronger)
+- in 1913 32m of tons of steel were produced (Belgium, France, Britain)
+- Electricity > steam/coal (factories, homes, light bulb)
+- Light bulb: 24/7 factories, streetlights, nightlife
+- Consumer goods: washing machines, vacuums, refrigerators
+- Communication: telephone (Bell), wireless telegraphy (radio)
+- Transportation: streetcars, subways, automobiles (urban expansion)
+- Mass production: assembly lines, interchangeable parts
+- Global marketplace: steamships, industrialized nations dominate
+- Key figures: Henry Bessemer (steel), Thomas Edison (light bulb)
+- Cities grow upward (skyscrapers), outward (suburbs)
+- Dark side: poor working conditions, imperialism (next unit)
