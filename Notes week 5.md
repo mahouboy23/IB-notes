@@ -5,6 +5,10 @@ tags:
 ---
 Created: 2025-02-04
 
+# Independent Viewing
+
+## 15 Black Inventors and Inventions That Were Silenced
+
 # CLASS 1
 
 ## Class discussion
