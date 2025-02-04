@@ -149,7 +149,7 @@ Created: 2025-01-28
 - Jackie Speier
 - Women suffrage
 
-## The
+##   Black Women and the Right to Vote | The History You Didn't Learn | TIME
 - Elizabeth and Cathy standy
 - African women organized in churches
 - Seneca falls black women was not invited
