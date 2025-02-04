@@ -23,6 +23,6 @@ Created: 2025-02-04
 - Transportation: streetcars, subways, automobiles (urban expansion)
 - Mass production: assembly lines, interchangeable parts
 - Global marketplace: steamships, industrialized nations dominate
-- Key figures: Henry Bessemer (steel), Thomas Edison (light bulb)
+- Key figures: Henry Bessemer (steel), Thomas Edison (light bulb) but hold a dark secret
 - Cities grow upward (skyscrapers), outward (suburbs)
-- Dark side: poor working conditions, imperialism (next unit)
+- Dark side: poor working conditions, imperialism, Black inventors are hidden
