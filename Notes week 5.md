@@ -8,6 +8,21 @@ Created: 2025-02-04
 # Independent Viewing
 
 ## 15 Black Inventors and Inventions That Were Silenced
+- **Gladis West**: Created GPS foundation model.
+- **John Standard**: Improved refrigerator and gas stove design.
+- **Lewis Latimer**: Improved carbon filaments for light bulbs.
+- **Elijah McCoy**: Invented automatic steam engine lubricators (“The Real McCoy”).
+- **Alexander Miles**: Patented automatic elevator doors.
+- **Benjamin Bradley**: Built powerful steam engines (bought his freedom).
+- **Henry Blair**: Patented seed and cotton planters (2nd Black patent holder).
+- **Alice Ball**: Developed first effective leprosy treatment.
+- **Garrett Morgan**: Invented traffic light and gas mask prototype.
+- **Granville T. Woods**: Created induction telegraph (early voice communication tech).
+- **Benjamin Banneker**: Mathematician, astronomer, helped design DC borders.
+- **Mary Kenner**: Invented sanitary pads (patented in 1957).
+- **George Washington Carver**: Innovated crop rotation, new uses for peanuts.
+- **Bessie Blount Griffin**: Invented self-feeding device for amputees.
+- **Philip Emeagwali**: Advanced high-performance computing (disputed claims).
 
 # CLASS 1
 
