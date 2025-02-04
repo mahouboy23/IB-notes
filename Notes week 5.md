@@ -12,4 +12,4 @@ Created: 2025-02-04
 - Congo war over there ressources in cobolt and copper
 - Nigeria joined BRICS
 
-## Overview of the 1nd Industrial Revolution
+## Overview of the 2nd Industrial Revolution
