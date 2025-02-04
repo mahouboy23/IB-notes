@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese.md",
+                "file": "Notes week 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes week 3.md",
+                "file": "Notes week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes week 3.md",
+                "file": "Notes week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes week 3.md"
+                "file": "Notes week 5.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes week 3.md",
+                "file": "Notes week 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,17 +301,20 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7eb086f7d9f2d693",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
     "Notes week 4.md",
-    "Notes week 2.md",
-    "Notes week 3.md",
-    "Chinese.md",
+    "Notes week 5.md",
     "MWC.md",
     "IB overview.md",
+    "template/MWC-.md",
+    "Chinese.md",
+    "Notes week 3.md",
+    "Notes week 2.md",
     "Peace act.md",
     "Notion de système.md",
     "hl subjects/Math AA.md",
@@ -329,13 +332,11 @@
     "Polynôme.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
-    "template/MWC-.md",
     "Ottoman empire.md",
     "Le CPU.md",
     "Untitled 15.md",
     "template/Exercise-.md",
     "template/(Every M) English comp 1.md",
-    "template/CAS-.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
