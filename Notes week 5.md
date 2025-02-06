@@ -63,15 +63,18 @@ Created: 2025-02-04
 - and ending birthright citizenship
 - learning to not depend on US or Powers financially
 - Trump uses national security as an excuse to not back W.H.O
-- Trump wants to use fossil fuels and not take green iniatives
+- Trump wants to use fossil fuels and not take green initiatives
 
 ## BRICS EXPANDS TO 55% OF WORLD POPULATION BY ADDIND NIGERIA
 - Nigeria joined BRICS
 - Brésil is the chair (rotates every year)
-- two main goals ( deepening south economy's, reforming international governments)
+- two main goals (deepening south economy's, reforming international governments)
 - They are trying to reduce western dominance
 - Indonesia joined 2 weeks before Nigeria
 - Indonesia started the non-aligned movement
 - They are trying to de-dollarize global economy
 - They have 54% of world population in the world
 - GDP represents 42% of the world economy
+
+## AFRIA HAS UNLIMITED
+- 
