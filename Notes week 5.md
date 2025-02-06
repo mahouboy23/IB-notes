@@ -61,3 +61,5 @@ Created: 2025-02-04
 - Declaration of national energy emergency
 - suspending refugee programs
 - and ending birthright citizenship
+- learning to not depend on US or Powers financially
+- 
