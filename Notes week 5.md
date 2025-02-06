@@ -62,4 +62,5 @@ Created: 2025-02-04
 - suspending refugee programs
 - and ending birthright citizenship
 - learning to not depend on US or Powers financially
-- 
+- Trump uses national security as an excuse to not back W.H.O
+- Trump wants
