@@ -52,3 +52,12 @@ Created: 2025-02-04
 - 1000 of the rich's white American has accumulated more wealth then all of black and latino American
 -  black star line founded by Marcus Garvey
 - **executive order** : is a instruction or directive by the president of the United States that manages operations of the federal government.
+
+## Donald trumps executive order that can impact Africa
+- suspension of foreign aid program
+- Collect Tariffs, impact on EGOA
+- WITHDRAWAL FROM THE PARIS CLIMATE AGREEMENT
+- Withdrawal from the W.H.O
+- Declaration of national energy emergency
+- suspending refugee programs
+- and ending birthright citizenship
