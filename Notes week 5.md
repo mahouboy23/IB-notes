@@ -45,3 +45,5 @@ Created: 2025-02-04
 - Key figures: Henry Bessemer (steel), Thomas Edison (light bulb) but hold a dark secret
 - Cities grow upward (skyscrapers), outward (suburbs)
 - Dark side: poor working conditions, imperialism, Black inventors are hidden
+
+# CLASS 1
