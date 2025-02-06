@@ -73,3 +73,4 @@ Created: 2025-02-04
 - Indonesia joined 2 weeks before Nigeria
 - Indonesia started the non-aligned movement
 - They are trying to de-dollarize global economy
+- They have 54% of world population in the world
