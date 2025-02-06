@@ -47,3 +47,8 @@ Created: 2025-02-04
 - Dark side: poor working conditions, imperialism, Black inventors are hidden
 
 # CLASS 1
+
+## Class discussion
+- 1000 of the rich's white American has accumulated more wealth then all of black and latino American
+-  black star line founded by Marcus Garvey
+- 
