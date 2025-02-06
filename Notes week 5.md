@@ -77,4 +77,8 @@ Created: 2025-02-04
 - GDP represents 42% of the world economy
 
 ## AFRIA HAS UNLIMITED
-- 
+- The technology (internet)
+- entrepreneur
+- education
+- e-fracstructure (not infrastructure)
+- e-government
