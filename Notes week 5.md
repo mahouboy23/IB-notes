@@ -80,5 +80,7 @@ Created: 2025-02-04
 - The technology (internet)
 - entrepreneur
 - education
-- e-fracstructure (not infrastructure)
+- e-infracstructure (not infrastructure)
 - e-government
+
+## 
