@@ -75,6 +75,7 @@ Created: 2025-02-04
 - They are trying to de-dollarize global economy
 - They have 54% of world population in the world
 - GDP represents 42% of the world economy
+- OPEC
 
 ## AFRIA HAS UNLIMITED
 - The technology (internet)
@@ -83,4 +84,4 @@ Created: 2025-02-04
 - e-infracstructure (not infrastructure)
 - e-government
 
-## 
+## Trump: Overseeing the downfall
