@@ -95,3 +95,10 @@ Created: 2025-02-04
 - Trump serves global capital, not national interests.
 - Media hides U.S. targeting via "price war" narrative.
 - Green energy abandoned; Gulf states invest in U.S. assets.
+
+
+Dear Dr. Hanan,
+
+I believe my participation in this course has been improving. While at the start I was less vocal, I actively engaged in class discussions as the course progressed, and contributed different ideas. I consistently attended classes, submitted assignments on time, and put effort into group work. However, I recognize I need to better my note-taking skills and review readings more seriously to better understand the course. Based on what i have accomplished, I feel a grade of 90/100 reflects my performance fairly. Thank you for your guidance.
+
+Sincerely, Mahouna Djokpe
