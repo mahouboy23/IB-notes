@@ -87,4 +87,11 @@ Created: 2025-02-04
 - e-government
 
 ## Trump: Overseeing the downfall
-- 
+- - Trump frames U.S. decline as "rebuilding" empire.
+- U.S. hegemonic decay inevitable (long-term mismanagement).
+- Oil: "Drill baby drill" vs. OPEC dominance (10vs.10vs.40/barrel).
+- 2020 OPEC/Russia oil crash targeted U.S. energy sector.
+- Risks: Energy bankruptcy, job losses, foreign buyouts.
+- Trump serves global capital, not national interests.
+- Media hides U.S. targeting via "price war" narrative.
+- Green energy abandoned; Gulf states invest in U.S. assets.
