@@ -79,7 +79,7 @@ Created: 2025-02-04
 - GDP represents 42% of the world economy
 - OPEC
 
-## AFRIA HAS UNLIMITED
+## Africa HAS unlimited business ideas and opportunities - Jack Ma
 - The technology (internet)
 - entrepreneur
 - education

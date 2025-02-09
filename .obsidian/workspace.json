@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Notes week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Notes week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Notes week 5.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University.md",
+                "file": "Notes week 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,11 +301,13 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "2f15bf864e3c1640",
   "lastOpenFiles": [
+    "University.md",
     "Notes week 4.md",
     "Notes week 5.md",
     "MWC.md",
@@ -317,7 +319,6 @@
     "Peace act.md",
     "Notion de système.md",
     "hl subjects/Math AA.md",
-    "University.md",
     "SPECS.md",
     "Notes.md",
     "sl subjects/English and Literature.md",
