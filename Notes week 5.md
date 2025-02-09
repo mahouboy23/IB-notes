@@ -80,11 +80,11 @@ Created: 2025-02-04
 - OPEC
 
 ## Africa HAS unlimited business ideas and opportunities - Jack Ma
-- The technology (internet)
-- entrepreneur
-- education
-- e-infracstructure (not infrastructure)
-- e-government
+- **Technology (Internet)**: Mobile-first adoption (leapfrog traditional systems), mobile payments (bypass credit cards), business tool (not just social/gaming).
+- **Entrepreneur**: Youth-driven, fearless innovation (no legacy burdens), focus on future opportunities.
+- **Education**: Overhaul outdated systems (200yo industrial-era models), prioritize digital/creative skills.
+- **E-Infrastructure**: Affordable internet access (phones for commerce, not just chat), enable "buy/sell anywhere."
+- **E-Government**: Transparency via digitization, internet dependency (govt can’t shut it down without self-harm).
 
 ## Trump: Overseeing the downfall
 - - Trump frames U.S. decline as "rebuilding" empire.
