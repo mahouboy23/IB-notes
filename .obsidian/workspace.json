@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b4ac0ace799c3fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MWC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f15bf864e3c1640",
             "type": "leaf",
             "state": {
@@ -44,6 +32,18 @@
             }
           },
           {
+            "id": "7eb086f7d9f2d693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes week 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a4b0cf2fddaeb7aa",
             "type": "leaf",
             "state": {
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "7eb086f7d9f2d693",
+            "id": "8b4ac0ace799c3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes week 3.md",
+                "file": "Notes week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MWC.md",
+                "file": "Notes week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MWC.md",
+                "file": "Notes week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MWC.md"
+                "file": "Notes week 1.md"
               }
             }
           },
@@ -252,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MWC.md",
+                "file": "Notes week 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,11 +307,12 @@
   },
   "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "MWC.md",
+    "Notes week 1.md",
     "IB overview.md",
     "University.md",
     "Notes week 5.md",
     "Notes week 4.md",
-    "MWC.md",
     "template/MWC-.md",
     "Chinese.md",
     "Notes week 3.md",
@@ -335,7 +337,6 @@
     "Le CPU.md",
     "Untitled 15.md",
     "template/Exercise-.md",
-    "template/(Every M) English comp 1.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",

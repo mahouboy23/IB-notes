@@ -1,0 +1,77 @@
+---
+tags:
+  - mod
+  - MWC
+---
+Created: 2025-02-10
+## HWC class 1: 
+- **Howard French**:
+    - Author of _Born in Blackness_, examining Africa's role in the making of the modern world.
+    - Inspired by his African-American ancestry, including complex family ties to slavery.
+    - Experienced journalist across the Atlantic world and East Asia.
+- **Africa's Role in Modernity**:
+    - Africans are the "glue" of the Atlantic world, providing labor and resources that built the "West."
+    - "The West" is defined as a community forged by Western Europe and the USA.
+    - Up to 1820, African labor far surpassed European migration to the Americas.
+    - Africans cultivated key crops, especially sugar, driving economic growth in the Americas.
+    - African sacrifice enabled the West's rise, bypassing older civilizations in East and South Asia.
+- **Historical Events and Narratives**:
+    - The first Christian was African, yet Africa's contributions to religion and civilization are downplayed.
+    - The conventional narrative claims the modern world began with Columbus' "discovery" of the Americas, ignoring Africa's earlier global impact.
+    - Mansa Musa's pilgrimage to Cairo (14th century) highlighted Africa's immense wealth, sparking European greed.
+    - Europeans sought African riches, seeing Africa not as a barrier to Asia but a source of wealth.
+    - Portugal, desperate for economic survival, initiated exploration of Africa, leading to the exploitation of Ghana's gold and later human resources.
+- **Slavery and Economic Exploitation**:
+    - Plantation systems were brutal death camps designed to extract maximum labor from enslaved Africans.
+    - Chattel slavery, developed on the island of São Tomé, expanded to Brazil, the Caribbean, and North America.
+    - Barbados alone generated more wealth for England in the 17th century than Spain extracted from the Americas.
+- **European Strategies**:
+    - Europeans exploited existing conflicts between African groups, bribing leaders with goods like firearms and alcohol to incite wars.
+    - This created chaos, generating captives for the transatlantic slave trade.
+    - Africa's wealth also spurred economic integration between Northern and Southern Europe through trade with Ghana.
+- **Colonial Expansion**:
+    - The Berlin Conference (1875) formalized the division of Africa among European powers but followed centuries of exploitation.
+    - Colonization shifted from slave labor to extraction of resources and domination of African markets under colonial control.
+- **Key Contributions and Impacts**:
+    - Africa's labor and resources were essential to Europe's rise and the creation of the Atlantic world.
+    - Without Africa, the economic foundations of the West, including sugar, gold, and labor, would not exist.
+    - Understanding this history challenges conventional narratives and underscores Africa's central role in global development.
+## HWC class 2: 
+- Dr. Cheikh Anta Diop is the guest, a renowned anthropologist and Egyptologist from Senegal.
+- At 23, Dr. Diop went to Paris for advanced studies in physics.
+- Honored in 1966 at the First World Festival of Black Arts in Dakar alongside W.E.B. Du Bois.
+- Director of the radiocarbon laboratory at the Fundamental Institute of Black Africa, University of Dakar.
+- Humanity originated in Africa, specifically around Kenya, Ethiopia, and Tanzania, extending to South Africa.
+- Early humans had black pigmentation to survive equatorial conditions; melanin provided protection.
+- First humans were black until leaving Africa and adapting to other climates, leading to racial diversity.
+- Six human species were created before reaching modern humans:
+    - The first three species never left Africa.
+    - The fourth and fifth species left Africa but became extinct.
+    - The sixth species is modern humans.
+- The "Grimaldi man," a prehistoric human of African origin, migrated to Europe 40,000 years ago.
+- During the last Ice Age (40,000–20,000 years ago), adaptations to colder climates resulted in lighter skin.
+- Modern white humans emerged from these adaptations.
+- Races originated due to geographical and climatic adaptation; without migration, humanity would have remained homogeneously black.
+- **Monogenetic Theory**:
+    - All humans have the same intellectual capacity, regardless of race.
+    - Anatomical studies of the brain globally confirm no differences between races.
+    - Historical and scientific consensus rejects the notion of racial superiority.
+    - Dominance by one race over another is temporary and has occurred throughout history (e.g., ancient times: black dominance; modern times: different balance).
+- **Polygenetic Theory and Piltdown Man**:
+    - Piltdown Man was a fraudulent fossil fabricated in 1912 to support polycentric origins of humans, claiming European origins.
+    - Exposed as a hoax in 1955 by Professor Oakley at the British Museum.
+- **Ancient Egyptian Representation**:
+    - Ancient Egyptian art depicts Egyptians as distinctly African with black features.
+    - Artistic depictions differentiate Egyptians from Europeans and Semites, showing closer ties to other African groups.
+    - Ancient texts by Greeks and Romans confirm Egyptians were black during the civilization's late period.
+- **Key Figures and Contributions**:
+    - First Egyptian king unified the Nile Valley ~3300 BCE.
+    - By the 3rd dynasty (~2800 BCE), Egyptian civilization had established architecture, mathematics, and medicine.
+    - Egyptian accomplishments predate Greek advancements by centuries.
+    - Ancient Egyptian religion included the first concepts of monotheism.
+- **Cultural Impact**:
+    - Egyptian civilization was foundational for African culture, similar to the role of Greco-Roman civilizations for the West.
+    - Black communities must reconnect with Egyptian history to strengthen identity and societal resilience.
+- **Modern Implications**:
+    - Knowing one's history is essential for strength and unity.
+    - Historical memory fosters cultural pride and aids in racial harmony globally.
