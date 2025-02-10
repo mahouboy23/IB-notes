@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes week 1.md",
+                "file": "Notes week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes week 1.md",
+                "file": "Notes week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes week 1.md"
+                "file": "Notes week 2.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes week 1.md",
+                "file": "Notes week 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,10 +305,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "a4b0cf2fddaeb7aa",
   "lastOpenFiles": [
-    "MWC.md",
     "Notes week 1.md",
+    "MWC.md",
     "IB overview.md",
     "University.md",
     "Notes week 5.md",
