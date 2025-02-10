@@ -17,8 +17,3 @@ TOK = A
 EE = A
 CAS = B
 
--Just Enough Items
--JourneyMap
--Waystones
--Nature’s Compass
--Simple Voice Chat

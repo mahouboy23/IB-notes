@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "MWC.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes week 5.md",
+                "file": "MWC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes week 5.md",
+                "file": "MWC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes week 5.md"
+                "file": "MWC.md"
               }
             }
           },
@@ -253,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes week 5.md",
+                "file": "MWC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,16 +300,17 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f15bf864e3c1640",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
-    "University.md",
-    "Notes week 4.md",
-    "Notes week 5.md",
-    "MWC.md",
     "IB overview.md",
+    "University.md",
+    "Notes week 5.md",
+    "Notes week 4.md",
+    "MWC.md",
     "template/MWC-.md",
     "Chinese.md",
     "Notes week 3.md",
