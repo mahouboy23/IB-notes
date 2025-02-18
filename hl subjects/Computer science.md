@@ -18,3 +18,6 @@ tags : subject cs
 
 [[Computer science classwork]] 
 
+----
+
+## **Class 1:** 
