@@ -100,15 +100,15 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.7",
     "libraryItems": [
       {
         "status": "unpublished",
         "elements": [
           {
             "type": "arrow",
-            "version": 56,
-            "versionNonce": 435464702,
+            "version": 57,
+            "versionNonce": 8833688,
             "isDeleted": false,
             "id": "K5A2bPdctv1SBNWxkre9n",
             "fillStyle": "hachure",
@@ -130,7 +130,7 @@
               "type": 2
             },
             "boundElements": [],
-            "updated": 1666110622594,
+            "updated": 1739891671891,
             "link": null,
             "locked": false,
             "startBinding": null,
@@ -147,7 +147,8 @@
                 510.03924560546875,
                 1.75262451171875
               ]
-            ]
+            ],
+            "index": "a0"
           }
         ],
         "id": "GjKUaIUM0Unqed_Sk3Osk",

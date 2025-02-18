@@ -57,6 +57,22 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "669b3dd77bf6073d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3efd5be92f9378c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5033760070801
+    "width": 211.50337600708008
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -136,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupe D financing.md"
+                "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md"
               }
             }
           },
@@ -229,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,9 +298,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f12555f332b39fa",
+  "active": "c3efd5be92f9378c",
   "lastOpenFiles": [
     "Groupe D financing.md",
+    "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
     "Réseaux.md",
     "Caractéristiques des différents supports de transmission.md",
     "Compression des données dans un réseau.md",
@@ -308,7 +326,6 @@
     "Notes.md",
     "sl subjects/English and Literature.md",
     "Oral presentation.md",
-    "eng work 1.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
