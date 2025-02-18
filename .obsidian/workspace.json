@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f12555f332b39fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupe D financing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Groupe D financing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Groupe D financing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux.md"
+                "file": "Groupe D financing.md"
               }
             }
           },
@@ -217,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Groupe D financing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +281,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
+    "Groupe D financing.md",
     "Réseaux.md",
+    "Caractéristiques des différents supports de transmission.md",
+    "Compression des données dans un réseau.md",
+    "Vitesse de transmission des données sur un reseau.md",
+    "Protocoles et paquets de données.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
     "Notes week 1.md",
     "Notes week 2.md",
@@ -296,11 +313,6 @@
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
     "assets/Notes",
-    "Nombre et Algèbre.md",
-    "Polynôme.md",
-    "Séries et Séquences.md",
-    "Logarithmes.md",
-    "Le CPU.md",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
