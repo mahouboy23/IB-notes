@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "common core/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "id": "c3efd5be92f9378c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md"
               }
@@ -126,7 +126,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "common core/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "common core/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupe D financing.md"
+                "file": "common core/EE.md"
               }
             }
           },
@@ -239,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Groupe D financing.md",
+                "file": "common core/EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,20 +289,25 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
+    "Experiment.md",
+    "common core/EE.md",
+    "EE NEW.md",
+    "Learn ee.md",
+    "IB overview.md",
+    "hl subjects/Computer science.md",
     "Groupe D financing.md",
+    "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
     "Réseaux.md",
     "Caractéristiques des différents supports de transmission.md",
     "Compression des données dans un réseau.md",
     "Vitesse de transmission des données sur un reseau.md",
     "Protocoles et paquets de données.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
     "Notes week 1.md",
     "Notes week 2.md",
     "Notes week 3.md",
@@ -315,10 +321,6 @@
     "Peace act.md",
     "Notion de système.md",
     "hl subjects/Math AA.md",
-    "SPECS.md",
-    "Notes.md",
-    "sl subjects/English and Literature.md",
-    "Oral presentation.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",

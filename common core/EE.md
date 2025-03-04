@@ -49,7 +49,7 @@ The problem structure would be:
 
 ## [[Possible structure]] 
 
-## [[Experiment]] 
+## [[Expn eriment]] 
 
 ## [[EE NEW]] 
 
