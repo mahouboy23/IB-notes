@@ -28,7 +28,7 @@ Created: 2023-03-24
 3. [[changement dans la demande]] 
 4. [[changement dans l'offre]]   
 5. [[fonctions du mécanisme des prix]]  
-6. [[Changements de prix et boucles de rétroaction]] 
+6. [[Changements de prix et dboucles de rétroaction]] 
 7. [[Signaux aux consommateurs et aux producteurs]] 
 8. [[Notion d'efficacite]] 
 9. [[Le surplus du consommateur]] 
