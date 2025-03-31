@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiment.md",
+                "file": "Computer science exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +59,14 @@
             "id": "c3efd5be92f9378c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "Computer science exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "Computer science exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UC ESSAY 1.md"
+                "file": "Computer science exploration.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "Computer science exploration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,21 +289,23 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "11c8fd14748b209b",
+  "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "UC ESSAY 3.md",
-    "IB overview.md",
     "hl subjects/Computer science.md",
+    "IB overview.md",
+    "UC ESSAY 2.md",
+    "UC ESSAY 1.md",
+    "Experiment.md",
+    "UC ESSAY 4.md",
+    "UC ESSAY 3.md",
     "Changements de prix et boucles de rétroaction.md",
     "Microéconomie.md",
     "Excédant et penuries.md",
     "common core/EE.md",
     "Ottoman empire.md",
-    "Experiment.md",
     "EE NEW.md",
     "Learn ee.md",
     "Groupe D financing.md",
@@ -318,9 +320,6 @@
     "Notes week 3.md",
     "Notes week 4.md",
     "MWC.md",
-    "University.md",
-    "Notes week 5.md",
-    "template/MWC-.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
