@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "sl subjects/English and Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "sl subjects/English and Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "sl subjects/English and Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science exploration.md"
+                "file": "sl subjects/English and Literature.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science exploration.md",
+                "file": "sl subjects/English and Literature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,14 @@
   },
   "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
+    "English Composition I vocabulary.md",
+    "sl subjects/English and Literature.md",
+    "Sample  Paragraph 2.md",
+    "Sample Paragraph 1.md",
+    "English comp 1.md",
     "IB overview.md",
+    "Computer science exploration.md",
+    "hl subjects/Computer science.md",
     "UC ESSAY 2.md",
     "UC ESSAY 1.md",
     "Experiment.md",
@@ -314,12 +320,6 @@
     "Caractéristiques des différents supports de transmission.md",
     "Compression des données dans un réseau.md",
     "Vitesse de transmission des données sur un reseau.md",
-    "Protocoles et paquets de données.md",
-    "Notes week 1.md",
-    "Notes week 2.md",
-    "Notes week 3.md",
-    "Notes week 4.md",
-    "MWC.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
