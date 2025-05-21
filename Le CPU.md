@@ -32,3 +32,6 @@ stockage sont traitées par l'unité centrale de traitement (CPU).
 
 
 
+1) Book your Trip
+2) Pay your ticket
+3) checking confirmation
