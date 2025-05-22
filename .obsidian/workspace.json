@@ -64,9 +64,21 @@
                 "file": "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "6cdb7533440c4cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Section A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Section A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le CPU.md"
+                "file": "Section A.md"
               }
             }
           },
@@ -240,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Section A.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,10 +305,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f12555f332b39fa",
+  "active": "6cdb7533440c4cd7",
   "lastOpenFiles": [
-    "Architecture des ordinateurs.md",
+    "Section A.md",
     "Le CPU.md",
+    "Architecture des ordinateurs.md",
     "La mémoire ROM.md",
     "hl subjects/Computer science.md",
     "IB overview.md",
@@ -320,7 +333,6 @@
     "EE NEW.md",
     "Learn ee.md",
     "Groupe D financing.md",
-    "Excalidraw/Drawing 2025-02-18 15.14.31.excalidraw.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
