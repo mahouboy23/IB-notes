@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/topology.md",
+                "file": "Section A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/topology.md",
+                "file": "Section A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/topology.md"
+                "file": "Section A.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/topology.md",
+                "file": "Section A.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,14 +315,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12be66c81edeb7f",
+  "active": "6cdb7533440c4cd7",
   "lastOpenFiles": [
+    "Excalidraw/topology.md",
+    "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162123_411.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161429_210.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161237_875.png",
     "Excalidraw/assets/English Composition I vocabulary",
-    "Excalidraw/topology.md",
     "Section A.md",
     "Le CPU.md",
     "Architecture des ordinateurs.md",
@@ -358,8 +359,6 @@
     "assets/Physics IA NOTES",
     "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
-    "assets/MATH IA HL/image-20240323105307196.png",
-    "assets/MATH IA HL/image-20240323104626808.png",
     "assets/MATH IA HL",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
     "assets/Economie Mondiale",

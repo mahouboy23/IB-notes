@@ -6,4 +6,6 @@
 
 ## Topology
 
+![[topology]] 
 
+## Firewall 
