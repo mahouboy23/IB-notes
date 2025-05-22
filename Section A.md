@@ -27,3 +27,21 @@ The firewall is a security component placed between the internal network and ext
 - Provides logging and monitoring of network activities.
 
 ## Material
+### Core Components:
+- **Firewall** – Hardware or software-based (e.g., Fortinet FortiGate, pfSense)
+- **Core Switch** – Managed switch with multiple gigabit ports (Cisco Catalyst)
+- **ISP Router** – Provided by the internet service provider
+- **Remote Switch** – Unmanaged/managed switch to connect remote PCs (Cisco SF110D)
+### Servers:
+- physical servers  (rack-mounted)
+### PCs (Remote Workstations):
+- **Recommended Specs:**
+    - **CPU:** Intel Core i5/i7 or AMD Ryzen 5/7 with high clock speed (3.5 GHz+)
+    - **RAM:** Minimum 16GB
+    - **Storage:** SSD (256GB or more)
+    - **Network Card:** Gigabit Ethernet
+### Cables & Accessories:
+- Ethernet cables
+- Power supply units & UPS 
+- Server rack (if servers are rack-mounted)
+- Cable management tools

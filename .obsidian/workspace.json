@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.50337600708008
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section A.md"
+                "file": "Excalidraw/topology.md"
               }
             }
           },
@@ -262,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/topology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,10 +316,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cdb7533440c4cd7",
+  "active": "c12be66c81edeb7f",
   "lastOpenFiles": [
-    "Excalidraw/topology.md",
     "Section A.md",
+    "Excalidraw/topology.md",
+    "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522164404_198.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162123_411.png",
@@ -357,7 +359,6 @@
     "Untitled 2.canvas",
     "assets/Physics IA NOTES/image-20240408104527245.png",
     "assets/Physics IA NOTES",
-    "assets/IB MANAGEMENT/image-20240326103230636.png",
     "assets/IB MANAGEMENT",
     "assets/MATH IA HL",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
