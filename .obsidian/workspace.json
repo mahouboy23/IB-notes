@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "88084fda81e3179b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c3efd5be92f9378c",
             "type": "leaf",
             "state": {
@@ -81,14 +91,14 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/topology.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "d1d63f2ed1853405",
@@ -170,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section A.md"
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
               }
             }
           },
@@ -263,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Section A.md",
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,13 +321,16 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cdb7533440c4cd7",
+  "active": "88084fda81e3179b",
   "lastOpenFiles": [
-    "Excalidraw/topology.md",
+    "Le CPU.md",
+    "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
     "Section A.md",
+    "Excalidraw/topology.md",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522164404_198.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
@@ -326,7 +338,6 @@
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161429_210.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161237_875.png",
     "Excalidraw/assets/English Composition I vocabulary",
-    "Le CPU.md",
     "Architecture des ordinateurs.md",
     "La mémoire ROM.md",
     "hl subjects/Computer science.md",
