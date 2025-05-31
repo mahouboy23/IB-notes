@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Architecture des ordinateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "id": "88084fda81e3179b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
               }
@@ -91,14 +91,14 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/topology.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
+                "file": "Architecture des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
+                "file": "Architecture des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
+                "file": "Architecture des ordinateurs.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
+                "file": "Architecture des ordinateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,13 +321,18 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "88084fda81e3179b",
+  "active": "9f12555f332b39fa",
   "lastOpenFiles": [
     "Le CPU.md",
+    "Architecture des ordinateurs.md",
+    "La mémoire RAM.md",
+    "Le modèle de traitement des ordinateurs.md",
+    "La mémoire ROM.md",
+    "hl subjects/Computer science.md",
+    "IB overview.md",
     "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
     "Section A.md",
     "Excalidraw/topology.md",
@@ -338,10 +343,6 @@
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161429_210.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522161237_875.png",
     "Excalidraw/assets/English Composition I vocabulary",
-    "Architecture des ordinateurs.md",
-    "La mémoire ROM.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
     "University.md",
     "sl subjects/English and Literature.md",
     "English Composition I vocabulary.md",
@@ -358,8 +359,6 @@
     "Microéconomie.md",
     "Excédant et penuries.md",
     "common core/EE.md",
-    "Ottoman empire.md",
-    "EE NEW.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
