@@ -13,3 +13,5 @@ Created: 2025-06-02
 - Direct Memory Access Structure (DMAS)
 - CPU
 
+## Internal Structure
+![[graph Internal structure]]

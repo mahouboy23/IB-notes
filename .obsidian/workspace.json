@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "788e987adc42e355",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/graph Internal structure.md"
+              }
+            }
+          },
+          {
             "id": "9f12555f332b39fa",
             "type": "leaf",
             "state": {
@@ -98,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "Excalidraw/graph Internal structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "Excalidraw/graph Internal structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer engineering.md"
+                "file": "Excalidraw/graph Internal structure.md"
               }
             }
           },
@@ -272,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "Excalidraw/graph Internal structure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,15 +335,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "788e987adc42e355",
   "lastOpenFiles": [
-    "hl subjects/Computer science.md",
     "Computer engineering.md",
+    "Excalidraw/graph Internal structure.md",
+    "Architecture des ordinateurs.md",
+    "Le CPU.md",
+    "hl subjects/Computer science.md",
     "Computer science classwork.md",
     "IB overview.md",
     "UC ESSAY 1.md",
-    "Architecture des ordinateurs.md",
-    "Le CPU.md",
     "La mémoire RAM.md",
     "Le modèle de traitement des ordinateurs.md",
     "La mémoire ROM.md",
@@ -359,7 +370,6 @@
     "UC ESSAY 4.md",
     "UC ESSAY 3.md",
     "Changements de prix et boucles de rétroaction.md",
-    "Microéconomie.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
