@@ -15,4 +15,8 @@ Created: 2025-06-02
 
 ## Internal Structure
 ![[graph Internal structure]]
+
+## How a Modern Computer Works
 ![[file-20250602160550647.png]]
+
+
