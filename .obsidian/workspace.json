@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/graph Internal structure.md",
+                "file": "Computer engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/graph Internal structure.md",
+                "file": "Computer engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/graph Internal structure.md"
+                "file": "Computer engineering.md"
               }
             }
           },
@@ -282,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/graph Internal structure.md",
+                "file": "Computer engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -335,10 +335,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "788e987adc42e355",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
-    "Computer engineering.md",
+    "assets/Computer engineering/file-20250602160550647.png",
+    "assets/Computer engineering",
     "Excalidraw/graph Internal structure.md",
+    "Computer engineering.md",
     "Architecture des ordinateurs.md",
     "Le CPU.md",
     "hl subjects/Computer science.md",
@@ -369,7 +371,6 @@
     "Experiment.md",
     "UC ESSAY 4.md",
     "UC ESSAY 3.md",
-    "Changements de prix et boucles de rétroaction.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
     "assets/Notes/file-20250119223820205.png",
@@ -383,7 +384,6 @@
     "assets/MATH IA HL",
     "Excalidraw/assets/Drawing 2024-03-20 22.49.08.excalidraw",
     "assets/Economie Mondiale",
-    "assets/EXO 3 FRENCH",
     "politique d'offre.canvas",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",

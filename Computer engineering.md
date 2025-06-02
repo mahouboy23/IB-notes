@@ -15,3 +15,4 @@ Created: 2025-06-02
 
 ## Internal Structure
 ![[graph Internal structure]]
+![[file-20250602160550647.png]]
