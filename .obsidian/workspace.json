@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture des ordinateurs.md",
+                "file": "Le CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -337,12 +337,15 @@
   },
   "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
-    "Excalidraw/graph Internal structure.md",
-    "Computer engineering.md",
+    "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
-    "assets/Computer engineering",
-    "Architecture des ordinateurs.md",
+    "Computer engineering.md",
+    "assets/Computer engineering/file-20250602162848608.png",
+    "Excalidraw/graph Internal structure.md",
     "Le CPU.md",
+    "Architecture des ordinateurs.md",
+    "L'unité de contrôle.md",
+    "assets/Computer engineering",
     "hl subjects/Computer science.md",
     "Computer science classwork.md",
     "IB overview.md",
@@ -370,10 +373,8 @@
     "UC ESSAY 2.md",
     "Experiment.md",
     "UC ESSAY 4.md",
-    "UC ESSAY 3.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes/file-20250119224657391.png",
-    "assets/Notes/file-20250119223820205.png",
     "assets/Notes",
     "University shortlist.loom",
     "Untitled 2.loom",
