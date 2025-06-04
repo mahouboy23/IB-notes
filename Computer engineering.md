@@ -46,7 +46,7 @@ You work as a Network administrator at Dunis. You have decided to upgrade your c
 - A **bandwidth management system** was configured to prioritize traffic.
 - **Content filtering** and **download limits** were enforced during school hours.
 - **caching servers** store frequently accessed content like YouTube videos.
-- Having a high bandwith and low latancy
+- Having a high bandwidth and low latency
 
 ### 4. I/O Controller Issues:
 
