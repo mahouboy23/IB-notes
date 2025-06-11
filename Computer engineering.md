@@ -54,3 +54,10 @@ You work as a Network administrator at Dunis. You have decided to upgrade your c
 - The administrator updated drivers and replaced faulty components.
 - Conflicts may occur if the **cluster system’s resource allocation** clashes with the **device manager**.
 - Standardizing hardware and synchronizing configurations across nodes solved the issue.
+
+Test on : 
+- Mass Storage
+- Operating System
+- Clustered System 
+- Storage Hierarchy
+- 
