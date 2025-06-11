@@ -57,7 +57,7 @@ You work as a Network administrator at Dunis. You have decided to upgrade your c
 
 Test on : 
 - Mass Storage
-- Operating Systemx
+- Operating Systems
 - Clustered System 
 - Storage Hierarchy
 - 
