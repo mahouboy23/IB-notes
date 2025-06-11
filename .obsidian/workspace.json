@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "hl subjects/Computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "hl subjects/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer engineering.md"
+                "file": "hl subjects/Computer science.md"
               }
             }
           },
@@ -282,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "hl subjects/Computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,7 +334,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "be9e89993310cb69",
   "lastOpenFiles": [
     "Le CPU.md",
     "Computer engineering.md",
