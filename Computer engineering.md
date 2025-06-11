@@ -56,8 +56,7 @@ You work as a Network administrator at Dunis. You have decided to upgrade your c
 - Standardizing hardware and synchronizing configurations across nodes solved the issue.
 
 Test on : 
-- Mass Storage
+- DMA
 - Operating Systems
 - Clustered System 
 - Storage Hierarchy
-- 
