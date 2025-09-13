@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer engineering.md",
+                "file": "Mesure d'incertitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Mesure d'incertitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Mesure d'incertitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Computer science.md"
+                "file": "Mesure d'incertitude.md"
               }
             }
           },
@@ -282,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Mesure d'incertitude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,8 +334,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "be9e89993310cb69",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+    "Mesure d'incertitude.md",
+    "Erreurs et incertitudes.md",
+    "Précision et exactitude.md",
+    "sl subjects/Physics.md",
+    "IB overview.md",
     "hl subjects/Computer science.md",
     "Le CPU.md",
     "Computer engineering.md",
@@ -347,7 +353,6 @@
     "L'unité de contrôle.md",
     "assets/Computer engineering",
     "Computer science classwork.md",
-    "IB overview.md",
     "UC ESSAY 1.md",
     "La mémoire RAM.md",
     "Le modèle de traitement des ordinateurs.md",
@@ -368,10 +373,6 @@
     "Sample  Paragraph 2.md",
     "Sample Paragraph 1.md",
     "English comp 1.md",
-    "Computer science exploration.md",
-    "UC ESSAY 2.md",
-    "Experiment.md",
-    "UC ESSAY 4.md",
     "assets/Notes/file-20250119224815750.png",
     "assets/Notes",
     "University shortlist.loom",
