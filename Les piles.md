@@ -21,3 +21,45 @@ Cette fonction retire et renvoie le dernier élément entré dans la pile : **d�
 
 ## La fonction isEmpty()
 Cette fonction permet de tester si une pile est vide. Elle renverra **true** si la pile ne contient aucun élément.
+
+---
+# ENGLISH
+# Stack (Data Structure)
+
+A **stack** stores a collection of elements in a specific order and only allows access to the last element inserted.  
+Elements are retrieved in the **reverse order** of their insertion.  
+
+![[image-20231221152452527.png]]
+
+A stack is a **Last In, First Out (LIFO)** data structure.  
+The elements of a stack can be:  
+- numbers  
+- boolean values  
+- characters  
+- objects  
+- arrays  
+- strings  
+
+---
+
+## Core Stack Methods
+
+### `push()`
+Adds an element to the top of the stack (**push**).  
+
+![[image-20231221152719142.png]]
+
+---
+
+### `pop()`
+Removes and returns the last element added to the stack (**pop**).  
+
+![[image-20231221153032683.png]]
+
+---
+
+### `isEmpty()`
+Checks whether a stack is empty.  
+- Returns **true** if the stack contains no elements.  
+
+---

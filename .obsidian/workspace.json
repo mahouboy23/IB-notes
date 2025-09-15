@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "Les piles.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Les piles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Les piles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS DATA STRUCTURE.md"
+                "file": "Les piles.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Les piles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,15 +337,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "788e987adc42e355",
   "lastOpenFiles": [
+    "Le CPU.md",
+    "Les piles.md",
+    "Structure de données abstraites.md",
+    "Les files.md",
+    "Les arbres.md",
     "hl subjects/Computer science.md",
+    "CS DATA STRUCTURE.md",
     "IB overview.md",
     "Excalidraw/graph Internal structure.md",
-    "CS DATA STRUCTURE.md",
     "DATA STRUCTURE.md",
     "University.md",
-    "Structure de données abstraites.md",
     "Qu'est ce que la recurisivite.md",
     "Microéconomie.md",
     "KLDS.md",
@@ -359,16 +363,12 @@
     "Erreurs et incertitudes.md",
     "Précision et exactitude.md",
     "sl subjects/Physics.md",
-    "Le CPU.md",
     "Computer engineering.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
     "Architecture des ordinateurs.md",
-    "L'unité de contrôle.md",
     "assets/Computer engineering",
-    "Computer science classwork.md",
-    "UC ESSAY 1.md",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522164404_198.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
