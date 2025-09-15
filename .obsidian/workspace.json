@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "CS DATA STRUCTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "788e987adc42e355",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/graph Internal structure.md"
+                "file": "hl subjects/Computer science.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -69,7 +71,7 @@
             "id": "88084fda81e3179b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
               }
@@ -101,7 +103,7 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/topology.md"
               }
@@ -189,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "CS DATA STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "CS DATA STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "CS DATA STRUCTURE.md"
               }
             }
           },
@@ -282,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "University.md",
+                "file": "CS DATA STRUCTURE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,12 +333,20 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Excalidraw/graph Internal structure.md",
+    "CS DATA STRUCTURE.md",
+    "DATA STRUCTURE.md",
+    "University.md",
+    "Structure de données abstraites.md",
+    "Qu'est ce que la recurisivite.md",
     "Microéconomie.md",
     "KLDS.md",
     "Mouvement et déplacement de la demande.md",
@@ -349,23 +359,16 @@
     "Erreurs et incertitudes.md",
     "Précision et exactitude.md",
     "sl subjects/Physics.md",
-    "hl subjects/Computer science.md",
     "Le CPU.md",
     "Computer engineering.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
-    "Excalidraw/graph Internal structure.md",
     "Architecture des ordinateurs.md",
     "L'unité de contrôle.md",
     "assets/Computer engineering",
     "Computer science classwork.md",
     "UC ESSAY 1.md",
-    "La mémoire RAM.md",
-    "Le modèle de traitement des ordinateurs.md",
-    "La mémoire ROM.md",
-    "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
-    "Section A.md",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522164404_198.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
