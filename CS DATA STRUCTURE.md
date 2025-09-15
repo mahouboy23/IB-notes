@@ -3,7 +3,9 @@ tags : mod cs
 ---
 Created: 2025-09-15
 
-Structure - architecture - design/conception - date - hierarchy - 
+Structure - architecture - design/conception - date - hierarchy 
 
 DIP (data information processing)
  Data is not used Alone ---> need to be structure to be processed
+
+cloud - 
