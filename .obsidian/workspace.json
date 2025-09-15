@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "Les arbres.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "Les arbres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "Les arbres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les listes chaînées.md"
+                "file": "Les arbres.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les listes chaînées.md",
+                "file": "Les arbres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,6 +340,7 @@
   "active": "788e987adc42e355",
   "lastOpenFiles": [
     "Structure de données abstraites.md",
+    "Les listes chaînées.md",
     "Utilisation des tableaux pour les piles et les files.md",
     "Construction d’algorithmes utilisant des files.md",
     "Les files.md",
@@ -364,7 +365,6 @@
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "Erreurs et incertitudes.md",
     "Précision et exactitude.md",
-    "sl subjects/Physics.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",

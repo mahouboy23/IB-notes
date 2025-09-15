@@ -76,3 +76,89 @@ Une liste chaînée circulaire forme une boucle infinie dans sa chaîne en faisa
 - Le pointeur du dernier élément pointe vers la tête (créant un cercle)
   ![[image-20240111161153202.png]]
 
+# English 
+# Linked Lists (Dynamic Data Structures)
+
+## Static vs Dynamic Data Structures
+![[image-20240111154853062.png]]
+
+---
+
+## The Concept of a Node
+In programming, a **node** is a basic unit (object) that contains both **data** and a **pointer**.  
+
+### Characteristics
+- To traverse a linked list, start from the first node and follow each node’s pointer to the next.  
+- A node with a specific value can be found by traversal.  
+- Once found, the node’s data can be accessed.  
+- A linked list is made of a sequence of nodes.  
+- Each node contains data and a pointer.  
+- A linked list can be empty.  
+- The length of a linked list = number of elements it contains.  
+- The last node contains a **null pointer**.  
+- The successor of a node = the next node.  
+- The predecessor of a node = the previous node.  
+- Access to a linked list is via a pointer to the **first node**.  
+- This pointer is generally called the **head**.  
+
+---
+
+## Logical Operation of Linked Lists
+A **linked list** is a dynamic data structure built from a sequence of nodes.  
+Each node contains both data and a reference (pointer) to the next node.  
+
+![[image-20240111155508527.png]]
+
+---
+
+## Insertion in a Linked List
+There are three main cases:  
+1. Insert a new node at the **beginning**.  
+2. Insert a new node at the **end**.  
+3. Insert a new node in the **middle** (between two nodes).  
+
+### Insert into an Empty List
+- If the list is empty (`head = NULL`), insertion is simple:  
+  - The algorithm sets both the **head** and **tail** to point to the new node.  
+![[image-20240111160052689.png]]
+
+### Insert at the Beginning
+- The new node is placed before the current head.  
+- Update the new node’s pointer to point to the current head.  
+- Update the head to point to the new node.  
+![[image-20240111160136941.png]]
+
+### Insert at the End
+- The new node is placed after the current tail.  
+- Update the tail’s pointer to point to the new node.  
+- Update the tail to the new node.  
+![[image-20240111160224689.png]]
+
+### Insert in the Middle
+- The new node is inserted between two existing nodes.  
+- Update the predecessor’s pointer to point to the new node.  
+- Update the new node’s pointer to point to the successor.  
+- The head and tail pointers remain unchanged.  
+![[image-20240111160403165.png]]
+
+---
+
+## Types of Linked Lists
+
+### Linear Linked List
+- Basic form: nodes connected in a single direction.  
+- Each node has: data + pointer to the next node.  
+- Single **head** and **tail** (first and last elements).  
+- Pointers move in one direction only.  
+![[image-20240111160817534.png]]
+
+### Doubly Linked List
+- Each node has **two pointers**: one to the next node, one to the previous node.  
+- Single **head** and **tail**.  
+![[image-20240111161051443.png]]
+
+### Circular Linked List
+- The last node points back to the **head**, forming a loop.  
+- Single **head**, each node has one pointer to the next node.  
+- Last node → head (circular structure).  
+![[image-20240111161153202.png]]
