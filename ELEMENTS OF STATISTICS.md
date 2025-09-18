@@ -11,7 +11,6 @@ Created: 2025-09-18
 ## Definition
 - **Statistics** =:: collection of methods for planning studies/experiments, obtaining data, organizing, summarizing, analyzing, interpreting, and drawing conclusions.
 - Goal of statistics =:: collect data from a small part (sample) to learn about the larger group (population).
-    
 
 ## Key Terms
 - **Data** =:: observations collected (measurements, genders, survey responses).
@@ -61,11 +60,8 @@ Cities & populations:
 - Frequency (f) of class =:: number of entries in class.
 
 ### Guidelines to Construct
-
 1. Choose number of classes (5–20).
-    
-2. Find class width: $ \text{Range}/\text{#classes} $, round up.
-    
+2. Find class width: $\text{Range}/\text{classes}$, round up.
 3. Determine class limits (no overlap).
     
 4. Tally each entry into a class.
@@ -78,73 +74,47 @@ Cities & populations:
 # Extra Features in Frequency Table
 
 - **Midpoint** =:: (lower limit + upper limit)/2.
-    
 - **Relative frequency** =:: frequency ÷ sample size.
-    
 - **Cumulative frequency** =:: sum of frequencies up to that class.
-    
 - **Class boundaries** =:: separate classes without gaps (lower limit −0.5, upper limit +0.5).
-    
 
 ---
 
 # Histogram
 
 - **Histogram** =:: bar graph with adjacent bars, showing distribution.
-    
 - Horizontal axis =:: class boundaries/midpoints.
-    
 - Vertical axis =:: frequencies.
-    
 
 ### 5 Key Features (CVDOT)
-
 1. Center =:: typical middle value.
-    
 2. Variation =:: spread of data.
-    
 3. Distribution =:: shape (bell, skewed, uniform).
-    
 4. Outliers =:: unusual far-away values.
-    
 5. Time =:: data changes over time.
-    
 
 ---
 
 # Frequency Polygon
 
 - **Frequency polygon** =:: line graph using class midpoints vs frequencies.
-    
 
 # Dotplot
 
 - **Dotplot** =:: each value plotted as a dot; stacked if repeated.
-    
 
 # Stemplot (Stem-and-Leaf Plot)
 
 - Splits each value into:: stem (left digits) + leaf (last digit).
-    
 - Similar to histogram but keeps raw data.
-    
 
 # Ogive
 
 - **Ogive** =:: line graph showing cumulative frequencies.
-    
 - Horizontal axis =:: upper class boundaries.
-    
 - Vertical axis =:: cumulative frequencies.
-    
 
 # Scatter Plot
 
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
-    
 
----
-
-✅ That covers slides **1–33** (Intro, Data, Frequency Distributions, Graphs up to Scatterplots).
-
-Do you want me to **continue this exact style** for the _rest of the slides (34–end)_, or should I stop at **Chapter boundaries** (like “Measures of Central Tendency” next)?
