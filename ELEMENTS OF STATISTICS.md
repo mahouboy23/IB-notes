@@ -78,7 +78,8 @@ Cities & populations:
     - Upper boundary = $\text{Upper limit} + 0.5$
 
 ### Example table :
-![[file-20250918111057259.png]]
+![[file-20250918111709365.png]]
+
 ---
 
 # Histogram
