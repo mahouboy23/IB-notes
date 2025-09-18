@@ -48,8 +48,8 @@ Cities & populations:
 - Populations =:: quantitative.
 
 ## Discrete vs Continuous
-- **Discrete data** =:: countable values (0,1,2,3 …). Example: number of eggs.
-- **Continuous data** =:: infinitely many possible values on a scale (e.g., milk amounts).
+- **Discrete data** =:: countable values ($0,1,2,3,\dots$). Example: number of eggs.
+- **Continuous data** =:: infinitely many possible values on a scale (e.g., milk amount can be $2.343115$ gallons).
 
 ---
 
@@ -57,10 +57,10 @@ Cities & populations:
 
 ## Frequency Distribution
 - **Frequency distribution** =:: table showing classes (intervals) with counts of entries.
-- Frequency (f) of class =:: number of entries in class.
+- Frequency $f$ of class =:: number of entries in class.
 
 ### Guidelines to Construct
-1. Choose number of classes (5–20).
+1. Choose number of classes ($5 \leq \text{classes} \leq 20$).
 2. Find class width: $\text{Range}/\text{classes}$, round up.
 3. Determine class limits (no overlap).
 4. Tally each entry into a class.
@@ -70,10 +70,12 @@ Cities & populations:
 
 # Extra Features in Frequency Table
 
-- **Midpoint** =:: (lower limit + upper limit)/2.
-- **Relative frequency** =:: frequency ÷ sample size.
-- **Cumulative frequency** =:: sum of frequencies up to that class.
-- **Class boundaries** =:: separate classes without gaps (lower limit −0.5, upper limit +0.5).
+- **Midpoint** =:: $\dfrac{\text{Lower limit} + \text{Upper limit}}{2}$
+- **Relative frequency** =:: $\dfrac{f}{n}$ where $n =$ sample size
+- **Cumulative frequency** =:: $\sum f$ up to that class
+- **Class boundaries** =::
+    - Lower boundary = $\text{Lower limit} - 0.5$
+    - Upper boundary = $\text{Upper limit} + 0.5$
 
 ---
 
