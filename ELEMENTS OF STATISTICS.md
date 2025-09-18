@@ -77,6 +77,8 @@ Cities & populations:
     - Lower boundary = $\text{Lower limit} - 0.5$
     - Upper boundary = $\text{Upper limit} + 0.5$
 
+### Example table :
+![[file-20250918111057259.png]]
 ---
 
 # Histogram
