@@ -1,8 +1,5 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
-    "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
     "flashcardTags": [
       "#Math",
       "#Physique",
@@ -10,24 +7,25 @@
       "#french",
       "#cs",
       "#englais",
-      "#TOK"
+      "#TOK",
+      "#stat"
     ],
     "convertFoldersToDecks": false,
-    "cardCommentOnSameLine": false,
     "burySiblingCards": false,
-    "showContextInCards": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
+    "clozePatterns": [
+      "==[123;;]answer[;;hint]=="
+    ],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
+    "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
@@ -38,7 +36,8 @@
       "#french",
       "#cs",
       "#englais",
-      "#TOK"
+      "#TOK",
+      "#stat"
     ],
     "noteFoldersToIgnore": [
       "guides"
@@ -47,12 +46,29 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
+    "showRibbonIcon": true,
+    "showStatusBar": true,
     "initiallyExpandAllSubdecksInTree": false,
+    "showContextInCards": true,
+    "showIntervalInReviewButtons": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
+    "reviewButtonDelay": 0,
+    "openViewInNewTab": false,
+    "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.1,
+    "loadBalance": true,
     "maximumInterval": 100,
     "maxLinkFactor": 1,
+    "dataStore": "NOTES",
+    "cardCommentOnSameLine": false,
+    "showSchedulingDebugMessages": false,
+    "showParserDebugMessages": false,
     "showDebugMessages": false,
     "showFileNameInFileLink": true,
     "singlelineCardSeparator": "::",

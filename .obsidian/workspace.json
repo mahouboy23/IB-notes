@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polynôme.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,9 +71,11 @@
             "id": "88084fda81e3179b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -103,9 +105,11 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/topology.md"
+                "file": "Excalidraw/topology.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -190,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynôme.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynôme.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynôme.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -263,7 +267,7 @@
             }
           },
           {
-            "id": "be9e89993310cb69",
+            "id": "5e09a17bb293a6a3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -283,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynôme.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,13 +337,15 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
-    "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
+    "Nombre et Algèbre.md",
+    "Polynôme.md",
     "Théorème Binomial.md",
     "Logarithmes.md",
     "ELEMENTS OF STATISTICS.md",
@@ -363,7 +369,6 @@
     "Microéconomie.md",
     "KLDS.md",
     "Mouvement et déplacement de la demande.md",
-    "La demande.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
