@@ -18,7 +18,7 @@ complex :
 } dim x as var;
   dim y as var
   begin
-  x - 12
+  x - 12 (42)
   y - 24
   end
 ## Processing
@@ -27,3 +27,7 @@ while x > y
 x + y = True
 Else
 x + y = False
+
+## Execute
+x + y - False
+x + y = 66
