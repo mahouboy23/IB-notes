@@ -71,7 +71,7 @@
             "id": "88084fda81e3179b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
               }
@@ -103,7 +103,7 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/topology.md"
               }
@@ -333,8 +333,7 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "24fbecd8b32970c2",
