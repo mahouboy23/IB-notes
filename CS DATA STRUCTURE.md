@@ -13,3 +13,12 @@ cloud -
 simple data vs complex data
 simple : - singular - raw/untreated/processed - can't be divided into smaller data
 complex : 
+
+## Declaration :
+} dim x as var;
+  dim y as var
+  begin
+  x - 12
+  y - 24
+  end
+## Processing

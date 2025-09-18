@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UC ESSAY 1.md",
+                "file": "hl subjects/Computer science.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,6 +308,12 @@
   "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
     "ELEMENTS OF STATISTICS.md",
+    "hl subjects/Computer science.md",
+    "Structure de données abstraites.md",
+    "CS DATA STRUCTURE.md",
+    "Pensée informatique, résolution de problèmes et programmation.md",
+    "IB overview.md",
+    "UC ESSAY 1.md",
     "Excalidraw/Drawing 2025-09-18 11.27.02.excalidraw.md",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
@@ -320,14 +326,10 @@
     "hl subjects/Math AA.md",
     "Géométrie et Trigonométrie.md",
     "Lois des sinus et cosinus.md",
-    "IB overview.md",
     "Nombre et Algèbre.md",
     "Polynôme.md",
     "Théorème Binomial.md",
     "Logarithmes.md",
-    "hl subjects/Computer science.md",
-    "CS DATA STRUCTURE.md",
-    "Structure de données abstraites.md",
     "Identifier le raisonnement récursif.md",
     "Qu'est ce que la recurisivite.md",
     "la pensee recursive.md",
@@ -336,7 +338,6 @@
     "Utilisation des tableaux pour les piles et les files.md",
     "Construction d’algorithmes utilisant des files.md",
     "Les files.md",
-    "Les piles.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
