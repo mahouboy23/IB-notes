@@ -116,4 +116,4 @@ Cities & populations:
 # Scatter Plot
 
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
-
+the whole point of the scatter plot is that it very predictable and you can establish great relationships with the scatter plots the thing you don't understand tho is that there is more to his game of chasing the cat and mouse very interesting isn't
