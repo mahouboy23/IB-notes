@@ -10,6 +10,8 @@ tags : mod Math subject
 ### **Theme 4:** [[Statistique et Probabilité]] 
 
 ### **Theme 5:** [[Calculus]]
+
+# [[ELEMENTS OF STATISTICS]]
  
 [[EXO MATH]] 
 

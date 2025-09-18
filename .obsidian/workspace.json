@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Computer science.md",
+                "file": "hl subjects/Math AA.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "id": "88084fda81e3179b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md"
               }
@@ -103,14 +103,13 @@
             "id": "c12be66c81edeb7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/topology.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "hl subjects/Math AA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "hl subjects/Math AA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS DATA STRUCTURE.md"
+                "file": "hl subjects/Math AA.md"
               }
             }
           },
@@ -284,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "hl subjects/Math AA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,25 +332,28 @@
       "notion-like-tables:Create loom": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "ELEMENTS OF STATISTICS.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "hl subjects/Computer science.md",
+    "CS DATA STRUCTURE.md",
     "Structure de données abstraites.md",
     "Identifier le raisonnement récursif.md",
     "Qu'est ce que la recurisivite.md",
     "la pensee recursive.md",
     "Le CPU.md",
-    "CS DATA STRUCTURE.md",
     "Les arbres.md",
     "Les listes chaînées.md",
     "Utilisation des tableaux pour les piles et les files.md",
     "Construction d’algorithmes utilisant des files.md",
     "Les files.md",
     "Les piles.md",
-    "hl subjects/Computer science.md",
-    "IB overview.md",
     "Excalidraw/graph Internal structure.md",
     "DATA STRUCTURE.md",
     "University.md",
@@ -362,8 +364,6 @@
     "Ceteris Paribus.md",
     "l'offre.md",
     "sl subjects/Economie.md",
-    "Mesure d'incertitude.md",
-    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
