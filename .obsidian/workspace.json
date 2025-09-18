@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Polynôme.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hl subjects/Math AA.md"
+                "file": "Polynôme.md"
               }
             }
           },
@@ -283,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "Polynôme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,8 +338,11 @@
   },
   "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
-    "ELEMENTS OF STATISTICS.md",
+    "Nombre et Algèbre.md",
     "hl subjects/Math AA.md",
+    "Théorème Binomial.md",
+    "Logarithmes.md",
+    "ELEMENTS OF STATISTICS.md",
     "IB overview.md",
     "hl subjects/Computer science.md",
     "CS DATA STRUCTURE.md",
@@ -361,9 +364,6 @@
     "KLDS.md",
     "Mouvement et déplacement de la demande.md",
     "La demande.md",
-    "Ceteris Paribus.md",
-    "l'offre.md",
-    "sl subjects/Economie.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
