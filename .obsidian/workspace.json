@@ -77,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "CS DATA STRUCTURE.md"
               }
             }
           },
@@ -251,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,14 +302,13 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-18 11.27.02.excalidraw.md",
     "ELEMENTS OF STATISTICS.md",
+    "Excalidraw/Drawing 2025-09-18 11.27.02.excalidraw.md",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "Le CPU.md",
