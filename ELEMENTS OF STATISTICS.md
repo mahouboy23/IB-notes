@@ -63,11 +63,8 @@ Cities & populations:
 1. Choose number of classes (5–20).
 2. Find class width: $\text{Range}/\text{classes}$, round up.
 3. Determine class limits (no overlap).
-    
 4. Tally each entry into a class.
-    
 5. Count tallies for frequencies.
-    
 
 ---
 
