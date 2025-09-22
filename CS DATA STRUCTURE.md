@@ -33,3 +33,5 @@ x + y - False
 x + y = 66
 
 # DATA AND MEMORY
+3 beeps = ram issues
+5 beeps = cmos memory
