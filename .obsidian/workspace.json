@@ -86,9 +86,19 @@
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
             }
+          },
+          {
+            "id": "24e7160db601f4f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/example 2 pds.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Excalidraw/example 2 pds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Excalidraw/example 2 pds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS DATA STRUCTURE.md"
+                "file": "Excalidraw/example 2 pds.md"
               }
             }
           },
@@ -262,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "Excalidraw/example 2 pds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,17 +325,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "11c8fd14748b209b",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
-    "Structure de données abstraites.md",
     "Excalidraw/PDS EXAMPLE DUNIS.md",
+    "Excalidraw/example 2 pds.md",
+    "CS DATA STRUCTURE.md",
+    "Structure de données abstraites.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
     "Le CPU.md",
     "Excalidraw/STATS EX 1.md",
     "Excalidraw/assets/STATS EX 1",
-    "CS DATA STRUCTURE.md",
     "Les files.md",
     "Les piles.md",
     "hl subjects/Computer science.md",
