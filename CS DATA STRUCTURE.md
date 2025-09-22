@@ -1,7 +1,7 @@
 ---
 tags : mod cs
 ---
-xCreated: 2025-09-15
+Created: 2025-09-15
 
 Structure - architecture - design/conception - date - hierarchy 
 
