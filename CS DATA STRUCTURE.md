@@ -33,5 +33,6 @@ x + y - False
 x + y = 66
 
 # DATA AND MEMORY
+Mirror data Access
 3 beeps = ram issues
 5 beeps = cmos memory
