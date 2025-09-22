@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "Prix maximum.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "Prix maximum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "Prix maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changement dans l'offre.md"
+                "file": "Prix maximum.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "changement dans l'offre.md",
+                "file": "Prix maximum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,9 +305,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
     "Microéconomie.md",
+    "changement dans l'offre.md",
     "changement dans la demande.md",
     "Changements de prix et dboucles de rétroaction.md",
     "fonctions du mécanisme des prix.md",
@@ -337,7 +338,6 @@
     "assets/ELEMENTS OF STATISTICS",
     "hl subjects/Math AA.md",
     "Géométrie et Trigonométrie.md",
-    "Lois des sinus et cosinus.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
