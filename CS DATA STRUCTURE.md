@@ -38,5 +38,5 @@ Mirror data Access
 5 beeps = cmos memory
 
 ## PDS REPRESENTATION
-for the characters count the number of characters,
+for the characters count the number of characters
 ![[PDS EXAMPLE DUNIS]]
