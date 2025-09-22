@@ -36,3 +36,6 @@ x + y = 66
 Mirror data Access
 3 beeps = ram issues
 5 beeps = cmos memory
+
+## PDS REPRESENTATION
+![[PDS EXAMPLE DUNIS]]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prix maximum.md",
+                "file": "Les files.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,17 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-18 11.27.02.excalidraw.md"
+                "file": "Excalidraw/STATS EX 1.md"
+              }
+            }
+          },
+          {
+            "id": "3f1d861848b722b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
             }
           }
@@ -307,7 +317,19 @@
   },
   "active": "11c8fd14748b209b",
   "lastOpenFiles": [
+    "Structure de données abstraites.md",
+    "Excalidraw/PDS EXAMPLE DUNIS.md",
+    "Excalidraw/assets/PDS EXAMPLE DUNIS",
+    "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
+    "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
+    "Le CPU.md",
+    "Excalidraw/STATS EX 1.md",
+    "Excalidraw/assets/STATS EX 1",
+    "CS DATA STRUCTURE.md",
+    "Les files.md",
+    "Les piles.md",
     "hl subjects/Computer science.md",
+    "IB overview.md",
     "Prix maximum.md",
     "Microéconomie.md",
     "changement dans l'offre.md",
@@ -321,23 +343,14 @@
     "Efficacité productive.md",
     "Excédant et penuries.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
-    "CS DATA STRUCTURE.md",
     "ELEMENTS OF STATISTICS.md",
-    "Structure de données abstraites.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
     "UC ESSAY 1.md",
-    "Excalidraw/Drawing 2025-09-18 11.27.02.excalidraw.md",
-    "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw/Pasted Image 20250918112744_861.png",
+    "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
-    "Le CPU.md",
-    "Excalidraw/Drawing 2025-05-26 15.39.41.excalidraw.md",
-    "Section A.md",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
     "assets/ELEMENTS OF STATISTICS/file-20250918111057259.png",
     "assets/ELEMENTS OF STATISTICS",
-    "hl subjects/Math AA.md",
-    "Géométrie et Trigonométrie.md",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
     "assets/Computer engineering/file-20250602162848608.png",
@@ -345,15 +358,11 @@
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522164404_198.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162630_820.png",
     "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162320_772.png",
-    "Excalidraw/assets/English Composition I vocabulary/Pasted Image 20250522162123_411.png",
     "Excalidraw/assets/English Composition I vocabulary",
     "assets/Notes",
     "University shortlist.loom",
     "Untitled 2.loom",
     "Untitled 2.canvas",
-    "assets/Physics IA NOTES",
-    "assets/IB MANAGEMENT",
-    "assets/MATH IA HL",
     "politique d'offre.canvas",
     "Untitled 1.canvas",
     "economie mind map politique budgetaire.canvas",
