@@ -82,7 +82,6 @@ Cities & populations:
 
 
 ### EX 1 :
-
 ![[STATS EX 1]]
 
 ---
