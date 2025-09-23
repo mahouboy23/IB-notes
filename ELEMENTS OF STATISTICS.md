@@ -92,6 +92,7 @@ Cities & populations:
 - Horizontal axis =:: class boundaries/midpoints.
 - Vertical axis =:: frequencies.
 
+![[file-20250923103056089.png]]
 ### 5 Key Features (CVDOT)
 1. Center =:: typical middle value.
 2. Variation =:: spread of data.

@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,10 +325,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8037ccf0adf472a7",
+  "active": "11c8fd14748b209b",
   "lastOpenFiles": [
-    "ELEMENTS OF STATISTICS.md",
+    "assets/ELEMENTS OF STATISTICS/file-20250923103056089.png",
     "Excalidraw/STATS EX 1.md",
+    "ELEMENTS OF STATISTICS.md",
     "Les files.md",
     "Structure de données abstraites.md",
     "Le CPU.md",
@@ -356,7 +357,6 @@
     "Efficacité productive.md",
     "Excédant et penuries.md",
     "sl subjects/Economie.md",
-    "Pensée informatique, résolution de problèmes et programmation.md",
     "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
