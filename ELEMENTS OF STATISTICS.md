@@ -113,6 +113,8 @@ Cities & populations:
 
 - **Dotplot** =:: each value plotted as a dot; stacked if repeated.
 
+![[file-20250923110146203.png]]
+
 # Stemplot (Stem-and-Leaf Plot)
 
 - Splits each value into:: stem (left digits) + leaf (last digit).
