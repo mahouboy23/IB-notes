@@ -80,6 +80,8 @@ Cities & populations:
 ### Example table :
 ![[file-20250918111709365.png]]
 
+
+### EX
 ---
 
 # Histogram

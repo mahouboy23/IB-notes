@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,20 +325,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8037ccf0adf472a7",
+  "active": "11c8fd14748b209b",
   "lastOpenFiles": [
+    "Le CPU.md",
+    "Excalidraw/STATS EX 1.md",
     "Excalidraw/example 2 pds.md",
     "ELEMENTS OF STATISTICS.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "CS DATA STRUCTURE.md",
-    "Le CPU.md",
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Structure de données abstraites.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
-    "Excalidraw/STATS EX 1.md",
     "Excalidraw/assets/STATS EX 1",
     "Les files.md",
     "Les piles.md",
