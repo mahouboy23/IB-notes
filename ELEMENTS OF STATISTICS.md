@@ -131,3 +131,4 @@ Cities & populations:
 
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
 
+especially since you are already there
