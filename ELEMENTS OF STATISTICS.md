@@ -77,6 +77,7 @@ Cities & populations:
     - Lower boundary = $\text{Lower limit} - 0.5$
     - Upper boundary = $\text{Upper limit} + 0.5$
 
+9/23/2025
 ### Example table :
 ![[file-20250918111709365.png]]
 
