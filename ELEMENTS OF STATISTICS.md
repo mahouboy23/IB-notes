@@ -107,6 +107,8 @@ Cities & populations:
 
 - **Frequency polygon** =:: line graph using class midpoints vs frequencies.
 
+![[file-20250923104123878.png]]
+
 # Dotplot
 
 - **Dotplot** =:: each value plotted as a dot; stacked if repeated.
