@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -91,7 +91,7 @@
             "id": "24e7160db601f4f1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/example 2 pds.md"
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS DATA STRUCTURE.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS DATA STRUCTURE.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,11 +325,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "11c8fd14748b209b",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
     "IB overview.md",
-    "Excalidraw/example 2 pds.md",
     "CS DATA STRUCTURE.md",
+    "Excalidraw/example 2 pds.md",
     "Le CPU.md",
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Structure de données abstraites.md",
@@ -356,7 +357,6 @@
     "sl subjects/Economie.md",
     "ELEMENTS OF STATISTICS.md",
     "Pensée informatique, résolution de problèmes et programmation.md",
-    "UC ESSAY 1.md",
     "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
