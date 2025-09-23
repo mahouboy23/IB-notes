@@ -120,6 +120,7 @@ Cities & populations:
 - Splits each value into:: stem (left digits) + leaf (last digit).
 - Similar to histogram but keeps raw data.
 
+![[file-20250923111443056.png]]
 # Ogive
 
 - **Ogive** =:: line graph showing cumulative frequencies.
