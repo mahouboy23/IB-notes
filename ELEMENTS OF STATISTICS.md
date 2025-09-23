@@ -81,7 +81,10 @@ Cities & populations:
 ![[file-20250918111709365.png]]
 
 
-### EX
+### EX 1 :
+
+![[STATS EX 1]]
+
 ---
 
 # Histogram
