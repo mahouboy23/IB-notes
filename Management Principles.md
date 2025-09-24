@@ -29,3 +29,9 @@ below a threshold.
 Non-Programmed Decisions:
 Unstructured, novel, requiring unique solutions.
 Example: Deciding whether to merge with another company.
+
+
+# Case Study: 
+
+## Decision Making in African Companies – Interswitch (Nigeria) & Sonatel/Orange Senegal
+
