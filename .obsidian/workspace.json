@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Management Principles.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,13 +325,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "11c8fd14748b209b",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "Management Principles.md",
+    "IB overview.md",
+    "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923110146203.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923104123878.png",
     "Les files.md",
-    "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923103056089.png",
     "Excalidraw/STATS EX 1.md",
     "Structure de données abstraites.md",
@@ -339,7 +342,6 @@
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Excalidraw/example 2 pds.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "CS DATA STRUCTURE.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
@@ -359,7 +361,6 @@
     "Surplus du producteur.md",
     "Efficacité productive.md",
     "Excédant et penuries.md",
-    "sl subjects/Economie.md",
     "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
@@ -367,7 +368,6 @@
     "assets/ELEMENTS OF STATISTICS",
     "assets/Computer engineering/file-20250602162908643.png",
     "assets/Computer engineering/file-20250602160550647.png",
-    "assets/Computer engineering/file-20250602162848608.png",
     "assets/Computer engineering",
     "Excalidraw/assets/English Composition I vocabulary",
     "assets/Notes",
