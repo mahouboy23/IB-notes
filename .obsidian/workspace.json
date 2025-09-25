@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b4ac0ace799c3fe",
+            "id": "24e7160db601f4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11c8fd14748b209b",
+            "id": "8b4ac0ace799c3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to business.md",
+                "file": "Management Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,16 +84,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
-              }
-            }
-          },
-          {
-            "id": "24e7160db601f4f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/example 2 pds.md"
               }
             }
           }
@@ -178,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management Principles.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -271,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,24 +314,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
-    "sl subjects/Economie.md",
+    "hl subjects/Math AA.md",
     "IB overview.md",
+    "Excalidraw/example 2 pds.md",
+    "Excalidraw/PDS EXAMPLE DUNIS.md",
+    "Excalidraw/STATS EX 1.md",
+    "Management Principles.md",
     "ELEMENTS OF STATISTICS.md",
     "Intro to business.md",
-    "Management Principles.md",
+    "Les files.md",
+    "sl subjects/Economie.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923110146203.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923104123878.png",
-    "Les files.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923103056089.png",
-    "Excalidraw/STATS EX 1.md",
     "Structure de données abstraites.md",
     "Le CPU.md",
-    "Excalidraw/PDS EXAMPLE DUNIS.md",
-    "Excalidraw/example 2 pds.md",
-    "hl subjects/Math AA.md",
     "CS DATA STRUCTURE.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
