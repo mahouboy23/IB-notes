@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le CPU.md",
+                "file": "CS DATA STRUCTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "CS DATA STRUCTURE.md"
               }
             }
           },
@@ -261,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "CS DATA STRUCTURE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,31 +315,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24e7160db601f4f1",
+  "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "hl subjects/Math AA.md",
+    "hl subjects/Computer science.md",
     "IB overview.md",
+    "Le CPU.md",
+    "Structure de données abstraites.md",
+    "Les files.md",
+    "Management Principles.md",
+    "ELEMENTS OF STATISTICS.md",
+    "hl subjects/Math AA.md",
     "Excalidraw/example 2 pds.md",
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Excalidraw/STATS EX 1.md",
-    "Management Principles.md",
-    "ELEMENTS OF STATISTICS.md",
     "Intro to business.md",
-    "Les files.md",
     "sl subjects/Economie.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923110146203.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923104123878.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923103056089.png",
-    "Structure de données abstraites.md",
-    "Le CPU.md",
     "CS DATA STRUCTURE.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
     "Excalidraw/assets/STATS EX 1",
     "Les piles.md",
-    "hl subjects/Computer science.md",
     "Prix maximum.md",
     "Microéconomie.md",
     "changement dans l'offre.md",

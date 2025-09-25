@@ -40,3 +40,8 @@ Mirror data Access
 ## PDS REPRESENTATION
 for the characters count the number of characters
 ![[PDS EXAMPLE DUNIS]]
+
+## Data types
+### **declaration**
+	dim Dunis as char
+	dim x as interger
