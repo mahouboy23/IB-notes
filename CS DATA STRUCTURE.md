@@ -45,3 +45,6 @@ for the characters count the number of characters
 ### **declaration**
 	dim Dunis as char
 	dim x as interger
+
+### declaration ex 1:
+	dim 
