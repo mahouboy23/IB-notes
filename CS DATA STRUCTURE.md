@@ -48,5 +48,7 @@ for the characters count the number of characters
 
 ### declaration ex 1:
 	dim logistics(2) as char
-	dim APS(3) as float
-	dim 
+	dim APS(4) as float
+	dim Location(3) as string
+	dim nfaculty as integer
+	dim nstudents as integer
