@@ -47,4 +47,6 @@ for the characters count the number of characters
 	dim x as interger
 
 ### declaration ex 1:
+	dim logistics(2) as char
+	dim APS(3) as float
 	dim 
