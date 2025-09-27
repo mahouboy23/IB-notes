@@ -73,7 +73,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md"
+                "file": "Excalidraw/graph ex.md"
               }
             }
           },
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,12 +325,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beae2ae394cb70aa",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
     "Microéconomie.md",
+    "Excalidraw/graph ex.md",
     "Prix maximum.md",
     "Conceptes de base economie.md",
-    "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
     "Microeconomics.md",
     "sl subjects/Economie.md",
     "IB overview.md",
