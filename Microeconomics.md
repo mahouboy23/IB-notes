@@ -5,6 +5,7 @@ tags:
 ---
 Created: 2025-09-27
 
+can you answer to these question you can make the explanation supposing i made the graph and then ill make the graph myself using the notation you used
 ## **Question** 2 — Market Equilibrium, Surplus and Shortage
 (a) Define market equilibrium, excess demand (shortage), and excess supply (surplus). Draw a
 fully-labelled D–S diagram identifying equilibrium P*, Q* and the directions of price pressure
