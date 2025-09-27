@@ -12,7 +12,7 @@ when price is above/below equilibrium. (10)
 
 Market equilibrium occurs when the quantity demanded equals the quantity supplied at a specific price.
 
-- **Excess demand (shortage):** If the market price is set **below P***, the quantity demanded exceeds the quantity supplied. The shortage puts upward pressure on price until equilibrium is restored.
+- **Excess demand (shortage):** If the market price is set below P, the quantity demanded exceeds the quantity supplied. The shortage puts upward pressure on price until equilibrium is restored.
 - **Excess supply (surplus):** If the price is set above P, the quantity supplied is greater than the quantity demanded. This surplus creates downward pressure on price until it returns to P*.
 
 ![[graph ex]]
