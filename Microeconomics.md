@@ -15,4 +15,7 @@ unattainable points. (10)
 (b) Using your diagram, analyse how an increase in the quality/quantity of factors of production
 affects potential output (outward shift) versus how cyclical unemployment appears (movement
 inside the curve). Apply to a real context. (10)
+
+
+
 (c) Evaluate the view that outward shifts of the PPC are always desirable. (10)
