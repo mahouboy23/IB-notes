@@ -3,6 +3,7 @@ tags : mod economie
 ---
 # [[Management Principles]]
 
+[[Microeconomics]] 
 # [[Intro to business]] 
 # **Theme 1:** [[Microéconomie]] 
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Economie.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Economie.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,6 +317,9 @@
   },
   "active": "9f12555f332b39fa",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "Microeconomics.md",
+    "Structure de données abstraites.md",
     "IB overview.md",
     "Mécanique.md",
     "Notion de cinématique.md",
@@ -324,11 +327,9 @@
     "sl subjects/Physics.md",
     "Microéconomie.md",
     "Marché.md",
-    "sl subjects/Economie.md",
     "CS DATA STRUCTURE.md",
     "hl subjects/Computer science.md",
     "Le CPU.md",
-    "Structure de données abstraites.md",
     "Les files.md",
     "Management Principles.md",
     "ELEMENTS OF STATISTICS.md",
@@ -350,7 +351,6 @@
     "changement dans l'offre.md",
     "changement dans la demande.md",
     "Changements de prix et dboucles de rétroaction.md",
-    "fonctions du mécanisme des prix.md",
     "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
