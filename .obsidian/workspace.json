@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les files.md",
+                "file": "Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "beae2ae394cb70aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8037ccf0adf472a7",
             "type": "leaf",
             "state": {
@@ -88,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptes de base economie.md"
+                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md"
               }
             }
           },
@@ -262,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,20 +325,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f12555f332b39fa",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
-    "Microeconomics.md",
     "Microéconomie.md",
+    "Prix maximum.md",
+    "Conceptes de base economie.md",
+    "Excalidraw/Drawing 2025-09-27 09.51.51.excalidraw.md",
+    "Microeconomics.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "Les files.md",
     "KLDS.md",
     "Exercise economie.md",
-    "sl subjects/Economie.md",
     "Excédant et penuries.md",
     "Surplus du producteur.md",
     "Mouvement et déplacement de l'offre.md",
     "determinant prix de l'offre.md",
     "la loi de l'offre.md",
     "Marché.md",
-    "IB overview.md",
     "Structure de données abstraites.md",
     "Mécanique.md",
     "Notion de cinématique.md",
@@ -337,12 +351,8 @@
     "CS DATA STRUCTURE.md",
     "hl subjects/Computer science.md",
     "Le CPU.md",
-    "Les files.md",
     "Management Principles.md",
     "ELEMENTS OF STATISTICS.md",
-    "hl subjects/Math AA.md",
-    "Excalidraw/example 2 pds.md",
-    "Excalidraw/PDS EXAMPLE DUNIS.md",
     "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923110146203.png",
     "assets/ELEMENTS OF STATISTICS/file-20250923104123878.png",
