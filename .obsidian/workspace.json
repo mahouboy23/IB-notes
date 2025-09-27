@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Excalidraw/graph ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Excalidraw/graph ex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "Excalidraw/graph ex.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Excalidraw/graph ex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,12 +325,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
+    "Microeconomics.md",
     "Excalidraw/graph ex.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
-    "Microeconomics.md",
     "Microéconomie.md",
     "Conceptes de base economie.md",
     "Excalidraw/STATS EX 1.md",
