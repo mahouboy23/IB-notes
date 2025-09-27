@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "sl subjects/Economie.md"
               }
             }
           },
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mécanique.md",
+                "file": "sl subjects/Economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,13 +315,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "9f12555f332b39fa",
   "lastOpenFiles": [
-    "Notion de cinématique.md",
+    "IB overview.md",
     "Mécanique.md",
+    "Notion de cinématique.md",
     "Les equation de la cinématique a une dimension equation SUVAT.md",
     "sl subjects/Physics.md",
-    "IB overview.md",
     "Microéconomie.md",
     "Marché.md",
     "sl subjects/Economie.md",
