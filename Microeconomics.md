@@ -10,7 +10,7 @@ Created: 2025-09-27
 fully-labelled D–S diagram identifying equilibrium P*, Q* and the directions of price pressure
 when price is above/below equilibrium. (10)
 
-
+Market equilibrium is a state when all the opposite forces of supply and demand are equal. excess demand
 
 (b) A normal good experiences a rise in consumer income. Use a diagram to analyse how
 demand, equilibrium price and quantity change. Apply to a market you know. (10)
