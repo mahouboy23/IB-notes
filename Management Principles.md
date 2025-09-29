@@ -1,63 +1,484 @@
 ---
-tags : mod economie
+tags:
+  - mod
+  - management
 ---
-Created: 2025-09-24
+# 📘 Principles & Functions of Management – Revision Notes
 
-Making Intuitive Decisions
-Definition
-Intuitive decision making relies on gut feeling, instincts, and
-personal experience, often made quickly without detailed
-analysis.
+## 🏷️ What is Management?
 
-Making Creative Decisions
-Definition
-Creative decision making involves innovative thinking to
-generate solutions that are new, unique, and outside
-conventional approaches.
+- **Definition**: The process of **planning, organizing, leading, and controlling** resources (people, money, materials, information) to achieve organizational goals **efficiently** (wise use of resources) and **effectively** (achieving results)
 
-Making Rational Decisions
-Definition
+- **Key Features**:
+    
+    - Goal-oriented
+        
+    - Coordination of resources
+        
+    - Efficiency + Effectiveness
+        
+    - Dynamic (adapts to changes)
+        
 
-Rational decision making is a systematic, step-by-step approach to selecting the best option based on facts and logical
-reasoning.
+---
 
-Programmed Decisions:
-Routine, repetitive, often automated using rules and policies.
-Example: Reordering raw materials once inventory drops
-below a threshold.
+## ⚙️ The P-O-L-C Framework
 
-Non-Programmed Decisions:
-Unstructured, novel, requiring unique solutions.
-Example: Deciding whether to merge with another company.
+### 1. Planning
 
+- **Definition**: Setting objectives and deciding actions to achieve them
+    
+    The-Functions-of-Management-The…
+    
+    .
+    
+- **Characteristics**:
+    
+    - Goal-oriented
+        
+    - Future-focused
+        
+    - Continuous
+        
+    - Decision-based
+        
+- **Mechanisms**: Strategic planning, operational planning, forecasting, scenario planning.
+    
+- **Problems**: Uncertainty, resistance to change, reliance on assumptions.
+    
+- **Solutions**: Data-driven analysis, contingency plans, employee involvement.
+    
+- **Examples**:
+    
+    - OCP Group (Morocco) – global food security strategy.
+        
+    - Petrobras (Brazil) – balancing oil & renewable energy.
+        
 
-# Case Study: 
+### 2. Organizing
 
-## Decision Making in African Companies – Interswitch (Nigeria) & Sonatel/Orange Senegal
+- **Definition**: Arranging resources and structures to implement plans
+    
+    The-Functions-of-Management-The…
+    
+    .
+    
+- **Characteristics**:
+    
+    - Defines hierarchy, roles, authority
+        
+    - Coordinates activities
+        
+- **Mechanisms**: Organizational structures (functional, divisional, matrix, networked), resource allocation, departmentalization, delegation.
+    
+- **Problems**: Poor structure, communication breakdowns, role conflicts.
+    
+- **Solutions**: Agile/flat structures, ERP tools, clear job descriptions.
+    
+- **Examples**:
+    
+    - EgyptAir – divisional structure.
+        
+    - Mercado Libre – networked structure for e-commerce & fintech.
+        
 
-1. Interswitch (Nigeria):  
-- Was the decision to launch Quickteller more creative or rational? Why?  
-- What risks could Interswitch have faced if Nigerians were slow to adopt digital payments?  
+### 3. Leading
 
-a) I believe the decision to Launch Quickteller was more of a creative decision than a rational one. This is because, if you look at the problem that sparked the creation of Quickteller, they had millions of Nigerian who were unbanked and was turning to a growing mobile market to satisfy there needs. They only had a few options either stay in their current market or innovate and create a consumer brand to expand digital payments to individuals and small businesses. (continue)
+- **Definition**: Motivating, influencing, and guiding employees toward goals
+    
+    The-Functions-of-Management-The…
+    
+    .
+    
+- **Characteristics**:
+    
+    - Emotional intelligence & interpersonal focus
+        
+    - Inspires and motivates
+        
+- **Mechanisms**: Leadership styles (transformational, transactional, participative), communication strategies, motivation techniques, conflict management.
+    
+- **Problems**: Resistance, cultural diversity challenges, leadership gaps.
+    
+- **Solutions**: Training, inclusivity, feedback systems.
+    
+- **Examples**:
+    
+    - Jumia Morocco – innovation-driven leadership.
+        
+    - Grupo Bimbo (Mexico) – transformational leadership.
+        
 
-b).The risks that Interswitch could have faced if Nigerians were slow to adopt digital payments are that . (continue)
+### 4. Controlling
 
+- **Definition**: Monitoring performance, comparing with goals, and correcting actions
+    
+    The-Functions-of-Management-The…
+    
+    .
+    
+- **Characteristics**:
+    
+    - Continuous
+        
+    - Measurement-focused
+        
+    - Corrective
+        
+- **Mechanisms**: KPIs, audits, quality control, performance appraisal.
+    
+- **Problems**: Micromanagement, inaccurate data, resistance.
+    
+- **Solutions**: Balance control/autonomy, real-time dashboards, fair evaluations.
+    
+- **Examples**:
+    
+    - Banque Misr (Egypt) – financial control systems.
+        
+    - LATAM Airlines (Chile) – monitoring efficiency & safety.
+        
 
-1. Sonatel/Orange (Senegal):  
+---
 
-- Was investing heavily in 4G a risky or safe rational decision?  
-- Could an intuitive approach (based only on gut feeling of demand growth) have worked as well?  
+## 🧭 Principles of Management
 
-a) Investing heavily in 4G was a risky rational decision because first of all it falls into the Strategic Decisions (Top Management) which long term decision with high risk. Other contributing factors are the high cost of implementation, customers had limited income so risk of adopting the new technology. (continue)
+### Henri Fayol’s 14 Principles
 
-b) I do not beliebe and intuitive approach would have worked as well because it depends on each individual how good there sense and intuition are. Analysing the situation and taking in all relevant information and data gives out a more informed decision. (continue)
+Evolution-of-Management-Thought…
 
+1. Division of Work → specialization = efficiency
+    
+2. Authority & Responsibility → managers must be accountable
+    
+3. Discipline → respect rules
+    
+4. Unity of Command → one boss per worker
+    
+5. Unity of Direction → one plan, one leader per goal
+    
+6. Subordination of Individual Interest → company > personal interests
+    
+7. Remuneration → fair pay motivates workers
+    
+8. Centralization → degree of decision-making at top
+    
+9. Scalar Chain → clear chain of command
+    
+10. Order → proper arrangement of people & resources
+    
+11. Equity → fairness and kindness
+    
+12. Stability of Tenure → low turnover = efficiency
+    
+13. Initiative → encourage creativity & suggestions
+    
+14. Esprit de Corps → team spirit
+    
 
-1. General Application:  
+---
 
-- Compare Interswitch’s and Sonatel’s approaches. Which decision-making style (creative vs. rational) do you think is more important for African companies in today’s digital economy?      
-- If you were a manager at a Senegalese or Nigerian startup, would you rely more on rational, intuitive, or creative decision making? Explain.
+## 🏛️ Evolution of Management Thought
 
-a)  (continue)
-b) I would rely more on creative decision making because especially for start up being creative and innovative is especially important to break into the market and get your product adopted. Also as a start up you don't have all the necessary ressources to gather all the data and go into deep analysis. (continue)
+### Early Foundations
+
+Evolution-of-Management-Thought…
+
+- Ancient Egypt, China, Mesopotamia → admin systems for building, governing, trade.
+    
+
+### Classical Approaches
+
+- **Henri Fayol** – 14 principles, structure, efficiency, universal application.
+    
+- **Frederick Taylor** – _Scientific Management_ (time & motion studies, “one best way”).
+    
+    - Pros: efficiency, productivity.
+        
+    - Cons: ignored human needs, too mechanical.
+        
+
+### Human Relations Movement
+
+- Emphasized motivation, communication, employee well-being.
+    
+
+### Modern Approaches (1990s onward)
+
+- **TQM (Total Quality Management)** → continuous improvement, customer focus.
+    
+- **Knowledge Management** → knowledge as key asset (Microsoft, IBM).
+    
+- **BPR (Business Process Reengineering)** → redesign for efficiency (IBM restructuring).
+    
+- **Globalization** → expansion across countries (MTN, Dangote).
+    
+- **Technology/Digitalization** → e-commerce, ERP systems (Amazon).
+    
+
+### Today’s Management Challenges
+
+- Blend efficiency with **human-centered** approaches.
+    
+- Emphasize adaptability, continuous learning, and employee well-being.
+    
+
+---
+
+## 👔 Who Are Managers?
+
+Introduction-to-Principles-of-M…
+
+- **Role**: Coordinate others’ work to achieve goals.
+    
+- **Types**:
+    
+    - Top-Level: Vision, long-term strategy (e.g., Elon Musk).
+        
+    - Middle Managers: Translate vision into actions (e.g., Shoprite Ghana manager).
+        
+    - First-Line: Daily supervision (e.g., Andela team leader).
+        
+
+---
+
+## 📊 Mintzberg’s 10 Managerial Roles
+
+Introduction-to-Principles-of-M…
+
+- **Interpersonal**: Figurehead, Leader, Liaison
+    
+- **Informational**: Monitor, Disseminator, Spokesperson
+    
+- **Decisional**: Entrepreneur, Disturbance Handler, Resource Allocator, Negotiator
+    
+
+---
+
+## ⚖️ Ethics & Management
+
+- **Managerial Ethics**: Fairness, honesty, responsibility.
+    
+- Examples:
+    
+    - UBA Foundation → entrepreneurship education
+        
+    - Nestlé → ethical sourcing in cocoa
+        
+    - Ethiopian Airlines → passenger safety, fair labor
+        
+- **Administration vs. Management**:
+    
+    - Administration → policy-making, top-level goals.
+        
+    - Management → executing and achieving results.
+        
+
+---
+
+✅ **Exam Tip**: Be ready to define key terms (Management, P-O-L-C), explain Fayol’s 14 principles with examples, compare classical vs modern theories, and apply Mintzberg’s roles in real scenarios.
+
+---
+
+Would you like me to also make you a **condensed “cheat sheet” version** (super short bullet-points) for last-minute cramming alongside these full notes?
+
+Sources
+
+##### You said:
+
+ok this is good but know add :: and ? to the markdown so i can use my plugin spaced repetition to revise and do other stuff
+
+###### ChatGPT said:
+
+Perfect ✅ I’ll adapt the notes into **Obsidian-style spaced repetition cards** using the `::` and `?` syntax so your plugin can recognize them. I’ll keep the structure clear (topics + cloze-style Q&A) while still being revision-friendly.
+
+Here’s the updated version:
+
+---
+
+# 📘 Principles & Functions of Management – Spaced Repetition Notes
+
+## 🏷️ What is Management?
+
+- Definition :: Management is the process of **planning, organizing, leading, and controlling** resources to achieve organizational goals **efficiently** and **effectively**?
+    
+- Efficiency :: Using resources wisely?
+    
+- Effectiveness :: Achieving desired results?
+    
+- Key features :: Goal-oriented, coordination of resources, efficiency + effectiveness, dynamic?
+    
+
+---
+
+## ⚙️ The P-O-L-C Framework
+
+### 1. Planning
+
+- Definition :: Setting objectives and deciding actions to achieve them?
+    
+- Characteristics :: Goal-oriented, future-focused, continuous, decision-based?
+    
+- Mechanisms :: Strategic planning, operational planning, forecasting, scenario planning?
+    
+- Problems :: Uncertainty, reliance on assumptions, resistance to change?
+    
+- Solutions :: Data-driven analysis, contingency plans, employee involvement?
+    
+- Example (Africa) :: OCP Group (Morocco) – global food security strategy?
+    
+- Example (South America) :: Petrobras (Brazil) – balancing oil & renewables?
+    
+
+### 2. Organizing
+
+- Definition :: Arranging resources and structures to implement plans?
+    
+- Characteristics :: Defines hierarchy, roles, authority, coordinates activities?
+    
+- Mechanisms :: Structures (functional, divisional, matrix, network), resource allocation, departmentalization, delegation?
+    
+- Problems :: Poor structure, communication breakdowns, overlapping roles?
+    
+- Solutions :: Agile/flat structures, ERP tools, clear job descriptions?
+    
+- Example (Africa) :: EgyptAir – divisional structure?
+    
+- Example (South America) :: Mercado Libre – networked structure?
+    
+
+### 3. Leading
+
+- Definition :: Motivating, influencing, and guiding employees toward goals?
+    
+- Characteristics :: Emotional intelligence, interpersonal focus, inspires motivation?
+    
+- Mechanisms :: Leadership styles, communication strategies, motivation techniques, conflict management?
+    
+- Problems :: Resistance, cultural challenges, leadership gaps?
+    
+- Solutions :: Training, inclusivity, feedback systems?
+    
+- Example (Africa) :: Jumia Morocco – innovation-driven leadership?
+    
+- Example (South America) :: Grupo Bimbo – transformational leadership?
+    
+
+### 4. Controlling
+
+- Definition :: Monitoring performance, comparing with goals, taking corrective action?
+    
+- Characteristics :: Continuous, measurement-focused, corrective?
+    
+- Mechanisms :: KPIs, audits, quality control, appraisals?
+    
+- Problems :: Micromanagement, inaccurate data, resistance?
+    
+- Solutions :: Balance autonomy & control, dashboards, fair evaluations?
+    
+- Example (Africa) :: Banque Misr – financial control systems?
+    
+- Example (South America) :: LATAM Airlines – monitoring efficiency & safety?
+    
+
+---
+
+## 🧭 Principles of Management
+
+### Henri Fayol’s 14 Principles
+
+- 1 :: Division of Work → specialization improves efficiency?
+    
+- 2 :: Authority & Responsibility → managers must be accountable?
+    
+- 3 :: Discipline → rules and agreements must be respected?
+    
+- 4 :: Unity of Command → each employee has one boss?
+    
+- 5 :: Unity of Direction → one plan, one leader per goal?
+    
+- 6 :: Subordination of Individual Interests → company > personal?
+    
+- 7 :: Remuneration → fair pay motivates workers?
+    
+- 8 :: Centralization → decision-making at the top?
+    
+- 9 :: Scalar Chain → clear chain of command?
+    
+- 10 :: Order → proper arrangement of people & resources?
+    
+- 11 :: Equity → fairness and kindness?
+    
+- 12 :: Stability of Tenure → low turnover = efficiency?
+    
+- 13 :: Initiative → encourage creativity & suggestions?
+    
+- 14 :: Esprit de Corps → promote team spirit?
+    
+
+---
+
+## 🏛️ Evolution of Management Thought
+
+- Ancient Foundations :: Egypt, China, Mesopotamia → admin systems for building, trade?
+    
+- Henri Fayol :: Father of Modern Management, 14 principles?
+    
+- Frederick Taylor :: Father of Scientific Management, time & motion studies, "one best way"?
+    
+- Problems with Taylorism :: Ignored human needs, mechanical, dehumanizing?
+    
+- Solutions :: Combine efficiency with human relations, ergonomics, employee input?
+    
+
+### Modern Approaches
+
+- TQM :: Continuous improvement, customer focus, teamwork?
+    
+- Knowledge Management :: Knowledge as key asset (Microsoft, IBM)?
+    
+- BPR :: Redesign processes for efficiency (IBM restructuring)?
+    
+- Globalization :: Expansion into new countries (MTN, Dangote)?
+    
+- Digitalization :: E-commerce, ERP systems (Amazon)?
+    
+- Today’s Challenge :: Blend efficiency + human-centered practices, adaptability, learning, well-being?
+    
+
+---
+
+## 👔 Who Are Managers?
+
+- Definition :: Someone who coordinates the work of others to achieve goals?
+    
+- Top-Level Managers :: Set vision & long-term strategy (e.g., Elon Musk)?
+    
+- Middle Managers :: Translate vision into actions (e.g., Shoprite Ghana)?
+    
+- First-Line Managers :: Direct daily work (e.g., Andela team leader)?
+    
+
+---
+
+## 📊 Mintzberg’s 10 Roles
+
+- Interpersonal :: Figurehead, Leader, Liaison?
+    
+- Informational :: Monitor, Disseminator, Spokesperson?
+    
+- Decisional :: Entrepreneur, Disturbance Handler, Resource Allocator, Negotiator?
+    
+
+---
+
+## ⚖️ Ethics & Administration vs Management
+
+- Managerial Ethics :: Fairness, honesty, responsibility?
+    
+- Example Ethics :: UBA Foundation (entrepreneurship), Nestlé (ethical sourcing), Ethiopian Airlines (safety & labor)?
+    
+- Administration vs Management ::
+    
+    - Administration → policy-making, top-level?
+        
+    - Management → execution, achieving results?
