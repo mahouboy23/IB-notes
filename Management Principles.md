@@ -5,7 +5,7 @@ tags:
 ---
 # 📘 Principles & Functions of Management – Spaced Repetition Notes
 
-## 🏷️ What is Management?
+## 🏷️ What is Management
 
 - Definition :: Management is the process of **planning, organizing, leading, and controlling** resources to achieve goals **efficiently** and **effectively**?
     
@@ -13,7 +13,7 @@ tags:
     
 - Effectiveness :: Achieving desired results?
     
-- Key features :: Goal-oriented, coordination, efficiency + effectiveness, dynamic?
+- Key features :: Goal-oriented, coordination, efficiency + effectiveness, dynamic
     
 
 ## ⚙️ P-O-L-C Framework
@@ -22,68 +22,68 @@ tags:
 
 - Definition :: Setting objectives and deciding actions to achieve them?
     
-- Characteristics :: Goal-oriented, future-focused, continuous, decision-based?
+- Characteristics :: Goal-oriented, future-focused, continuous, decision-based
     
-- Mechanisms :: Strategic planning, operational planning, forecasting, scenario planning?
+- Mechanisms :: Strategic planning, operational planning, forecasting, scenario planning
     
-- Problems :: Uncertainty, reliance on assumptions, resistance to change?
+- Problems :: Uncertainty, reliance on assumptions, resistance to change
     
-- Solutions :: Data-driven analysis, contingency plans, employee involvement?
+- Solutions :: Data-driven analysis, contingency plans, employee involvement
     
-- Example Africa :: OCP Group – global food security strategy?
+- Example Africa :: OCP Group – global food security strategy
     
-- Example South America :: Petrobras – balancing oil & renewables?
+- Example South America :: Petrobras – balancing oil & renewables
     
 
 ### Organizing
 
 - Definition :: Arranging resources and structures to implement plans?
     
-- Characteristics :: Defines hierarchy, roles, authority, coordinates activities?
+- Characteristics :: Defines hierarchy, roles, authority, coordinates activities
     
-- Mechanisms :: Functional/divisional/matrix/network structures, resource allocation, departmentalization, delegation?
+- Mechanisms :: Functional/divisional/matrix/network structures, resource allocation, departmentalization, delegation
     
-- Problems :: Poor structure, communication breakdowns, overlapping roles?
+- Problems :: Poor structure, communication breakdowns, overlapping roles
     
-- Solutions :: Agile/flat structures, ERP tools, clear job descriptions?
+- Solutions :: Agile/flat structures, ERP tools, clear job descriptions
     
-- Example Africa :: EgyptAir – divisional structure?
+- Example Africa :: EgyptAir – divisional structure
     
-- Example South America :: Mercado Libre – networked structure?
+- Example South America :: Mercado Libre – networked structure
     
 
 ### Leading
 
 - Definition :: Motivating, influencing, and guiding employees toward goals?
     
-- Characteristics :: Emotional intelligence, interpersonal focus, inspires motivation?
+- Characteristics :: Emotional intelligence, interpersonal focus, inspires motivation
     
-- Mechanisms :: Leadership styles, communication, motivation, conflict management?
+- Mechanisms :: Leadership styles, communication, motivation, conflict management
     
-- Problems :: Resistance, cultural challenges, leadership gaps?
+- Problems :: Resistance, cultural challenges, leadership gaps
     
-- Solutions :: Training, inclusivity, feedback systems?
+- Solutions :: Training, inclusivity, feedback systems
     
-- Example Africa :: Jumia Morocco – innovation-driven leadership?
+- Example Africa :: Jumia Morocco – innovation-driven leadership
     
-- Example South America :: Grupo Bimbo – transformational leadership?
+- Example South America :: Grupo Bimbo – transformational leadership
     
 
 ### Controlling
 
 - Definition :: Monitoring performance, comparing with goals, taking corrective action?
     
-- Characteristics :: Continuous, measurement-focused, corrective?
+- Characteristics :: Continuous, measurement-focused, corrective
     
-- Mechanisms :: KPIs, audits, quality control, appraisals?
+- Mechanisms :: KPIs, audits, quality control, appraisals
     
-- Problems :: Micromanagement, inaccurate data, resistance?
+- Problems :: Micromanagement, inaccurate data, resistance
     
-- Solutions :: Balance autonomy & control, dashboards, fair evaluations?
+- Solutions :: Balance autonomy & control, dashboards, fair evaluations
     
-- Example Africa :: Banque Misr – financial control systems?
+- Example Africa :: Banque Misr – financial control systems
     
-- Example South America :: LATAM Airlines – monitoring efficiency & safety?
+- Example South America :: LATAM Airlines – monitoring efficiency & safety
     
 
 ## 🧭 Fayol’s 14 Principles
@@ -107,51 +107,51 @@ tags:
 
 - Ancient Foundations :: Egypt, China, Mesopotamia → admin systems for building/trade?
     
-- Henri Fayol :: Father of Modern Management, 14 principles?
+- Henri Fayol :: Father of Modern Management, 14 principles
     
-- Frederick Taylor :: Scientific Management, time & motion studies, "one best way"?
+- Frederick Taylor :: Scientific Management, time & motion studies, "one best way"
     
-- Problems with Taylorism :: Ignored human needs, mechanical, dehumanizing?
+- Problems with Taylorism :: Ignored human needs, mechanical, dehumanizing
     
-- Solutions :: Blend efficiency with human relations, ergonomics, employee input?
+- Solutions :: Blend efficiency with human relations, ergonomics, employee input
     
-- TQM :: Continuous improvement, customer focus?
+- TQM :: Continuous improvement, customer focus
     
-- Knowledge Management :: Knowledge as key asset (Microsoft, IBM)?
+- Knowledge Management :: Knowledge as key asset (Microsoft, IBM)
     
-- BPR :: Redesign processes for efficiency (IBM restructuring)?
+- BPR :: Redesign processes for efficiency (IBM restructuring)
     
-- Globalization :: Expansion into new countries (MTN, Dangote)?
+- Globalization :: Expansion into new countries (MTN, Dangote)
     
-- Digitalization :: ERP, e-commerce (Amazon)?
+- Digitalization :: ERP, e-commerce (Amazon)
     
-- Today’s Challenge :: Blend efficiency + human-centered practices, adaptability, learning, well-being?
+- Today’s Challenge :: Blend efficiency + human-centered practices, adaptability, learning, well-being
     
 
-## 👔 Who Are Managers?
+## 👔 Who Are Managers
 
 - Definition :: Someone who coordinates the work of others to achieve goals?
     
-- Top-Level :: Set vision & strategy (e.g., Elon Musk)?
+- Top-Level :: Set vision & strategy (e.g., Elon Musk)
     
-- Middle Managers :: Translate vision into actions (e.g., Shoprite Ghana)?
+- Middle Managers :: Translate vision into actions (e.g., Shoprite Ghana)
     
-- First-Line :: Direct daily work (e.g., Andela team leader)?
+- First-Line :: Direct daily work (e.g., Andela team leader)
     
 
 ## 📊 Mintzberg’s 10 Roles
 
-- Interpersonal :: Figurehead, Leader, Liaison?
+- Interpersonal :: Figurehead, Leader, Liaison
     
-- Informational :: Monitor, Disseminator, Spokesperson?
+- Informational :: Monitor, Disseminator, Spokesperson
     
-- Decisional :: Entrepreneur, Disturbance Handler, Resource Allocator, Negotiator?
+- Decisional :: Entrepreneur, Disturbance Handler, Resource Allocator, Negotiator
     
 
 ## ⚖️ Ethics & Admin vs Management
 
-- Managerial Ethics :: Fairness, honesty, responsibility?
+- Managerial Ethics :: Fairness, honesty, responsibility
     
-- Example Ethics :: UBA Foundation (entrepreneurship), Nestlé (ethical sourcing), Ethiopian Airlines (safety & labor)?
+- Example Ethics :: UBA Foundation (entrepreneurship), Nestlé (ethical sourcing), Ethiopian Airlines (safety & labor)
     
-- Administration vs Management :: Admin = policy-making/top-level? Management = execution/results?
+- Administration vs Management :: Admin = policy-making/top-level, Management = execution/results
