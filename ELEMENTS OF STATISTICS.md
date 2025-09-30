@@ -4,7 +4,7 @@ tags:
   - Math
   - stat
 ---
-Created: 2025-09-18
+# **Created: 2025-09-18**
 
 # Introduction to Statistics
 
@@ -77,7 +77,7 @@ Cities & populations:
     - Lower boundary = $\text{Lower limit} - 0.5$
     - Upper boundary = $\text{Upper limit} + 0.5$
 
-9/23/2025
+# **9/23/2025**
 ### Example table :
 ![[file-20250918111709365.png]]
 
@@ -122,17 +122,17 @@ Cities & populations:
 
 ![[file-20250923111443056.png]]
 
-9/30/2025
+# **9/30/2025**
 # Ogive
 
 - **Ogive** =:: line graph showing cumulative frequencies.
 - Horizontal axis =:: upper class boundaries.
 - Vertical axis =:: cumulative frequencies.
-
+![[file-20250930101136501.png]]
 # Scatter Plot
 
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
-
+![[file-20250930101147996.png]]
 # Measures of Central Tendency
 ## Mean
 - **Mean (average)**:  
