@@ -216,3 +216,15 @@ $$CV=\dfrac{\sigma}{\mu}\times 100\%$$
 - About $68\%$ within $1\sigma$ of $\mu$  
 - About $95\%$ within $2\sigma$  
 - About $99.7\%$ within $3\sigma$
+
+Standard deviation
+
+Example:
+
+A Corporation hired 10 graduates. The starting salaries in dollar for each graduate is shown below.
+
+Salary : 41   38   39 45   47   41  44  41  37  42
+
+1.Find the range of the starting salaries for the Corporation 
+
+Find the Standard deviation of the starting salary
