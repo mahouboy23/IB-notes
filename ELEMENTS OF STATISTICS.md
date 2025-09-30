@@ -205,3 +205,15 @@ $$s=\sqrt{\dfrac{\sum (x-\bar{x})^2}{n-1}}$$
 - Larger values → more variation.  
 - $n-1$ = Bessel’s correction (unbiased estimate).
 
+## Coefficient of Variation (CV)
+- Sample:  
+$$CV=\dfrac{s}{\bar{x}}\times 100\%$$
+- Population:  
+$$CV=\dfrac{\sigma}{\mu}\times 100\%$$
+- Compares relative variability between datasets.
+
+## Empirical Rule (bell-shaped distributions)
+- About $68\%$ within $1\sigma$ of $\mu$  
+- About $95\%$ within $2\sigma$  
+- About $99.7\%$ within $3\sigma$
+
