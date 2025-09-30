@@ -121,6 +121,8 @@ Cities & populations:
 - Similar to histogram but keeps raw data.
 
 ![[file-20250923111443056.png]]
+
+9/30/2025
 # Ogive
 
 - **Ogive** =:: line graph showing cumulative frequencies.
@@ -131,4 +133,3 @@ Cities & populations:
 
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
 
-especially since you are already there
