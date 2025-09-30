@@ -160,7 +160,26 @@ $$1,2,5,7,9,12 \;\Rightarrow\; \text{Median}=\dfrac{5+7}{2}=6$$
 $$\text{Midrange}=\dfrac{\text{Lowest value}+\text{Highest value}}{2}$$
 - Easy to compute but very sensitive to outliers.
 
----
+## Weighted Mean
+- Formula:  
+$$\bar{x} = \dfrac{\sum (w \cdot x)}{\sum w}$$
+- Where $w$ = weight of each value, $x$ = data value.  
+- Used when data values are not equally important.
+
+### Example
+If test scores are weighted: Homework (40%), Midterm (30%), Final (30%), compute mean by applying weights.
+
+## Mean from a Frequency Distribution
+- Formula:  
+$$\bar{x} = \dfrac{\sum (f \cdot x)}{\sum f}$$
+- Where $f$ = frequency of each class, $x$ = class midpoint.  
+- Used when data are grouped in a frequency table.
+
+### Steps
+1. Find midpoint of each class.  
+2. Multiply each midpoint by its class frequency.  
+3. Add up all $f \cdot x$.  
+4. Divide by total frequency $n$.
 
 # Measures of Variability
 ## Range
