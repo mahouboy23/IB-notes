@@ -134,105 +134,66 @@ Cities & populations:
 - **Scatter plot** =:: paired $(x,y)$ data on 2 axes → shows relationship between 2 quantitative variables.
 
 # Measures of Central Tendency
-
 ## Mean
-
 - **Mean (average)**:  
-    xˉ=∑xn\bar{x} = \dfrac{\sum x}{n}xˉ=n∑x​
-    
+$$\bar{x} = \dfrac{\sum x}{n}$$
 - **Population mean**:  
-    μ=∑xN\mu = \dfrac{\sum x}{N}μ=N∑x​
-    
+$$\mu = \dfrac{\sum x}{N}$$
 - **Sample mean**:  
-    xˉ=∑xn\bar{x} = \dfrac{\sum x}{n}xˉ=n∑x​
-    
+$$\bar{x} = \dfrac{\sum x}{n}$$
 - Sensitive to outliers; balancing point of data.
-    
 
 ## Median
-
-- Middle value when data are ordered.
-    
-- If $n$ odd → median = middle value.
-    
-- If $n$ even → median = average of two middle values.
-    
+- Middle value when data are ordered.  
+- If $n$ odd → median = middle value.  
+- If $n$ even → median = average of two middle values.  
 - Example:  
-    1,2,5,7,9  ⇒  Median=51,2,5,7,9 \;\Rightarrow\; \text{Median}=51,2,5,7,9⇒Median=5  
-    1,2,5,7,9,12  ⇒  Median=5+72=61,2,5,7,9,12 \;\Rightarrow\; \text{Median}=\dfrac{5+7}{2}=61,2,5,7,9,12⇒Median=25+7​=6
-    
+$$1,2,5,7,9 \;\Rightarrow\; \text{Median}=5$$  
+$$1,2,5,7,9,12 \;\Rightarrow\; \text{Median}=\dfrac{5+7}{2}=6$$
 
 ## Mode
-
-- Value(s) that occur most often.
-    
+- Value(s) that occur most often.  
 - No mode / Unimodal / Bimodal / Multimodal.
-    
 
 ## Midrange
-
 - **Midrange**:  
-    Midrange=Lowest value+Highest value2\text{Midrange}=\dfrac{\text{Lowest value}+\text{Highest value}}{2}Midrange=2Lowest value+Highest value​
-    
+$$\text{Midrange}=\dfrac{\text{Lowest value}+\text{Highest value}}{2}$$
 - Easy to compute but very sensitive to outliers.
-    
 
 ---
 
 # Measures of Variability
-
 ## Range
-
 - **Range**:  
-    Range=Maximum−Minimum\text{Range}=\text{Maximum}-\text{Minimum}Range=Maximum−Minimum
-    
+$$\text{Range}=\text{Maximum}-\text{Minimum}$$  
 - Depends only on two values; very sensitive to outliers.
-    
 
 ## Variance & Standard Deviation
-
 ### Population
-
 - Variance:  
-    σ2=∑(x−μ)2N\sigma^2=\dfrac{\sum (x-\mu)^2}{N}σ2=N∑(x−μ)2​
-    
+$$\sigma^2=\dfrac{\sum (x-\mu)^2}{N}$$
 - Standard deviation:  
-    σ=∑(x−μ)2N\sigma=\sqrt{\dfrac{\sum (x-\mu)^2}{N}}σ=N∑(x−μ)2​​
-    
+$$\sigma=\sqrt{\dfrac{\sum (x-\mu)^2}{N}}$$
 
 ### Sample
-
 - Variance:  
-    s2=∑(x−xˉ)2n−1s^2=\dfrac{\sum (x-\bar{x})^2}{n-1}s2=n−1∑(x−xˉ)2​
-    
+$$s^2=\dfrac{\sum (x-\bar{x})^2}{n-1}$$
 - Standard deviation:  
-    s=∑(x−xˉ)2n−1s=\sqrt{\dfrac{\sum (x-\bar{x})^2}{n-1}}s=n−1∑(x−xˉ)2​​
-    
+$$s=\sqrt{\dfrac{\sum (x-\bar{x})^2}{n-1}}$$
 
 ### Notes
-
-- Units of $s$ and $\sigma$ are same as data.
-    
-- Larger values → more variation.
-    
+- Units of $s$ and $\sigma$ are same as data.  
+- Larger values → more variation.  
 - $n-1$ = Bessel’s correction (unbiased estimate).
-    
 
 ## Coefficient of Variation (CV)
-
 - Sample:  
-    CV=sxˉ×100%CV=\dfrac{s}{\bar{x}}\times 100\%CV=xˉs​×100%
-    
+$$CV=\dfrac{s}{\bar{x}}\times 100\%$$
 - Population:  
-    CV=σμ×100%CV=\dfrac{\sigma}{\mu}\times 100\%CV=μσ​×100%
-    
+$$CV=\dfrac{\sigma}{\mu}\times 100\%$$
 - Compares relative variability between datasets.
-    
 
 ## Empirical Rule (bell-shaped distributions)
-
-- About $68%$ within $1\sigma$ of $\mu$
-    
-- About $95%$ within $2\sigma$
-    
-- About $99.7%$ within $3\sigma$
+- About $68\%$ within $1\sigma$ of $\mu$  
+- About $95\%$ within $2\sigma$  
+- About $99.7\%$ within $3\sigma$
