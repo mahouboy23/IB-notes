@@ -81,7 +81,7 @@
             "id": "8037ccf0adf472a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/STATS EX 1.md"
               }
@@ -91,14 +91,14 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Management Principles.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Management Principles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,8 +325,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "8b4ac0ace799c3fe",
   "lastOpenFiles": [
+    "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101136501.png",
     "hl subjects/Math AA.md",
@@ -344,7 +345,6 @@
     "sl subjects/Economie.md",
     "CS DATA STRUCTURE.md",
     "Microeconomics.md",
-    "ELEMENTS OF STATISTICS.md",
     "Excalidraw/graph ex.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
@@ -367,7 +367,6 @@
     "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
     "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
     "assets/ELEMENTS OF STATISTICS/file-20250918111709365.png",
-    "assets/ELEMENTS OF STATISTICS/file-20250918111057259.png",
     "assets/ELEMENTS OF STATISTICS",
     "assets/Computer engineering",
     "Excalidraw/assets/English Composition I vocabulary",
