@@ -218,3 +218,28 @@ $$CV=\dfrac{\sigma}{\mu}\times 100\%$$
 - About $95\%$ within $2\sigma$  
 - About $99.7\%$ within $3\sigma$
 
+# Correlation
+
+## Definition
+- **Correlation** measures the strength and direction of the linear relationship between two quantitative variables.  
+- Denoted by correlation coefficient $r$.  
+- Values of $r$:  
+  $$-1 \leq r \leq 1$$
+
+## Pearson Correlation Coefficient
+- Formula:  
+$$r = \dfrac{n\sum xy - (\sum x)(\sum y)}{\sqrt{\big(n\sum x^2 - (\sum x)^2\big)\big(n\sum y^2 - (\sum y)^2\big)}}$$
+- $r > 0$: positive correlation.  
+- $r < 0$: negative correlation.  
+- $r = 0$: no linear correlation.
+
+## Properties
+- $|r|$ close to 1 → strong correlation.  
+- $|r|$ close to 0 → weak correlation.  
+- Symmetric: correlation of $x$ with $y$ = correlation of $y$ with $x$.  
+- Unit-free: does not depend on scale of measurement.
+
+## Scatterplot
+- A graph of paired $(x,y)$ data.  
+- Used to visually assess correlation.  
+- Points close to a straight line → strong correlation.  
