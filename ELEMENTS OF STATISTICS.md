@@ -181,6 +181,7 @@ $$\bar{x} = \dfrac{\sum (f \cdot x)}{\sum f}$$
 3. Add up all $f \cdot x$.  
 4. Divide by total frequency $n$.
 
+# **10/2/2025**
 # Measures of Variability
 ## Range
 - **Range**:  
