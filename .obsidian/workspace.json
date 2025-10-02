@@ -81,7 +81,7 @@
             "id": "8037ccf0adf472a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/STATS EX 1.md"
               }
@@ -91,14 +91,13 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management Principles.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -272,7 +271,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Management Principles.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,15 +324,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
+    "Management Principles.md",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101136501.png",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Microéconomie.md",
-    "Management Principles.md",
     "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
