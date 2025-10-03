@@ -262,3 +262,4 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
    - **Graph: Subsidy correcting externality**  
      - Optimum subsidy = MC – MSC.  
      ![[image-20230207165514044.png]]
+ 

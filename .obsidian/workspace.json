@@ -81,9 +81,11 @@
             "id": "8037ccf0adf472a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/STATS EX 1.md"
+                "file": "sl subjects/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,7 +93,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -325,11 +327,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
+    "sl subjects/Physics.md",
+    "IB overview.md",
+    "Excalidraw/STATS EX 1.md",
+    "Microeconomics.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
     "graph.md",
-    "Microeconomics.md",
     "assets/Microeconomics/image-20230207165514044.png",
     "assets/Microeconomics/image-20230208084954664.png",
     "assets/Microeconomics/image-20230207165457620.png",
@@ -339,7 +344,6 @@
     "Microeconomics exercise.md",
     "Management Principles.md",
     "sl subjects/Economie.md",
-    "IB overview.md",
     "ELEMENTS OF STATISTICS.md",
     "Microéconomie.md",
     "Le CPU.md",
@@ -359,12 +363,10 @@
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
     "Conceptes de base economie.md",
-    "Excalidraw/STATS EX 1.md",
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Prix maximum.md",
     "Les files.md",
     "KLDS.md",
-    "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
     "Excalidraw/assets/STATS EX 1",
