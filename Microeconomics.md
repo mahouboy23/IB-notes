@@ -209,13 +209,15 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
      - **Production externalities** (arise during production process).  
      - **Consumption externalities** (arise during consumption).  
 
-   - **Negative Externality Graph** [[graph]]  
-     - MPC = Marginal Private Cost.  
+   - **Negative Externality Graph** 
+     ![[image-20230203083115173 1.png]]
+	 - MPC = Marginal Private Cost.  
      - MSC = Marginal Social Cost.  
      - Market overproduces (Q₁ > Q\*).  
      - Welfare loss created.  
 
-   - **Positive Externality Graph** [[graph]]  
+   - **Positive Externality Graph** 
+     ![[image-20230208084954664.png]]
      - MPB = Marginal Private Benefit.  
      - MSB = Marginal Social Benefit.  
      - Market underproduces (Q₁ < Q\*).  
@@ -256,5 +258,6 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 2. **Subsidies**  
    - Financial aid provided to encourage production/consumption of goods with positive externalities.  
    - Examples: education, healthcare, renewable energy.  
-   - **Graph: Subsidy correcting externality** [[graph]]  
+   - **Graph: Subsidy correcting externality**  
      - Optimum subsidy = MC – MSC.  
+     ![[image-20230207165514044.png]]
