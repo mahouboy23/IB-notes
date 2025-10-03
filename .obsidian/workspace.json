@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physics.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,12 +327,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "8037ccf0adf472a7",
   "lastOpenFiles": [
-    "sl subjects/Physics.md",
+    "sl subjects/Physique.md",
+    "Physics.md",
+    "sl subjects/assets/Physique",
+    "Microeconomics.md",
     "IB overview.md",
     "Excalidraw/STATS EX 1.md",
-    "Microeconomics.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
     "graph.md",
     "assets/Microeconomics/image-20230207165514044.png",
@@ -366,7 +368,6 @@
     "Excalidraw/PDS EXAMPLE DUNIS.md",
     "Prix maximum.md",
     "Les files.md",
-    "KLDS.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
     "Excalidraw/assets/STATS EX 1",
@@ -374,7 +375,6 @@
     "assets/ELEMENTS OF STATISTICS",
     "assets/Computer engineering",
     "Excalidraw/assets/English Composition I vocabulary",
-    "assets/Notes",
     "Untitled 2.canvas",
     "politique d'offre.canvas",
     "Untitled 1.canvas",

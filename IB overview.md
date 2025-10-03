@@ -11,7 +11,7 @@ tags:
 ## SL subjects
 - [[Economie]] 💰
 - [[English and Literature]] ✍
-- [[Physics]] 🔭
+- [[Physique]] 🔭
 - [[Chinese]] 
 
 ## Common core

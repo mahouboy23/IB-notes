@@ -1,6 +1,7 @@
 ---
 tags : mod Physique
 ---
+# [[Physics]]
 # Physique
 
 ### **Theme 1:** [[Mesure d'incertitude]]
