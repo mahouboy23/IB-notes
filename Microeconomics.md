@@ -263,4 +263,4 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
      - Optimum subsidy = MC – MSC.  
      ![[image-20230207165514044.png]]
 
-I want you to do a complete physic
+I want you to do a complete physic notes of these 3 chapters with the most important part included and all the formula's and explanation that is needed to be included. Especially chapter 1 and 2
