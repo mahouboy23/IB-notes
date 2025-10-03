@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "bdc64fae909281c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fd34432d94612b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e7160db601f4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microeconomics exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b4ac0ace799c3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24fbecd8b32970c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microeconomics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beae2ae394cb70aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/graph ex.md"
+              }
+            }
+          },
+          {
+            "id": "788e987adc42e355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microéconomie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f12555f332b39fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptes de base economie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8037ccf0adf472a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/STATS EX 1.md"
+              }
+            }
+          },
+          {
+            "id": "3f1d861848b722b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1308ef2b81802a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca31f8813b2c80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0498c5d1af558e45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "70072f68ff9c8574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rare",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b7174caebcddda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b70e225457f9533",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "d1d63f2ed1853405",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a98ee7af552ebfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a574bcbcda84fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microeconomics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f33f1a0c2e69ce05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Microeconomics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05db6248bc91fb43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0f4ff99eaab89448",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Microeconomics.md"
+              }
+            }
+          },
+          {
+            "id": "2023dc70c735d799",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71e1ae11557c3d26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e5931746b22ea33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5e09a17bb293a6a3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "d13a06cb4474056d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea2cb0a21f14309",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Microeconomics.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42612160034540447,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "24fbecd8b32970c2",
+  "lastOpenFiles": [
+    "Microeconomics exercise.md",
+    "Microeconomics.md",
+    "Management Principles.md",
+    "sl subjects/Economie.md",
+    "IB overview.md",
+    "ELEMENTS OF STATISTICS.md",
+    "Microéconomie.md",
+    "Le CPU.md",
+    "assets/ELEMENTS OF STATISTICS/file-20251002112808616.png",
+    "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
+    "assets/ELEMENTS OF STATISTICS/file-20250930101136501.png",
+    "hl subjects/Math AA.md",
+    "Architecture des ordinateurs.md",
+    "hl subjects/Computer science.md",
+    "Structure de données abstraites.md",
+    "la pensee recursive.md",
+    "changement dans l'offre.md",
+    "Loi de la demande.md",
+    "écriture mathématique de la demande.md",
+    "CS DATA STRUCTURE.md",
+    "Excalidraw/graph ex.md",
+    "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
+    "Excalidraw/assets/graph ex",
+    "Conceptes de base economie.md",
+    "Excalidraw/STATS EX 1.md",
+    "Excalidraw/PDS EXAMPLE DUNIS.md",
+    "Prix maximum.md",
+    "Les files.md",
+    "KLDS.md",
+    "Exercise economie.md",
+    "Excédant et penuries.md",
+    "assets/ELEMENTS OF STATISTICS/file-20250923111443056.png",
+    "assets/ELEMENTS OF STATISTICS/file-20250923110146203.png",
+    "assets/ELEMENTS OF STATISTICS/file-20250923104123878.png",
+    "assets/ELEMENTS OF STATISTICS/file-20250923103056089.png",
+    "Excalidraw/assets/PDS EXAMPLE DUNIS",
+    "Excalidraw/assets/PDS EXAMPLE DUNIS/Pasted Image 20250922101150_414.png",
+    "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
+    "Excalidraw/assets/STATS EX 1",
+    "Excalidraw/assets/STATS EX 1/Pasted Image 20250918112744_861.png",
+    "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
+    "assets/ELEMENTS OF STATISTICS",
+    "assets/Computer engineering",
+    "Excalidraw/assets/English Composition I vocabulary",
+    "assets/Notes",
+    "University shortlist.loom",
+    "Untitled 2.canvas",
+    "politique d'offre.canvas",
+    "Untitled 1.canvas",
+    "economie mind map politique budgetaire.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Extended Essay.canvas"
+  ]
+}

@@ -184,3 +184,77 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 ## Trade-Offs Between Efficiency & Equity
 - Market equilibrium may be efficient but not equitable.  
 - Example: A society may achieve efficiency but with unfair income distribution.  
+
+# Chapter 4: Government in the Market
+## Core Idea
+- **Government intervention**: Regulatory actions taken by the state to affect or interfere with decisions made by individuals, groups, or firms regarding social and economic matters.  
+- Markets alone do not always achieve socially optimal outcomes → government intervenes to correct **market failures** and promote **equity**.
+
+---
+
+## Reasons for Government Intervention
+1. **Information**  
+   - Markets may fail when buyers/sellers lack adequate information.  
+   - Examples of government policies to improve information flows:  
+     - Public education and extension services.  
+     - Government-supported media & information delivery.  
+     - Labeling requirements.  
+     - Truth-in-advertising laws.  
+
+2. **Externalities**  
+   - **Definition**: Spillover costs/benefits of production or consumption that affect third parties without compensation.  
+   - **Types of externalities**:  
+     - **Negative externalities** (costs to society, e.g., pollution).  
+     - **Positive externalities** (benefits to society, e.g., vaccination).  
+     - **Production externalities** (arise during production process).  
+     - **Consumption externalities** (arise during consumption).  
+
+   - **Negative Externality Graph** [[graph]]  
+     - MPC = Marginal Private Cost.  
+     - MSC = Marginal Social Cost.  
+     - Market overproduces (Q₁ > Q\*).  
+     - Welfare loss created.  
+
+   - **Positive Externality Graph** [[graph]]  
+     - MPB = Marginal Private Benefit.  
+     - MSB = Marginal Social Benefit.  
+     - Market underproduces (Q₁ < Q\*).  
+     - Potential welfare gain if corrected.  
+
+3. **Public Goods**  
+   - Characteristics:  
+     - **Non-rivalrous**: One person’s use does not reduce availability to others.  
+     - **Non-excludable**: Cannot prevent non-payers from consuming.  
+   - Examples: national security, public infrastructure, clean air, public research.  
+   - Problem: **Free rider issue** → markets underprovide.  
+
+4. **Noncompetitive Behavior**  
+   - Markets sometimes dominated by a few or a single producer.  
+   - Examples: monopoly, cartels, oligopoly.  
+   - Issues: reduced output, higher prices, inefficiency.  
+   - Government response:  
+     - **Antitrust legislation**.  
+     - Regulation of natural monopolies.  
+
+5. **Distribution of Income & Wealth**  
+   - Markets often result in unequal distribution.  
+   - Governments use transfer policies to promote equity:  
+     - Income & inheritance taxes.  
+     - Social security systems.  
+     - Welfare programs, healthcare, and education subsidies.  
+
+---
+
+## Tools of Government Intervention
+1. **Taxes**  
+   - Imposed on goods/services to:  
+     - Correct negative externalities (internalize external costs).  
+     - Raise revenue for public expenditure.  
+   - **Graph: Tax correcting externality** [[graph]]  
+     - Optimum tax = MSC – MC.  
+
+2. **Subsidies**  
+   - Financial aid provided to encourage production/consumption of goods with positive externalities.  
+   - Examples: education, healthcare, renewable energy.  
+   - **Graph: Subsidy correcting externality** [[graph]]  
+     - Optimum subsidy = MC – MSC.  
