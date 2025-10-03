@@ -252,8 +252,9 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
    - Imposed on goods/services to:  
      - Correct negative externalities (internalize external costs).  
      - Raise revenue for public expenditure.  
-   - **Graph: Tax correcting externality** [[graph]]  
+   - **Graph: Tax correcting externality**   
      - Optimum tax = MSC – MC.  
+     ![[image-20230207165457620 1.png]]
 
 2. **Subsidies**  
    - Financial aid provided to encourage production/consumption of goods with positive externalities.  
