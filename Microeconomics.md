@@ -1,65 +1,186 @@
 ---
-tags:
-  - mod
-  - economie
+tags : mod economie
 ---
-Created: 2025-09-27
+Created: 2025-10-03
 
-## **Question 2** — Market Equilibrium, Surplus and Shortage
-#### (a) Define market equilibrium, excess demand (shortage), and excess supply (surplus). Draw a fully-labelled D–S diagram identifying equilibrium P*, Q* and the directions of price pressure when price is above/below equilibrium. (10)
+# Chapter 1: The Economic Problem
+## Core Idea
+- **Scarcity**: Limited resources, unlimited wants → central problem in economics.  
+- **Economics** studies how societies allocate scarce resources to produce goods/services, meet needs, and distribute them.  
+- Key concepts: *Scarcity, Choice, Efficiency, Well-being, Equity, Sustainability, Change, Interdependence, Intervention*.
 
-Market equilibrium occurs when the quantity demanded equals the quantity supplied at a specific price.
+---
 
-- **Excess demand (shortage):** If the market price is set below P, the quantity demanded exceeds the quantity supplied. The shortage puts upward pressure on price until equilibrium is restored.
-- **Excess supply (surplus):** If the price is set above P, the quantity supplied is greater than the quantity demanded. This surplus creates downward pressure on price until it returns to P*.
+## Factors of Production
+- **Land**: Natural resources (minerals, oil, forests, water).  
+- **Labour**: Human effort (physical & mental).  
+- **Capital**: Man-made resources (machinery, tools, factories).  
+- **Entrepreneurship**: Risk-taking, innovation, combining factors to create goods/services.
 
-![[graph ex]]
+---
 
-#### (b) A normal good experiences a rise in consumer income. Use a diagram to analyse how demand, equilibrium price and quantity change. Apply to a market you know. (10)
+## Opportunity Cost
+- **Definition**: Value of the next best alternative forgone.  
+- Every choice involves a trade-off.  
+- Example: Choosing dinner over a movie → opportunity cost = movie.  
+- **Economic goods**: Produced with scarce resources → involve opportunity cost.  
+- **Free goods**: Abundant, no opportunity cost (e.g., sunlight, air).
 
-When consumer income rises, the demand curve for a normal good shifts to the right (D → D1) because people buy more at every price.
+---
 
-- the new demand curve intersects supply at a higher equilibrium point.
-- The result is an increase in both equilibrium price (P* → P1) and equilibrium quantity (Q* → Q1).
+## Production Possibility Curve (PPC/PPF)
+- Shows **maximum combinations of two goods** an economy can produce using available resources & technology.  
+- **On the curve** = Productive efficiency (all resources fully used).  
+- **Inside the curve** = Inefficiency (resources underused).  
+- **Outside the curve** = Unattainable with current resources.  
+- **Shift outward** = Economic growth (more resources/tech progress).  
 
+---
 
-Example (application): Consider the market for smartphones. As average household incomes increase, more consumers are willing to purchase higher-end phones. The demand curve shifts rightward, leading to higher prices and more units sold in equilibrium.
+## Three Basic Economic Questions
+1. **What to produce?**  
+   → Which goods/services should be made.  
+2. **How to produce?**  
+   → What combination of factors/techniques to use.  
+3. **For whom to produce?**  
+   → How output is distributed among individuals/groups.
 
-#### (c) Evaluate the effectiveness of a maximum price (price ceiling) to address affordability problems (e.g., urban rents). Discuss shortages, and alternative policies. (10)
+---
 
-A maximum price (price ceiling) is a legal cap set below the equilibrium price (P*) to make a good more affordable.
+## Economic Systems
+- **Free Market**: Allocation mainly by supply & demand, minimal state intervention.  
+- **Planned Economy**: Government decides what/how/for whom.  
+- **Mixed Economy**: Blend of both. Most real-world economies fall here.  
 
-- **Diagram explanation:** At the imposed ceiling, quantity demanded exceeds quantity supplied → a shortage emerges. For example, in the rental housing market, more people want to rent at the lower capped price, but landlords are less willing to supply housing.
-- This leads to inefficiency: queues, informal markets (“black markets”), reduced quality of supply, and potential misallocation.
+---
 
+# Chapter 2: Demand, Supply & Elasticity
+## Demand
+- **Definition**: Quantity of a good consumers are willing & able to buy at a given price in a time period.  
+- **Law of Demand**:  
+  $$P \downarrow \;\Rightarrow\; Q_d \uparrow \quad \text{and vice versa}$$  
+- **Demand function**:  
+  $$Q = f(P)$$  
 
-**Effectiveness:**
+### Determinants of Demand
+- Own price of the good.  
+- Income of consumers.  
+- Price of related goods:  
+  - **Complements**: consumed together (car & petrol).  
+  - **Substitutes**: alternatives (Coke & Pepsi).  
+- Tastes/preferences.  
+- Expectations of future prices.  
+- Advertising.  
+- Distribution of income.
 
-- Positives: Can improve affordability in the short run for those who actually obtain the good at the lower price.
-- Negatives: Persistent shortages and under-supply mean many consumers still can’t access the good, defeating the policy’s goal.
+### Types of Goods
+- **Normal goods**: Demand ↑ when income ↑.  
+- **Inferior goods**: Demand ↓ when income ↑.  
 
+### Changes in Demand
+- **Movement along curve** = price change.  
+- **Shift of curve** = non-price determinant change (income, substitutes, etc.).  
 
-**Alternative policies:**
+---
 
-- Subsidies for suppliers to encourage provision at lower prices.
-- Targeted income support or housing vouchers so consumers can afford market rents without distorting prices.
-- Increasing supply through new construction or tax incentives to landlords.
+## Supply
+- **Definition**: Quantity producers are willing & able to sell at a given price in a time period.  
+- **Law of Supply**:  
+  $$P \uparrow \;\Rightarrow\; Q_s \uparrow$$  
 
-Thus, while price ceilings may offer temporary relief, they often worsen shortages; complementary or alternative policies tend to be more effective in the long run.
+### Determinants of Supply
+- Price.  
+- Cost of production.  
+- Technology.  
+- Prices of related outputs.  
+- Government policy.
 
-## **Question 1** — Scarcity, Choice and the PPC
-(a) Define scarcity and opportunity cost. Explain the main assumptions of the production
-possibilities curve (PPC/PPF) and draw a clearly labelled PPC showing efficient, inefficient, and
-unattainable points. (10)
+### Changes in Supply
+- **Movement along curve** = price change.  
+- **Shift of curve** = change in costs, tech, policy, etc.
 
+---
 
+## Market Equilibrium
+- **Equilibrium price (P\*)**: Where $Q_d = Q_s$.  
+- Below P\*: shortage (excess demand).  
+- Above P\*: surplus (excess supply).  
+- **Market forces** push price toward equilibrium.
 
-(b) Using your diagram, analyse how an increase in the quality/quantity of factors of production
-affects potential output (outward shift) versus how cyclical unemployment appears (movement
-inside the curve). Apply to a real context. (10)
+### Government Intervention
+- **Price ceiling**: Max legal price (e.g., rent control).  
+- **Price floor**: Min legal price (e.g., minimum wage).  
 
+---
 
+## Elasticity
+### Price Elasticity of Demand (PED)
+- **Definition**: Responsiveness of quantity demanded to price change.  
+$$E_d = \dfrac{\%\Delta Q_d}{\%\Delta P}$$  
 
-(c) Evaluate the view that outward shifts of the PPC are always desirable. (10)
+- **Types**:  
+  - Elastic: $E_d > 1$  
+  - Inelastic: $E_d < 1$  
+  - Unitary: $E_d = 1$  
+  - Perfectly elastic: $E_d = \infty$  
+  - Perfectly inelastic: $E_d = 0$
 
+- **Determinants**:  
+  - Availability of substitutes.  
+  - Proportion of income spent.  
+  - Necessity vs luxury.  
+  - Time horizon.
 
+- **Elasticity & Revenue**:  
+  - Elastic demand: $P \uparrow \Rightarrow TR \downarrow$  
+  - Inelastic demand: $P \uparrow \Rightarrow TR \uparrow$  
+
+### Income Elasticity of Demand
+$$E_y = \dfrac{\%\Delta Q_d}{\%\Delta Y}$$  
+- $E_y > 0$ → Normal good.  
+- $E_y < 0$ → Inferior good.  
+- $E_y > 1$ → Luxury good.  
+- $0 < E_y < 1$ → Necessity.
+
+### Cross-Price Elasticity
+- Responsiveness of demand for one good to price change of another.  
+- Complements: Negative.  
+- Substitutes: Positive.
+
+### Price Elasticity of Supply (PES)
+$$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$  
+- Elastic if $E_s > 1$, inelastic if $E_s < 1$.  
+- Depends on production flexibility, spare capacity, and time period.  
+
+---
+
+# Chapter 3: Efficiency & Equity
+## Efficiency
+- **Definition**: How well resources are used to maximize output & welfare.  
+- **Static efficiency**: At a point in time.  
+  - **Allocative efficiency**: $P = MC$ → resources match consumer preferences.  
+  - **Productive efficiency**: Output at minimum average cost (AC).  
+
+### Pareto Efficiency
+- A state where no one can be made better off without making someone else worse off.
+
+### PPF & Efficiency
+- Points **on** PPF: Productive + Allocative efficiency.  
+- Cannot increase production of one good without reducing another.
+
+### Dynamic Efficiency
+- Long-run improvements in efficiency via innovation, investment, and technology → economic growth.
+
+---
+
+## Equity
+- **Equity**: Fairness in the distribution of resources.  
+- Different from efficiency:  
+  - Efficiency = maximizing the size of the “pie”.  
+  - Equity = how the pie is divided.  
+
+---
+
+## Trade-Offs Between Efficiency & Equity
+- Market equilibrium may be efficient but not equitable.  
+- Example: A society may achieve efficiency but with unfair income distribution.  

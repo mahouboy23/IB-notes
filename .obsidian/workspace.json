@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "id": "8037ccf0adf472a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/STATS EX 1.md"
               }
@@ -91,14 +91,14 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management Principles.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management Principles.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management Principles.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Management Principles.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,17 +325,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b4ac0ace799c3fe",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
+    "Microeconomics.md",
+    "Microeconomics exercise.md",
+    "IB overview.md",
+    "Le CPU.md",
+    "Management Principles.md",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251002112808616.png",
-    "Management Principles.md",
     "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101136501.png",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Microéconomie.md",
-    "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Structure de données abstraites.md",
@@ -343,9 +346,7 @@
     "changement dans l'offre.md",
     "Loi de la demande.md",
     "écriture mathématique de la demande.md",
-    "sl subjects/Economie.md",
     "CS DATA STRUCTURE.md",
-    "Microeconomics.md",
     "Excalidraw/graph ex.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
