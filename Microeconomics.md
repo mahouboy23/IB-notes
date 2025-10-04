@@ -8,6 +8,7 @@ Created: 2025-10-03
 - **Scarcity**: Limited resources, unlimited wants → central problem in economics.  
 - **Economics** studies how societies allocate scarce resources to produce goods/services, meet needs, and distribute them.  
 - Key concepts: *Scarcity, Choice, Efficiency, Well-being, Equity, Sustainability, Change, Interdependence, Intervention*.
+- **Economy** is the combination of all productive activity within the same area
 
 ---
 

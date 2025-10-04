@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,13 +327,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "24fbecd8b32970c2",
   "lastOpenFiles": [
-    "sl subjects/Physique.md",
+    "Microeconomics exercise.md",
     "Physics.md",
+    "IB overview.md",
+    "sl subjects/Physique.md",
     "sl subjects/assets/Physique",
     "Microeconomics.md",
-    "IB overview.md",
     "Excalidraw/STATS EX 1.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
     "graph.md",
@@ -343,7 +344,6 @@
     "assets/Microeconomics/image-20230203083115173 1.png",
     "assets/Microeconomics/image-20230203083115173.png",
     "assets/Microeconomics",
-    "Microeconomics exercise.md",
     "Management Principles.md",
     "sl subjects/Economie.md",
     "ELEMENTS OF STATISTICS.md",
