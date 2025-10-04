@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,14 +327,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "8037ccf0adf472a7",
   "lastOpenFiles": [
+    "Microeconomics.md",
     "Microeconomics exercise.md",
     "Physics.md",
     "IB overview.md",
     "sl subjects/Physique.md",
     "sl subjects/assets/Physique",
-    "Microeconomics.md",
     "Excalidraw/STATS EX 1.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
     "graph.md",
