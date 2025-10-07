@@ -171,7 +171,7 @@ If test scores are weighted: Homework (40%), Midterm (30%), Final (30%), compute
 
 ## Mean from a Frequency Distribution
 - Formula:  
-$$\bar{x} = \dfrac{\sum (f \cdot x)}{\sum f}$$
+$$\bar{x} \approx \dfrac{\sum (f \cdot x)}{\sum f}$$
 - Where $f$ = frequency of each class, $x$ = class midpoint.  
 - Used when data are grouped in a frequency table.
 

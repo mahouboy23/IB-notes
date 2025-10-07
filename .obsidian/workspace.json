@@ -47,9 +47,11 @@
             "id": "beae2ae394cb70aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/graph ex.md"
+                "file": "ELEMENTS OF STATISTICS.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat exercises.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stat exercises.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat exercises.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -274,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stat exercises.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,12 +329,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "788e987adc42e355",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
-    "ELEMENTS OF STATISTICS.md",
     "Stat exercises.md",
+    "ELEMENTS OF STATISTICS.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
+    "Excalidraw/graph ex.md",
     "Microéconomie.md",
     "Protocoles et paquets de données.md",
     "Réseaux.md",
@@ -365,7 +368,6 @@
     "Loi de la demande.md",
     "écriture mathématique de la demande.md",
     "CS DATA STRUCTURE.md",
-    "Excalidraw/graph ex.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
