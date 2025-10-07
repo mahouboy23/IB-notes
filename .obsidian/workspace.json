@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microéconomie.md",
+                "file": "Stat exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Stat exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Stat exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocoles et paquets de données.md"
+                "file": "Stat exercises.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Stat exercises.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,11 +327,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f12555f332b39fa",
+  "active": "788e987adc42e355",
   "lastOpenFiles": [
+    "ELEMENTS OF STATISTICS.md",
+    "Stat exercises.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "Microéconomie.md",
+    "Protocoles et paquets de données.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
-    "IB overview.md",
     "Conceptes de base economie.md",
     "Physics.md",
     "Microeconomics.md",
@@ -349,13 +354,10 @@
     "assets/Microeconomics",
     "Management Principles.md",
     "sl subjects/Economie.md",
-    "ELEMENTS OF STATISTICS.md",
-    "Microéconomie.md",
     "Le CPU.md",
     "assets/ELEMENTS OF STATISTICS/file-20251002112808616.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101136501.png",
-    "hl subjects/Math AA.md",
     "Architecture des ordinateurs.md",
     "Structure de données abstraites.md",
     "la pensee recursive.md",
@@ -366,8 +368,6 @@
     "Excalidraw/graph ex.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
-    "Excalidraw/PDS EXAMPLE DUNIS.md",
-    "Prix maximum.md",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
     "Excalidraw/assets/STATS EX 1",
