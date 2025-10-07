@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "sl subjects/Physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,8 @@
               "type": "markdown",
               "state": {
                 "file": "Physics.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -276,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,22 +329,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beae2ae394cb70aa",
+  "active": "8037ccf0adf472a7",
   "lastOpenFiles": [
-    "Stat exercises.md",
+    "sl subjects/Physique.md",
+    "IB overview.md",
+    "Microeconomics.md",
     "ELEMENTS OF STATISTICS.md",
+    "Stat exercises.md",
     "Protocoles et paquets de données.md",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Excalidraw/graph ex.md",
     "Microéconomie.md",
     "Réseaux.md",
     "hl subjects/Computer science.md",
     "Conceptes de base economie.md",
     "Physics.md",
-    "Microeconomics.md",
     "Microeconomics exercise.md",
-    "sl subjects/Physique.md",
     "sl subjects/assets/Physique",
     "Excalidraw/STATS EX 1.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
