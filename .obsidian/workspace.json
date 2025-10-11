@@ -101,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics exercise.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics exercise.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics exercise.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -275,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics exercise.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -328,8 +329,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24e7160db601f4f1",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "Microeconomics exercise.md",
     "sl subjects/Physique.md",
     "IB overview.md",
     "Microeconomics.md",
@@ -343,7 +345,6 @@
     "hl subjects/Computer science.md",
     "Conceptes de base economie.md",
     "Physics.md",
-    "Microeconomics exercise.md",
     "sl subjects/assets/Physique",
     "Excalidraw/STATS EX 1.md",
     "assets/Microeconomics/image-20230207165457620 1.png",
