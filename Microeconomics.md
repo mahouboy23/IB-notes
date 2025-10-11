@@ -36,6 +36,8 @@ Created: 2025-10-03
 - **Outside the curve** = Unattainable with current resources.  
 - **Shift outward** = Economic growth (more resources/tech progress).  
 
+![[file-20251011085623530.png]]
+
 ---
 
 ## Three Basic Economic Questions

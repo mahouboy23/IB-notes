@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microeconomics exercise.md",
+                "file": "Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management Principles.md",
+                "file": "sl subjects/Economie.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -276,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,13 +328,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
-    "Microeconomics exercise.md",
-    "sl subjects/Physique.md",
+    "assets/Microeconomics/file-20251011085623530.png",
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "Management Principles.md",
     "Microeconomics.md",
+    "Microeconomics exercise.md",
     "ELEMENTS OF STATISTICS.md",
+    "sl subjects/Physique.md",
     "Stat exercises.md",
     "Protocoles et paquets de données.md",
     "hl subjects/Math AA.md",
@@ -355,8 +357,6 @@
     "assets/Microeconomics/image-20230203083115173 1.png",
     "assets/Microeconomics/image-20230203083115173.png",
     "assets/Microeconomics",
-    "Management Principles.md",
-    "sl subjects/Economie.md",
     "Le CPU.md",
     "assets/ELEMENTS OF STATISTICS/file-20251002112808616.png",
     "assets/ELEMENTS OF STATISTICS/file-20250930101147996.png",
@@ -367,7 +367,6 @@
     "changement dans l'offre.md",
     "Loi de la demande.md",
     "écriture mathématique de la demande.md",
-    "CS DATA STRUCTURE.md",
     "Excalidraw/assets/graph ex/Pasted Image 20250927100730_884.png",
     "Excalidraw/assets/graph ex",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
