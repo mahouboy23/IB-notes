@@ -247,3 +247,4 @@ $$r = \dfrac{n\sum xy - (\sum x)(\sum y)}{\sqrt{\big(n\sum x^2 - (\sum x)^2\big)
 ![[file-20251002112808616.png]]
 
 [[Stat exercises]] 
+
