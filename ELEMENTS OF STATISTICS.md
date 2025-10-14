@@ -255,7 +255,7 @@ $$r = \dfrac{n\sum xy - (\sum x)(\sum y)}{\sqrt{\big(n\sum x^2 - (\sum x)^2\big)
 - The variable used to predict (independent variable) is called **x**, and the variable being predicted (dependent variable) is **y**.
 - The goal is to find the **line of best fit** (regression line) that minimizes the sum of squared vertical distances between data points and the line.
 
-(graph of regression line)
+![[file-20251014101618008.png]]
 
 ---
 
