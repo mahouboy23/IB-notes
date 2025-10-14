@@ -248,3 +248,150 @@ $$r = \dfrac{n\sum xy - (\sum x)(\sum y)}{\sqrt{\big(n\sum x^2 - (\sum x)^2\big)
 
 [[Stat exercises]] 
 
+# Regression
+
+## Definition
+- **Regression** is a statistical method used to describe the relationship between two quantitative variables.
+- The variable used to predict (independent variable) is called **x**, and the variable being predicted (dependent variable) is **y**.
+- The goal is to find the **line of best fit** (regression line) that minimizes the sum of squared vertical distances between data points and the line.
+
+(graph of regression line)
+
+---
+
+## Regression Line (Line of Best Fit)
+- Equation of the regression line:
+$$\hat{y} = a + bx$$
+
+Where:
+- $\hat{y}$ = predicted value of $y$
+- $a$ = y-intercept
+- $b$ = slope of the line
+
+### Formulas
+$$b = \dfrac{n\sum xy - (\sum x)(\sum y)}{n\sum x^2 - (\sum x)^2}$$
+$$a = \dfrac{\sum y - b\sum x}{n}$$
+
+---
+
+## Interpretation
+- **Slope ($b$)**: the amount $y$ changes for every one-unit increase in $x$.
+- **Y-intercept ($a$)**: the predicted value of $y$ when $x = 0$.
+- The equation $\hat{y} = a + bx$ can be used for **prediction**.
+
+---
+
+## Coefficient of Determination ($r^2$)
+- Measures the proportion of the variation in $y$ explained by $x$.
+$$r^2 = (r)^2$$
+- $r^2 = 1$: perfect prediction.
+- $r^2 = 0$: no linear relationship.
+- Expressed as a percentage.
+
+---
+
+# Causation
+
+## Correlation vs. Causation
+- **Correlation** shows relationship; **causation** shows cause and effect.
+- A strong correlation **does not imply** that one variable causes the other.
+- Correlation may occur due to:
+  - **Lurking variables** (hidden causes)
+  - **Coincidence**
+  - **Reverse causation**
+
+(graph showing correlation but no causation)
+
+### Example
+- Ice cream sales and drowning rates both increase in summer.
+  → Correlation exists, but temperature is the lurking variable.
+
+---
+
+# Section 6: Probability
+
+## Basic Concepts
+- **Experiment**: any process that produces an outcome.
+- **Outcome**: result of a single trial.
+- **Event**: a collection of outcomes.
+- **Sample space ($S$)**: set of all possible outcomes.
+
+---
+
+## Probability Notation
+- Probability of an event $A$:
+$$P(A) = \dfrac{\text{Number of favorable outcomes}}{\text{Total number of outcomes}}$$
+- $0 \leq P(A) \leq 1$
+- $P(A) = 0$ → impossible event.
+- $P(A) = 1$ → certain event.
+
+---
+
+## Complement Rule
+- The complement of event $A$ is all outcomes **not in A**, written $A'$.
+$$P(A') = 1 - P(A)$$
+
+---
+
+## Addition Rule
+- For **mutually exclusive** events (cannot happen together):
+$$P(A \text{ or } B) = P(A) + P(B)$$
+- For **non-mutually exclusive** events:
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+(graph of Venn diagram for probability addition)
+
+---
+
+## Multiplication Rule
+- For **independent events**:
+$$P(A \text{ and } B) = P(A) \times P(B)$$
+- For **dependent events**:
+$$P(A \text{ and } B) = P(A) \times P(B|A)$$
+- Where $P(B|A)$ = probability of $B$ given $A$ occurred.
+
+---
+
+## Conditional Probability
+- Formula:
+$$P(B|A) = \dfrac{P(A \text{ and } B)}{P(A)}$$
+- Used when the outcome of $A$ affects the probability of $B$.
+
+---
+
+## Law of Total Probability
+If $A_1, A_2, A_3, \dots, A_n$ are mutually exclusive and exhaustive events:
+$$P(B) = \sum P(B|A_i)P(A_i)$$
+
+---
+
+## Tree Diagrams
+- Visual tool to show all possible outcomes and probabilities.
+(graph of tree diagram example)
+
+---
+
+## Counting Techniques
+### Fundamental Counting Rule
+If one event can occur in $m$ ways and another in $n$ ways:
+$$\text{Total outcomes} = m \times n$$
+
+### Factorials
+$$n! = n \times (n-1) \times (n-2) \times \dots \times 1$$
+
+### Permutations
+Order **matters**:
+$$P(n, r) = \dfrac{n!}{(n-r)!}$$
+
+### Combinations
+Order **does not matter**:
+$$C(n, r) = \dfrac{n!}{r!(n-r)!}$$
+
+---
+
+## Probability Distribution
+- A table or formula that gives the probability for each possible value of a random variable $x$.  
+- The sum of all probabilities must equal $1$:
+$$\sum P(x) = 1$$
+
+(graph of discrete probability distribution)
