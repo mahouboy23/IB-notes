@@ -484,12 +484,12 @@ Interpretation:
 ### 2. Stratified Sampling
 - Population is divided into **strata** (groups) based on a shared characteristic (e.g., gender, income level).
 - A random sample is taken from each stratum.
-(graph of stratified sampling)
+![[file-20251016110651577.png]]
 
 ### 3. Cluster Sampling
 - Population is divided into clusters (e.g., schools, neighborhoods).
 - Some clusters are randomly selected, and **all individuals** within selected clusters are surveyed.
-(graph of cluster sampling)
+![[file-20251016110727265.png]]
 
 ### 4. Systematic Sampling
 - Select every $k$th individual after a random starting point.
