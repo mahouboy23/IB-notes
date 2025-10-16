@@ -307,6 +307,7 @@ $$r^2 = (r)^2$$
   → Correlation exists, but temperature is the lurking variable.
 
 ---
+# **10/16/2025**
 # Multiple Regression
 
 ## Definition
@@ -377,7 +378,7 @@ Interpretation:
 ---
 
 ## Graphical Interpretation
-- (graph of multiple regression plane showing relationship between $y$, $x_1$, and $x_2$)
+ ![[file-20251016102204793.png]]
 - The plane represents the best-fit surface through the 3D scatter of points.
 
 ---
@@ -388,7 +389,6 @@ Interpretation:
 - However, **correlation does not imply causation** — a strong model does not prove a cause-and-effect relationship.
 
 ---
-
 
 # Section 6: Probability
 
