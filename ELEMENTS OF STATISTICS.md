@@ -307,6 +307,88 @@ $$r^2 = (r)^2$$
   → Correlation exists, but temperature is the lurking variable.
 
 ---
+# Multiple Regression
+
+## Definition
+- **Multiple regression** is used to describe the linear relationship between one dependent (response) variable and **two or more independent (predictor)** variables.
+- The goal is to **predict the value of the dependent variable** based on the values of several independent variables.
+
+## Multiple Regression Equation
+The general form of the multiple regression equation is:
+
+$$
+\hat{y} = b_0 + b_1x_1 + b_2x_2 + \dots + b_nx_n
+$$
+
+where:
+- $\hat{y}$ = predicted value of the dependent variable  
+- $b_0$ = intercept (value of $y$ when all $x$ values are 0)  
+- $b_1, b_2, \dots, b_n$ = regression coefficients for each predictor variable  
+- $x_1, x_2, \dots, x_n$ = independent (predictor) variables  
+
+---
+
+## Interpretation of Coefficients
+- Each coefficient $b_i$ represents the **average change in $y$** when $x_i$ increases by 1 unit, while holding other variables constant.
+- The **sign** of $b_i$ indicates the **direction** of the relationship:
+  - $b_i > 0$: positive relationship  
+  - $b_i < 0$: negative relationship  
+
+---
+
+## Example
+**Example:**  
+A study includes data for heights of mothers ($x_1$), fathers ($x_2$), and their daughters ($y$).  
+We can express the relationship as:
+
+$$
+\hat{y} = b_0 + b_1x_1 + b_2x_2
+$$
+
+Suppose the resulting equation is:
+
+$$
+\hat{y} = 30.4 + 0.28x_1 + 0.41x_2
+$$
+
+Interpretation:
+- The intercept $b_0 = 30.4$ means that if both parents were 0 cm tall (hypothetically), the predicted daughter’s height would be 30.4 cm.
+- For each additional centimeter in the **mother’s height**, the daughter’s height increases by about **0.28 cm**, assuming the father’s height stays the same.
+- For each additional centimeter in the **father’s height**, the daughter’s height increases by about **0.41 cm**, assuming the mother’s height stays the same.
+
+---
+
+## Coefficient of Determination ($R^2$)
+- Measures how well the regression model fits the data.
+- Formula:
+
+$$
+R^2 = 1 - \dfrac{\text{SS}_{\text{residual}}}{\text{SS}_{\text{total}}}
+$$
+
+where:
+- $\text{SS}_{\text{residual}}$ = sum of squared differences between observed and predicted $y$ values  
+- $\text{SS}_{\text{total}}$ = total sum of squares of differences between observed $y$ values and their mean  
+
+Interpretation:
+- $R^2$ ranges from 0 to 1.
+- A higher $R^2$ means a better fit (the model explains more of the variation in $y$).
+
+---
+
+## Graphical Interpretation
+- (graph of multiple regression plane showing relationship between $y$, $x_1$, and $x_2$)
+- The plane represents the best-fit surface through the 3D scatter of points.
+
+---
+
+## Remarks
+- Calculations are typically done using statistical software due to their complexity.  
+- Multiple regression helps account for **multiple factors simultaneously**, improving prediction accuracy.
+- However, **correlation does not imply causation** — a strong model does not prove a cause-and-effect relationship.
+
+---
+
 
 # Section 6: Probability
 
