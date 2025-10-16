@@ -415,10 +415,12 @@ Interpretation:
 ---
 ## Key Terms in Experimentation
 - **Experimental units**: the individuals or objects receiving the treatment.  
-  - If human → called **subjects**.
+	- If human → called **subjects**.
 - **Factor**: an explanatory variable (e.g., type of fertilizer, dosage level).
 - **Treatment**: a specific condition applied to experimental units.
 - **Response variable**: the outcome measured after the treatment.
+- \\\\\\\
+- 
 
 ---
 
