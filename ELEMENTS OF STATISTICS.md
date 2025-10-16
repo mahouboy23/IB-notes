@@ -419,6 +419,9 @@ Interpretation:
 - **Factor**: an explanatory variable (e.g., type of fertilizer, dosage level).
 - **Treatment**: a specific condition applied to experimental units.
 - **Response variable**: the outcome measured after the treatment.
+- **Level**: a specific value or setting of a factor in an experiment that represents one of the conditions applied to the subjects.
+	- If the factor is **“Dosage of medicine”**, the levels might be **10 mg**, **20 mg**, and **30 mg**.
+    - If the factor is **“Teaching method”**, the levels could be **Lecture**, **Online**, and **Hybrid**.
 
 ---
 
