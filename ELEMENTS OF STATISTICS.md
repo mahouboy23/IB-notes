@@ -389,6 +389,155 @@ Interpretation:
 - However, **correlation does not imply causation** — a strong model does not prove a cause-and-effect relationship.
 
 ---
+# Section 6: Production of Data — Experimentation and Sampling
+
+## Introduction
+- The goal of data production is to **collect information** in a way that produces **valid, reliable, and unbiased results**.
+- Two main sources of data:
+  1. **Observational studies**
+  2. **Experiments**
+
+---
+
+## Observational Studies
+- In an **observational study**, researchers observe and record data **without influencing** the subjects.
+- Used to describe situations or find associations, but **cannot establish causation**.
+- Example: studying smoking habits and heart disease by observing existing behavior.
+
+---
+## Experiments
+- An **experiment** involves **actively applying a treatment** to subjects and measuring the effect.
+- The goal is to determine **cause-and-effect relationships**.
+- The researcher **controls** one or more explanatory variables (factors).
+
+(graph of experimental design layout)
+
+---
+## Key Terms in Experimentation
+- **Experimental units**: the individuals or objects receiving the treatment.  
+  - If human → called **subjects**.
+- **Factor**: an explanatory variable (e.g., type of fertilizer, dosage level).
+- **Treatment**: a specific condition applied to experimental units.
+- **Response variable**: the outcome measured after the treatment.
+
+---
+
+## Principles of Experimental Design
+1. **Control** – minimize effects of lurking variables.
+2. **Randomization** – assign subjects to treatments randomly to avoid bias.
+3. **Replication** – repeat the experiment on many subjects to reduce chance variation.
+
+(graph of experimental process)
+
+---
+
+## Control Group and Placebo Effect
+- **Control group**: receives no treatment or a standard treatment for comparison.
+- **Placebo**: a fake treatment with no active effect.
+- **Placebo effect**: subjects may respond simply because they believe they are being treated.
+- To reduce bias, researchers use a **double-blind experiment**:
+  - Neither subjects nor experimenters know who receives the real treatment.
+
+---
+
+## Types of Experimental Designs
+### Completely Randomized Design
+- All subjects are randomly assigned to different treatment groups.
+(graph of randomized design)
+
+### Randomized Block Design
+- Subjects are grouped into **blocks** based on a shared characteristic (e.g., gender, age).
+- Random assignment occurs **within each block**.
+(graph of block design)
+
+### Matched Pairs Design
+- Each subject is paired with another that has similar characteristics, or with themselves under two conditions.
+- Example: before-and-after weight loss measurements.
+
+---
+
+## Lurking and Confounding Variables
+- **Lurking variable**: a hidden variable not included in the study that may influence the results.
+- **Confounding variable**: occurs when the effects of two variables on a response cannot be separated.
+(graph of confounding relationship)
+
+---
+
+# Sampling Methods
+
+## Population vs Sample
+- **Population ($N$)**: entire group of interest.
+- **Sample ($n$)**: a subset of the population used to estimate population characteristics.
+
+---
+
+## Why Sampling?
+- Studying an entire population is often **impractical** or **impossible**.
+- A good sample should be **representative** of the population to avoid bias.
+
+---
+
+## Types of Sampling Methods
+
+### 1. Simple Random Sample (SRS)
+- Every member of the population has an **equal chance** of being chosen.
+- Example: drawing names from a hat.
+(graph of SRS selection)
+
+### 2. Stratified Sampling
+- Population is divided into **strata** (groups) based on a shared characteristic (e.g., gender, income level).
+- A random sample is taken from each stratum.
+(graph of stratified sampling)
+
+### 3. Cluster Sampling
+- Population is divided into clusters (e.g., schools, neighborhoods).
+- Some clusters are randomly selected, and **all individuals** within selected clusters are surveyed.
+(graph of cluster sampling)
+
+### 4. Systematic Sampling
+- Select every $k$th individual after a random starting point.
+$$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
+(graph of systematic sampling)
+
+### 5. Convenience Sampling
+- Choosing individuals that are easy to reach.
+- Often **biased** and **not representative**.
+
+### 6. Voluntary Response Sampling
+- Participants **choose to be part of the sample**, often leading to bias since only people with strong opinions respond.
+
+---
+
+## Sampling Bias
+- **Bias** occurs when the sampling method **systematically favors** certain outcomes.
+### Common Types:
+1. **Undercoverage bias** – some groups are left out of the process.
+2. **Nonresponse bias** – selected individuals do not respond.
+3. **Response bias** – respondents give inaccurate answers (e.g., due to wording, interviewer, or memory).
+
+(graph of bias examples)
+
+---
+
+## Random Sampling vs Random Assignment
+- **Random sampling**: how subjects are selected from the population.
+  - Ensures representativeness.
+- **Random assignment**: how subjects are assigned to treatments.
+  - Allows for cause-and-effect conclusions.
+
+| Goal | Method Used |
+|------|--------------|
+| Generalize to population | Random Sampling |
+| Establish causation | Random Assignment |
+
+---
+
+## Summary
+- **Observational studies** → describe relationships.  
+- **Experiments** → test causation.  
+- **Randomization, control, and replication** → key to valid experiments.  
+- **Sampling methods** → determine how representative and unbiased results are.
+
 
 # Section 7: Probability
 
