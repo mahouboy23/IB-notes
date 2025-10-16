@@ -443,7 +443,7 @@ Interpretation:
 ## Types of Experimental Designs
 ### Completely Randomized Design
 - All subjects are randomly assigned to different treatment groups.
-(graph of randomized design)
+![[file-20251016105143016.png]]
 
 ### Randomized Block Design
 - Subjects are grouped into **blocks** based on a shared characteristic (e.g., gender, age).
