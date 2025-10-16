@@ -390,7 +390,7 @@ Interpretation:
 
 ---
 
-# Section 6: Probability
+# Section 7: Probability
 
 ## Basic Concepts
 - **Experiment**: any process that produces an outcome.
