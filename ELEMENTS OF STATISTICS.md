@@ -480,7 +480,6 @@ Interpretation:
 ### 1. Simple Random Sample (SRS)
 - Every member of the population has an **equal chance** of being chosen.
 - Example: drawing names from a hat.
-(graph of SRS selection)
 
 ### 2. Stratified Sampling
 - Population is divided into **strata** (groups) based on a shared characteristic (e.g., gender, income level).
