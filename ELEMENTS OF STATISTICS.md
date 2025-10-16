@@ -419,8 +419,6 @@ Interpretation:
 - **Factor**: an explanatory variable (e.g., type of fertilizer, dosage level).
 - **Treatment**: a specific condition applied to experimental units.
 - **Response variable**: the outcome measured after the treatment.
-- \\\\\\\
-- 
 
 ---
 
