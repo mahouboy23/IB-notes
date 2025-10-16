@@ -427,7 +427,7 @@ Interpretation:
 2. **Randomization** – assign subjects to treatments randomly to avoid bias.
 3. **Replication** – repeat the experiment on many subjects to reduce chance variation.
 
-(graph of experimental process)
+![[file-20251016105401219.png]]
 
 ---
 
@@ -448,7 +448,7 @@ Interpretation:
 ### Randomized Block Design
 - Subjects are grouped into **blocks** based on a shared characteristic (e.g., gender, age).
 - Random assignment occurs **within each block**.
-(graph of block design)
+![[file-20251016105315606.png]]
 
 ### Matched Pairs Design
 - Each subject is paired with another that has similar characteristics, or with themselves under two conditions.
