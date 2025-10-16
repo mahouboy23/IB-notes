@@ -459,7 +459,7 @@ Interpretation:
 ## Lurking and Confounding Variables
 - **Lurking variable**: a hidden variable not included in the study that may influence the results.
 - **Confounding variable**: occurs when the effects of two variables on a response cannot be separated.
-![[file-20251016105656960.png]]
+![[file-20251016105849332.png]]
 
 ---
 
@@ -470,13 +470,11 @@ Interpretation:
 - **Sample ($n$)**: a subset of the population used to estimate population characteristics.
 
 ---
-
 ## Why Sampling?
 - Studying an entire population is often **impractical** or **impossible**.
 - A good sample should be **representative** of the population to avoid bias.
 
 ---
-
 ## Types of Sampling Methods
 
 ### 1. Simple Random Sample (SRS)
@@ -497,7 +495,7 @@ Interpretation:
 ### 4. Systematic Sampling
 - Select every $k$th individual after a random starting point.
 $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
-(graph of systematic sampling)
+![[file-20251016110039248.png]]
 
 ### 5. Convenience Sampling
 - Choosing individuals that are easy to reach.
@@ -515,7 +513,7 @@ $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
 2. **Nonresponse bias** – selected individuals do not respond.
 3. **Response bias** – respondents give inaccurate answers (e.g., due to wording, interviewer, or memory).
 
-(graph of bias examples)
+![[file-20251016105945218.png]]
 
 ---
 
