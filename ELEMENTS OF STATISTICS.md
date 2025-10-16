@@ -247,7 +247,7 @@ $$r = \dfrac{n\sum xy - (\sum x)(\sum y)}{\sqrt{\big(n\sum x^2 - (\sum x)^2\big)
 ![[file-20251002112808616.png]]
 
 [[Stat exercises]] 
-
+# **10/14/2025**
 # Regression
 
 ## Definition
@@ -300,7 +300,7 @@ $$r^2 = (r)^2$$
   - **Coincidence**
   - **Reverse causation**
 
-(graph showing correlation but no causation)
+![[file-20251016090421067.png]]
 
 ### Example
 - Ice cream sales and drowning rates both increase in summer.

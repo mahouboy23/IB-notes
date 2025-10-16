@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -276,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,8 +329,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
+    "assets/ELEMENTS OF STATISTICS/file-20251016090421067.png",
+    "Microeconomics.md",
     "University.md",
     "IB overview.md",
     "Physics.md",
@@ -345,7 +347,6 @@
     "assets/ELEMENTS OF STATISTICS/file-20251014101542737.png",
     "Management Principles.md",
     "sl subjects/Economie.md",
-    "Microeconomics.md",
     "Stat exercises.md",
     "assets/Microeconomics/file-20251011085623530.png",
     "Microeconomics exercise.md",
@@ -368,7 +369,6 @@
     "Le CPU.md",
     "assets/ELEMENTS OF STATISTICS/file-20251002112808616.png",
     "Architecture des ordinateurs.md",
-    "Structure de données abstraites.md",
     "Excalidraw/assets/graph ex",
     "Excalidraw/assets/PDS EXAMPLE DUNIS",
     "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
