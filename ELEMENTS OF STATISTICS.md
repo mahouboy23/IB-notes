@@ -459,7 +459,7 @@ Interpretation:
 ## Lurking and Confounding Variables
 - **Lurking variable**: a hidden variable not included in the study that may influence the results.
 - **Confounding variable**: occurs when the effects of two variables on a response cannot be separated.
-(graph of confounding relationship)
+![[file-20251016105656960.png]]
 
 ---
 
