@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -276,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,8 +329,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beae2ae394cb70aa",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251016110727265.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016110651577.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016110641579.png",
@@ -341,7 +342,6 @@
     "assets/ELEMENTS OF STATISTICS/file-20251016105401219.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016105315606.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016105143016.png",
-    "assets/ELEMENTS OF STATISTICS/file-20251016102204793.png",
     "Microeconomics.md",
     "University.md",
     "IB overview.md",
@@ -352,7 +352,6 @@
     "sl subjects/Physique.md",
     "Mesure d'incertitude.md",
     "Protocoles et paquets de données.md",
-    "ELEMENTS OF STATISTICS.md",
     "Management Principles.md",
     "sl subjects/Economie.md",
     "Stat exercises.md",
