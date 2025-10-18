@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,8 +328,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
+    "Physics.md",
+    "Microeconomics.md",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251016110727265.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016110651577.png",
@@ -342,10 +343,8 @@
     "assets/ELEMENTS OF STATISTICS/file-20251016105401219.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016105315606.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016105143016.png",
-    "Microeconomics.md",
     "University.md",
     "IB overview.md",
-    "Physics.md",
     "Mécanique.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Force a distance.md",
