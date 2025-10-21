@@ -538,7 +538,7 @@ $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
 - **Randomization, control, and replication** → key to valid experiments.  
 - **Sampling methods** → determine how representative and unbiased results are.
 
-
+# **10/21/2025**
 # Section 7: Probability
 
 ## Basic Concepts
