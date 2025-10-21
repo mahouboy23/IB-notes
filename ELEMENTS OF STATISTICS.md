@@ -547,7 +547,13 @@ $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
 - **Event**: a collection of outcomes.
 - **Simple event:** an outcome/event that cannot be further broken down
 - **Sample space ($S$)**: set of all possible outcomes.
+- **procedure:** 
 
+Example : When a coin is tossed
+Procedure : tossed coin
+Example of event: tail
+
+Complete sample space: { tail, head }
 ---
 
 ## Probability Notation
