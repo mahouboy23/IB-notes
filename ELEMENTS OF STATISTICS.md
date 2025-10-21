@@ -549,11 +549,11 @@ $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
 - **Sample space ($S$)**: set of all possible outcomes.
 - **procedure:** 
 
-Example : When a coin is tossed
+Example 1: When a coin is tossed
 Procedure : tossed coin
 Example of event: tail
-
 Complete sample space: { tail, head }
+
 ---
 
 ## Probability Notation
