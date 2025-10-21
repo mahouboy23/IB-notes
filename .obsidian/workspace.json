@@ -101,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -275,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,11 +331,11 @@
   },
   "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "Microeconomics.md",
     "hl subjects/Math AA.md",
     "Management Principles.md",
     "Physics.md",
     "IB overview.md",
-    "Microeconomics.md",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251016110727265.png",
     "assets/ELEMENTS OF STATISTICS/file-20251016110651577.png",
