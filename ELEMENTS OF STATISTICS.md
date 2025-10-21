@@ -545,6 +545,7 @@ $$k = \dfrac{\text{Population size } (N)}{\text{Sample size } (n)}$$
 - **Experiment**: any process that produces an outcome.
 - **Outcome**: result of a single trial.
 - **Event**: a collection of outcomes.
+- **Simple event:** an outcome/event that cannot be further broken down
 - **Sample space ($S$)**: set of all possible outcomes.
 
 ---
