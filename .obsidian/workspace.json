@@ -95,7 +95,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -329,7 +329,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beae2ae394cb70aa",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
     "Travaille d'une force.md",
     "Mécanique.md",
