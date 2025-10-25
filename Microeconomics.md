@@ -429,7 +429,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 
 ## The Firm’s Supply Curve
 - In the short run, a firm’s **supply curve** is its **MC curve above the minimum AVC**.  
-(("Firm’s Short-Run Supply Curve — MC above AVC forms the supply line"))
+![[file-20251025101337332.png]]
 
 ---
 
@@ -453,7 +453,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - Entry → more supply → lower price.  
 - Exit → less supply → higher price.  
 - Long-run equilibrium: **P = MC = ATC** → normal profit.  
-(("Long-Run Adjustment through Entry and Exit — supply shifts restoring normal profit"))
+![[Drawing 2025-10-25 10.14.28.excalidraw]]
 
 ---
 
