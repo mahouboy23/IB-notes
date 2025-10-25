@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "sl subjects/Physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "sl subjects/Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "sl subjects/Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "sl subjects/Physique.md"
               }
             }
           },
@@ -276,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "sl subjects/Physique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,13 +331,13 @@
   },
   "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "IB overview.md",
+    "ELEMENTS OF STATISTICS.md",
     "Travaille d'une force.md",
     "Mécanique.md",
     "Energie potentielles et énergie mécanique.md",
     "sl subjects/Physique.md",
-    "IB overview.md",
     "Stat exercises.md",
-    "ELEMENTS OF STATISTICS.md",
     "Physics.md",
     "Microeconomics.md",
     "hl subjects/Math AA.md",
