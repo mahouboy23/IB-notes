@@ -436,7 +436,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 ## Market Supply & Short-Run Equilibrium
 - Market supply = total output supplied by all firms.  
 - **Short-run equilibrium**: occurs where **market demand = market supply**.  
-(("Short-Run Market Equilibrium — industry and firm diagrams side by side"))
+![[file-20251025101029506.png]]
 
 ---
 
