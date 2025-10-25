@@ -388,7 +388,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 3. Free entry and exit — no barriers.  
 4. Perfect knowledge of prices and products.  
 
-(("Market and Firm Demand Curves — Market demand slopes downward, firm’s demand is perfectly elastic"))
+![[file-20251025100546450.png]]
 
 ---
 
