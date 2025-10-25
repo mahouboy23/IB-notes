@@ -406,14 +406,14 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - At low output → losses (TR < TC).  
 - At mid output → maximum profit.  
 - At high output → losses again due to rising costs.  
-(("Total Revenue and Total Cost Curves — showing profit and loss zones"))
+![[file-20251025100718295.png]]
 
 ### 2. Marginal Analysis
 - Profit is maximized when:  
   $$MR = MC$$  
   or equivalently,  
   $$P = MC$$  
-(("MC, MR, and ATC Curves — profit-maximizing point where MR = MC"))
+![[file-20251025100755540.png]]
 
 ---
 
@@ -421,7 +421,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - **Rule**:  
   - Continue producing if **P ≥ AVC**.  
   - Shut down if **P < AVC** (can’t cover variable costs).  
-(("Shutdown Point — where MC intersects AVC at minimum point"))
+![[file-20251025100836797.png]]
 
 - **Shutdown Point**: The firm is indifferent between producing and closing; loss = TFC.  
 
