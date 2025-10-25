@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sl subjects/Physique.md",
+                "file": "Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sl subjects/Physique.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sl subjects/Physique.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sl subjects/Physique.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -276,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sl subjects/Physique.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,14 +329,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
+    "sl subjects/Economie.md",
     "IB overview.md",
+    "sl subjects/Physique.md",
+    "Mécanique.md",
     "ELEMENTS OF STATISTICS.md",
     "Travaille d'une force.md",
-    "Mécanique.md",
     "Energie potentielles et énergie mécanique.md",
-    "sl subjects/Physique.md",
     "Stat exercises.md",
     "Physics.md",
     "Microeconomics.md",
@@ -357,7 +358,6 @@
     "Force a distance.md",
     "Mesure d'incertitude.md",
     "Protocoles et paquets de données.md",
-    "sl subjects/Economie.md",
     "Microeconomics exercise.md",
     "Excalidraw/graph ex.md",
     "Microéconomie.md",
