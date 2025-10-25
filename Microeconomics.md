@@ -339,18 +339,18 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 
 - **Average Cost (AC)**: Cost per unit of output.  
   $$AC = \dfrac{TC}{Q}$$  
-  - (("Average Cost Curve — U-shaped curve showing economies and diseconomies of scale"))  
+  ![[file-20251025100049665.png]]  
 
 - **Average Fixed Cost (AFC)**:  
   $$AFC = \dfrac{FC}{Q}$$  
-  - (("Average Fixed Cost Curve — downward-sloping curve"))  
+   ![[file-20251025100207037.png]] 
 
 ---
 
 ## Revenues
 - **Total Revenue (TR)**:  
   $$TR = P \times Q$$  
-  - (("Total Revenue Curve — upward-sloping line from origin"))  
+   ![[file-20251025100247537.png]] 
 
 - **Average Revenue (AR)**:  
   $$AR = \dfrac{TR}{Q}$$  
@@ -365,7 +365,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - **Break-Even Point**: Where TR = TC → no profit, no loss.  
 - **If** TR > TC → profit.  
 - **If** TR < TC → loss.  
-- (("Break-Even Chart — TR and TC curves intersect; profit and loss areas shown"))  
+ ![[file-20251025100409642.png]]  
 
 ---
 
