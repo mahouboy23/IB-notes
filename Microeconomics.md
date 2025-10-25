@@ -266,3 +266,207 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
      - Optimum subsidy = MC – MSC.  
      ![[image-20230207165514044.png]]
 
+# Chapter 5: Production, Cost & Output
+## Production Process
+- **Production**: Process of combining inputs (land, labor, capital, entrepreneurship, and knowledge) to produce goods or services with value.  
+- It creates **utility** — goods and services that satisfy human wants.
+
+---
+
+## Sectors of the Economy
+- **Primary Sector**: Extraction of natural resources (agriculture, fishing, forestry, mining).  
+- **Secondary Sector**: Manufacturing and processing industries that transform raw materials into finished products.  
+- **Tertiary Sector**: Services such as tourism, health, media, education, and IT.  
+
+**Economic Development Pattern:**  
+- In **LDCs**: Primary > Secondary > Tertiary  
+- In **DCs**: Tertiary > Secondary > Primary  
+
+---
+
+## Time Periods in Production
+- **Momentary Period**: No factors can be changed; supply is perfectly inelastic.  
+- **Short Run**: At least one factor is fixed (usually capital). Labor is variable.  
+- **Long Run**: All factors are variable but technology remains fixed.  
+- **Very Long Run**: All factors and technology can change (innovation and R&D).
+
+---
+
+## Labor vs Capital Intensive Production
+- **Labor-Intensive Production**: Uses a larger proportion of labor (e.g., teaching, film-making).  
+- **Capital-Intensive Production**: Uses a larger proportion of machinery/equipment (e.g., car manufacturing).  
+
+**Choice depends on:**  
+- Availability and cost of labor and capital.  
+- Nature of product and technology used.  
+- Scale of production.
+
+---
+
+## Production & Productivity
+- **Production**: Total output produced.  
+- **Productivity**: Efficiency of converting inputs into outputs.  
+
+### Formulas
+- **Labor Productivity** = Total Output ÷ Number of Workers  
+- **Capital Productivity** = Total Output ÷ Capital Employed  
+
+### Ways to Improve Productivity
+- Training and specialization.  
+- Advanced technology and innovation.  
+- Better management and motivation.  
+
+### Advantages of High Productivity
+- Lower unit costs.  
+- Higher profits and competitiveness.  
+- Improved living standards.
+
+---
+
+## Costs of Production
+- **Costs**: Total expenses in the production process (wages, rent, materials, etc.).
+
+### Types of Costs
+- **Fixed Costs (FC)**: Do not vary with output (e.g., rent, salaries).  
+  - (("Fixed Cost Curve — horizontal line"))  
+
+- **Variable Costs (VC)**: Vary with output (e.g., wages, raw materials).  
+  - (("Variable Cost Curve — starts at origin and slopes upward"))  
+
+- **Total Cost (TC)**: Sum of all fixed and variable costs.  
+  $$TC = FC + VC$$  
+  - (("Total Cost Curve — starts from FC and rises with output"))  
+
+- **Average Cost (AC)**: Cost per unit of output.  
+  $$AC = \dfrac{TC}{Q}$$  
+  - (("Average Cost Curve — U-shaped curve showing economies and diseconomies of scale"))  
+
+- **Average Fixed Cost (AFC)**:  
+  $$AFC = \dfrac{FC}{Q}$$  
+  - (("Average Fixed Cost Curve — downward-sloping curve"))  
+
+---
+
+## Revenues
+- **Total Revenue (TR)**:  
+  $$TR = P \times Q$$  
+  - (("Total Revenue Curve — upward-sloping line from origin"))  
+
+- **Average Revenue (AR)**:  
+  $$AR = \dfrac{TR}{Q}$$  
+
+- **Marginal Revenue (MR)**:  
+  $$MR = \dfrac{\Delta TR}{\Delta Q}$$  
+
+---
+
+## Profit and Break-Even
+- **Profit** = TR − TC  
+- **Break-Even Point**: Where TR = TC → no profit, no loss.  
+- **If** TR > TC → profit.  
+- **If** TR < TC → loss.  
+- (("Break-Even Chart — TR and TC curves intersect; profit and loss areas shown"))  
+
+---
+
+## Business Objectives
+- **Corporate objectives**: Set by top management to define overall business direction.  
+- Examples: Profit maximization, growth, sustainability, market share, innovation.  
+
+---
+
+# Chapter 6: Perfect Competition
+## Definition
+- **Perfect competition**: A market structure where many small firms sell identical products and none can influence market price.  
+- Firms are **price takers** — they accept the market-determined price.
+
+---
+
+## Conditions for Perfect Competition
+1. Homogeneous (identical) products.  
+2. Many buyers and sellers (each too small to affect price).  
+3. Free entry and exit — no barriers.  
+4. Perfect knowledge of prices and products.  
+
+(("Market and Firm Demand Curves — Market demand slopes downward, firm’s demand is perfectly elastic"))
+
+---
+
+## Firm Behavior in Perfect Competition
+- Objective: **Profit maximization**.  
+  $$\text{Profit} = TR - TC$$  
+- **Total Revenue (TR)** = P × Q  
+- **Marginal Revenue (MR)** = change in TR from one more unit sold.  
+- In perfect competition, **P = MR = AR**.
+
+---
+
+## Firm’s Output Decision
+### 1. Using TR and TC Curves
+- At low output → losses (TR < TC).  
+- At mid output → maximum profit.  
+- At high output → losses again due to rising costs.  
+(("Total Revenue and Total Cost Curves — showing profit and loss zones"))
+
+### 2. Marginal Analysis
+- Profit is maximized when:  
+  $$MR = MC$$  
+  or equivalently,  
+  $$P = MC$$  
+(("MC, MR, and ATC Curves — profit-maximizing point where MR = MC"))
+
+---
+
+## The Shut-Down Rule
+- **Rule**:  
+  - Continue producing if **P ≥ AVC**.  
+  - Shut down if **P < AVC** (can’t cover variable costs).  
+(("Shutdown Point — where MC intersects AVC at minimum point"))
+
+- **Shutdown Point**: The firm is indifferent between producing and closing; loss = TFC.  
+
+---
+
+## The Firm’s Supply Curve
+- In the short run, a firm’s **supply curve** is its **MC curve above the minimum AVC**.  
+(("Firm’s Short-Run Supply Curve — MC above AVC forms the supply line"))
+
+---
+
+## Market Supply & Short-Run Equilibrium
+- Market supply = total output supplied by all firms.  
+- **Short-run equilibrium**: occurs where **market demand = market supply**.  
+(("Short-Run Market Equilibrium — industry and firm diagrams side by side"))
+
+---
+
+## Short-Run Profits or Losses
+- **Profit:** P > ATC → supernormal profit.  
+- **Break-even:** P = ATC → normal profit (zero economic profit).  
+- **Loss:** P < ATC → economic loss, but may still operate if P ≥ AVC.  
+(("Firm’s Profit and Loss Areas — shaded regions on cost/revenue diagram"))
+
+---
+
+## Long-Run Equilibrium
+- Firms enter if profits exist; exit if losses occur.  
+- Entry → more supply → lower price.  
+- Exit → less supply → higher price.  
+- Long-run equilibrium: **P = MC = ATC** → normal profit.  
+(("Long-Run Adjustment through Entry and Exit — supply shifts restoring normal profit"))
+
+---
+
+## Efficiency in Perfect Competition
+- In long-run equilibrium:  
+  - **Allocative efficiency**: P = MC (resources optimally allocated).  
+  - **Productive efficiency**: production at minimum ATC (lowest possible cost).  
+(("Efficiency under Perfect Competition — equilibrium at minimum ATC and P = MC"))
+
+---
+
+## Summary
+- Perfect competition: many firms, identical products, free entry/exit, perfect info.  
+- Profit maximization at **MR = MC**.  
+- Short-run: profits or losses possible.  
+- Long-run: only normal profit remains; efficiency achieved.
