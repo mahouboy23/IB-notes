@@ -335,7 +335,7 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 
 - **Total Cost (TC)**: Sum of all fixed and variable costs.  
   $$TC = FC + VC$$  
-  - (("Total Cost Curve — starts from FC and rises with output"))  
+  ![[file-20251025095911401.png]] 
 
 - **Average Cost (AC)**: Cost per unit of output.  
   $$AC = \dfrac{TC}{Q}$$  
