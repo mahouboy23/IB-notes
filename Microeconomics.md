@@ -461,10 +461,9 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - In long-run equilibrium:  
   - **Allocative efficiency**: P = MC (resources optimally allocated).  
   - **Productive efficiency**: production at minimum ATC (lowest possible cost).  
-(("Efficiency under Perfect Competition — equilibrium at minimum ATC and P = MC"))
+![[file-20251025101938800.png]]
 
 ---
-
 ## Summary
 - Perfect competition: many firms, identical products, free entry/exit, perfect info.  
 - Profit maximization at **MR = MC**.  
