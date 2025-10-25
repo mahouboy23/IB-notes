@@ -328,10 +328,10 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 
 ### Types of Costs
 - **Fixed Costs (FC)**: Do not vary with output (e.g., rent, salaries).  
-  - (("Fixed Cost Curve — horizontal line"))  
+   ![[file-20251025095634051.png]]
 
 - **Variable Costs (VC)**: Vary with output (e.g., wages, raw materials).  
-  - (("Variable Cost Curve — starts at origin and slopes upward"))  
+   ![[file-20251025095735101.png]]  
 
 - **Total Cost (TC)**: Sum of all fixed and variable costs.  
   $$TC = FC + VC$$  
