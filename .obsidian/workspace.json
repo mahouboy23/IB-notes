@@ -105,7 +105,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -341,12 +341,13 @@
   },
   "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
+    "Management Principles.md",
+    "Microeconomics.md",
     "assets/Microeconomics/file-20251025101938800.png",
     "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101459_141.png",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101443_074.png",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",
-    "Microeconomics.md",
     "assets/Microeconomics/file-20251025101337332.png",
     "assets/Microeconomics/file-20251025101029506.png",
     "assets/Microeconomics/file-20251025100836797.png",
@@ -354,7 +355,6 @@
     "assets/Microeconomics/file-20251025100749796.png",
     "assets/Microeconomics/file-20251025100718295.png",
     "assets/Microeconomics/file-20251025100546450.png",
-    "assets/Microeconomics/file-20251025100409642.png",
     "sl subjects/Economie.md",
     "IB overview.md",
     "sl subjects/Physique.md",
@@ -365,7 +365,6 @@
     "Stat exercises.md",
     "Physics.md",
     "hl subjects/Math AA.md",
-    "Management Principles.md",
     "University.md",
     "Force et Lois de Newton (Exemples de force).md",
     "Force a distance.md",
