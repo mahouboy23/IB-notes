@@ -632,4 +632,4 @@ $$C(n, r) = \dfrac{n!}{r!(n-r)!}$$
 - The sum of all probabilities must equal $1$:
 $$\sum P(x) = 1$$
 
-(graph of discrete probability distribution)
+![[file-20251028093915983.png]]
