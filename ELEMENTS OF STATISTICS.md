@@ -730,3 +730,126 @@ $$\mu_{\bar{x}} = 135$$
 $$\sigma_{\bar{x}} = \dfrac{18}{\sqrt{4}} = 9$$
 
 (graph of sampling distribution of means)
+
+# Section 10: Confidence Intervals
+
+## Definition
+A **confidence interval (CI)** is a range of values used to estimate a population parameter.  
+It provides an **interval estimate** rather than a single value.
+
+---
+
+## Confidence Level
+- The **confidence level (C)** is the probability that the confidence interval contains the true population parameter.  
+- Common levels: **90%, 95%, 99%**
+
+- The **critical value ($z_c$ or $t_c$)** corresponds to the area under the curve for the desired confidence level.
+
+(graph of confidence interval on normal curve)
+
+---
+
+## Confidence Interval for the Mean (σ Known)
+Used when the population standard deviation ($\sigma$) is known.
+
+$$\bar{x} \pm z_c \left( \dfrac{\sigma}{\sqrt{n}} \right)$$
+
+where:
+- $\bar{x}$ = sample mean  
+- $z_c$ = critical value from the standard normal distribution  
+- $\sigma$ = population standard deviation  
+- $n$ = sample size  
+
+---
+
+### Example
+A random sample of 36 light bulbs has $\bar{x} = 380$ hours, $\sigma = 20$.  
+Find the 95% confidence interval.
+
+$$z_c = 1.96$$  
+$$\bar{x} \pm z_c \left( \dfrac{\sigma}{\sqrt{n}} \right) = 380 \pm 1.96 \left( \dfrac{20}{6} \right)$$  
+$$380 \pm 6.53 = (373.47, 386.53)$$  
+
+Interpretation: We are 95% confident the true mean life lies between **373.47** and **386.53** hours.
+
+---
+
+## Confidence Interval for the Mean (σ Unknown)
+Used when $\sigma$ is **unknown**, and sample standard deviation $s$ is used.
+
+$$\bar{x} \pm t_c \left( \dfrac{s}{\sqrt{n}} \right)$$
+
+where:
+- $t_c$ = critical value from **t-distribution** with $df = n - 1$
+
+---
+
+## Confidence Interval for a Population Proportion
+$$\hat{p} \pm z_c \sqrt{\dfrac{\hat{p}(1 - \hat{p})}{n}}$$
+
+where:
+- $\hat{p}$ = sample proportion  
+- $n$ = sample size  
+
+---
+
+### Example
+In a survey of 1000 adults, 420 said they support a new law.
+
+$$\hat{p} = \dfrac{420}{1000} = 0.42$$  
+$$z_c = 1.96$$  
+$$\hat{p} \pm z_c \sqrt{\dfrac{\hat{p}(1-\hat{p})}{n}}$$  
+$$0.42 \pm 1.96 \sqrt{\dfrac{0.42(0.58)}{1000}}$$  
+$$0.42 \pm 0.03 = (0.39, 0.45)$$  
+
+Interpretation: We are 95% confident the true proportion is between **39%** and **45%**.
+
+(graph of sampling proportion with CI)
+
+---
+
+## Margin of Error (E)
+The amount added or subtracted to the point estimate to form the confidence interval.
+
+$$E = z_c \left( \dfrac{\sigma}{\sqrt{n}} \right) \quad \text{or} \quad E = t_c \left( \dfrac{s}{\sqrt{n}} \right)$$
+
+---
+
+## Confidence Interval for a Population Variance
+Used to estimate population variance or standard deviation using the **Chi-Square ($\chi^2$) distribution**.
+
+### Requirements
+1. Sample is random.  
+2. Population is normally distributed.
+
+### Formulas
+For variance:
+$$\dfrac{(n-1)s^2}{\chi^2_R} < \sigma^2 < \dfrac{(n-1)s^2}{\chi^2_L}$$
+
+For standard deviation:
+$$\sqrt{\dfrac{(n-1)s^2}{\chi^2_R}} < \sigma < \sqrt{\dfrac{(n-1)s^2}{\chi^2_L}}$$
+
+where:
+- $\chi^2_R$ and $\chi^2_L$ are the critical values for right and left tails.
+(graph of chi-square distribution)
+
+---
+
+### Example
+A random sample of 10 pennies has $s = 0.0125$ g.  
+Population standard deviation for regular pennies is $0.0165$ g.  
+Construct a 95% CI for $\sigma$.
+
+$$n = 10,\ df = 9$$  
+From chi-square table:  
+$\chi^2_L = 2.700,\ \chi^2_R = 19.023$
+
+$$\sqrt{\dfrac{(n-1)s^2}{\chi^2_R}} < \sigma < \sqrt{\dfrac{(n-1)s^2}{\chi^2_L}}$$  
+$$\sqrt{\dfrac{9(0.0125)^2}{19.023}} < \sigma < \sqrt{\dfrac{9(0.0125)^2}{2.700}}$$  
+$$0.0086 < \sigma < 0.0228$$  
+
+Interpretation:  
+We are 95% confident the true standard deviation lies between **0.0086 g** and **0.0228 g**.  
+Since this includes the current $\sigma = 0.0165$ g, the new equipment does **not** significantly reduce variation.
+
+(graph of CI for variance)
