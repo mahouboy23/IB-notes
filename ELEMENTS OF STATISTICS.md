@@ -605,7 +605,7 @@ $$P(B) = \sum P(B|A_i)P(A_i)$$
 
 ## Tree Diagrams
 - Visual tool to show all possible outcomes and probabilities.
-(graph of tree diagram example)
+![[file-20251028092524555.png]]
 
 ---
 
