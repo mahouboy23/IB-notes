@@ -577,7 +577,7 @@ $$P(A \text{ or } B) = P(A) + P(B)$$
 - For **non-mutually exclusive** events:
 $$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
 
-(graph of Venn diagram for probability addition)
+![[file-20251028104447063.png]]
 
 ---
 
