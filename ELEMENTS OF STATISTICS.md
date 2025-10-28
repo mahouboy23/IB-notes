@@ -633,3 +633,100 @@ $$C(n, r) = \dfrac{n!}{r!(n-r)!}$$
 $$\sum P(x) = 1$$
 
 ![[file-20251028093915983.png]]
+
+# Section 8: Sampling Distributions
+
+## Definition
+- **Sampling distribution of a statistic**:  
+  The distribution of all possible values of a statistic (like the sample mean or sample proportion) when all samples of size $n$ are taken from the same population.
+  
+- The sampling distribution is typically represented as a **probability distribution** in the form of:
+  - A table
+  - A probability histogram
+  - A mathematical formula  
+(graph of sampling distribution)
+
+---
+
+## Sampling Distribution of the Proportion
+- **Definition:**  
+  The distribution of **sample proportions** $\hat{p}$ from all possible samples of the same size $n$ drawn from a population.
+
+- **Formula:**  
+  $$\hat{p} = \dfrac{x}{n}$$  
+  where:
+  - $x$ = number of successes in the sample  
+  - $n$ = sample size  
+
+- The **mean** (expected value) of the sampling distribution of $\hat{p}$ is:  
+  $$\mu_{\hat{p}} = p$$  
+
+- The **standard deviation** (standard error) of the sampling distribution of $\hat{p}$ is:  
+  $$\sigma_{\hat{p}} = \sqrt{\dfrac{p(1 - p)}{n}}$$  
+
+---
+
+### Example
+A quarterback threw interceptions in three games: 1, 2, and 5.  
+Population = {1, 2, 5}.  
+Let’s consider all possible samples of size $n=2$ (with replacement) and compute the proportion of odd numbers.
+
+(graph of probability histogram of sample proportions)
+
+- The mean of the sampling distribution for the proportion of odd numbers = **mean of population proportion**.  
+  $$\mu_{\hat{p}} = p$$  
+  In general:  
+  $$E(\hat{p}) = p$$  
+
+---
+
+## Sampling Distribution of the Mean
+- **Definition:**  
+  The distribution of all possible sample means $\bar{x}$ for samples of size $n$ taken from the same population.
+
+- **Mean of the sampling distribution:**  
+  $$\mu_{\bar{x}} = \mu$$  
+
+- **Standard deviation (Standard Error of the Mean):**  
+  $$\sigma_{\bar{x}} = \dfrac{\sigma}{\sqrt{n}}$$  
+
+- The larger the sample size $n$, the **smaller** the standard error.
+
+(graph of sampling distribution narrowing as n increases)
+
+---
+
+## Central Limit Theorem (CLT)
+- For any population with mean $\mu$ and standard deviation $\sigma$, as the sample size $n$ increases, the sampling distribution of the sample mean $\bar{x}$ approaches a **normal distribution**.
+
+- Applies when:
+  - Population is normal, or
+  - Sample size $n \geq 30$
+
+(graph of CLT normal approximation)
+
+---
+
+### Example 1
+Cell phone bills for residents of a city have:
+- $\mu = \$63$
+- $\sigma = \$11$
+- $n = 100$
+
+Find the mean and standard error:
+$$\mu_{\bar{x}} = 63$$  
+$$\sigma_{\bar{x}} = \dfrac{11}{\sqrt{100}} = 1.1$$
+
+---
+
+### Example 2
+Training heart rates of 20-year-old athletes:
+- $\mu = 135$ bpm  
+- $\sigma = 18$ bpm  
+- $n = 4$
+
+Find the mean and standard error:
+$$\mu_{\bar{x}} = 135$$  
+$$\sigma_{\bar{x}} = \dfrac{18}{\sqrt{4}} = 9$$
+
+(graph of sampling distribution of means)
