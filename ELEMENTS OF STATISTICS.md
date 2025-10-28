@@ -854,3 +854,4 @@ Since this includes the current $\sigma = 0.0165$ g, the new equipment does **no
 
 (graph of CI for variance)
 
+133.6
