@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,10 +329,10 @@
   },
   "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028104447063.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093915983.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093859199.png",
-    "ELEMENTS OF STATISTICS.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
     "Travaille d'une force.md",
@@ -349,7 +349,6 @@
     "assets/Microeconomics/file-20251025101337332.png",
     "assets/Microeconomics/file-20251025101029506.png",
     "assets/Microeconomics/file-20251025100836797.png",
-    "assets/Microeconomics/file-20251025100755540.png",
     "sl subjects/Economie.md",
     "sl subjects/Physique.md",
     "Energie potentielles et énergie mécanique.md",
