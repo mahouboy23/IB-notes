@@ -852,6 +852,4 @@ Interpretation:
 We are 95% confident the true standard deviation lies between **0.0086 g** and **0.0228 g**.  
 Since this includes the current $\sigma = 0.0165$ g, the new equipment does **not** significantly reduce variation.
 
-(graph of CI for variance)
-
-133.6
+![[file-20251030093316310.png]]
