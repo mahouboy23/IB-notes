@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELEMENTS OF STATISTICS.md",
+                "file": "sl subjects/Physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "id": "9d2337f1cb471cad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md"
               }
@@ -93,7 +93,7 @@
             "id": "3f1d861848b722b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "sl subjects/Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "sl subjects/Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "sl subjects/Physique.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "sl subjects/Physique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,17 +327,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "788e987adc42e355",
   "lastOpenFiles": [
-    "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
+    "IB overview.md",
     "Microeconomics.md",
+    "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
     "Physics.md",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028104447063.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093915983.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093859199.png",
     "hl subjects/Math AA.md",
-    "IB overview.md",
     "Travaille d'une force.md",
     "Mécanique.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028092524555.png",
@@ -349,7 +349,6 @@
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",
     "assets/Microeconomics/file-20251025101337332.png",
     "assets/Microeconomics/file-20251025101029506.png",
-    "assets/Microeconomics/file-20251025100836797.png",
     "sl subjects/Economie.md",
     "sl subjects/Physique.md",
     "Energie potentielles et énergie mécanique.md",
