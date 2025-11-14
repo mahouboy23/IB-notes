@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl subjects/Math AA.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB overview.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB overview.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB overview.md"
+                "file": "ELEMENTS OF STATISTICS.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB overview.md",
+                "file": "ELEMENTS OF STATISTICS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,18 +327,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5b70e225457f9533",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
+    "hl subjects/Math AA.md",
+    "IB overview.md",
     "Physics.md",
     "Microeconomics.md",
     "sl subjects/Physique.md",
-    "IB overview.md",
     "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
     "ELEMENTS OF STATISTICS.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028104447063.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093915983.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093859199.png",
-    "hl subjects/Math AA.md",
     "Travaille d'une force.md",
     "Mécanique.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028092524555.png",
