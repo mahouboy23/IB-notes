@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise physics.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercise physics.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercise physics.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise physics.md"
+                "file": "Physics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exercise physics.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,8 +329,8 @@
   },
   "active": "788e987adc42e355",
   "lastOpenFiles": [
-    "Physics.md",
     "Exercise physics.md",
+    "Physics.md",
     "Microeconomics.md",
     "hl subjects/Math AA.md",
     "IB overview.md",
