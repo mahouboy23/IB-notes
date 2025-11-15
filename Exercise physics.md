@@ -238,31 +238,89 @@ $$T = 5(54.44) - 49 = 223\ \text{N}$$
 # G. Linear Momentum & Collisions
 
 ## **G.i Collision Between Two Masses**
+
 **Given:**  
-- $m_A = 2.5$ kg, $v_{A,i} = 25$ m/s  
-- $m_B = 7.5$ kg, $v_{B,i} = 0$  
-- $v_{A,f} = -5$ m/s  
-
-### (a) Final velocity of B
-Use momentum conservation:  
-$$2.5(25) = 2.5(-5) + 7.5v_B$$  
-$$62.5 = -12.5 + 7.5v_B$$  
-$$7.5v_B = 75$$  
-$$v_B = 10\ \text{m/s}$$  
-
-### (b) Type of collision  
-Initial KE:  
-$$K_i = 781.25\ \text{J}$$  
-
-Final KE:  
-$$K_f = 406.25\ \text{J}$$  
-
-Energy not conserved → **inelastic**.
-
-**Final Answers:**  
-- $\boxed{v_{B,f} = 10\ \text{m/s}}$  
-- $\boxed{\text{Collision is inelastic}}$
+- $m_A = 2.5\ \text{kg}$  
+- $v_{A,i} = 25\ \text{m/s}$  
+- $m_B = 7.5\ \text{kg}$  
+- $v_{B,i} = 0$  
+- $v_{A,f} = -5\ \text{m/s}$  
 
 ---
 
-# End of Assignment ✔️
+## (a) Final velocity of B
+
+### **Step 1 — Use the momentum conservation law**
+
+For a collision in 1D:  
+$$p_i = p_f$$  
+$$m_A v_{A,i} + m_B v_{B,i} = m_A v_{A,f} + m_B v_{B,f}$$
+
+---
+
+### **Step 2 — Substitute known values**
+
+$$2.5(25) + 7.5(0) = 2.5(-5) + 7.5 v_{B,f}$$
+
+Simplify left side:  
+$$2.5 \cdot 25 = 62.5$$  
+
+Simplify right side:  
+$$2.5(-5) = -12.5$$  
+
+So the equation becomes:  
+$$62.5 = -12.5 + 7.5 v_{B,f}$$
+
+---
+
+### **Step 3 — Solve for $v_{B,f}$**
+
+Move $-12.5$ to the left side:  
+$$62.5 + 12.5 = 7.5 v_{B,f}$$  
+$$75 = 7.5 v_{B,f}$$  
+
+Now divide both sides by 7.5:  
+$$v_{B,f} = \frac{75}{7.5} = 10\ \text{m/s}$$  
+
+---
+
+### ✅ **Final Answer (a):**  
+- $\boxed{v_{B,f} = 10\ \text{m/s}}$
+
+---
+
+## (b) Type of Collision
+
+### **Step 1 — Compute initial kinetic energy**
+
+Only A is moving initially:  
+$$K_i = \frac12 m_A v_{A,i}^2$$  
+$$K_i = \frac12(2.5)(25^2)$$  
+$$K_i = 1.25 \cdot 625 = 781.25\ \text{J}$$  
+
+---
+
+### **Step 2 — Compute final kinetic energy**
+
+Both masses move after collision:  
+$$K_f = \frac12 m_A v_{A,f}^2 + \frac12 m_B v_{B,f}^2$$  
+
+Substitute values:  
+$$K_f = \frac12(2.5)(5^2) + \frac12(7.5)(10^2)$$  
+$$K_f = 1.25(25) + 3.75(100)$$  
+$$K_f = 31.25 + 375 = 406.25\ \text{J}$$  
+
+---
+
+### **Step 3 — Compare energies**
+
+- $K_i = 781.25$ J  
+- $K_f = 406.25$ J  
+
+Energy **decreased**, so the collision is **inelastic**.
+
+---
+
+### ✅ **Final Answer (b):**  
+- $\boxed{\text{Collision is inelastic}}$
+
