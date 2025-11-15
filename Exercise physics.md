@@ -123,7 +123,7 @@ $$W = 12 - 18 = -6\ \text{J}$$
 
 # C. Work–Energy Theorem
 
-## **C.i Box Pushed Across Floor**
+	## **C.i Box Pushed Across Floor**
 **Given:**  
 - $m = 40$ kg  
 - $F_{\text{app}} = 130$ N  
