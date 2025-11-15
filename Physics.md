@@ -3,6 +3,7 @@ tags : mod Physique
 ---
 Created: 2025-10-03
 
+[[Exercise physics]] 
 # Chapter 1: Units, Measurements & Vectors
 ## 1.1 What is Physics
 - **Physics**: Science of matter, energy, and their interactions.  

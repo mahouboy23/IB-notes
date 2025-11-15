@@ -1,0 +1,385 @@
+{
+  "main": {
+    "id": "bdc64fae909281c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fd34432d94612b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e7160db601f4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microeconomics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b4ac0ace799c3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24fbecd8b32970c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELEMENTS OF STATISTICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "788e987adc42e355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beae2ae394cb70aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microeconomics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d2337f1cb471cad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-loading",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9f12555f332b39fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mécanique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f1d861848b722b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-loading",
+              "state": {
+                "file": "Excalidraw/PDS EXAMPLE DUNIS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1308ef2b81802a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca31f8813b2c80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0498c5d1af558e45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "70072f68ff9c8574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rare",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b7174caebcddda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b70e225457f9533",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB overview.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "d1d63f2ed1853405",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a98ee7af552ebfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a574bcbcda84fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exercise physics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f33f1a0c2e69ce05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exercise physics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05db6248bc91fb43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0f4ff99eaab89448",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exercise physics.md"
+              }
+            }
+          },
+          {
+            "id": "2023dc70c735d799",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71e1ae11557c3d26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e5931746b22ea33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5e09a17bb293a6a3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "d13a06cb4474056d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea2cb0a21f14309",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Exercise physics.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42612160034540447,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "788e987adc42e355",
+  "lastOpenFiles": [
+    "Physics.md",
+    "Exercise physics.md",
+    "Microeconomics.md",
+    "hl subjects/Math AA.md",
+    "IB overview.md",
+    "sl subjects/Physique.md",
+    "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
+    "ELEMENTS OF STATISTICS.md",
+    "assets/ELEMENTS OF STATISTICS/file-20251028104447063.png",
+    "assets/ELEMENTS OF STATISTICS/file-20251028093915983.png",
+    "assets/ELEMENTS OF STATISTICS/file-20251028093859199.png",
+    "Travaille d'une force.md",
+    "Mécanique.md",
+    "assets/ELEMENTS OF STATISTICS/file-20251028092524555.png",
+    "Management Principles.md",
+    "assets/Microeconomics/file-20251025101938800.png",
+    "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md",
+    "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101459_141.png",
+    "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101443_074.png",
+    "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",
+    "assets/Microeconomics/file-20251025101337332.png",
+    "assets/Microeconomics/file-20251025101029506.png",
+    "sl subjects/Economie.md",
+    "Energie potentielles et énergie mécanique.md",
+    "Stat exercises.md",
+    "University.md",
+    "Force et Lois de Newton (Exemples de force).md",
+    "Force a distance.md",
+    "Mesure d'incertitude.md",
+    "Protocoles et paquets de données.md",
+    "Microeconomics exercise.md",
+    "Excalidraw/graph ex.md",
+    "Microéconomie.md",
+    "Réseaux.md",
+    "hl subjects/Computer science.md",
+    "Conceptes de base economie.md",
+    "sl subjects/assets/Physique",
+    "Excalidraw/STATS EX 1.md",
+    "assets/Microeconomics",
+    "Excalidraw/assets/graph ex",
+    "Excalidraw/assets/PDS EXAMPLE DUNIS",
+    "Excalidraw/assets/Drawing 2025-09-22 10.11.37.excalidraw",
+    "Excalidraw/assets/STATS EX 1",
+    "Excalidraw/assets/Drawing 2025-09-18 11.27.02.excalidraw",
+    "assets/ELEMENTS OF STATISTICS",
+    "assets/Computer engineering",
+    "Untitled 2.canvas",
+    "politique d'offre.canvas",
+    "Untitled 1.canvas",
+    "economie mind map politique budgetaire.canvas",
+    "Eléctricite et magnétisme fiche revision.canvas",
+    "Extended Essay.canvas"
+  ]
+}
