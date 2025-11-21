@@ -413,6 +413,232 @@ $$T_3 = \frac{20}{13}(130) = 200\,\text{N}$$
 | Terminal velocity | $v_t = \frac{mg}{b}$           | Constant speed reached   |
 | Gravitational law | $F = G\frac{Mm}{r^2}$          | Universal attraction     |
 
+# Chapter 5: Work & Energy
+
+---
+
+# 5.1 Work
+
+- Work by constant force:  
+  $$W = \vec F \cdot \vec d = Fd\cos\theta$$
+- Sign meaning:  
+  - **+W** → speeds up  
+  - **0** → no change  
+  - **–W** → slows down  
+
+- Unit:  
+  $$1\,\text{J} = 1\,\text{N·m}$$  
+
+(("diagram: force, displacement, angle θ"))
+
+---
+
+# 5.2 Work by a Variable Force
+
+- General case:  
+  $$W = \int \vec F \cdot d\vec r$$  
+
+- Along x-axis:  
+  $$W = \int F(x)\,dx$$  
+
+- Spring force:  
+  $$F = -kx$$  
+  $$W = -\frac{1}{2}kx^2$$  
+
+(("diagram: area under F-x graph"))
+
+---
+
+# 5.3 Kinetic & Potential Energy
+
+### Kinetic Energy
+$$K = \frac12 mv^2$$
+
+### Potential Energies
+- Gravity (near Earth):  
+  $$U = mgh$$
+- Spring:  
+  $$U = \frac12 kx^2$$
+
+### Mechanical Energy
+$$E = K + U$$  
+
+---
+
+# 5.4 Conservative vs Non-Conservative Forces
+
+- **Conservative:** work independent of path (gravity, spring)  
+- **Non-conservative:** path-dependent (friction)
+
+### Work–Energy Theorem
+$$W_{\text{net}} = \Delta K$$  
+
+(("diagram: roller coaster energy changes"))
+
+---
+
+# Chapter 6: Momentum, Collisions & Center of Mass
+
+---
+
+# 6.1 Linear Momentum
+
+- Definition:  
+  $$\vec p = m\vec v$$
+
+- Newton’s 2nd Law (momentum form):  
+  $$\vec F_{\text{net}} = \frac{d\vec p}{dt}$$  
+
+---
+
+# 6.2 Impulse
+
+- Impulse changes momentum:  
+  $$\vec J = \int \vec F\, dt = \Delta\vec p$$  
+
+---
+
+# 6.3 Conservation of Momentum
+
+If no external forces:  
+$$\vec p_i = \vec p_f$$  
+
+- Works in all collisions.
+
+(("diagram: two carts colliding"))
+
+---
+
+# 6.4 Collisions
+
+### Elastic Collision
+- Momentum conserved  
+- KE conserved  
+
+1D formulas:  
+$$v_1' = \frac{(m_1 - m_2)v_1 + 2m_2 v_2}{m_1 + m_2}$$  
+$$v_2' = \frac{(m_2 - m_1)v_2 + 2m_1 v_1}{m_1 + m_2}$$  
+
+### Inelastic Collision
+- Momentum conserved  
+- KE **not** conserved  
+
+### Perfectly Inelastic
+- Objects stick together:  
+  $$v_f = \frac{m_1v_1 + m_2v_2}{m_1 + m_2}$$  
+
+---
+
+# 6.5 Center of Mass (CM)
+
+- Definition:  
+  $$x_{\text{cm}} = \frac{\sum m_i x_i}{\sum m_i}, \qquad y_{\text{cm}} = \frac{\sum m_i y_i}{\sum m_i}$$  
+
+- Continuous mass:  
+  $$\vec r_{\text{cm}} = \frac{1}{M}\int \vec r\,dm$$  
+
+### Motion of the CM
+$$M\vec a_{\text{cm}} = \vec F_{\text{ext}}$$  
+
+(("diagram: system of particles with center of mass"))
+
+---
+
+# Chapter 7: Circular Motion & Centripetal Acceleration
+
+---
+
+# 7.1 Kinematics of Circular Motion
+
+### Angular relationships
+- Tangential speed:  
+  $$v = \omega r$$  
+
+### Centripetal Acceleration
+$$a_R = \frac{v^2}{r} = \omega^2 r$$  
+
+(("diagram: vector directions for a_R and v"))
+
+---
+
+# 7.2 Period & Frequency
+
+- Frequency:  
+  $$f = \frac{1}{T}$$  
+- Speed in circular motion:  
+  $$v = \frac{2\pi r}{T}$$  
+
+---
+
+# 7.3 Dynamics of Circular Motion
+
+Centripetal force requirement:  
+$$F_{\text{net}} = m\frac{v^2}{r}$$  
+
+Not a new force — supplied by tension, gravity, friction, etc.
+
+---
+
+# 7.4 Vertical Circular Motion
+
+### At the bottom:
+$$F = mg + \frac{mv^2}{r}$$  
+
+### At the top:
+$$F = \frac{mv^2}{r} - mg$$  
+
+### Condition to stay taut:
+$$v_{\min} = \sqrt{rg}$$  
+
+(("diagram: forces at top and bottom of circle"))
+
+---
+
+# 7.5 Flat Curves (Friction-Based)
+
+Friction provides centripetal force:
+$$f_s = \frac{mv^2}{r}$$  
+
+No-skid speed:
+$$v_{\max} = \sqrt{\mu_s g r}$$  
+
+---
+
+# 7.6 Banked Curves (No Friction)
+
+$$\tan\theta = \frac{v^2}{rg}$$  
+
+(("diagram: banked angle and forces"))
+
+---
+
+# 7.7 Non-Uniform Circular Motion
+
+Total acceleration:
+$$a = \sqrt{a_R^2 + a_{\text{tan}}^2}$$  
+
+Where:  
+- Radial: \(a_R = \frac{v^2}{r}\)  
+- Tangential: \(a_{\text{tan}} = \frac{dv}{dt}\)  
+
+---
+
+# Summary of Key Equations (Ch. 5–7)
+
+| Concept | Formula |
+|--------|---------|
+| Work | $W = Fd\cos\theta$ |
+| Kinetic Energy | $K = \frac12 mv^2$ |
+| Potential Energy (spring) | $U = \frac12 kx^2$ |
+| Work–Energy theorem | $W_{\text{net}} = \Delta K$ |
+| Momentum | $p = mv$ |
+| Impulse | $J = \Delta p$ |
+| Perfectly inelastic v | $v_f = \frac{m_1v_1 + m_2v_2}{m_1 + m_2}$ |
+| CM | $x_{\text{cm}} = \frac{\sum m_i x_i}{M}$ |
+| Centripetal accel | $a_R = v^2/r$ |
+| Centripetal force | $F = mv^2/r$ |
+| Banked turn | $\tan\theta = v^2/(rg)$ |
+
 
 # Chapter 8: Rotational Kinematics & Torque
 
