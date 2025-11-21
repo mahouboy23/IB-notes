@@ -413,3 +413,284 @@ $$T_3 = \frac{20}{13}(130) = 200\,\text{N}$$
 | Terminal velocity | $v_t = \frac{mg}{b}$           | Constant speed reached   |
 | Gravitational law | $F = G\frac{Mm}{r^2}$          | Universal attraction     |
 
+# **Chapter 8: Rotational Kinematics & Torque**
+
+Created: 2025-11-21  
+Source: [[Chapt8_Rotational_Kinematics-Torque (1).pdf]]
+
+---
+
+# **8.1 Rotational Motion**
+
+- A rotating point is described by its **angular position** $\theta$.
+    
+- Angles measured in **radians**:  
+    360∘=2π rad=1 rev360^\circ = 2\pi \ \text{rad} = 1\ \text{rev}360∘=2π rad=1 rev
+    
+- Arc length–angle relation:  
+    ℓ=rθ\ell = r\thetaℓ=rθ
+    
+    - $\ell$: linear distance
+        
+    - $\theta$: angular distance (dimensionless)
+        
+    - $r$: radius
+        
+- Example to include: ("Angular size of a pencil at 100 m")
+    
+
+---
+
+# **8.2 Angular Velocity**
+
+- **Average angular velocity**:  
+    ωˉ=ΔθΔt\bar\omega = \frac{\Delta\theta}{\Delta t}ωˉ=ΔtΔθ​
+    
+- **Instantaneous angular velocity**:  
+    ω=dθdt\omega = \frac{d\theta}{dt}ω=dtdθ​
+    
+- **Angular acceleration**:
+    
+    \alpha = \frac{d\omega}{dt}$$
+
+### Relation to linear motion
+
+- Tangential speed:  
+    v=ωrv = \omega rv=ωr
+    
+- Tangential acceleration:  
+    atan=αra_{\text{tan}} = \alpha ratan​=αr
+    
+- Radial (centripetal) acceleration:  
+    aR=ω2ra_R = \omega^2 raR​=ω2r
+    
+
+---
+
+# **8.3 Relating Angular Velocity & Frequency**
+
+- Conversion:  
+    ω=2πf\omega = 2\pi fω=2πf  
+    where $f$ = frequency (Hz = rev/s)
+    
+- Period:  
+    T=1f=2πωT = \frac{1}{f} = \frac{2\pi}{\omega}T=f1​=ω2π​
+    
+
+### Example (wheel rotates 1 rev in 0.025 s)
+
+- Compute $f$, $\omega$, and $a_R$ at $r=15\text{ cm}$.  
+    (You can fill values under [[Exercise physics]] if needed.)
+    
+
+---
+
+# **8.4 Constant Angular Acceleration**
+
+Correspondence between linear ↔ angular:
+
+|Linear|Angular|
+|---|---|
+|$x$|$\theta$|
+|$v$|$\omega$|
+|$a$|$\alpha$|
+
+**Equations (constant $\alpha$):**
+
+1. ω=ω0+αt\omega = \omega_0 + \alpha tω=ω0​+αt
+    
+2. θ=θ0+ω0t+12αt2\theta = \theta_0 + \omega_0 t + \frac12 \alpha t^2θ=θ0​+ω0​t+21​αt2
+    
+3. ω2=ω02+2α(θ−θ0)\omega^2 = \omega_0^2 + 2\alpha(\theta - \theta_0)ω2=ω02​+2α(θ−θ0​)
+    
+
+---
+
+# **8.5 Rolling Without Slipping**
+
+- Condition:  
+    v=ωrv = \omega rv=ωr
+    
+- Rolling object has **translational + rotational motion**.
+    
+
+---
+
+# **8.6 Torque**
+
+- **Torque**: rotational effect of a force.  
+    τ=rF⊥=rFsin⁡θ\tau = r F_\perp = rF\sin\thetaτ=rF⊥​=rFsinθ
+    
+- Direction:
+    
+    - **ccw** = positive
+        
+    - **cw** = negative
+        
+
+### Lever arm
+
+- Perpendicular distance from rotation axis to line of action of force.
+    
+
+---
+
+# **8.7 Static Equilibrium**
+
+A system is in static equilibrium if:
+
+1. **Translational equilibrium**  
+    ∑F⃗=0\sum \vec{F} = 0∑F=0
+    
+2. **Rotational equilibrium**  
+    ∑τ=0\sum \tau = 0∑τ=0
+    
+
+Notes:
+
+- Choosing the rotation axis at the point of unknown forces can simplify equations.
+    
+- A force passing through the axis produces **no torque**.
+    
+
+### Example: mass hanging from cable at 12°
+
+- From notes:  
+    T=mg2sin⁡12∘=590 NT = \frac{mg}{2\sin12^\circ} = 590\text{ N}T=2sin12∘mg​=590 N
+    
+
+---
+
+# **8.8 Stability & Balance**
+
+Three types of equilibrium:
+
+### **Stable equilibrium**
+
+- Center of gravity inside base → system returns to equilibrium.
+    
+
+### **Neutral equilibrium**
+
+- Center of gravity stays at same height → new position is same “energy level”.
+    
+
+### **Unstable equilibrium**
+
+- Slight displacement → system moves away from original position.
+    
+
+---
+
+# **Chapter 9: Rotation – Dynamics, Inertia & Angular Momentum**
+
+Source: [[Chapt9_Rotation_Dynamics_Inertia_Angular_Momentum (1).pdf]]
+
+---
+
+# **9.1 Rotational Dynamics**
+
+Torque causes angular acceleration:
+
+From Newton’s 2nd law (rotation):
+
+∑τ=Iα\sum \tau = I\alpha∑τ=Iα
+
+- $I$ = **rotational inertia** or **moment of inertia**  
+    I=∑mr2I = \sum m r^2I=∑mr2
+    
+- Measures resistance to angular acceleration.
+    
+
+### Standard moments of inertia (axis through center)
+
+- Hollow cylinder:  
+    I=MR2I = MR^2I=MR2
+    
+- Solid cylinder:  
+    I=12MR2I = \frac12 MR^2I=21​MR2
+    
+- Solid sphere:  
+    I=25MR2I = \frac25 MR^2I=52​MR2
+    
+- Thin rod (center):  
+    I=112ML2I = \frac{1}{12} ML^2I=121​ML2
+    
+
+---
+
+# **9.2 Rotational Kinetic Energy**
+
+For rotation only:
+
+K=12Iω2K = \frac12 I\omega^2K=21​Iω2
+
+For rolling motion:
+
+K=12Mvcm2+12Icmω2K = \frac12 Mv_{\text{cm}}^2 + \frac12 I_{\text{cm}}\omega^2K=21​Mvcm2​+21​Icm​ω2
+
+### Example: Sphere rolling down incline
+
+Using conservation of energy:
+
+mgh=12mvcm2+12I(vcmR)2mgh = \frac12 mv_{\text{cm}}^2 + \frac12 I\left(\frac{v_{\text{cm}}}{R}\right)^2mgh=21​mvcm2​+21​I(Rvcm​​)2
+
+For a solid sphere:  
+I=25mR2I = \frac25 mR^2I=52​mR2
+
+Result from slides:  
+vcm=3.74 m/sv_{\text{cm}} = 3.74\,\text{m/s}vcm​=3.74m/s
+
+Energy distribution for sphere:
+
+- Rotational: $\frac{2}{7}K_{\text{total}}$
+    
+- Translational: $\frac{5}{7}K_{\text{total}}$
+    
+
+---
+
+# **9.3 Angular Momentum**
+
+Linear momentum: $p = mv$  
+Angular momentum:  
+L=IωL = I\omegaL=Iω
+
+Angular impulse relation:  
+ΔL=τΔt\Delta L = \tau \Delta tΔL=τΔt
+
+**Conservation of angular momentum**  
+If no external torque:  
+Linitial=LfinalL_{\text{initial}} = L_{\text{final}}Linitial​=Lfinal​
+
+### Example: Two disks sticking together
+
+Given:
+
+- $I_1 = 0.2156$ kg·m²
+    
+- $I_2 = 0.5488$ kg·m²
+    
+
+Conservation:  
+I2ω0=(I1+I2)ω′I_2\omega_0 = (I_1 + I_2)\omega'I2​ω0​=(I1​+I2​)ω′  
+ω′=467 rad/s\omega' = 467\ \text{rad/s}ω′=467 rad/s
+
+---
+
+# **Summary of Key Formulas (Ch. 8 & 9)**
+
+|Concept|Formula|
+|---|---|
+|Arc length|$\ell = r\theta$|
+|Angular velocity|$\omega = \frac{d\theta}{dt}$|
+|Tangential speed|$v = \omega r$|
+|Angular accel.|$\alpha = \frac{d\omega}{dt}$|
+|Frequency relation|$\omega = 2\pi f$|
+|Constant α eqns|$\omega=\omega_0+\alpha t$, $\theta=\theta_0+\omega_0t+\frac12\alpha t^2$, $\omega^2=\omega_0^2+2\alpha\Delta\theta$|
+|Torque|$\tau = rF\sin\theta$|
+|Rotational equilibrium|$\sum\tau=0$|
+|Rotational KE|$K=\frac12 I\omega^2$|
+|Rolling KE|$K=\frac12Mv^2 + \frac12I\omega^2$|
+|Angular momentum|$L = I\omega$|
+|Angular impulse|$\Delta L = \tau\Delta t$|
