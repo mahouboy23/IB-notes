@@ -413,8 +413,6 @@ $$T_3 = \frac{20}{13}(130) = 200\,\text{N}$$
 | Terminal velocity | $v_t = \frac{mg}{b}$           | Constant speed reached   |
 | Gravitational law | $F = G\frac{Mm}{r^2}$          | Universal attraction     |
 
-Created: 2025-11-21  
-Source: [[Chapt8_Rotational_Kinematics-Torque (1).pdf]], [[Chapt9_Rotation_Dynamics_Inertia_Angular_Momentum (1).pdf]]
 
 # Chapter 8: Rotational Kinematics & Torque
 
