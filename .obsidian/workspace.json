@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Exercise physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Exercise physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics.md"
+                "file": "Exercise physics.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics.md",
+                "file": "Exercise physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,12 +327,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24fbecd8b32970c2",
+  "active": "788e987adc42e355",
   "lastOpenFiles": [
+    "Physics.md",
     "assets/Physics/file-20251121133054309.png",
     "assets/Physics",
     "Microeconomics.md",
-    "Physics.md",
     "Exercise physics.md",
     "Management Principles.md",
     "sl subjects/Physique.md",
@@ -352,7 +352,6 @@
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101443_074.png",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",
     "assets/Microeconomics/file-20251025101337332.png",
-    "assets/Microeconomics/file-20251025101029506.png",
     "sl subjects/Economie.md",
     "Energie potentielles et énergie mécanique.md",
     "Stat exercises.md",
