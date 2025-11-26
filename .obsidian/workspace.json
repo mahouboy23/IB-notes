@@ -111,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le CPU.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -286,7 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Le CPU.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,18 +338,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "809b0e354c4c0466",
+  "active": "24e7160db601f4f1",
   "lastOpenFiles": [
+    "Physics.md",
+    "Microeconomics.md",
+    "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md",
+    "assets/Microeconomics/file-20251025101938800.png",
+    "Le CPU.md",
     "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
     "Notion de système.md",
     "système.md",
     "IB overview.md",
     "int and der.md",
-    "Microeconomics.md",
     "CS 121.md",
     "Management Principles.md",
-    "Physics.md",
     "Exercise physics.md",
     "assets/Physics/file-20251121133054309.png",
     "assets/Physics",
@@ -364,8 +366,6 @@
     "Travaille d'une force.md",
     "Mécanique.md",
     "assets/ELEMENTS OF STATISTICS/file-20251028092524555.png",
-    "assets/Microeconomics/file-20251025101938800.png",
-    "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101459_141.png",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw/Pasted Image 20251025101443_074.png",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",
@@ -377,8 +377,6 @@
     "Force et Lois de Newton (Exemples de force).md",
     "Force a distance.md",
     "Mesure d'incertitude.md",
-    "Protocoles et paquets de données.md",
-    "Microeconomics exercise.md",
     "sl subjects/assets/Physique",
     "assets/Microeconomics",
     "Excalidraw/assets/graph ex",
