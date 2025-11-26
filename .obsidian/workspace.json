@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "418cf53a640e9697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "revision micro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8b4ac0ace799c3fe",
             "type": "leaf",
             "state": {
@@ -111,7 +123,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "revision micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "revision micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "revision micro.md"
               }
             }
           },
@@ -285,7 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "revision micro.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,15 +351,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "418cf53a640e9697",
   "lastOpenFiles": [
+    "Microeconomics.md",
+    "revision micro.md",
+    "Management Principles.md",
     "assets/Microeconomics/file-20251126122555409.png",
     "assets/Microeconomics/file-20251126122455746.png",
     "assets/Microeconomics/file-20251126122328396.png",
     "assets/Microeconomics/file-20251126122241580.png",
     "assets/Microeconomics/file-20251126122222700.png",
     "Physics.md",
-    "Microeconomics.md",
     "Excalidraw/Drawing 2025-10-25 10.14.28.excalidraw.md",
     "assets/Microeconomics/file-20251025101938800.png",
     "Le CPU.md",
@@ -357,7 +372,6 @@
     "IB overview.md",
     "int and der.md",
     "CS 121.md",
-    "Management Principles.md",
     "Exercise physics.md",
     "assets/Physics/file-20251121133054309.png",
     "assets/Physics",
@@ -367,7 +381,6 @@
     "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028104447063.png",
     "assets/ELEMENTS OF STATISTICS/file-20251028093915983.png",
-    "assets/ELEMENTS OF STATISTICS/file-20251028093859199.png",
     "Travaille d'une force.md",
     "Mécanique.md",
     "Excalidraw/assets/Drawing 2025-10-25 10.14.28.excalidraw",

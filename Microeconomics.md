@@ -3,6 +3,7 @@ tags : mod economie
 ---
 Created: 2025-10-03
 
+[[revision micro]] 
 # Chapter 1: The Economic Problem
 ## Core Idea
 - **Scarcity**: Limited resources, unlimited wants → central problem in economics.  
