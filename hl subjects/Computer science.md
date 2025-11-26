@@ -23,3 +23,5 @@ tags : subject cs
 ## [[Computer engineering]] 
 
 ## [[CS DATA STRUCTURE]]
+
+# [[CS 121]]

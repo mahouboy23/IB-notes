@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "CS 121.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "CS 121.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "CS 121.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microeconomics.md"
+                "file": "CS 121.md"
               }
             }
           },
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microeconomics.md",
+                "file": "CS 121.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,17 +339,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e09a17bb293a6a3",
+  "active": "beae2ae394cb70aa",
   "lastOpenFiles": [
-    "Exercise physics.md",
+    "hl subjects/Computer science.md",
+    "CS 121.md",
+    "IB overview.md",
+    "Microeconomics.md",
     "int and der.md",
+    "Management Principles.md",
     "Physics.md",
+    "Exercise physics.md",
     "assets/Physics/file-20251121133054309.png",
     "assets/Physics",
-    "Microeconomics.md",
-    "Management Principles.md",
     "sl subjects/Physique.md",
-    "IB overview.md",
     "ELEMENTS OF STATISTICS.md",
     "hl subjects/Math AA.md",
     "assets/ELEMENTS OF STATISTICS/file-20251030093316310.png",
@@ -377,8 +379,6 @@
     "Excalidraw/graph ex.md",
     "Microéconomie.md",
     "Réseaux.md",
-    "hl subjects/Computer science.md",
-    "Conceptes de base economie.md",
     "sl subjects/assets/Physique",
     "assets/Microeconomics",
     "Excalidraw/assets/graph ex",
