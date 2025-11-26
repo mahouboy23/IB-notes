@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "int and der.md",
+                "file": "Le CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 121.md",
+                "file": "Le CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 121.md",
+                "file": "Le CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 121.md"
+                "file": "Le CPU.md"
               }
             }
           },
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS 121.md",
+                "file": "Le CPU.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,13 +339,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beae2ae394cb70aa",
+  "active": "809b0e354c4c0466",
   "lastOpenFiles": [
+    "Architecture des ordinateurs.md",
     "hl subjects/Computer science.md",
-    "CS 121.md",
+    "Notion de système.md",
+    "système.md",
     "IB overview.md",
-    "Microeconomics.md",
     "int and der.md",
+    "Microeconomics.md",
+    "CS 121.md",
     "Management Principles.md",
     "Physics.md",
     "Exercise physics.md",
@@ -376,9 +379,6 @@
     "Mesure d'incertitude.md",
     "Protocoles et paquets de données.md",
     "Microeconomics exercise.md",
-    "Excalidraw/graph ex.md",
-    "Microéconomie.md",
-    "Réseaux.md",
     "sl subjects/assets/Physique",
     "assets/Microeconomics",
     "Excalidraw/assets/graph ex",
