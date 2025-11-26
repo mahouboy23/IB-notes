@@ -469,3 +469,116 @@ $$E_s = \dfrac{\%\Delta Q_s}{\%\Delta P}$$
 - Profit maximization at **MR = MC**.  
 - Short-run: profits or losses possible.  
 - Long-run: only normal profit remains; efficiency achieved.
+
+Created: 2025-10-03
+
+# Chapter 7: Monopoly
+## Definition
+- **Monopoly**: A market structure where a **single seller** supplies the entire market with **no close substitutes** available.
+- The monopolist is a **price maker**, unlike competitive firms that are price takers.
+- Consumers must purchase from this one firm or go without the product.
+
+---
+
+## Characteristics of a Monopoly
+1. **One firm** in the industry (the firm *is* the market).  
+2. **No close substitutes** for the product.  
+3. **High barriers to entry** prevent other firms from entering.
+
+---
+
+## Sources of Monopoly Power
+1. **Ownership of strategic resources** or exclusive know-how.  
+2. **Patent rights** for a product or production process.  
+3. **Government licensing** or trade barriers excluding competitors.  
+4. **Natural monopoly**:  
+   - Market size is too small for multiple firms.  
+   - Significant **economies of scale** → one large plant is most efficient.
+
+---
+
+## Revenue Curves Under Monopoly
+- The monopolist faces a **downward-sloping demand curve**.  
+- This curve is both the **industry** demand and the **firm** demand.  
+- Monopolist chooses **price OR quantity**, but not both simultaneously.  
+- Because there are no substitutes, the demand is **relatively inelastic**.
+
+### AR and MR Relationship
+- **Average Revenue (AR)** = price.  
+- **Marginal Revenue (MR)** lies **below AR**.  
+- Reason: To sell additional units, monopolist must lower price for **all** units.
+
+(("AR and MR curves for a monopoly — downward-sloping AR, MR steeper and below AR"))
+
+---
+
+## Profit Maximization Under Monopoly
+- Profit is maximized where:  
+  $$MR = MC$$  
+- Monopolist then charges the **price from the AR curve** at that quantity.
+
+---
+
+## Short-Run Outcomes
+Depending on the position of AR relative to AC:
+
+### 1. Abnormal (Supernormal) Profit  
+- Occurs when:  
+  $$AR > AC$$  
+(("Monopoly profit diagram — AC below AR at Q\_m; profit area shaded"))
+
+### 2. Normal Profit  
+- Occurs when:  
+  $$AR = AC$$  
+(("Monopoly normal profit diagram"))
+
+### 3. Loss (But Still Producing)  
+- If:  
+  $$AR < AC \quad \text{but} \quad AR > AVC$$  
+- Firm covers variable costs → continues in short run.  
+(("Monopoly loss-minimizing output diagram"))
+
+---
+
+## Long-Run Equilibrium
+- **If long-run losses persist** → monopolist exits (unless subsidized).  
+- **If normal or abnormal profits exist** → firm remains.  
+- Unlike perfect competition:  
+  - **Barriers to entry allow monopoly to earn abnormal profit in the long run.**
+
+---
+
+## Monopoly vs Perfect Competition
+### With the same MC curve:
+- **Monopoly output**: lower (Q₂ < Q₁).  
+- **Monopoly price**: higher (P₂ > P₁).  
+- Leads to **allocative inefficiency**.
+
+(("Comparison of monopoly & perfect competition — MC same, monopoly MR intersects MC at lower Q and higher P"))
+
+---
+
+## Arguments *Against* Monopoly
+- **Higher prices** and **lower output** than competition.  
+- **X-inefficiency**: lack of competitive pressure leads to wasteful production.  
+- **Lower incentive to innovate**.  
+- **Consumer welfare loss** due to reduced choice.
+
+---
+
+## Arguments *For* Monopoly
+- **Economies of scale**: lower long-run average costs → potential lower prices.  
+- High profits may fund **research & innovation**.  
+- Useful in industries where duplication of infrastructure is wasteful (e.g., utilities).
+
+---
+
+## Bilateral Monopoly
+- Occurs when:  
+  - A **single seller (monopolist)** sells to a **single buyer (monopsonist)**.  
+- Outcome depends on **relative bargaining power** of each party.  
+- Price and quantity are negotiated, not determined by standard supply/demand.
+
+---
+
+
