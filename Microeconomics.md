@@ -554,8 +554,11 @@ Depending on the position of AR relative to AC:
 - **Monopoly price**: higher (P₂ > P₁).  
 - Leads to **allocative inefficiency**.
 
-(("Comparison of monopoly & perfect competition — MC same, monopoly MR intersects MC at lower Q and higher P"))
+## **Monopoly**
+![[file-20251126122455746.png]]
 
+## **Monopoly**
+![[file-20251126122555409.png]]
 ---
 
 ## Arguments *Against* Monopoly
