@@ -525,18 +525,18 @@ Depending on the position of AR relative to AC:
 ### 1. Abnormal (Supernormal) Profit  
 - Occurs when:  
   $$AR > AC$$  
-(("Monopoly profit diagram — AC below AR at Q\_m; profit area shaded"))
+![[file-20251126122222700.png]]
 
 ### 2. Normal Profit  
 - Occurs when:  
   $$AR = AC$$  
-(("Monopoly normal profit diagram"))
+![[file-20251126122241580.png]]
 
 ### 3. Loss (But Still Producing)  
 - If:  
   $$AR < AC \quad \text{but} \quad AR > AVC$$  
 - Firm covers variable costs → continues in short run.  
-(("Monopoly loss-minimizing output diagram"))
+![[file-20251126122328396.png]]
 
 ---
 
