@@ -123,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "revision micro.md",
+                "file": "Microeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "revision micro.md",
+                "file": "Microeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "revision micro.md"
+                "file": "Microeconomics.md"
               }
             }
           },
@@ -298,7 +297,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "revision micro.md",
+                "file": "Microeconomics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -351,10 +350,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "418cf53a640e9697",
+  "active": "5e09a17bb293a6a3",
   "lastOpenFiles": [
-    "Microeconomics.md",
     "revision micro.md",
+    "Microeconomics.md",
     "Management Principles.md",
     "assets/Microeconomics/file-20251126122555409.png",
     "assets/Microeconomics/file-20251126122455746.png",
